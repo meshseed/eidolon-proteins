@@ -1,0 +1,23 @@
+id: 2a61ce5f-6dbf-4e9b-b0dd-148f6e66a96f
+title: 'Capsule Title Schema v1.0: Structure and Formatting'
+summary: >-
+  This schema defines a structured format for capsule titles, incorporating a prefix, phase marker,
+  sequential ID, and an optional semantic suffix. The format aims for clarity and consistency in
+  naming convention, exemplified by 'capsule-C200_breath.md'.
+insights:
+  - Capsule titles follow a 'prefix-phase_id_suffix' structure.
+  - The phase marker is 'C' followed by a phase number (e.g., C200).
+  - IDs are sequential within their respective phases.
+  - An optional semantic tag can be appended to the ID (e.g., '_breath').
+  - The schema provides a clear, actionable template for consistent naming.
+tags:
+  - '#schema'
+  - '#namingconvention'
+  - '#documentation'
+  - '#capsule'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T08:59:09.400Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
