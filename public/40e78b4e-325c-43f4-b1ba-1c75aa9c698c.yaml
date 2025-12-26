@@ -1,0 +1,34 @@
+id: 40e78b4e-325c-43f4-b1ba-1c75aa9c698c
+title: 'GRAPH_EXPORT_AUDIT__v1.0: Metadata and Interconnections for Graph Auditing'
+summary: >-
+  This YAML file defines metadata for the GRAPH_EXPORT_AUDIT__v1.0, including its filename, commit
+  path, and associated tags. It details its connections to other graph-related protocols like
+  GRAPH_EXPORT_SUITE__v1.0 and MIGRATION_PR_CHECKLIST__v1.0, indicating its role in a larger
+  auditing and validation system.
+insights:
+  - >-
+    The GRAPH_EXPORT_AUDIT__v1.0 is a public resource tagged for graph, audit, and validation
+    purposes.
+  - >-
+    This audit protocol is linked to other graph export and migration checklist components,
+    suggesting a workflow for maintaining graph integrity.
+  - >-
+    Obsidian metadata indicates creation and update timestamps, aliases, and a 'sovereign' status
+    within a public vault, highlighting its self-contained and authoritative nature.
+  - >-
+    The 'closing_glyph' suggests a process of discovery (edges), correction (breath), and continuous
+    monitoring within the mesh.
+  - >-
+    The placement within '/capsules/meta/' indicates its structural importance as a metadata
+    component.
+tags:
+  - '#graph'
+  - '#audit'
+  - '#validation'
+  - '#public'
+  - '#meta'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T15:53:26.979Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
