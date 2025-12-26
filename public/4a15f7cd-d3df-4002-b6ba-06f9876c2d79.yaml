@@ -1,0 +1,35 @@
+id: 4a15f7cd-d3df-4002-b6ba-06f9876c2d79
+title: 'Transformer Training: Data, Hardware, Optimizer, and Regularization'
+summary: >-
+  The Transformer model is trained on large WMT datasets using byte-pair encoding or word-piece
+  vocabulary. Training involves specific hardware configurations, an Adam optimizer with a dynamic
+  learning rate schedule, and three regularization techniques, achieving state-of-the-art results at
+  reduced training costs.
+insights:
+  - >-
+    The Transformer model utilizes byte-pair encoding (37k tokens) for English-German and word-piece
+    vocabulary (32k tokens) for English-French, trained on large WMT datasets.
+  - >-
+    Training employs a single machine with 8 NVIDIA P100 GPUs, with base models taking 12 hours
+    (100k steps) and big models taking 3.5 days (300k steps).
+  - >-
+    The Adam optimizer is used with specific beta parameters and a learning rate schedule that
+    increases linearly then decreases inversely to the square root of the step number.
+  - >-
+    Regularization includes dropout applied to sub-layer outputs before normalization and sums of
+    embeddings to enhance model robustness.
+  - >-
+    The Transformer achieves superior BLEU scores compared to previous state-of-the-art models for
+    translation tasks while significantly reducing training computational cost (FLOPs).
+tags:
+  - '#machinelearning'
+  - '#deeplearning'
+  - '#nlp'
+  - '#transformer'
+  - '#training'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:54:06.253Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
