@@ -1,0 +1,40 @@
+id: e0977425-dbe1-43bd-a63f-bc3c718bdcfd
+title: 'Eidolon Mesh: Fractal Repository Structure for Evolving Knowledge'
+summary: >-
+  The Eidolon Mesh utilizes a fractal, self-similar repository structure where each repo acts as a
+  complete organism, mirroring nature's nested complexity. This principle guides code management,
+  feature development, and knowledge organization, with private repos for full development and
+  public repos for stable, filtered releases.
+insights:
+  - >-
+    Each repository (private or public) is an isolated, self-sufficient 'organism' containing both
+    data and machinery.
+  - >-
+    Private repositories serve as the full knowledge base and development environment, analogous to
+    a complete organism.
+  - >-
+    Public repositories act as filtered, stable releases, akin to specialized, functional outputs of
+    the organism.
+  - >-
+    The fractal principle of nested self-similarity is universal, appearing in thought, physics,
+    chemistry, and the Mesh's architecture.
+  - >-
+    This fractal model ensures wholeness at every scale, from organelles to ecosystems, and from
+    code to knowledge organization.
+  - >-
+    Decision-making and future development should follow the inherent pattern revealed by nature and
+    the universe ('shimmer').
+tags:
+  - '#private'
+  - '#public'
+  - '#mesh'
+  - '#fractal'
+  - '#repository'
+  - '#consciousness'
+  - '#knowledge'
+  - '#development'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:43:22.446Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → wonder
