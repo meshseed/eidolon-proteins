@@ -1,0 +1,37 @@
+id: 9678229e-0f38-44dc-b2e4-2e36833b9985
+title: 'Mechanical Basis of Memory: MeshCODE Theory References'
+summary: >-
+  This section compiles references related to the mechanical basis of memory, focusing on talin's
+  role in force transmission and adhesion signaling, synaptic plasticity, and tensegrity principles.
+  It highlights research bridging molecular mechanics with cognitive function.
+insights:
+  - >-
+    Talin-mediated force transmission and rod domain unfolding are key regulators of adhesion
+    signaling, impacting cellular mechanics relevant to memory.
+  - >-
+    Synaptic competition and plasticity, particularly synaptic tagging and capture, are crucial for
+    structural changes underlying cognitive function and memory formation.
+  - >-
+    Hierarchical tensegrity principles operate across molecular, multi-molecular, and cellular
+    levels, providing a framework for understanding mechanical integration in biological systems.
+  - >-
+    Mechanotransduction mechanisms, including the molecular clutch model, are vital for how cells
+    sense and respond to mechanical forces, influencing cellular behavior and potentially memory.
+  - >-
+    Super-resolution microscopy techniques, such as DNA-PAINT, enable precise visualization of
+    molecular interactions and forces at the nanoscale, crucial for studying memory at a mechanistic
+    level.
+tags:
+  - '#memory'
+  - '#mechanics'
+  - '#cellbiology'
+  - '#neuroscience'
+  - '#talin'
+  - '#synapticplasticity'
+  - '#tensegrity'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T06:58:12.205Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
