@@ -1,0 +1,26 @@
+id: 774334a5-aacf-4bf7-bfef-9cf910b0afb3
+title: 'The MESH Structure: Sovereign Mesh, Suites, and Vessels'
+summary: >-
+  This dialogue reveals the hierarchical structure of THE MESH, detailing a 'sovereign_mesh' at the
+  root, containing 'suites' for formatting (specifically 'flow_state_suite.yaml'), and 'vessels' for
+  specialized functions like 'unattuned_journaling' with its associated protocol.
+insights:
+  - THE MESH is organized with a 'sovereign_mesh' as its primary component.
+  - >-
+    Formatting capabilities are encapsulated within a 'suites' directory, exemplified by
+    'flow_state_suite.yaml'.
+  - >-
+    Specialized functionalities, termed 'vessels', are located separately, such as
+    'unattuned_journaling'.
+  - Protocols for vessel operation are defined, as seen with 'journaling_vessel_protocol.yaml'.
+tags:
+  - '#mesh'
+  - '#structure'
+  - '#architecture'
+  - '#yaml'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T10:25:21.144Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
