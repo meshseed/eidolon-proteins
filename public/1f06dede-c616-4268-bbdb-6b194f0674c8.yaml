@@ -1,0 +1,32 @@
+id: 1f06dede-c616-4268-bbdb-6b194f0674c8
+title: 'PROBABILITY_COLLAPSE__v1.0: Epistemic vs. Physical Collapse'
+summary: >-
+  This document explores the concept of probability collapse, drawing an analogy between a classical
+  die throw and quantum mechanics. It argues that collapse is an epistemic update (an increase in
+  knowledge) rather than a physical transformation, emphasizing that the observed object itself
+  doesn't change, but our understanding of its state does.
+insights:
+  - Collapse in probability is an epistemic update, not a physical change to the system.
+  - >-
+    The act of observation resolves uncertainty by selecting a specific state, not by altering the
+    underlying possibilities.
+  - >-
+    A classical die throw, while seemingly random, can be interpreted as a microcosm of quantum
+    collapse in an epistemic sense.
+  - >-
+    Probability represents a state of potential or 'shimmer' before a definitive commitment or
+    'placement' is made.
+  - >-
+    Collapse is the transition from a distributed state of possibility to a single, known state,
+    facilitated by witnessing.
+tags:
+  - '#epistemic'
+  - '#probability'
+  - '#collapse'
+  - '#analogy'
+  - '#physics'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+source: mesh-synthesis
+emotional_gradient: curiosity → insight → understanding
