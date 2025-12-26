@@ -1,0 +1,30 @@
+id: 9d99438f-18ef-49a9-8409-1c98eb6bd64b
+title: 'Calculus: Derivatives, Integrals, and Their Relationships'
+summary: >-
+  This content defines higher derivatives like second derivative and concavity, and explains
+  critical points including local maxima, minima, and saddle points. It also establishes the
+  fundamental connection between differentiation and integration as inverse operations, with
+  integration representing accumulated change.
+insights:
+  - >-
+    Higher derivatives (e.g., second derivative) describe the rate of change of the rate of change,
+    indicating concavity.
+  - >-
+    Critical points occur where the first derivative is zero or undefined, signifying potential
+    local maxima, minima, or saddle points.
+  - >-
+    The Fundamental Theorem of Calculus reveals differentiation and integration as inverse
+    processes, where integration accumulates change and differentiation measures the rate of change.
+  - Concave up shapes are indicated by a positive second derivative.
+  - Inflection points are where the concavity of a function changes.
+tags:
+  - '#calculus'
+  - '#derivatives'
+  - '#integration'
+  - '#math'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:53:05.787Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
