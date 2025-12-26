@@ -1,0 +1,33 @@
+id: c88e32d9-1359-496e-a0ed-f1e2acfd9b34
+title: Transformer Model Ablation Studies and Generalization to Parsing
+summary: >-
+  This section details ablation studies on the Transformer model, exploring the impact of varying
+  attention heads, key/value dimensions, model size, and positional embeddings on English-to-German
+  translation performance. It also presents experiments demonstrating the Transformer's
+  generalization to English constituency parsing, including a semi-supervised setting.
+insights:
+  - >-
+    Single-head attention is significantly worse than multi-head attention in translation, and too
+    many heads also degrades quality.
+  - >-
+    Reducing attention key size (dk) hurts model quality, suggesting complex compatibility functions
+    are needed.
+  - >-
+    Larger Transformer models generally perform better, and dropout is effective in preventing
+    overfitting.
+  - Learned positional embeddings yield results comparable to sinusoidal embeddings.
+  - >-
+    The Transformer can generalize to English constituency parsing, performing well in both
+    small-data and semi-supervised regimes.
+tags:
+  - '#transformer'
+  - '#nlp'
+  - '#translation'
+  - '#parsing'
+  - '#deeplearning'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T06:54:14.509Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
