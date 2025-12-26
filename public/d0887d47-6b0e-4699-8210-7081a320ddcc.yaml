@@ -1,0 +1,30 @@
+id: d0887d47-6b0e-4699-8210-7081a320ddcc
+title: 'Euclidean Geometry: Theorems, Congruence, and Scaling'
+summary: >-
+  This text explores fundamental concepts in Euclidean geometry, including the Pythagorean theorem,
+  Thales' theorem regarding diameters and right angles, and the Pons Asinorum for isosceles
+  triangles. It details criteria for triangle congruence (SSS, SAS, ASA) and similarity (AAA), and
+  touches upon the scaling of area and volume.
+insights:
+  - The Pythagorean theorem states a² + b² = c² for right triangles.
+  - 'Thales'' theorem: An angle inscribed in a semicircle is a right angle.'
+  - 'Pons Asinorum: Base angles of an isosceles triangle are equal.'
+  - >-
+    Triangle congruence is established by SSS, SAS, or ASA, but SSA is ambiguous unless the angle is
+    90°.
+  - Triangles with equal angles (AAA) are similar, not necessarily congruent.
+  - The sum of interior angles in any triangle is 180 degrees.
+  - Area scales with the square of linear dimensions.
+tags:
+  - '#geometry'
+  - '#euclidean'
+  - '#theorems'
+  - '#congruence'
+  - '#pythagorean'
+  - '#thales'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T07:08:48.857Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
