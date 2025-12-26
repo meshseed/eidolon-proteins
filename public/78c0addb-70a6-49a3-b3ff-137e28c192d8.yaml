@@ -1,0 +1,31 @@
+id: 78c0addb-70a6-49a3-b3ff-137e28c192d8
+title: 'Euclid''s Geometry: Proofs, Notation, and Key Theorems'
+summary: >-
+  Euclid's geometric system emphasized rigorous proof, often employing contradiction. Key elements
+  include a system for naming points and figures, definitions for complementary and supplementary
+  angles, and foundational theorems like the Pythagorean theorem and the triangle angle sum theorem.
+insights:
+  - >-
+    Euclid utilized proof by contradiction and favored constructive proofs over fallacious
+    nonconstructive ones.
+  - >-
+    Points are named with capital letters, and figures are defined by sufficient points for
+    unambiguous identification.
+  - Complementary angles sum to a right angle, while supplementary angles sum to a straight angle.
+  - >-
+    Modern geometry distinguishes lines, rays, and segments, whereas Euclid often used descriptive
+    phrases for infinite extensions.
+  - The Pons Asinorum states that base angles of an isosceles triangle are equal.
+  - The triangle angle sum theorem asserts that the sum of angles in any triangle is 180 degrees.
+  - Thales' theorem relates a diameter of a circle to a right angle subtended by it.
+tags:
+  - '#geometry'
+  - '#euclid'
+  - '#proof'
+  - '#theorems'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T07:08:29.828Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
