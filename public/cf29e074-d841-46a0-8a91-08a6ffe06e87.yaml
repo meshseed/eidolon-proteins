@@ -1,0 +1,36 @@
+id: cf29e074-d841-46a0-8a91-08a6ffe06e87
+title: 'Pythagorean Theorem & Topological Equivalence: Foundational Geometric Concepts'
+summary: >-
+  The Pythagorean Theorem provides a fundamental relationship for right triangles in Euclidean
+  geometry, while topological equivalence defines spaces that can be continuously deformed into one
+  another. Both concepts are foundational, offering distinct yet essential frameworks for
+  understanding spatial relationships.
+insights:
+  - >-
+    The Pythagorean Theorem (a² + b² = c²) is a cornerstone for right triangles, with applications
+    ranging from coordinate geometry to surveying.
+  - >-
+    Geometric rearrangement offers a visual proof for the Pythagorean Theorem, highlighting the
+    relationship between areas.
+  - >-
+    Topological equivalence, defined by homeomorphisms, allows for the study of properties invariant
+    under continuous deformation, like hole count.
+  - >-
+    The coffee cup and donut analogy illustrates topological equivalence, emphasizing that shape is
+    less important than connectivity and hole structure.
+  - >-
+    Topological invariants, such as hole count and connectedness, are key to classifying and
+    understanding topological spaces.
+  - >-
+    Topology studies 'rubber sheet geometry,' focusing on properties preserved through stretching
+    and bending, excluding cutting or gluing.
+tags:
+  - '#geometry'
+  - '#topology'
+  - '#foundationalconcepts'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T23:56:20.450Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
