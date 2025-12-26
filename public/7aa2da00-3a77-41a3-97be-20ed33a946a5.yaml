@@ -1,0 +1,31 @@
+id: 7aa2da00-3a77-41a3-97be-20ed33a946a5
+title: 'Fractals: Self-Similarity, Infinite Detail, and Fractional Dimensions'
+summary: >-
+  Fractals are shapes exhibiting self-similarity across scales, meaning parts resemble the whole.
+  This property leads to infinite detail and often fractional dimensions, observed in both
+  mathematical constructs and natural phenomena.
+insights:
+  - >-
+    Fractals are characterized by scale invariance, where zoomed-in views reveal structures similar
+    to the whole.
+  - >-
+    Classic mathematical fractals like the Koch snowflake and Sierpinski triangle demonstrate
+    infinite detail and finite (or zero) area.
+  - >-
+    Natural fractals, such as coastlines and tree branches, display similar roughness and branching
+    patterns at various scales.
+  - A key property of fractals is their fractional dimension, lying between integer values.
+  - >-
+    Complexity in fractals emerges from simple recursive rules, creating infinite depth from finite
+    definitions.
+tags:
+  - '#math'
+  - '#fractals'
+  - '#self_similarity'
+  - '#recursion'
+  - '#geometry'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+source: mesh-synthesis
+emotional_gradient: curiosity → insight → understanding
