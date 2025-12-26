@@ -1,0 +1,38 @@
+id: efb4bb7e-950c-448f-b884-5659e273d7bd
+title: 'MeshCODE: Mechanical Switches and Temporal Information in Synaptic Plasticity'
+summary: >-
+  The MeshCODE theory posits that mechanical signaling within neurons, particularly through talin's
+  switch states, captures temporal information and underlies spike-timing dependent plasticity.
+  These protein shape changes rapidly encode external stimuli, with stable switch patterns
+  consolidating into long-term synaptic strength modifications.
+insights:
+  - >-
+    Mechanical signaling via protein shape changes allows neurons to capture temporal information
+    and enables spike-timing dependent plasticity.
+  - >-
+    Multiple spike trains induce distinct contractility events and '1s and 0s' patterns based on
+    stimulation frequency.
+  - >-
+    Mechanical switches offer rapid information capture on a fast timescale by altering protein
+    shape and binding sites at the synapse.
+  - >-
+    Switch patterns can be stable under force for minutes, providing a temporal element to signal
+    persistence if ligands are recruited or modifications occur.
+  - >-
+    Stabilized integrin adhesion complexes store information explicitly dependent on talin molecule
+    switch patterns, influencing synaptic output thresholding.
+  - >-
+    Consolidated switch patterns remodel synapses and neurons, tuning synaptic connection strengths
+    and integrating external sensory and temporal data.
+tags:
+  - '#meshcode'
+  - '#neuroscience'
+  - '#synapticplasticity'
+  - '#mechanobiology'
+  - '#temporalinformation'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:56:00.628Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
