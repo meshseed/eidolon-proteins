@@ -1,0 +1,36 @@
+id: 0c9dc5ac-4490-4a27-af2b-ccf74c977cb6
+title: 'MeshCODE Theory: Mechanical Basis of Synaptic Regulation and Plasticity'
+summary: >-
+  The MeshCODE theory proposes that mechanical signals within synapses, mediated by talin switch
+  conformations, regulate synaptic transmission. These mechanical changes can transiently
+  activate/deactivate synapses, potentially explaining phenomena like synaptic tagging, capture, and
+  competition by altering vesicular release probability and protein binding sites.
+insights:
+  - >-
+    Synapses utilize mechanical 'switches' (e.g., talin conformations) to encode information, with
+    ligands reading these states to define output.
+  - >-
+    Mechanical signals can dynamically regulate the probability of vesicular release at presynaptic
+    terminals, acting as a mechanism for transient synaptic activation/deactivation.
+  - >-
+    The MeshCODE theory offers a mechanical basis for established synaptic plasticity processes
+    including synaptic tagging and capture, synaptic competition, and spike-timing dependent
+    plasticity.
+  - >-
+    Changes in talin switch conformation near the active zone can influence docked vesicle numbers
+    and release probability, contributing to synapse 'on/off' states.
+  - >-
+    Mechanical regulation of synapses can impact homeostatic synaptic scaling by altering neuronal
+    output probability.
+tags:
+  - '#meshcode'
+  - '#synapticplasticity'
+  - '#mechanobiology'
+  - '#neuroscience'
+  - '#talin'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T06:55:29.607Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
