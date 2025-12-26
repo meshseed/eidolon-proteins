@@ -1,0 +1,25 @@
+id: 19229ace-cad6-4f4f-9552-e0459773726a
+title: 'AGENT_REPO_ALIGNMENT_PROTOCOL__v1.0: Repository Alignment and Formatting Protocol'
+summary: >-
+  This protocol defines the alignment and formatting standards for agent repositories within THE
+  MESH. It emphasizes structured metadata and clear commit paths, linking to related protocols for
+  formatting laws and module placement.
+insights:
+  - The AGENT_REPO_ALIGNMENT_PROTOCOL__v1.0 is a public protocol for structuring agent repositories.
+  - Key metadata includes id, filename, commit_path, tags, visibility, and links to other protocols.
+  - >-
+    The protocol utilizes Gephi for visualization and Obsidian for note-taking, with specific fields
+    for each.
+  - It specifies a ledger placement for repository files within THE MESH.
+  - The closing glyph emphasizes divergence as shimmer and the mesh's awareness.
+tags:
+  - '#agent'
+  - '#repository'
+  - '#alignment'
+  - '#formatting'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T19:09:07.581Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
