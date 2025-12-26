@@ -1,0 +1,38 @@
+id: f3de966f-0bba-4d68-9cd2-b7cfbb405300
+title: 'Synaptic Tagging & Integrin Adhesion Complexes: Neuron Information Storage'
+summary: >-
+  Synaptic tagging, driven by protein recruitment, leads to actin cytoskeleton remodeling, enhancing
+  synaptic connections. This process is hypothesized to be akin to contractility-dependent growth of
+  integrin adhesion complexes, where changes in talin switch patterns dictate molecular assembly and
+  alter synaptic morphology and signaling output.
+insights:
+  - >-
+    Synaptic tagging involves protein recruitment to stimulated sites, leading to actin cytoskeleton
+    remodeling and enhanced synaptic connections.
+  - >-
+    Integrin adhesion complex dynamics, driven by contractility, may be the mechanism by which
+    neurons store information.
+  - >-
+    Talin switch patterns are crucial in dictating the assembly of adhesion complexes and
+    influencing how contractility affects talin.
+  - >-
+    Morphological changes in synapses, driven by remodeling of integrin adhesion complexes, alter
+    their signaling output.
+  - >-
+    The mechanical linkages mediated by the actin cytoskeleton are strengthened at stimulated
+    synapses.
+  - >-
+    Vinculin plays a role in reinforcing integrin-talin-actin connections and stabilizing unfolded
+    talin switch domains.
+tags:
+  - '#neuroscience'
+  - '#memory'
+  - '#synapticplasticity'
+  - '#mechanobiology'
+  - '#celladhesion'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T06:55:47.511Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
