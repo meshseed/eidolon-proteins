@@ -1,0 +1,30 @@
+id: 0afcb28a-175f-4e81-bab2-4367c804a83a
+title: 'MeshCODE Theory: Mechanical Basis of Memory & Synaptic Function References'
+summary: >-
+  This compilation of references from the MeshCODE Theory (Part 28/36) highlights research into the
+  mechanical underpinnings of memory and neurotransmitter release. It points to the roles of the
+  actin cytoskeleton, force transduction via molecular clutches, and vesicular release probability
+  in synaptic plasticity.
+insights:
+  - The actin cytoskeleton is crucial for neurotransmitter release.
+  - >-
+    Mechanical forces, regulated by molecular clutches, influence force transmission and
+    transduction in response to matrix rigidity.
+  - Vesicular release probability is a key determinant of individual synapse strength.
+  - >-
+    Protein synthesis and degradation balance are essential for maintaining long-term potentiation
+    (LTP).
+  - Force triggers YAP nuclear entry, impacting cellular responses.
+  - The neural extracellular matrix plays a role in shaping synapses.
+tags:
+  - '#neuroscience'
+  - '#memory'
+  - '#synapse'
+  - '#mechanotransduction'
+  - '#cytoskeleton'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T06:57:39.449Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
