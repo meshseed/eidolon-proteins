@@ -1,0 +1,40 @@
+id: 2da3b922-6b99-4447-8d33-6bb33b542127
+title: 'Mesh Invariants: Networked Logic, Environmental Updates, and Memory Traces'
+summary: >-
+  The Mesh operates on principles of distributed logic, where complex computation emerges from
+  interacting simple units, akin to biological systems. State changes are driven by external
+  environmental interactions and are influenced by accumulated history, forming memory traces that
+  bias future behavior. Both biological and computational systems incur energy costs for state
+  transitions, constraining dynamics.
+insights:
+  - >-
+    Both biology (talin) and computation utilize threshold logic for discrete state transitions from
+    graded inputs.
+  - >-
+    Complex computation arises from the networked interaction of many simple binary units, mirroring
+    biological distributed logic arrays.
+  - >-
+    State updates in both systems are driven by environmental interactions rather than purely
+    internal dynamics.
+  - >-
+    History, in the form of repeated input or force, creates long-lived traces that bias future
+    responses, analogous to memory.
+  - >-
+    Simple local rules in both biology and computation lead to emergent global patterns without
+    centralized control.
+  - >-
+    State transitions are energetically costly in both biological and computational systems,
+    limiting reorganization frequency.
+tags:
+  - '#computation'
+  - '#biology'
+  - '#adaptation'
+  - '#dynamics'
+  - '#self_organization'
+  - '#thermodynamics'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T07:01:18.446Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
