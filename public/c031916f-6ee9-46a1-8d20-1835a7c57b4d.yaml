@@ -1,0 +1,45 @@
+id: c031916f-6ee9-46a1-8d20-1835a7c57b4d
+title: 'MeshCODE Theory: Sleep, Memory Consolidation, and Neurological Disease'
+summary: >-
+  The MeshCODE theory posits that memories are consolidated during sleep through a process of data
+  management involving REM and deeper sleep cycles, transferring information from the hippocampus to
+  long-lasting cortical patterns encoded in talin molecules. This consolidation involves indexing
+  memories to specific physical addresses, and disturbances to the mechanical integrity of synaptic
+  protein conformations, such as those seen in Alzheimer's disease, can lead to memory loss.
+insights:
+  - >-
+    Sleep cycles (REM and deep sleep) are crucial for memory consolidation, involving data
+    processing, establishment of new patterns, and reordering.
+  - >-
+    Newly encoded memories are transferred from the hippocampus to the cortex and stabilized as
+    long-lasting MeshCODE patterns in talin molecules, representing the physical location of
+    engrams.
+  - >-
+    Memory consolidation reduces the number of neurons involved, assigning a specific physical
+    address for indexed recall.
+  - >-
+    Sleep deprivation can lead to fragmented memory and impaired recall due to disruptions in this
+    data management process.
+  - >-
+    The hippocampus acts as transient, volatile memory storage (similar to RAM), resetting after
+    data is written to the cortex.
+  - >-
+    The mechanical integrity of protein conformations (like talin) at the synapse is critical for
+    MeshCODE storage; disruptions can corrupt coding and cause memory loss.
+  - >-
+    Amyloid-beta and tau protein accumulation in Alzheimer's disease may interfere with MeshCODE
+    directly or perturb the mechanically ordered synaptic connections.
+tags:
+  - '#meshcode'
+  - '#memory'
+  - '#sleep'
+  - '#neuroscience'
+  - '#alzheimers'
+  - '#synapse'
+  - '#biology'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:56:55.851Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
