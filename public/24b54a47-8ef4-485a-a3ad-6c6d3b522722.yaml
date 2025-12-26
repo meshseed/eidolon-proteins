@@ -1,0 +1,35 @@
+id: 24b54a47-8ef4-485a-a3ad-6c6d3b522722
+title: 'MeshCODE: Synaptic Scaffolds as Binary Switches for Mechanical Memory'
+summary: >-
+  The MeshCODE theory proposes that the brain's extracellular matrix (ECM) at synapses creates a
+  mechanically regulated environment, enabling synapses to act as computational devices. Synaptic
+  scaffolds, through integrin-adhesion complexes and cytoskeletal contractility, can write and read
+  binary data by altering ligand engagement based on mechanical signals.
+insights:
+  - >-
+    Synaptic ECM niches provide a mechanically controlled environment crucial for precise
+    computation, as proposed by MeshCODE.
+  - >-
+    Synaptic scaffolds, involving pre/postsynaptic sides and astrocytes, act as arrays of binary
+    switches capable of storing data.
+  - >-
+    Mechanical forces on adhesion complexes, particularly talin, drive changes in their composition
+    and signalling, forming the basis of mechanical code reading.
+  - >-
+    Neuronal cytoskeleton contractility following synaptic events generates mechanical signals that
+    alter switch patterns for code readout.
+  - >-
+    The read-out mechanism involves ligands engaging different switch states within the adhesion
+    complex array, reflecting the relative distribution of engaged ligands.
+tags:
+  - '#meshcode'
+  - '#neuroscience'
+  - '#memory'
+  - '#computation'
+  - '#biology'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T06:55:22.156Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
