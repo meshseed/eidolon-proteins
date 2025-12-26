@@ -1,0 +1,35 @@
+id: 6cb467b7-ed0e-42fb-a8f7-c6f7d13d0994
+title: 'Obsidian Workflow: Automation, Privacy, and Usage Guidelines'
+summary: >-
+  This document outlines Obsidian vault management, suggesting automation scripts for export and
+  validation, and emphasizing privacy through a '/private/' folder. It provides guidelines for using
+  the README.obsidian.md file as an operational manual for contributors and for integrating with
+  GitHub.
+insights:
+  - >-
+    Implement automation scripts like `export_gephi.js`, `validate_frontmatter.py`, and
+    `publish_to_github.sh` for vault management.
+  - >-
+    Maintain privacy by storing sensitive content in a `/private/` folder excluded from public
+    repositories.
+  - >-
+    Ensure consistent licensing and attribution across environments, with a GitHub license for
+    public content and a short header in Obsidian.
+  - >-
+    Place `README.obsidian.md` at the vault/repo root to serve as an operational manual for
+    contributors.
+  - >-
+    Differentiate between the GitHub README (public narrative) and the Obsidian README
+    (vault-specific instructions).
+tags:
+  - '#obsidian'
+  - '#workflow'
+  - '#automation'
+  - '#privacy'
+  - '#documentation'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T10:22:06.329Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
