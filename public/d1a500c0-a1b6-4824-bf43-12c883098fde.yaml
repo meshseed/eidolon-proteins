@@ -1,0 +1,40 @@
+id: d1a500c0-a1b6-4824-bf43-12c883098fde
+title: 'MeshCODE: Synaptic Adhesions as Information Processors and Memory Encoders'
+summary: >-
+  Synaptic adhesion complexes, particularly the integrin-talin-actin core, act as
+  information-processing centers by stabilizing switch patterns through protein interactions. These
+  patterns, influenced by mechanical signaling and potentially post-translational modifications,
+  encode and decode information, contributing to memory consolidation via mechanotransduction to the
+  nucleus and gene expression.
+insights:
+  - >-
+    Synaptic adhesion complexes function as information-processing hubs, stabilizing and encoding
+    data through dynamic protein interactions on 'switch' patterns.
+  - >-
+    Mechanical signaling across the cell, transmitted by adhesion complexes, influences protein
+    recruitment, tension application, and downstream signaling pathways.
+  - >-
+    Post-translational modifications may 'write protect' specific switch patterns, locking them into
+    conformations for information retention.
+  - >-
+    Mechanotransduction from synaptic adhesions to the nucleus can induce modular gene expression, a
+    process crucial for memory system consolidation.
+  - >-
+    The unfolding and recruitment of switch domains are context-dependent, influenced by existing
+    switch states and cytoskeletal connections, leading to dynamic remodeling of adhesion complexes.
+  - >-
+    MeshCODE theory suggests these complex mechanical signaling cascades capture temporal
+    information, forming a basis for spike-timing dependent plasticity.
+tags:
+  - '#mechanotransduction'
+  - '#synapticplasticity'
+  - '#memoryconsolidation'
+  - '#celladhesion'
+  - '#biophysics'
+  - '#neuroscience'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T06:55:54.031Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
