@@ -1,0 +1,35 @@
+id: a50686cb-db02-4fc3-8c57-7d471a486be1
+title: 'MeshCODE: Brain''s Petabyte-Scale Memory Storage via Talin Switches'
+summary: >-
+  The MeshCODE theory posits that mechanical binary switches, like those in talin, within synapses
+  could enable the brain to store vast amounts of information. This mechanism, analogous to SSDs,
+  suggests a potential global brain memory capacity of 10 petabytes and 100 terabytes within the
+  cortex.
+insights:
+  - Each talin mechanical switch can encode 100 bytes of information.
+  - The brain's 100 trillion synapses could offer a global memory capacity of 10 petabytes.
+  - >-
+    The cortex, with 100 million minicolumns each storing ~100 MB, may hold 100 terabytes of
+    long-term memory.
+  - >-
+    MeshCODE arrays in synaptic structures, particularly in minicolumns and cortical columns, could
+    function as physical data storage modules.
+  - >-
+    Information is written and read via MeshCODEs altering synaptic transmissions, similar to SSD
+    data access.
+  - >-
+    The read-out mechanism likely involves the weighted average of switch states within synapses,
+    influencing neuronal activity.
+tags:
+  - '#meshcode'
+  - '#neuroscience'
+  - '#memory'
+  - '#computationalbiology'
+  - '#ssd'
+  - '#talin'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:56:29.635Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
