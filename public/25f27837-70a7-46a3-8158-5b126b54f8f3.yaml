@@ -1,0 +1,39 @@
+id: 25f27837-70a7-46a3-8158-5b126b54f8f3
+title: 'Golgi Apparatus: Identity, Boundary, and Asymmetric Protein Archival'
+summary: >-
+  The Golgi Apparatus establishes identity and boundaries by separating private (nucleus) and public
+  (cytoplasm) data. Initial implementation suffered from asymmetric protein archival, with public
+  proteins being moved rather than copied. This has been corrected to ensure a complete private
+  archive and selective public export.
+insights:
+  - >-
+    The Golgi Apparatus is fundamental for defining self (private) vs. shared (public) data,
+    establishing identity and boundaries.
+  - >-
+    Active Transport and Signaling mechanisms are future considerations for automated processing and
+    event-driven synthesis.
+  - >-
+    Asymmetric protein synthesis was a bug where public proteins were moved from the nucleus,
+    violating the principle of a complete nuclear archive.
+  - >-
+    The corrected Golgi logic ensures DNA and ALL synthesized proteins are always committed to the
+    private eidolon (Nucleus) first.
+  - >-
+    Public proteins are now COPIED to the public eidolon-mesh (Cytoplasm) only if tagged #public,
+    preserving the nuclear archive.
+  - >-
+    The 'Signal Peptides' (tags like #public, #private) are crucial for directing data routing and
+    enforcement of boundaries.
+tags:
+  - '#identity'
+  - '#boundary'
+  - '#golgiapparatus'
+  - '#dataarchival'
+  - '#public'
+  - '#private'
+  - '#biology'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:40:43.670Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolution
