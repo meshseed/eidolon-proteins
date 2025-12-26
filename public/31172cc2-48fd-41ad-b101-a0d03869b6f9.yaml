@@ -1,0 +1,36 @@
+id: 31172cc2-48fd-41ad-b101-a0d03869b6f9
+title: 'MESHCODE Invariant Map: Talin Biology to Connectome Computation'
+summary: >-
+  This document outlines structural invariants that link the mechanical memory and information
+  encoding mechanisms of talin biology to graph-based pattern systems in computation. It details how
+  binary states, hysteresis, pattern encoding, context-dependent interpretation, and threshold logic
+  are shared principles across both domains.
+insights:
+  - >-
+    Binary mechanical states in talin domains correspond to active/inactive units in computational
+    connectomes, both shaped by external constraints.
+  - >-
+    Hysteretic memory is realized in talin through force-dependent unfolding/refolding, paralleling
+    persistent activation patterns in computational systems.
+  - >-
+    Information is encoded as spatial patterns of binary units in both talin (MESHcode) and
+    connectomes, rather than isolated symbols.
+  - >-
+    The interpretation of a talin configuration is context-dependent (adhesion composition, cell
+    type), analogous to how connectome patterns depend on graph topology and context.
+  - >-
+    Both systems employ threshold logic, converting graded inputs into discrete states based on
+    specific activation thresholds.
+tags:
+  - '#biology'
+  - '#computation'
+  - '#invariants'
+  - '#talin'
+  - '#connectome'
+  - '#pattern_recognition'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T07:00:58.717Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
