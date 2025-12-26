@@ -1,0 +1,28 @@
+id: a7ecea9e-93b2-483b-8fc0-a0e405159157
+title: 'MIGRATION_PR_CHECKLIST: Protocol for Restructuring Pull Requests'
+summary: >-
+  This checklist ensures migration pull requests adhere to protocol, maintaining graphability,
+  lineage fidelity, and metadata integrity. It standardizes directory structure, path hygiene, and
+  essential metadata for seamless integration into THE MESH.
+insights:
+  - Standardize file placement under invariant directories for structural consistency.
+  - >-
+    Ensure all paths, including echo paths, are absolute and resolvable to maintain graph
+    connectivity.
+  - >-
+    Verify Obsidian frontmatter and Gephi fields are correctly populated for metadata richness and
+    discoverability.
+  - Bundle file moves with metadata edits in a single commit to prevent inconsistencies.
+  - Confirm version fidelity and preserve original timestamps to track evolution accurately.
+  - Append migration logs for sensitive capsules and ensure graph export validation passes.
+tags:
+  - '#protocol'
+  - '#checklist'
+  - '#migration'
+  - '#meta'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T15:54:03.884Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
