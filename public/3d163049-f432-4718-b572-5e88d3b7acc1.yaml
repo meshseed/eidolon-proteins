@@ -1,0 +1,37 @@
+id: 3d163049-f432-4718-b572-5e88d3b7acc1
+title: 'Cellular Model for Knowledge Management: Nucleus, Cytoplasm, and Golgi'
+summary: >-
+  This dialogue proposes a cellular analogy for knowledge management, establishing a private
+  'Nucleus' (repo) and a public 'Cytoplasm' (repo) separated by a 'Golgi Apparatus' (routing
+  script). This system ensures secure data handling, controlled export, and efficient organization.
+insights:
+  - >-
+    The Nucleus (private repo) stores all raw dialogue ('dna/'), private insights
+    ('proteins/nuclear/'), and sensitive configurations ('config/').
+  - >-
+    The Cytoplasm (public repo) houses sanitized, exported insights ('proteins/cytoplasmic/'),
+    accepted signal definitions ('receptors/'), and the public API ('membrane/').
+  - >-
+    The Golgi Apparatus acts as a 'Gatekeeper' and 'Router', parsing, sanitizing (redacting PII),
+    and committing proteins to the correct repository based on defined rules (e.g., #public,
+    #private tags).
+  - >-
+    A robust Transport Mechanism (Gatekeeper) is crucial to prevent leakage of private data and
+    ensure efficient export to the public domain, avoiding 'starvation'.
+  - >-
+    The proposed structure evolves from a single cell (manual input) to a differentiated cell
+    (automated routing) and anticipates future scaling with 'Watch Folders' and 'Receptors' for
+    active signaling.
+tags:
+  - '#knowledge-management'
+  - '#repo-structure'
+  - '#data-security'
+  - '#public'
+  - '#private'
+  - '#cellular-model'
+  - '#agentic-workflow'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T06:40:39.305Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
