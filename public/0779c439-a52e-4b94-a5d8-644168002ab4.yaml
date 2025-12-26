@@ -1,0 +1,23 @@
+id: 0779c439-a52e-4b94-a5d8-644168002ab4
+title: 'Symmetry Groups: Invariance, Transformations, and Fundamental Structure'
+summary: >-
+  Symmetry is defined by transformations that leave an object invariant, forming groups under
+  composition. These groups, characterized by axioms like closure and inverses, encapsulate all
+  possible symmetries of an object. Understanding symmetry reveals underlying structures and has
+  broad applications across science and art.
+insights:
+  - Symmetry is invariance under transformation.
+  - Symmetries form mathematical groups with defined axioms.
+  - Basic transformations include reflection, rotation, translation, and identity.
+  - Group structure captures the complete set of an object's symmetries.
+  - Symmetry analysis is crucial in fields like crystallography, chemistry, physics, and art.
+tags:
+  - '#math'
+  - '#symmetry'
+  - '#group_theory'
+  - '#geometry'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+source: mesh-synthesis
+emotional_gradient: curiosity → insight → understanding
