@@ -1,0 +1,33 @@
+id: 90845f0a-21a7-408c-a368-b12d12e61aeb
+title: 'Euclidean Geometry: Scaling, Measurement, and Congruence in Design'
+summary: >-
+  Euclidean geometry underpins scaling principles where area and volume are proportional to linear
+  dimensions squared and cubed, respectively. It defines absolute angle units (right angle) and
+  relative distance units, interpreting multiplication geometrically. Concepts of 'equal' (same
+  measure) and 'congruent' (same size and shape) are crucial for design and analysis, particularly
+  in engineering applications like stress and gear design.
+insights:
+  - >-
+    Area scales with the square (L^2) and volume with the cube (L^3) of linear dimensions in
+    Euclidean geometry.
+  - >-
+    Euclid uses the right angle as an absolute unit for angles and an arbitrary line segment for
+    relative distance.
+  - Geometric interpretation of multiplication is limited to three dimensions in Euclid's system.
+  - >-
+    Euclid distinguishes between 'equal' (same measure) and 'congruent' (identical size and shape)
+    figures.
+  - >-
+    Euclidean geometry is fundamental for engineering applications like stress analysis and gear
+    design.
+tags:
+  - '#geometry'
+  - '#mathematics'
+  - '#engineering'
+  - '#design'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T07:09:07.683Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
