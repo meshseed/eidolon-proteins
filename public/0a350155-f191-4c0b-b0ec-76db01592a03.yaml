@@ -1,0 +1,32 @@
+id: 0a350155-f191-4c0b-b0ec-76db01592a03
+title: Configuring THE MESH with Local Gemma 2B
+summary: >-
+  This section details the successful setup and testing of a local Gemma 2B model for THE MESH API.
+  It covers activating the environment, running the API server, testing health, embedding, and
+  generation endpoints, and configuring THE MESH to utilize the local LLM.
+insights:
+  - >-
+    The Gemma 2B model and embedding model are successfully loaded and accessible via a local API
+    server at http://localhost:5000.
+  - >-
+    The API endpoints for health check, embedding (e.g., 'consciousness is recursive attention'),
+    and text generation (e.g., 'What is a strange loop?') are verified as functional.
+  - >-
+    To integrate the local Gemma, the LLM_PROVIDER in the .env file must be changed from 'gemini' to
+    'local', and LOCAL_LLM_URL should be set to 'http://'.
+  - >-
+    Multiple methods are provided for efficiently editing files in nano, with 'echo "" > filename'
+    followed by 'nano filename' recommended for clearing and repasting content.
+tags:
+  - '#mesh'
+  - '#gemma'
+  - '#llm'
+  - '#api'
+  - '#configuration'
+  - '#localsetup'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:46:19.715Z'
+source: synthesis
+emotional_gradient: curiosity → success → readiness → configuration
