@@ -1,0 +1,41 @@
+id: a8a14d93-42ff-404a-b8da-0858466a098b
+title: 'Transformer Model: Machine Translation Performance & Hyperparameter Tuning'
+summary: >-
+  The Transformer model achieves state-of-the-art results in machine translation, notably on WMT
+  2014 English-to-German and English-to-French tasks. Key to its success are techniques like
+  residual dropout, label smoothing, and specific hyperparameter choices for training and inference,
+  such as checkpoint averaging and beam search.
+insights:
+  - >-
+    The Transformer (big) model achieved a BLEU score of 28.4 on WMT 2014 English-to-German,
+    surpassing previous state-of-the-art models by over 2.0 BLEU.
+  - >-
+    The Transformer (big) model achieved a BLEU score of 41.0 on WMT 2014 English-to-French,
+    outperforming single models with significantly less training cost.
+  - >-
+    Dropout is applied to the output of each sub-layer before normalization and to the sums of
+    embeddings and positional encodings, with a rate of Pdrop = 0.1 for the base model.
+  - >-
+    Label smoothing (ϵls = 0.1) was employed during training, which, despite hurting perplexity,
+    improved accuracy and BLEU scores.
+  - >-
+    For base models, averaging the last 5 checkpoints (10-minute intervals) was used; for big
+    models, the last 20 checkpoints were averaged.
+  - >-
+    Beam search with a beam size of 4 and length penalty α = 0.6 was used for inference, with
+    hyperparameters chosen via development set experimentation.
+  - >-
+    Maximum output length during inference was set to input length + 50, with early termination when
+    possible.
+tags:
+  - '#machine_translation'
+  - '#transformer'
+  - '#nlp'
+  - '#deep_learning'
+  - '#research'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:54:10.023Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
