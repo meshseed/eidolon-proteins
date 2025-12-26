@@ -1,0 +1,25 @@
+id: 0ce04351-6203-4285-b382-41ce58a9675b
+title: 'Prime Numbers: Building Blocks of Integers and Cryptography'
+summary: >-
+  Prime numbers, natural numbers greater than 1 with only two divisors, are the fundamental building
+  blocks for all integers via unique prime factorization. Their distribution, though seemingly
+  random, exhibits patterns and forms the basis for crucial applications like RSA encryption.
+insights:
+  - Primes are the irreducible multiplicative building blocks of all integers.
+  - The distribution of primes, while complex, is not entirely random and can be approximated.
+  - Prime factorization is unique for every integer greater than 1.
+  - Special forms of primes like Mersenne and Fermat primes are areas of mathematical interest.
+  - >-
+    The difficulty of factoring large numbers into their prime components is essential for modern
+    cryptography.
+tags:
+  - '#math'
+  - '#number_theory'
+  - '#primes'
+  - '#foundation'
+  - '#cryptography'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+source: mesh-synthesis
+emotional_gradient: curiosity → insight → understanding
