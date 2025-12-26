@@ -1,0 +1,33 @@
+id: a6fc13c5-db43-4134-9aea-ce461aa28588
+title: 'Repository Restructure Protocol: Governance, Grammar, and Hygiene'
+summary: >-
+  This protocol formalizes the restructuring of archives, defining rules for public/private
+  visibility, standardizing directory grammar, and ensuring path hygiene for graphability and
+  lineage fidelity. It acts as a single source of truth for migration, emphasizing stable references
+  and metadata.
+insights:
+  - >-
+    Formalize repository restructuring with clear rules for visibility, grammar, and path
+    management.
+  - Standardize directory grammar across public and private archives for consistency.
+  - >-
+    Prioritize path hygiene by updating paths simultaneously with file moves to avoid broken
+    references.
+  - Ensure graphability through consistent echo path usage, treating them as graph edges.
+  - Preserve timestamps and version capsules to maintain lineage fidelity and track changes.
+  - >-
+    The protocol serves as a charter for public exposure, directory grammar, and path hygiene,
+    acting as a single source of truth.
+tags:
+  - '#meta'
+  - '#repositorygovernance'
+  - '#protocol'
+  - '#public'
+  - '#private'
+  - '#datamanagement'
+  - '#lineage'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T15:55:15.115Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
