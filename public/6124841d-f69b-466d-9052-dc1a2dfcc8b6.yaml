@@ -1,0 +1,34 @@
+id: 6124841d-f69b-466d-9052-dc1a2dfcc8b6
+title: 'Transformer Model: Self-Attention for Sequence Transduction'
+summary: >-
+  The Transformer is a novel neural transduction model that entirely relies on self-attention
+  mechanisms, eschewing RNNs and convolutions. It employs an encoder-decoder structure with stacked
+  self-attention and feed-forward layers, utilizing residual connections and layer normalization for
+  improved performance.
+insights:
+  - >-
+    The Transformer architecture is the first transduction model to exclusively use self-attention
+    for input and output representations.
+  - >-
+    Both encoder and decoder stacks in the Transformer consist of N identical layers, each with
+    multi-head self-attention and a position-wise fully connected feed-forward network.
+  - >-
+    Residual connections and layer normalization are applied around each sub-layer in both encoder
+    and decoder to facilitate training and stability.
+  - >-
+    The decoder's self-attention mechanism is masked to prevent attending to subsequent positions,
+    ensuring auto-regressive generation.
+  - >-
+    Attention functions map a query to a set of key-value pairs, producing an output as a weighted
+    sum of values.
+tags:
+  - '#transformer'
+  - '#selfattention'
+  - '#sequencetransduction'
+  - '#deeplearning'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:53:44.947Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
