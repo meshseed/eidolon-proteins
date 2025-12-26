@@ -1,0 +1,33 @@
+id: ad966ced-698b-4d3c-948c-98630d672a20
+title: 'MeshCODE Theory: Mechanical Basis for Synaptic Tagging and Capture'
+summary: >-
+  The MeshCODE theory proposes that synaptic stimulation induces localized contractility, altering
+  mechanical switch patterns within the synapse. These altered patterns expose novel binding sites,
+  acting as a mechanical 'tag' to recruit specific proteins, thereby explaining synaptic tagging and
+  capture.
+insights:
+  - >-
+    Synaptic stimulation leads to localized contractility, changing the mechanical state of synaptic
+    switches.
+  - Altered switch states expose unique binding sites only at the stimulated synapse.
+  - >-
+    These exposed binding sites serve as a mechanical 'tag' for protein recruitment, underpinning
+    synaptic tagging and capture.
+  - >-
+    Contractility-induced switch patterns can regulate protein binding, influencing synaptic
+    potentiation.
+  - >-
+    The MeshCODE theory offers a mechanical explanation for how synapses are marked for protein
+    recruitment and memory consolidation.
+tags:
+  - '#biology'
+  - '#neuroscience'
+  - '#memory'
+  - '#synapticplasticity'
+  - '#meshcode'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T06:55:35.260Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
