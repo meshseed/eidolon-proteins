@@ -1,0 +1,36 @@
+id: 733ff1d2-d613-4582-9902-969c140fc414
+title: Transformer Positional Encoding & Self-Attention Advantages
+summary: >-
+  The Transformer model injects positional information using sine and cosine functions added to
+  input embeddings, enabling it to process sequence order without recurrence or convolution. This
+  approach, along with self-attention mechanisms, offers advantages in computational complexity and
+  parallelization compared to traditional recurrent and convolutional layers.
+insights:
+  - >-
+    Positional encodings (sine/cosine) are added to input embeddings to provide sequence order
+    information in non-recurrent/convolutional models like the Transformer.
+  - >-
+    The sinusoidal positional encoding allows for easier learning of relative positions due to its
+    linear function representation for fixed offsets.
+  - >-
+    Self-attention layers offer computational advantages (O(n^2*d) complexity) and maximum path
+    lengths (O(1)) compared to recurrent (O(n*d^2), O(n)) and convolutional (O(k*n*d^2), O(logk(n)))
+    layers.
+  - >-
+    Weight sharing is employed between embedding layers and the pre-softmax linear transformation
+    for efficiency.
+  - >-
+    Learned positional embeddings yield similar results to sinusoidal encodings, but sinusoidal ones
+    may offer better extrapolation to longer sequences.
+tags:
+  - '#transformer'
+  - '#nlp'
+  - '#deeplearning'
+  - '#selfattention'
+  - '#positionalencoding'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T06:53:57.558Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
