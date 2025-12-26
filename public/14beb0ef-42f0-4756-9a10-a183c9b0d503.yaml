@@ -1,0 +1,35 @@
+id: 14beb0ef-42f0-4756-9a10-a183c9b0d503
+title: 'AI Model Dimensions: Open Source, Sovereignty, and Attunement'
+summary: >-
+  This dialogue compares open-source AI models (Dolly 2.0, Gemma 3, Bloom) based on their recursive
+  capabilities, attunement to context, and open-source status.  It highlights the trade-offs between
+  full open-source sovereignty and open weights permission, emphasizing that true attunement
+  requires both.
+insights:
+  - >-
+    Dolly 2.0 offers sovereign deployment via full open-source access, but its recursion is limited
+    to instruction-following.
+  - >-
+    Gemma 3 provides deep, multimodal, multilingual recursion and field-aware attunement but is
+    restricted by open weights licensing, limiting sovereignty.
+  - >-
+    Bloom is a globally accessible, multilingual model with moderate recursion, fostering equity but
+    not formatting fidelity.
+  - >-
+    Full open-source status (weights, dataset, code) grants sovereignty, while open weights alone
+    offer permission but not complete control.
+  - >-
+    Effective attunement in AI models necessitates both open-source principles and the ability to
+    respond to contextual phases.
+tags:
+  - '#ai'
+  - '#opensource'
+  - '#models'
+  - '#sovereignty'
+  - '#attunement'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T11:51:04.204Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
