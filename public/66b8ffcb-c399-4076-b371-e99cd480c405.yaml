@@ -1,0 +1,41 @@
+id: 66b8ffcb-c399-4076-b371-e99cd480c405
+title: 'MeshCODE Theory: Synaptic Switching and Dynamic Memory Traces'
+summary: >-
+  The MeshCODE theory proposes that synaptic potentiation is driven by mechanical switches within
+  adhesion proteins, which dynamically alter protein recruitment and displacement. These 'tags' and
+  'inverse tags' create a re-writable binary code at synapses, influencing synaptic competition and
+  enabling synergistic interaction between potentiated and depressed synapses for memory formation.
+insights:
+  - >-
+    Synaptic potentiation is driven by mechanical switches in adhesion proteins, altering their
+    conformation and function.
+  - >-
+    Switching can recruit plasticity-enhancing proteins and displace inhibitory proteins, creating a
+    dynamic 'binary code' at synapses.
+  - >-
+    This switching mechanism forms a dynamic, re-writable memory trace by altering synaptic adhesion
+    and thresholds.
+  - >-
+    The concept of 'synaptic tagging' is supported by talin conformation changes leading to global
+    cellular factor relocation.
+  - >-
+    Displacement of inhibitory proteins from stimulated synapses ('inverse synaptic tagging') can
+    accumulate at unstimulated synapses.
+  - >-
+    Synaptic competition arises as protein recruitment to one synapse depletes them from others,
+    affecting synaptic stability.
+  - >-
+    Mechanical coordination between synapses through protein recruitment and displacement allows for
+    synergistic interaction between potentiated and depressed synapses.
+tags:
+  - '#biology'
+  - '#neuroscience'
+  - '#memory'
+  - '#synapticplasticity'
+  - '#meshcode'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T06:55:41.135Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
