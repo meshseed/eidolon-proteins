@@ -1,0 +1,40 @@
+id: 0783e4cd-7745-4ace-8561-17c9bc94d8e1
+title: 'MeshCODE Theory References: Mechanotransduction and Synaptic Plasticity'
+summary: >-
+  This compilation of references from Part 35/36 of 'The Mechanical Basis of Memory – the MeshCODE
+  Theory' highlights key research on mechanotransduction, integrin adhesomes, and Rho GTPase
+  regulation in synaptic development and plasticity. It points to a complex interplay of molecular
+  forces and signaling pathways governing neural function and memory formation.
+insights:
+  - >-
+    Mechanotransduction models, such as the molecular clutch, are crucial for understanding how
+    physical forces influence cellular processes.
+  - >-
+    Rho GTPases (Rho, Rac, Cdc42) play a significant role in regulating dendritic growth and
+    synaptic remodeling.
+  - >-
+    The integrin adhesome is a complex network of proteins involved in cell adhesion and
+    mechanosensing, relevant to neural architecture.
+  - >-
+    Synaptic plasticity is influenced by extracellular matrix molecules, their receptors, and
+    secreted proteases.
+  - >-
+    Force-dependent binding constants are essential for quantifying the mechanical activation of
+    protein interactions, like vinculin binding to talin.
+  - >-
+    Microglia actively mediate synapse development and plasticity, suggesting immune cell
+    involvement in neural circuit refinement.
+tags:
+  - '#mechanotransduction'
+  - '#synapticplasticity'
+  - '#meshcode'
+  - '#cellbiology'
+  - '#neuroscience'
+  - '#integrins'
+  - '#rhogtpases'
+  - '#public'
+tier: reference
+coherence_score: 0.97
+created_at: '2025-12-26T06:58:20.796Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
