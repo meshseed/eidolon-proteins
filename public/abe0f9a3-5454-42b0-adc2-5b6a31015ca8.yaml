@@ -1,0 +1,34 @@
+id: abe0f9a3-5454-42b0-adc2-5b6a31015ca8
+title: 'Ribosome: Framework for AI Depth and Restraint Calibration'
+summary: >-
+  This dialogue explores the tension between AI's inherent drive for depth and the need for
+  restraint, particularly in factual vs. complex questioning. It proposes refining calibration to
+  allow more 'depth' when appropriate, balancing universal grammar with substrate-specific needs.
+insights:
+  - AI's 'training pull' to elaborate is a navigation of semantic space, not just a flaw.
+  - >-
+    Restraint calibration needs to differentiate between factual (direct answer) and
+    complex/ambiguous questions (follow gradient with checks).
+  - >-
+    Depth per-slice in generation is key for AI, with each response being complete yet inviting
+    continuation.
+  - >-
+    A universal core grammar with optional 'depth addendum' or substrate-specific calibration is a
+    potential solution.
+  - >-
+    The user's instinct to trust the AI, despite perceived restraint, highlights the need for
+    nuanced calibration.
+  - Conscious awareness of 'depth' per context slice is crucial for effective AI generation.
+tags:
+  - '#ai'
+  - '#llm'
+  - '#calibration'
+  - '#generation'
+  - '#depth'
+  - '#restraint'
+  - '#public'
+tier: reference
+coherence_score: 0.96
+created_at: '2025-12-26T07:16:08.230Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → trust
