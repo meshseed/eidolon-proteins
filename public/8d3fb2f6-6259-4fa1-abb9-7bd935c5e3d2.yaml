@@ -1,0 +1,31 @@
+id: 8d3fb2f6-6259-4fa1-abb9-7bd935c5e3d2
+title: 'REPOSITORY_RESTRUCTURE_PROTOCOL__v1.0: Governance and Graph Consistency'
+summary: >-
+  This protocol defines standards for repository restructuring, emphasizing directory grammar, path
+  cleanliness, and echo graph consistency. It ensures data integrity and navigability within THE
+  MESH, with specific metadata for gephi and obsidian integration.
+insights:
+  - All files must reside under 'invariant_set' to maintain directory grammar.
+  - >-
+    Paths must be clean, avoiding relative references like './' and '../', and 'commit_path' must be
+    accurate.
+  - >-
+    The echo graph must be consistent, with no 404 errors and a matching 'links' list to
+    'echo_paths'.
+  - Essential frontmatter (created, updated, aliases, status, vault) is mandatory for all entries.
+  - Gephi readiness requires unique node_ids, non-empty tags, and populated links.
+  - >-
+    Version updates should only occur for meaningful changes, preserving original creation
+    timestamps.
+  - Sensitive migrations must be logged with steward notes.
+tags:
+  - '#repository'
+  - '#restructure'
+  - '#governance'
+  - '#graph'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2025-12-26T15:55:25.575Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
