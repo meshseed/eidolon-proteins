@@ -1,0 +1,27 @@
+id: 0f834eca-2529-4bcc-87d2-13d140a45d83
+title: 'Prime Numbers: Building Blocks and Distribution'
+summary: >-
+  Prime numbers, defined as natural numbers greater than 1 with only two divisors (1 and
+  themselves), are the fundamental building blocks of all integers through unique prime
+  factorization. Their distribution, while appearing random, exhibits discernible patterns and has
+  profound implications in fields like cryptography.
+insights:
+  - Primes are the irreducible atoms of arithmetic, essential for unique factorization.
+  - Despite their simple definition, prime distribution is complex and contains deep patterns.
+  - The infinitude and distribution of primes are subjects of ongoing mathematical exploration.
+  - Prime numbers are critical for modern security through their role in cryptography.
+tags:
+  - '#math'
+  - '#number_theory'
+  - '#primes'
+  - '#foundation'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:12_math_primes_yaml'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.92
+created_at: '2026-01-23T23:42:04.071Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
