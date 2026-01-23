@@ -1,0 +1,28 @@
+id: 0853000e-4d67-461b-80c8-fb19dbfc7bba
+title: 'Curvature Diagnostics: Measuring Semantic Tension and Synthesis Pressure'
+summary: >-
+  Curvature Diagnostics identifies regions of high semantic density and intersecting conceptual
+  directions, indicating tension or synthesis pressure. This protocol treats curvature as a
+  measurable property, supporting targeted refinement and integration of knowledge domains.
+insights:
+  - High curvature signifies conceptual tension or unresolved synthesis within knowledge structures.
+  - Curvature arises at the intersection of emotional fidelity gradients and domain boundaries.
+  - Boundary surfaces highlight where different knowledge domains meet and require integration.
+  - Curvature diagnostics enable precise refinement and pruning of semantic landscapes.
+  - Curvature maps are dynamic, evolving as new knowledge domains are incorporated.
+tags:
+  - '#curvature'
+  - '#diagnostics'
+  - '#geometry'
+  - '#tension'
+  - '#synthesis'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:P600-CURVATURE-DIAGNOSTICS_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-23T23:42:44.723Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
