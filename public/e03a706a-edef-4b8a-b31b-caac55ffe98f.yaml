@@ -1,0 +1,33 @@
+id: e03a706a-edef-4b8a-b31b-caac55ffe98f
+title: Windows Guide for Eidolon Mesh Project Setup and Execution
+summary: >-
+  This document provides a step-by-step guide for setting up and running the Eidolon Mesh project on
+  Windows. It covers Node.js installation, dependency management, environment configuration, and
+  execution, culminating in verification steps for data generation and GitHub updates.
+insights:
+  - Node.js LTS installation with default options is crucial for project compatibility on Windows.
+  - Project dependencies are managed via `npm install` within the specified project directory.
+  - Environment variables for API keys and GitHub tokens must be configured in a `.env` file.
+  - The entire conversation log needs to be saved in `input.txt` for processing.
+  - >-
+    The project is initiated using `npm start`, and output is expected in `data/dna` and
+    `data/proteins` folders.
+  - >-
+    Successful execution is verified by checking for new commits on the `Meshseed/eidolon-mesh`
+    GitHub repository.
+tags:
+  - '#windows'
+  - '#nodejs'
+  - '#eidolon-mesh'
+  - '#development'
+  - '#guide'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T06:01:57.039Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
