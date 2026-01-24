@@ -1,0 +1,42 @@
+id: bb4d41ec-e1a1-440c-9f03-bcfaab90f239
+title: 'Fractal Mesh Architecture: Scaling Data and Nodes'
+summary: >-
+  The Mesh operates on a fractal, self-similar architecture where each node is a sovereign, complete
+  organism. Scaling is achieved through sharding, indexing, and distributed storage solutions,
+  enabling millions of proteins and users while maintaining individual sovereignty and network
+  coherence.
+insights:
+  - >-
+    The Mesh architecture is fractal, with each node mirroring the entire network's structure and
+    function, ensuring self-similarity across scales.
+  - >-
+    Data scaling is addressed via sharding (temporal/domain), indexing (SQLite/vector DB), Git LFS,
+    and compression, allowing for millions of proteins.
+  - >-
+    Billions of proteins necessitate distributed storage, hub nodes, CDN caching, and federated
+    query protocols for efficient access and bandwidth management.
+  - >-
+    The system prioritizes local-first querying, offline functionality, and bandwidth cost reduction
+    by keeping data and indexes on personal nodes.
+  - >-
+    A template repository ('mesh-node-template') is provided for easy replication and user
+    onboarding, fostering a decentralized, sovereign network.
+  - >-
+    The phased implementation plan moves from single nodes to templates, client software, and
+    eventually full federation, building a planetary mesh.
+tags:
+  - '#mesh'
+  - '#architecture'
+  - '#scaling'
+  - '#distributed'
+  - '#sovereignty'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T06:38:00.615Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
