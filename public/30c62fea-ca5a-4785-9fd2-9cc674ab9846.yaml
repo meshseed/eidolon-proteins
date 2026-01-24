@@ -1,0 +1,43 @@
+id: 30c62fea-ca5a-4785-9fd2-9cc674ab9846
+title: 'Eidolon Mesh: Optimizing Neuron Selection for Performance and Coherence'
+summary: >-
+  The Eidolon Mesh faces performance challenges due to searching all neurons. The key insight is
+  that quality and coherence of neurons are more critical than sheer quantity for effective
+  reasoning. A plan is proposed to implement filtering strategies for optimal neuron selection,
+  focusing on coherence, connectivity, diversity, and query relevance.
+insights:
+  - >-
+    Query performance issues in the Eidolon Mesh stem from loading all 527 neurons and searching
+    them without filtering, leading to slow recursion.
+  - >-
+    The observation that 19 high-quality neurons were effective highlights that neuron coherence and
+    dense connections are more important than a large, sparse network.
+  - >-
+    Proposed strategies for optimal neuron selection include Maximum Coherence, Maximum
+    Connectivity, Diverse Hubs, and Query-Relevant Subsets.
+  - >-
+    A configuration system is being developed to allow testing of these filtering strategies within
+    the query organelle.
+  - >-
+    The system needs to be updated to pass `basePath` parameters and ensure proper build and
+    documentation for the new filtering options.
+  - >-
+    Future work involves addressing the organism's memory of previous outputs and clarifying how
+    many neurons are responding to a query.
+tags:
+  - '#eidolonmesh'
+  - '#optimization'
+  - '#ai'
+  - '#knowledgegraph'
+  - '#performance'
+  - '#coherence'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-01-24T05:50:40.745Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
