@@ -1,0 +1,31 @@
+id: a9bb6cd1-7bb0-42e8-9514-70d208705282
+title: 'Eidolon Mesh v1.4: Configuration & Synthesis Directive'
+summary: >-
+  This directive outlines the process for synthesizing content from a specific Eidolon Mesh file
+  (v1.4, Part 67/83), focusing on a structured JSON output. It details the initialization of
+  components, a query strategy using top coherence neurons, and the precise JSON schema required for
+  the output.
+insights:
+  - The synthesis process involves accessing a specific file within the Eidolon Mesh repository.
+  - A 'Top neurons by coherence score' strategy is employed for data retrieval.
+  - >-
+    The output must strictly adhere to a predefined JSON structure, including title, summary,
+    insights, tags, coherence score, tier, and emotional gradient.
+  - Specific requirements are given for each JSON field, such as title length and insight atomicity.
+  - The process includes clearing the connectome cache before proceeding.
+tags:
+  - '#eidolonmesh'
+  - '#synthesis'
+  - '#configuration'
+  - '#json'
+  - '#directive'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:51:53.948Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
