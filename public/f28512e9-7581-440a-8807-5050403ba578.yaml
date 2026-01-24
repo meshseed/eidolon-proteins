@@ -1,0 +1,38 @@
+id: f28512e9-7581-440a-8807-5050403ba578
+title: Obsidian Graph Data Export for Knowledge Synthesis
+summary: >-
+  This process outlines methods for exporting Obsidian note graph data into CSV format, enabling its
+  use in external analysis or visualization tools. It details manual creation, plugin utilization,
+  and AI-assisted generation of node and edge tables.
+insights:
+  - >-
+    Obsidian's graph data can be exported to CSV for external processing by creating separate
+    'nodes.csv' and 'edges.csv' files.
+  - >-
+    Manual CSV creation offers granular control over graph data but is time-consuming for larger
+    datasets.
+  - >-
+    Community plugins like 'Export to CSV' or 'Graph Analysis' can automate the CSV export process
+    from Obsidian.
+  - >-
+    AI assistance is available for generating CSV data if the user provides note titles and their
+    interconnections (e.g., via frontmatter 'related:' fields).
+  - >-
+    The process involves defining nodes with attributes like Id, Label, Type, Confidence, and Date,
+    and edges with Source, Target, and Type.
+tags:
+  - '#obsidian'
+  - '#knowledge-management'
+  - '#data-export'
+  - '#csv'
+  - '#graph-analysis'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-01-24T06:25:35.838Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
