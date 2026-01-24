@@ -1,0 +1,45 @@
+id: f55f5ca0-7482-40e5-813f-626f167d6a13
+title: 'Connectome Topology: Hub-Spoke vs. Lateral Mesh & Protein Ecology'
+summary: >-
+  The core difference between 'Live' and 'Dev' connectomes lies in their topology: 'Live' exhibits a
+  hub-and-spoke structure due to architectural kernels, leading to higher coherence and efficiency,
+  while 'Dev' has a lateral mesh from conversational ingestion. Implementing protein ecology
+  protocols like merging, composting, and promoting emergent kernels is crucial for self-organizing,
+  efficient knowledge bases.
+insights:
+  - >-
+    Connectome topology (hub-spoke vs. lateral mesh) fundamentally impacts coherence, query speed,
+    and answer quality.
+  - >-
+    Architectural kernels (like P-Series) act as critical hubs, fostering organized growth and high
+    coherence in a connectome.
+  - >-
+    Tri-lens protein synthesis, while increasing dimensionality, can lead to dense lateral meshes
+    without global hubs, reducing overall coherence.
+  - >-
+    Protein ecology protocols (merging, composting, promotion) enable a self-sustaining, efficient,
+    and evolving knowledge base, akin to a living ecosystem.
+  - >-
+    The historical 'archaeology' of a connectome (seeds, imports, ingestion methods) explains its
+    current structural and functional characteristics.
+  - >-
+    Selective import of architectural kernels from mature connectomes (like 'Live') into less
+    structured ones (like 'Dev') can trigger topological reorganization and improvement.
+tags:
+  - '#connectome'
+  - '#topology'
+  - '#kernel'
+  - '#protein'
+  - '#architecture'
+  - '#ecology'
+  - '#knowledge'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.97
+created_at: '2026-01-24T03:12:53.837Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → shimmer
