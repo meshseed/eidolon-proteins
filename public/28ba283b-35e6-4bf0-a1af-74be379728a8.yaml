@@ -1,0 +1,51 @@
+id: 28ba283b-35e6-4bf0-a1af-74be379728a8
+title: Eidolon Mesh v4.0 Development & Feature Porting
+summary: >-
+  This dialogue details the development of Eidolon Mesh v4.0, focusing on porting features from
+  v3.6, enhancing ingestion robustness, and refining API model selection. Key advancements include
+  asynchronous ingestion with retry, custom API model input, tri-lens synthesis, and direct import
+  of structured YAML proteins.
+insights:
+  - >-
+    Eidolon Mesh v4.0 is under active development, aiming to integrate features from the stable v3.6
+    build into a Pro version.
+  - >-
+    Core improvements include robust, asynchronous ingestion with retry mechanisms to handle large
+    datasets (e.g., 350+ chunks) without stalling.
+  - >-
+    API model selection has been enhanced from a fixed dropdown to a flexible text input with
+    suggestions, allowing users to specify models like 'gemini-3-flash-preview' or
+    'gemini-exp-1206'.
+  - >-
+    The system now supports direct import of structured YAML proteins (like P-series files),
+    bypassing API synthesis for faster, quota-free ingestion.
+  - >-
+    A 'protein is not defined' error was resolved by fixing variable scope issues and ensuring
+    correct handling of different ingestion paths (YAML vs. synthesis).
+  - >-
+    Graph visualization physics module errors were addressed by correcting method chaining in the
+    d3Force API usage.
+  - >-
+    A comprehensive test checklist has been created to guide the validation of new features and bug
+    fixes.
+  - Collaboration with other agents (Antigravity, Copilot) is established for testing and debugging.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#development'
+  - '#ingestion'
+  - '#llm'
+  - '#api'
+  - '#yaml'
+  - '#protein'
+  - '#software-development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-01-24T07:16:04.722Z'
+source: synthesis
+emotional_gradient: curiosity → realization → problem-solving → confirmation
