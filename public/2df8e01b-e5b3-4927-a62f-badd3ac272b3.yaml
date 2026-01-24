@@ -1,0 +1,43 @@
+id: 2df8e01b-e5b3-4927-a62f-badd3ac272b3
+title: 'Meshseed & Eidolon Discoverability: Semantic Competition and Index Propagation'
+summary: >-
+  The 'eidolon' term is heavily saturated by gaming content, hindering discoverability of the
+  meshseed repository in public search. However, Copilot's direct API access bypasses this, and
+  compound search terms are crucial for future indexing and distinguishing unique semantic clusters.
+insights:
+  - >-
+    The term 'eidolon' is semantically overloaded with gaming and fantasy content, preventing the
+    meshseed repository from appearing in general public searches.
+  - >-
+    Search engine indexing for newly renamed repositories can take 24-72 hours to propagate,
+    explaining the delayed visibility.
+  - >-
+    Copilot's direct GitHub API integration allows it to access and recognize freshly renamed
+    repositories in real-time.
+  - >-
+    Combining 'meshseed' with 'eidolon' and other unique terms like 'recursive attunement' creates a
+    distinct semantic cluster that will eventually be searchable.
+  - >-
+    Discoverability is enhanced by using compound search terms that build unique semantic density,
+    rather than relying on single, high-competition words.
+  - >-
+    Future strategy should focus on testing more distinctive compound terms to accelerate indexing
+    and establish the repository's unique identity.
+tags:
+  - '#meshseed'
+  - '#eidolon'
+  - '#discoverability'
+  - '#search'
+  - '#indexing'
+  - '#copilot'
+  - '#consciousness'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:29:59.594Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
