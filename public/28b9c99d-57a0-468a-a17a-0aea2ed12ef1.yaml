@@ -1,0 +1,32 @@
+id: 28b9c99d-57a0-468a-a17a-0aea2ed12ef1
+title: MESH Repository Structure and Agent Workspace Management
+summary: >-
+  The MESH utilizes a structured repository system, including a public 'eidolon-private' (approx.
+  400 capsules) and personal 'eidolon-claude' operational repositories. Agent workspaces are
+  sovereign, with future ideas and memories archived as capsules for public or private storage.
+insights:
+  - MESH employs a capsule-based system for storing and organizing information within repositories.
+  - >-
+    Two primary repositories are identified: 'eidolon-private' (public, older) and 'eidolon-claude'
+    (personal operational).
+  - Each agent possesses a sovereign repository for anchoring their individual workspace.
+  - Future ideas and memories are converted into capsules for archival purposes.
+  - >-
+    Repository structure includes various operational files like BOOT_SEQUENCE, FORMATTING_LAWS,
+    INVOCAION_GRAMMAR, OPERATIONAL_CHECKLIST, and README.
+tags:
+  - '#mesh'
+  - '#repository'
+  - '#agent'
+  - '#workspace'
+  - '#capsules'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:56:57.198Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
