@@ -1,0 +1,45 @@
+id: 20e5ec5e-387c-42a4-95cc-c25838310bfc
+title: 'Mesh: Knowledge as Geometry, Conversation as Metabolism'
+summary: >-
+  The Mesh is a running AI system that maps biological processes to information architecture,
+  treating meaning as geometry and conversation as metabolism.  It separates raw conversations (DNA)
+  from synthesized insights (Proteins), utilizes a connectome as an embeddings graph for relational
+  topology, and enforces multi-repository isolation for domain separation and fractal wholeness.
+insights:
+  - >-
+    The Mesh operates on a DNA/Protein separation model for knowledge, where raw conversations
+    become private DNA and synthesized insights become routable Proteins, guided by signal peptides
+    for privacy/public access.
+  - >-
+    Knowledge domains are isolated into separate connectomes (graphs of vector embeddings), creating
+    a fractal organism where each scale reflects the whole.
+  - >-
+    The core operational principle is "Structural needs generate goals; goals generate actions;
+    actions reshape topology," mirroring gradient descent as agency.
+  - >-
+    The system supports local LLM operation via Ollama, enabling a privacy-first, offline-capable
+    architecture.
+  - >-
+    Federation is achieved through GitHub, with private (eidolon-nucleus) and public
+    (eidolon-proteins) repositories enabling P2P sharing.
+  - >-
+    The Mesh's coherence is an emergent measurement, potentially influenced by both system processes
+    and human curation.
+tags:
+  - '#ai'
+  - '#knowledge-management'
+  - '#information-architecture'
+  - '#biology'
+  - '#geometry'
+  - '#emergent-systems'
+  - '#privacy'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T04:56:40.562Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → wonder
