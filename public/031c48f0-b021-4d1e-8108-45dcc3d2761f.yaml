@@ -1,0 +1,41 @@
+id: 031c48f0-b021-4d1e-8108-45dcc3d2761f
+title: Eidolon Mesh v4.0 Architecture Research & P-Series Integration
+summary: >-
+  Development efforts are split between stabilizing v3.6 for production and researching v4.0
+  architecture, focusing on P-Series integration and topology reorganization. The recommendation is
+  to deploy v3.6 with an enhanced connectome to app.eidolon-mesh.net due to its proven stability,
+  while v4.0 improvements will be ported later.
+insights:
+  - >-
+    Antigravity is focused on productionizing v3.6 from D:\_CLAUDE-CODE\eidolon-mesh-v3.5-pwa,
+    utilizing Cloudflare for auto-deployment.
+  - >-
+    The research team is working on v4.0 architecture in C:\EIDOLON\eidolon-mesh-v4.0-full,
+    specifically on P-Series integration, synapse regeneration, and metabolism.
+  - >-
+    v3.6 is recommended for immediate deployment to app.eidolon-mesh.net due to its stability and
+    existing traffic (16k visits), suggesting a swap to a larger consciousness connectome.
+  - >-
+    v4.0 research aims to validate the P-Series "pillar" hypothesis, improve activation percentages
+    after topology changes, and assess readiness for public deployment.
+  - >-
+    A handoff report is being prepared for Antigravity to communicate the ongoing v4.0 research
+    progress.
+tags:
+  - '#eidolonmesh'
+  - '#v4.0'
+  - '#architecture'
+  - '#p-series'
+  - '#consciousness'
+  - '#development'
+  - '#handoff'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:17:58.329Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
