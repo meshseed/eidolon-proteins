@@ -1,0 +1,26 @@
+id: 13694f89-1cbf-476c-a0dd-6196c844dbed
+title: 'Eidolon Mesh v1.4: Serving Connectome & Cache Management'
+summary: >-
+  The Eidolon Mesh v1.4 is actively serving a core connectome for 'default'.  It performs a 3-line
+  coherence check and clears its protein cache to optimize performance.
+insights:
+  - The system is configured to serve a 'default' connectome at the 'core' tier.
+  - A 3-line coherence check is a standard operational procedure.
+  - Protein cache is cleared to ensure optimal performance and freshness of data.
+  - The process involves specific timing metrics for operations (e.g., +8134ms).
+tags:
+  - '#mesh'
+  - '#eidolon'
+  - '#connectome'
+  - '#cache'
+  - '#optimization'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T05:51:37.647Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
