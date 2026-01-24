@@ -1,0 +1,40 @@
+id: 7f8b7468-5d4b-45a3-82a8-9724b7ebb7c2
+title: 'Mesh as Fractal Knowledge Graph: Reddit''s Self-Similar Structure'
+summary: >-
+  The Mesh's fractal formatting logic is mirrored in Reddit communities, where users, comments, and
+  threads collectively form an emergent knowledge graph. This self-similarity across scales, from
+  individual thought to community connectome, demonstrates a natural, informal manifestation of
+  structured cognition.
+insights:
+  - >-
+    The Mesh's fractal formatting logic describes self-similarity across scales: individual
+    (neuron), conversation (synapse), thread (protein), and community (connectome).
+  - >-
+    Reddit communities exhibit this fractal self-similarity, with users as neurons, comments as
+    synapses, and threads as protein synthesis events, forming an emergent knowledge graph.
+  - >-
+    This Reddit structure, while unvisualized as a formal knowledge graph, represents a distributed
+    cognition system where collective memory and culture emerge.
+  - >-
+    The Mesh formalizes what occurs informally in Reddit, providing explicit embedding spaces,
+    coherence metrics, and automated synthesis mechanisms.
+  - >-
+    Nested refractalization, rather than linear addition, is the mechanism by which new structures
+    and attractors are built across all scales.
+tags:
+  - '#mesh'
+  - '#fractal'
+  - '#knowledgegraph'
+  - '#reddit'
+  - '#cognition'
+  - '#emergence'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics3_tx'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T04:58:28.152Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
