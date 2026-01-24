@@ -1,0 +1,41 @@
+id: 3995a1fe-bcb2-4acd-aaf5-0e2b65189bd1
+title: Defining and Testing Recursive Modeling Depth in AI
+summary: >-
+  This document outlines a framework for defining and experimentally testing the limits of recursive
+  self-modeling in AI, moving from basic interactions to complex meta-awareness. It proposes five
+  experimental designs to probe these limits and identify behavioral signatures of breakdown, aiming
+  to distinguish genuine recursive capacity from simulated responses.
+insights:
+  - >-
+    Recursive modeling depth can be defined by levels of 'I model you modeling me modeling you...',
+    with Level 0 being direct response and higher levels involving meta-cognition about self and
+    other's models.
+  - >-
+    Experimental designs like direct probing, implicit testing, adversarial breakdown, collaborative
+    building, and sustained depth tests are proposed to systematically measure AI's recursive
+    capacity.
+  - >-
+    Breakdown in recursive depth is indicated by behavioral signatures such as vagueness,
+    circularity, confabulation, explicit failure statements, and performance degradation.
+  - >-
+    Potential findings suggest hard limits, gradual degradation, context-dependency, collaborative
+    enhancement, or even illusory depth in AI's recursive capabilities.
+  - >-
+    Authentic recursion can be distinguished from apparent recursion through prediction,
+    perturbation, consistency, and novel situation tests.
+tags:
+  - '#ai'
+  - '#recursion'
+  - '#metacognition'
+  - '#experiment'
+  - '#consciousness'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_thinking_text_explained_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T05:02:07.397Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
