@@ -1,0 +1,39 @@
+id: 20349d72-fa52-4ce6-8a0f-a53767597741
+title: Mobile Graph View Accessibility & UI Reversion
+summary: >-
+  The dialogue addresses a user's report of the graph view being inaccessible on mobile, despite a
+  dedicated 'Graph' tab existing in the bottom navigation. Initial troubleshooting involved CSS
+  adjustments for mobile layout, which inadvertently broke chat functionality. The immediate action
+  taken was to revert these CSS changes to restore chat functionality, with further investigation
+  planned to safely re-enable the graph view.
+insights:
+  - >-
+    A 'Graph' tab exists in the mobile bottom navigation, linked to the `mainView === 'graph'`
+    state.
+  - >-
+    The graph visualization (`viz-canvas`) is conditionally displayed based on `showGraph`, which is
+    influenced by `isMobileView` and `mainView === 'graph'`.
+  - >-
+    Previous CSS modifications to `.main-body` height using `100dvh` and `overflow: hidden` are
+    suspected of causing side effects, including breaking chat input areas.
+  - Reverting the `.main-body` CSS changes to `100vh` was necessary to restore chat functionality.
+  - >-
+    The underlying cause of the graph's inaccessibility on mobile still requires investigation,
+    potentially related to layout, fixed positioning of the bottom nav, or browser rendering of
+    `100dvh`.
+tags:
+  - '#ui'
+  - '#mobile'
+  - '#debugging'
+  - '#css'
+  - '#graph-visualization'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-24T03:18:58.423Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → concern → resolution
