@@ -1,0 +1,35 @@
+id: ad7e594b-4ce1-4fce-9917-894263384a37
+title: Local LLM Connection & Git Workflow for UI Polish
+summary: >-
+  User configured a local LLM with Gemma:2b and Nomic-embed-text, encountering a connection failure.
+  Subsequent actions involved editing files and committing/pushing changes to improve error messages
+  for local connection diagnostics.
+insights:
+  - >-
+    Local LLM setup involves specifying endpoint URLs and model names for text generation and
+    embeddings.
+  - >-
+    Connection failures can occur if the LLM server (Ollama/LM Studio) is not running or CORS is not
+    enabled.
+  - >-
+    A Git workflow of `add`, `commit`, and `push` was used to update the codebase, specifically to
+    enhance error message diagnostics for local LLM connections.
+  - >-
+    The user's actions indicate a focus on improving the user experience and diagnostic capabilities
+    of a local LLM integration.
+tags:
+  - '#llm'
+  - '#local'
+  - '#ui'
+  - '#git'
+  - '#development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-24T03:19:13.475Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
