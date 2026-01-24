@@ -1,0 +1,38 @@
+id: c6f3a988-5600-42af-ac6e-687a12a8b008
+title: 'Gemini API Synthesis Failure: Model Not Found & Key Issues'
+summary: >-
+  A synthesis attempt failed due to a 'model not found' error, indicating an issue with the Gemini
+  API endpoint or model name. This points to potential API key access problems or the need to update
+  the model identifier (e.g., to 'gemini-1.5-flash-latest') or API version (v1beta).
+insights:
+  - >-
+    The primary synthesis failure was a 404 error for 'gemini-1.5-flash', suggesting the model is
+    unavailable or incorrectly specified.
+  - >-
+    API key issues, including incorrect access or endpoint configuration, are a likely cause for the
+    'model not found' error.
+  - >-
+    Troubleshooting involves verifying the GOOGLE_API_KEY in the .env file and testing it directly
+    via a browser request.
+  - >-
+    Potential solutions include updating the model name to 'gemini-1.5-flash-latest' or
+    'gemini-1.5-pro-latest' or switching to the 'v1beta' API endpoint.
+  - >-
+    Ensuring the correct SDK version for '@google/generative-ai' is installed is also a recommended
+    troubleshooting step.
+tags:
+  - '#generativeai'
+  - '#api'
+  - '#gemini'
+  - '#troubleshooting'
+  - '#development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T06:02:02.239Z'
+source: synthesis
+emotional_gradient: frustration → investigation → clarity
