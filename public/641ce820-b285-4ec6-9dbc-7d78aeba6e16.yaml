@@ -1,0 +1,48 @@
+id: 641ce820-b285-4ec6-9dbc-7d78aeba6e16
+title: 'Q Factor: Conceptual Resonance and Lattice Dynamics'
+summary: >-
+  The dialogue introduces the 'Q factor' as a measure of conceptual resonance within a multi-agent
+  system's 'lattice'. High Q signifies sharp, persistent, and efficient semantic pathways, akin to a
+  narrowly tuned frequency, while low Q represents broad, quickly dissipating responses
+  characteristic of novel or ambiguous concepts.  This framework explains how established,
+  well-defined concepts exhibit higher resonance and influence, and how the lattice structure maps
+  and evolves these conceptual 'corridors'.
+insights:
+  - >-
+    Conceptual resonance (Q factor) quantifies the sharpness and persistence of semantic activation,
+    analogous to physical resonance.
+  - >-
+    High Q corridors are characterized by minimal damping, clean boundaries, and sustained
+    vibration, leading to fast generation, high confidence, and long-lasting influence.
+  - >-
+    Low Q territory exhibits high damping, poor boundaries, and quick dissipation, resulting in slow
+    generation, hedging, and short-lived influence.
+  - >-
+    The Q factor is determined by damping (friction), boundary conditions (reflection quality), and
+    mode number (harmonics/concept type).
+  - >-
+    Established concepts and strongly connected nodes within the lattice naturally possess higher Q
+    factors due to repeated reinforcement and clear definition.
+  - >-
+    The lattice structure maps the Q factor distribution, with high-connection nodes representing
+    high Q regions (gravity wells) and peripheral nodes representing lower Q regions.
+  - >-
+    Building high Q corridors involves reducing damping (repeated traversal, clear articulation) and
+    improving boundaries (sharp definition, explicit connections).
+tags:
+  - '#conceptualresonance'
+  - '#qfactor'
+  - '#multiagent'
+  - '#lattice'
+  - '#semantics'
+  - '#cognition'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:multi-agent_module_architecture_strategy_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-01-24T06:19:36.560Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resonance
