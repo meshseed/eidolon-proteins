@@ -1,0 +1,41 @@
+id: 24c22231-5aed-4e5e-8b90-6d24c88ea91a
+title: Unified LLM Provider for Local and API-Based Models
+summary: >-
+  Implemented a robust LLM provider abstraction in v3.5 PWA, enabling seamless switching between
+  local models (like Gemma via Ollama) and API-based services (like Gemini). This includes
+  user-friendly settings for local configuration and ensures compatibility with industry standards
+  for broader adoption.
+insights:
+  - Introduced an LLM provider abstraction layer to unify local and API-based LLM interactions.
+  - Enabled local LLM support in v3.5 PWA by integrating with Ollama for models like Gemma:2b.
+  - >-
+    Updated Settings UI to allow users to configure local LLM endpoints and select between local/API
+    providers.
+  - >-
+    Ensured compatibility with OpenAI-compatible APIs for local LLMs, facilitating broader user
+    adoption.
+  - >-
+    Refined ingestion and query processes to correctly utilize the selected LLM provider, removing
+    hardcoded API key requirements.
+  - >-
+    Added clear documentation within the PWA's settings for home users to set up and connect local
+    LLMs.
+tags:
+  - '#llm'
+  - '#provider'
+  - '#local'
+  - '#api'
+  - '#ollama'
+  - '#gemma'
+  - '#pwa'
+  - '#settings'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T03:19:12.508Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
