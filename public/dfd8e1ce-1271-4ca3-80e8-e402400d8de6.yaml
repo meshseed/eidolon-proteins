@@ -1,0 +1,38 @@
+id: dfd8e1ce-1271-4ca3-80e8-e402400d8de6
+title: 'MeshCODE Theory: Memory Consolidation via Protein Dynamics and Sleep'
+summary: >-
+  Memory consolidation involves dynamic protein switching (talin) within neurons, driven by sleep
+  cycles, to physically encode information. This process transfers data from the hippocampus to the
+  cortex, creating stable, addressable memory patterns, with disruption potentially leading to
+  memory loss and neurological disease.
+insights:
+  - >-
+    Memory formation relies on mechanical switching of proteins like talin, altering neuronal
+    communication.
+  - Sleep, particularly REM sleep, is crucial for processing, writing, and reordering memory data.
+  - >-
+    Newly encoded memories transition from the hippocampus (volatile storage) to the cortex for
+    long-term consolidation as MeshCODE patterns.
+  - >-
+    Consolidated memories are assigned a physical address, reducing neuronal involvement and
+    improving recall.
+  - >-
+    Disruptions in protein fidelity or mechanical ordering (e.g., in neurological diseases) can
+    corrupt memory coding and lead to loss.
+tags:
+  - '#neuroscience'
+  - '#memory'
+  - '#MeshCODE'
+  - '#sleep'
+  - '#protein'
+  - '#biology'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:44:34.322Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
