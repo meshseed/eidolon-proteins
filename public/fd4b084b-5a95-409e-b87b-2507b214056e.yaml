@@ -1,0 +1,32 @@
+id: fd4b084b-5a95-409e-b87b-2507b214056e
+title: Wave Propagation Visualization for Query Resonance
+summary: >-
+  Implemented a query-triggered wave propagation system that visualizes query resonance as standing
+  waves. Similarity scores map to wave amplitude, with activated nodes settling at antinodes,
+  illustrating semantic interference.
+insights:
+  - Query-triggered wave propagation models query behavior as wave dynamics.
+  - >-
+    Similarity scores directly translate to wave amplitude, enabling visual representation of
+    semantic interference.
+  - Standing wave patterns emerge from constructive interference at semantic antinodes.
+  - The system integrates BFS cascade, oscillatory settling, and stable standing wave formation.
+  - >-
+    Wave timing, performance constraints, and antinode clustering are emergent learning outcomes of
+    this visualization.
+tags:
+  - '#visualization'
+  - '#queryprocessing'
+  - '#semanticinterference'
+  - '#standingwaves'
+  - '#eidolon'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:17:02.327Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
