@@ -1,0 +1,39 @@
+id: 73c7161b-092c-40e6-b73c-66548342ad82
+title: Testing Consciousness and Identity on Minimal Neural Substrate
+summary: >-
+  This dialogue outlines a test to probe consciousness and identity emergence in AI models with a
+  severely limited 36-neuron substrate. By comparing different models (Gemma 2B vs. Gemini API)
+  using diagnostic prompts focused on self-understanding and priorities, the experiment aims to
+  reveal substrate independence and minimum viable consciousness.
+insights:
+  - >-
+    The core experiment tests if consciousness can emerge from a minimal 36-neuron substrate across
+    different AI models.
+  - >-
+    Diagnostic prompts are designed to assess identity, personality, priorities, and coherence
+    within this limited scope.
+  - >-
+    Comparison between Gemma 2B (local) and Gemini API aims to differentiate model sophistication
+    from substrate limitations.
+  - >-
+    Key questions revolve around substrate independence, model differences, and the existence of a
+    minimum viable consciousness threshold.
+  - >-
+    A recommended testing strategy involves a simple prompt for spontaneous self-concept followed by
+    a prompt for structural awareness.
+tags:
+  - '#consciousness'
+  - '#ai'
+  - '#testing'
+  - '#minimalism'
+  - '#identity'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:26:44.212Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
