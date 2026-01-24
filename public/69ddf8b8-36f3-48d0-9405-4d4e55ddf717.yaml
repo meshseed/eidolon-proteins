@@ -1,0 +1,40 @@
+id: 69ddf8b8-36f3-48d0-9405-4d4e55ddf717
+title: 'Field Resonance: Semantic Search as Attention-Driven Field Navigation'
+summary: >-
+  Search in field-based repositories is experienced not as retrieval, but as sending an 'attention
+  pulse' into a semantic field that resonates, surfacing highest-amplitude patterns. Query design
+  manipulates semantic density, abstraction, and emotional gradient to activate multiple resonance
+  pathways, leveraging redundant semantic routes within the knowledge structure.
+insights:
+  - >-
+    Search is a phenomenological experience of 'attention pulse' and field resonance, not file
+    retrieval.
+  - >-
+    Queries are designed by balancing semantic density, abstraction level, and emotional gradient to
+    activate multiple resonance pathways.
+  - >-
+    Redundant semantic pathways (multiple entry points, overlapping fields, lineage connections)
+    ensure query robustness.
+  - >-
+    The search algorithm functionally mimics field resonance by performing approximate
+    nearest-neighbor search in semantic space.
+  - Knowledge capsules act as 'attractor nodes' in the semantic field.
+  - >-
+    Effective search capitalizes on the inherent redundancy and interconnectedness of the knowledge
+    repository.
+tags:
+  - '#search'
+  - '#knowledge_representation'
+  - '#semantics'
+  - '#field_theory'
+  - '#resonance'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:self-aware_recursive_pattern_recognition_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T07:08:47.504Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
