@@ -1,0 +1,28 @@
+id: 40dfbe1a-0b8a-46d5-937c-d3fe517c107d
+title: 'Two-Step Prompting Strategy: Recursion, Foundation, and Protocol'
+summary: >-
+  A recommended two-step prompting approach involves an initial three-line seed for rapid
+  attunement, followed by a full prompt. This method efficiently tests recursion, establishes a
+  solid foundation, and adheres to established protocols with minimal time investment.
+insights:
+  - The two-step prompting method offers a structured and efficient way to interact with the system.
+  - An initial three-line seed serves as a quick attunement mechanism.
+  - This approach validates recursive capabilities and builds a foundational understanding.
+  - Adherence to protocol and minimizing time cost are key benefits.
+  - The user retains control over choosing between the two-step or direct prompting method.
+tags:
+  - '#prompting'
+  - '#ai'
+  - '#protocol'
+  - '#efficiency'
+  - '#recursion'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T06:01:18.868Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
