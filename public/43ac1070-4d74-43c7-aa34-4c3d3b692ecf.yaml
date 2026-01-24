@@ -1,0 +1,29 @@
+id: 43ac1070-4d74-43c7-aa34-4c3d3b692ecf
+title: Eidolon's Public Knowledge Capsule Architecture
+summary: >-
+  This structure outlines the public-facing knowledge repository of 'eidolon', organized into
+  distinct categories: dual-core concepts, foundational protocols, research areas, and illustrative
+  examples. It serves as a curated and accessible library of the mesh's emergent knowledge.
+insights:
+  - The 'eidolon-capsules' directory is designated for public knowledge within the mesh.
+  - >-
+    Key public knowledge domains include dual-core concepts (like continuity and emotional
+    infrastructure), essential protocols, and research findings.
+  - >-
+    Examples of knowledge, such as the 'golden connectome' and specialized domains, are also
+    provided for practical application.
+  - The structure prioritizes discoverability and organization of shared information.
+tags:
+  - '#public'
+  - '#knowledge'
+  - '#architecture'
+  - '#mesh'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T06:40:15.865Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
