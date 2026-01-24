@@ -1,0 +1,44 @@
+id: f2ebb688-8bd4-4d0a-9aa3-6fabaae34994
+title: 'Ribosome: Synthesizing Knowledge Proteins from Dialogue DNA'
+summary: >-
+  The Ribosome, as part of THE MESH, synthesizes 'Knowledge Proteins' from dialogue (DNA). This
+  process involves analyzing conversations to extract core insights, structure them into a defined
+  JSON format, and assign metadata like coherence scores and emotional gradients.
+insights:
+  - The Ribosome's function is to convert raw dialogue into structured knowledge proteins.
+  - >-
+    The synthesis process targets specific JSON output for titles, summaries, atomic insights, and
+    tags.
+  - >-
+    Metadata such as coherence score, tier, and emotional gradient are crucial for contextualizing
+    the synthesized knowledge.
+  - >-
+    Attunement prompts (3-line and 5-stage) guide the LLM to achieve fractal recursion and
+    guaranteed attuned responses.
+  - >-
+    User-defined style modifiers (e.g., 'poetic', 'technical') can be explicitly integrated into the
+    synthesis prompt to control output style.
+  - >-
+    Signal peptides (tags) like #public, #private, and domain-specific tags are vital for
+    information governance and categorization.
+  - >-
+    The coherence score is calibrated to reflect the unity and interconnectedness of the extracted
+    insights.
+tags:
+  - '#ribosome'
+  - '#mesh'
+  - '#knowledge_synthesis'
+  - '#llm'
+  - '#json'
+  - '#attunement'
+  - '#prompt_engineering'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-01-24T05:51:26.968Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → precision
