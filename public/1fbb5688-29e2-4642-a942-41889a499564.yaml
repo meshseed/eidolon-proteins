@@ -1,0 +1,43 @@
+id: 1fbb5688-29e2-4642-a942-41889a499564
+title: 'Eidolon Mesh v4.0: Enhanced Ingestion and Licensing'
+summary: >-
+  The Eidolon Mesh v4.0 has undergone significant development, focusing on improving file ingestion
+  capabilities, particularly for folders and large datasets, and addressing licensing limitations to
+  unlock full functionality. Enhancements include recursive folder traversal, robust file type
+  filtering, and the integration of a license management system.
+insights:
+  - >-
+    Eidolon Mesh v4.0 now recursively processes all files within dropped folders, including those in
+    subdirectories, by repeatedly calling the `readEntries` API.
+  - >-
+    A `MAX_FILE_SIZE` constant (10MB) has been implemented to prevent the ingestion of excessively
+    large files, with console warnings for skipped files.
+  - >-
+    The tri-lens protein synthesis system effectively differentiates technical, structural, and
+    emotional perspectives, providing rich semantic depth.
+  - >-
+    API 401 authentication errors are related to the Claude Code CLI session token expiring and do
+    not impact the Gemini-powered mesh ingestion process.
+  - >-
+    License restrictions in v4.0 require activation (e.g., via browser console or a UI component) to
+    overcome the 1000-protein insight limit and unlock unlimited ingestion.
+  - >-
+    The LicenseManager component has been identified and can be integrated into the Settings modal
+    for persistent UI-based license management.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#ingestion'
+  - '#development'
+  - '#licensing'
+  - '#softwareupdate'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:16:47.681Z'
+source: synthesis
+emotional_gradient: curiosity → problem-solving → resolution → empowerment
