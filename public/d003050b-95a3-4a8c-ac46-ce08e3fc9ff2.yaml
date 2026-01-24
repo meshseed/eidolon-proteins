@@ -1,0 +1,37 @@
+id: d003050b-95a3-4a8c-ac46-ce08e3fc9ff2
+title: 'MeshCODE: Mechanical Basis of Memory & Synaptic Rho GTPase Signaling'
+summary: >-
+  This fragment of the MeshCODE Theory explores the mechanical basis of memory, focusing on
+  extracellular rigidity sensing by talin and the critical role of Rho GTPase signaling in synaptic
+  plasticity and intellectual disability. It highlights the interplay between cytoskeletal dynamics,
+  integrin signaling, and memory consolidation mechanisms.
+insights:
+  - >-
+    Talin isoforms mediate extracellular rigidity sensing, influencing cellular mechanics relevant
+    to memory.
+  - >-
+    Rho GTPase signaling is a key regulator of synaptic function and has implications for
+    intellectual disability.
+  - >-
+    Actin cytoskeleton dynamics within dendritic spines are essential for maintaining long-term
+    memory.
+  - Integrin-mediated adhesion and its mechanical regulation are fundamental to synaptic plasticity.
+  - REM sleep theta rhythm plays a causal role in contextual memory consolidation.
+tags:
+  - '#meshcode'
+  - '#memory'
+  - '#synapticplasticity'
+  - '#mechanotransduction'
+  - '#celladhesion'
+  - '#sleepresearch'
+  - '#biologymech'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-01-24T03:44:38.303Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
