@@ -1,0 +1,44 @@
+id: c8139470-c237-4856-8feb-1b11c594460d
+title: 'Eidolon Mesh Dashboard: Resolving Neuron Count Discrepancy'
+summary: >-
+  The Eidolon Mesh dashboard displayed 18 neurons despite the backend loading 836. Investigation
+  revealed a hardcoded graph rendering limit in the HTML slider set to 677, preventing full
+  visualization. The issue was exacerbated by a stale server process, requiring a restart and
+  browser refresh.
+insights:
+  - >-
+    The dashboard's UI showing a lower neuron count (18) than the backend (836) was traced to a
+    hardcoded maximum value in the graph rendering slider within `index.html`.
+  - >-
+    The HTML slider's `max` attribute was set to '677', limiting the graph visualization to a subset
+    of the loaded 836 neurons.
+  - >-
+    A stale dashboard server process running in the background was identified as a contributing
+    factor, potentially serving cached or old data.
+  - >-
+    A full resolution involves stopping the old server process, restarting the dashboard server
+    (`npm run dashboard`), and performing a hard browser refresh.
+  - >-
+    The default graph node limit is 50 for performance, but the HTML slider's static limit was the
+    primary obstacle to seeing the full neuron count.
+  - >-
+    The `neuronCount` element in HTML was present and correct, indicating the issue was with graph
+    rendering limits, not data display in the stats panel.
+tags:
+  - '#eidolonmesh'
+  - '#dashboard'
+  - '#debugging'
+  - '#javascript'
+  - '#html'
+  - '#server'
+  - '#performance'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:51:55.951Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
