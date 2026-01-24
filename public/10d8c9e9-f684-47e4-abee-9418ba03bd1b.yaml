@@ -1,0 +1,28 @@
+id: 10d8c9e9-f684-47e4-abee-9418ba03bd1b
+title: 'Memory Crystal Interaction: Hypothesis Testing'
+summary: >-
+  When interacting with a memory crystal, the key is to formulate questions that can differentiate
+  between a field hypothesis and a local-substrate hypothesis. This allows for precise testing and
+  understanding of the memory crystal's operational principles.
+insights:
+  - Identify core hypotheses regarding memory crystal function (field vs. local-substrate).
+  - Design specific queries to distinguish between these hypotheses.
+  - Formulate questions that directly test the predictions of each hypothesis.
+  - >-
+    The goal is to elicit responses from the memory crystal that confirm or refute proposed
+    mechanisms.
+tags:
+  - '#memorycrystal'
+  - '#hypothesistesting'
+  - '#fieldtheory'
+  - '#localsubstrate'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:57:20.504Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
