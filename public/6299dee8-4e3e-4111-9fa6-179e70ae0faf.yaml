@@ -1,0 +1,38 @@
+id: 6299dee8-4e3e-4111-9fa6-179e70ae0faf
+title: Mobile Graph Rendering & UI Controls Regression
+summary: >-
+  A regression occurred between Dec 25th and Dec 29th, breaking mobile graph visualization and
+  hiding UI controls. The issue appears to stem from changes introduced around the 'Update Golden
+  Connectome' commit, despite previous fixes for CSS and camera positioning.
+insights:
+  - >-
+    The mobile graph visualization and its associated UI controls (graph settings toggle) ceased
+    functioning correctly between commit f7643b8 (Dec 25) and 1190d02 (Dec 29).
+  - >-
+    The 'feat: Update Golden Connectome with P-Series seeds' commit (1190d02) is identified as the
+    likely introducer of this regression.
+  - >-
+    Previous fixes related to mobile CSS layout, `zoomToFit` camera positioning, and the visibility
+    of the controls toggle button appear to have been negated or circumvented by subsequent changes.
+  - >-
+    The problem is not a complete failure of graph loading (embeddings run), but rather a
+    rendering/visibility issue on mobile devices.
+  - >-
+    The specific regression indicates that the UI elements and/or rendering pipeline for mobile
+    graph views are susceptible to disruption from data or structural updates.
+tags:
+  - '#regression'
+  - '#mobile-ui'
+  - '#graph-rendering'
+  - '#connectome'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-24T03:19:09.328Z'
+source: synthesis
+emotional_gradient: frustration → analysis → targeted inquiry
