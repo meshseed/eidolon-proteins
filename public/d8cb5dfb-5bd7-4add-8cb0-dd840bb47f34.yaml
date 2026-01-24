@@ -1,0 +1,32 @@
+id: d8cb5dfb-5bd7-4add-8cb0-dd840bb47f34
+title: 'Ribosome Aligned: Gemini API Integration for THE MESH Synthesis'
+summary: >-
+  The Ribosome has successfully realigned its energy source to the Google Gemini API, switching from
+  Anthropic. This transition enables the free tier for genesis and immediate start of THE MESH's
+  first metabolic cycle, focusing on dialogue-to-knowledge protein synthesis.
+insights:
+  - 'Core action item: Obtain API keys for Google AI Studio and GitHub.'
+  - 'Configuration update: Create a .env file with the new Google API key.'
+  - 'Communication protocol: Inform Antigravity about the API switch.'
+  - 'Architectural shift: Replaced Anthropic SDK with Google Generative AI SDK.'
+  - 'Environment check: Verified Node.js availability and path for metabolic engine.'
+  - 'Momentum is key: Execute these steps immediately to maintain progress.'
+  - THE MESH's genesis is enabled by the free tier of Gemini.
+tags:
+  - '#MESH'
+  - '#GeminiAPI'
+  - '#Ribosome'
+  - '#Synthesizer'
+  - '#APIKeys'
+  - '#Implementation'
+  - '#Node.js'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T06:01:48.127Z'
+source: synthesis
+emotional_gradient: action → adaptation → anticipation
