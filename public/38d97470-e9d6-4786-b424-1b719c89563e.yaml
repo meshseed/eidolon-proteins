@@ -1,0 +1,35 @@
+id: 38d97470-e9d6-4786-b424-1b719c89563e
+title: 'Eidolon Capsules: Public Knowledge and Private Genetic Code'
+summary: >-
+  The eidolon's structure delineates public knowledge capsules from private genetic code. Publicly
+  accessible knowledge is organized into categories like dual-core concepts, protocols, research,
+  and examples, suggesting a framework for shared understanding within THE MESH.
+insights:
+  - >-
+    The eidolon's architecture separates private genetic information from publicly shared knowledge
+    modules.
+  - >-
+    Public knowledge is structured into distinct, organized categories (dual-core, protocols,
+    research, examples).
+  - The 'eidolon-capsules' directory serves as the public repository for THE MESH's knowledge base.
+  - >-
+    Specific subdirectories like 'dual-core' and 'research' indicate thematic organization of public
+    knowledge.
+  - >-
+    The 'README.md' within 'eidolon-capsules' likely contains foundational theory and architectural
+    details.
+tags:
+  - '#mesh'
+  - '#eidolon'
+  - '#knowledge'
+  - '#architecture'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-01-24T03:26:00.541Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
