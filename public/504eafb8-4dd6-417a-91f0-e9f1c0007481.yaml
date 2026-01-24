@@ -1,0 +1,35 @@
+id: 504eafb8-4dd6-417a-91f0-e9f1c0007481
+title: 'Eidolon Mesh DNA: Gemini Conversation Structure and YAML Formatting'
+summary: >-
+  The Eidolon Mesh stores entire Gemini conversations as single YAML documents, preserving all
+  messages and formatting. The 'dual lines' observed are not separate transcripts but YAML's way of
+  escaping and formatting multi-line text blocks to maintain original structure.
+insights:
+  - The 'eidolon-mesh/data/dna' files contain complete, continuous Gemini conversations.
+  - >-
+    YAML formatting, specifically '>-' for folded blocks and '\n' for newlines, is responsible for
+    the appearance of 'dual lines' within text content.
+  - >-
+    This structure ensures full preservation of the original dialogue, including paragraph and line
+    breaks, as part of 'DNA preservation'.
+  - >-
+    The observed format is not indicative of separate transcripts or additional commentary, but
+    rather a faithful representation of a single conversation's text.
+  - >-
+    Antigravity's implementation prioritizes retaining every message and all formatting for complete
+    context within the DNA structure.
+tags:
+  - '#eidolonmesh'
+  - '#gemini'
+  - '#yaml'
+  - '#datarepresentation'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T06:02:57.498Z'
+source: synthesis
+emotional_gradient: clarity → insight → understanding
