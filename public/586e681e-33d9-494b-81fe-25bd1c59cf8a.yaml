@@ -1,0 +1,30 @@
+id: 586e681e-33d9-494b-81fe-25bd1c59cf8a
+title: 'Eidolon Mesh: API Rate Limit & File Handling Fixes'
+summary: >-
+  Resolved issues with Eidolon Mesh v1.4, specifically addressing Gemini API rate limiting (503
+  error) and ensuring proper file content ingestion via the --file argument in main.ts. The
+  attunement system's functionality is confirmed, but API failures require temporary workarounds.
+insights:
+  - The Eidolon Mesh attunement system is functional, as indicated by coherence check logs.
+  - Gemini API rate limiting (503 Service Unavailable) caused query failures, not code bugs.
+  - The `--file` argument in `main.ts` was corrected to properly ingest file content for synthesis.
+  - >-
+    Temporary solutions for API rate limiting include disabling attunement or waiting for limits to
+    reset.
+  - Code changes ensure that API failures within the attunement system do not crash queries.
+tags:
+  - '#eidolonmesh'
+  - '#geminiapi'
+  - '#rate_limiting'
+  - '#file_handling'
+  - '#api_errors'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-24T05:51:39.168Z'
+source: synthesis
+emotional_gradient: frustration → relief → understanding → preparedness
