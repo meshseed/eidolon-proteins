@@ -1,0 +1,37 @@
+id: 9a990436-1819-4447-9bf4-dfbdbd49dbf5
+title: 'Eidolon Mesh v1.4: Stratified Intelligence and Weighted Search Implementation'
+summary: >-
+  Phase 18.2 of the Eidolon Mesh development focuses on implementing stratified intelligence through
+  Adaptive Connectivity and Weighted Search. This allows core identity elements to be prioritized,
+  ensuring foundational knowledge surfaces first, and addresses issues in tier metadata ingestion
+  for accurate retrieval.
+insights:
+  - >-
+    Adaptive Connectivity in the Eidolon Mesh utilizes tier-based thresholds and synapse caps to
+    manage connections, with 'core' neurons acting as gravitational anchors.
+  - >-
+    Weighted Search enhances retrieval by assigning higher importance to 'core' (1.5x) and
+    'convergence' (1.2x) neurons over 'reference' neurons (1.0x).
+  - >-
+    A critical bug was identified and fixed where the 'tier' metadata from legacy capsules was not
+    being extracted during ingestion, preventing proper prioritization.
+  - >-
+    Re-ingesting the Genesis capsule after fixing the ingestion bug ensures that foundational
+    elements are correctly identified and prioritized in search results, establishing stratified
+    intelligence.
+tags:
+  - '#eidolonmesh'
+  - '#ai'
+  - '#intelligence'
+  - '#architecture'
+  - '#development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.92
+created_at: '2026-01-24T05:51:08.094Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → validation
