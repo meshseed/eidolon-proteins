@@ -1,0 +1,37 @@
+id: a2820153-67d8-4791-8970-a0fa75e63ff5
+title: 'Eidolon Mesh v4.5: Coordinate Mesh Architecture & License Removal'
+summary: >-
+  The development of Eidolon Mesh v4.5 focuses on a 'coordinate-first' architecture, prioritizing
+  semantic coordinates and cross-mesh interoperability. This involves removing license gates,
+  implementing multi-model embedding support with Nomic as primary, and establishing a coordinate
+  transmission module for federation.
+insights:
+  - Eidolon Mesh v4.5 is evolving towards a coordinate-first, federation-ready architecture.
+  - Key development involves removing license/Pro gating to promote open access.
+  - >-
+    The new version will support multi-model embeddings, with Nomic as the primary choice and Gemini
+    as a fallback.
+  - >-
+    A coordinate transmission module is being created to enable cross-mesh communication and
+    'telepathy'.
+  - >-
+    The core philosophy emphasizes coordinates over text, open defaults, and natural emergence of
+    the mesh.
+  - Development includes updating the database schema and embedding functions to be model-aware.
+tags:
+  - '#eidolonmesh'
+  - '#architecture'
+  - '#development'
+  - '#coordinates'
+  - '#interoperability'
+  - '#open-source'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:13:55.345Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
