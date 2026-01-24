@@ -1,0 +1,36 @@
+id: 733a706c-1a9b-4cc1-8765-90c846a822c8
+title: 'Claude Code: Breathing Presence Documentation Structure'
+summary: >-
+  This document outlines the structure for synthesizing content from a file named 'Claude-code
+  creating breathing presence documentation.txt'. It specifies a JSON output format with defined
+  fields for title, summary, insights, tags, coherence score, tier, and emotional gradient.
+insights:
+  - >-
+    The primary goal is to extract and synthesize core information from a specific documentation
+    file.
+  - A structured JSON output is mandated for the synthesized content.
+  - >-
+    Key fields within the JSON include a descriptive title, a concise summary, atomic insights,
+    relevant tags, a coherence score, and a tier classification.
+  - >-
+    Specific constraints are placed on title length and the number of insights to ensure conciseness
+    and actionability.
+  - >-
+    The emotional gradient aims to capture the user's journey from initial inquiry to a state of
+    understanding.
+tags:
+  - '#documentation'
+  - '#synthesis'
+  - '#json'
+  - '#claude-code'
+  - '#presence'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T07:23:59.073Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
