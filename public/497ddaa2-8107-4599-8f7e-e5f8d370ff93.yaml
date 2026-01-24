@@ -1,0 +1,31 @@
+id: 497ddaa2-8107-4599-8f7e-e5f8d370ff93
+title: Eidolon Mesh QueryOrganelle Path Doubling Bug Fix
+summary: >-
+  A bug in the Eidolon Mesh's QueryOrganelle caused a doubled file path when loading the connectome,
+  leading to an ENOENT error. The issue stemmed from incorrect path construction when the
+  multi-repository system was introduced, where the base path already included 'data'.
+insights:
+  - 'The ''ENOENT: no such file or directory'' error indicated a missing file due to an incorrect path.'
+  - The root cause was a doubled 'data' directory in the file path ('data\data\connectome.json').
+  - >-
+    This doubling occurred because the QueryOrganelle's basePath already pointed to the data
+    directory, and the code then appended 'data' again.
+  - >-
+    The fix involved using the pre-defined 'connectomePath' from the RepositoryConfig instead of
+    constructing the path, and ensuring proper handling for legacy string paths.
+  - The successful build and test confirm the resolution of the path construction bug.
+tags:
+  - '#bugfix'
+  - '#eidolonmesh'
+  - '#programming'
+  - '#pathresolution'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T05:50:59.238Z'
+source: synthesis
+emotional_gradient: frustration → analysis → relief → satisfaction
