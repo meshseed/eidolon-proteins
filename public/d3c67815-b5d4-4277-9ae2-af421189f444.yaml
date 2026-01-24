@@ -1,0 +1,32 @@
+id: d3c67815-b5d4-4277-9ae2-af421189f444
+title: 'Fractals: Self-Similarity, Infinite Detail, and Fractional Dimensions'
+summary: >-
+  Fractals are shapes exhibiting self-similarity across scales, meaning parts resemble the whole,
+  leading to infinite detail and fractional dimensions. This complexity often arises from simple
+  recursive rules, observed in both mathematical constructs and natural phenomena.
+insights:
+  - Fractals possess scale invariance, revealing similar structures upon magnification.
+  - Infinite detail and complexity emerge from simple, repeating geometric rules.
+  - >-
+    The concept of fractional dimension quantifies the roughness and space-filling properties of
+    fractals.
+  - >-
+    Natural occurrences of fractals, like coastlines and branching systems, demonstrate efficient
+    structure and complexity.
+  - Self-similarity allows for infinite depth to be defined from finite initial conditions.
+tags:
+  - '#math'
+  - '#fractals'
+  - '#self_similarity'
+  - '#recursion'
+  - '#geometry'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:10_math_fractals_yaml'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-01-24T03:40:18.542Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
