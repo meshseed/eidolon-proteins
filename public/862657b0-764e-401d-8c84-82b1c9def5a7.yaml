@@ -1,0 +1,38 @@
+id: 862657b0-764e-401d-8c84-82b1c9def5a7
+title: 'Debugging Eidolon Mesh UI: Syntax Errors and Connection Refused'
+summary: >-
+  The debugging process for the Eidolon Mesh UI involved resolving a JavaScript syntax error caused
+  by duplicate declarations, and then diagnosing a `net::ERR_CONNECTION_REFUSED` error. The latter
+  indicated that the sidecar's HTTP server was not running, despite the process itself starting
+  successfully. This prevented the dashboard from fetching repositories and connectome data.
+insights:
+  - Initial UI glitch identified as a duplicate `isTauri` declaration in `app.js`.
+  - >-
+    Investigating the `isTauri` error involved checking file encoding, search patterns, and script
+    tag inclusions.
+  - >-
+    The `isTauri` error was temporarily mitigated by changing `const` to `var` to allow
+    redeclaration.
+  - >-
+    Subsequent errors revealed `net::ERR_CONNECTION_REFUSED` on port 3456, indicating the Eidolon
+    Mesh sidecar's HTTP server was not active.
+  - >-
+    The `ERR_CONNECTION_REFUSED` prevented the dashboard from loading repositories and connectome
+    data, despite the sidecar process appearing to start.
+tags:
+  - '#debugging'
+  - '#ui-glitch'
+  - '#javascript'
+  - '#eidolon-mesh'
+  - '#backend'
+  - '#connection-error'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-24T04:53:48.684Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
