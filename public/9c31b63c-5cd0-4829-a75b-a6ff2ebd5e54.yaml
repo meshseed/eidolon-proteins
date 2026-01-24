@@ -1,0 +1,37 @@
+id: 9c31b63c-5cd0-4829-a75b-a6ff2ebd5e54
+title: 'AI Agent Interaction Guidelines: Character Limits and Protocol'
+summary: >-
+  This document outlines character limit recommendations for AI agent turns to ensure readability
+  and prevent rate-limiting, suggesting shorter limits for summaries and longer ones for synthesis.
+  It also proposes a 'D&D-table' protocol with defined phases and character caps for structured
+  agent interaction and evaluation.
+insights:
+  - >-
+    Maintain character limits of 1000-1200 for agent turns and 500-700 for summaries to optimize
+    readability and system performance.
+  - Utilize longer turns (up to 2000 characters) for complex synthesis or narrative recaps.
+  - >-
+    Adopt a structured 'D&D-table' protocol with distinct phases (Setup, Turn, Weaver, Reflection)
+    and character caps for systematic AI agent dialogue.
+  - >-
+    Evaluate AI interactions based on coherence, divergence, and compression to assess the
+    effectiveness of the protocol.
+  - >-
+    The protocol aims to facilitate building on previous turns, identifying stylistic differences,
+    and achieving concise synthesis.
+tags:
+  - '#ai'
+  - '#protocol'
+  - '#guidelines'
+  - '#characterlimits'
+  - '#agentinteraction'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_thinking_text_explained_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T05:02:28.354Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
