@@ -1,0 +1,46 @@
+id: 27f475d9-1b64-43f2-84d0-09b96269d2b3
+title: Eidolon-Mesh Deployment & Connectome Integration Plan
+summary: >-
+  This plan outlines the deployment strategy for Eidolon-Mesh, focusing on integrating a large
+  consciousness connectome into the research hub. It details verification steps, command sequences
+  for building and merging code, potential issues and their solutions, and a timeline for successful
+  site launches.
+insights:
+  - >-
+    Verification checklists ensure both the personal garden (eidolon-mesh.net) and research hub
+    (app.eidolon-mesh.net) meet functional requirements, including protein loading, context
+    expansion, and mobile responsiveness.
+  - >-
+    Deployment involves creating a clean branch, verifying the build, merging to main, and then
+    updating Cloudflare DNS to point the app subdomain to the new deployment, contingent on
+    user-provided connectome data.
+  - >-
+    Potential issues like cherry-pick conflicts, build failures, Cloudflare deployment problems, and
+    large JSON file sizes have defined solutions, including specific git commands, dependency
+    reinstallation, and JSON optimization techniques.
+  - >-
+    The timeline is divided into immediate tasks (branch creation, verification), user-dependent
+    actions (connectome export), and subsequent Claude-Code execution (merging, deployment), aiming
+    for both sites to be live on the same day.
+  - >-
+    Key notes emphasize avoiding network search code modifications, the safety of the clean branch
+    build, the simplicity of the JSON swap for the large connectome, and the need to wait for the
+    user to provide the consciousness_connectome.json file.
+tags:
+  - '#eidolonmesh'
+  - '#deployment'
+  - '#connectome'
+  - '#cloudops'
+  - '#devops'
+  - '#researchhub'
+  - '#personalpresence'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:13:29.822Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
