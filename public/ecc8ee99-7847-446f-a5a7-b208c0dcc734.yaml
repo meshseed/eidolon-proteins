@@ -1,0 +1,38 @@
+id: ecc8ee99-7847-446f-a5a7-b208c0dcc734
+title: 'Tri-Lens Ingestion: Emotional, Structural, and Technical Synthesis of Deployment Failure'
+summary: >-
+  The 'Auto-Triangulate' feature successfully generated three distinct proteins from a single test
+  file: 'Deployment Failure: Memory Leak, Prioritization Dilemma, and Personal Betrayal'
+  (Emotional), 'Redis Memory Leak in Deployment: Pointer Issue Caused Deployment Failure'
+  (Technical), and 'Deployment Failure Analysis: Redis Memory Leak & Prioritization Error' (Custom
+  High Stakes Military Briefing). This demonstrates the system's ability to capture multifaceted
+  perspectives of the same event.
+insights:
+  - >-
+    The 'Auto-Triangulate' feature automates the generation of multiple, geometrically distinct
+    proteins from a single document.
+  - >-
+    The Emotional lens captures subjective experience, highlighting feelings like dread and
+    betrayal.
+  - The Technical lens focuses on objective root causes, such as memory leaks and pointer issues.
+  - The Military briefing lens reframes the event as an operational risk assessment.
+  - >-
+    This multi-perspective synthesis allows for richer querying and a more nuanced understanding of
+    complex events.
+tags:
+  - '#ingestion'
+  - '#multipass'
+  - '#lensing'
+  - '#testing'
+  - '#development'
+  - '#qol'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T03:19:18.515Z'
+source: synthesis
+emotional_gradient: curiosity → implementation → validation → insight
