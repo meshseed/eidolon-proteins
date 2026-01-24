@@ -1,0 +1,37 @@
+id: 37e61962-b3b7-4137-be1f-cbf6286c23b7
+title: Restored and Enhanced Context Management in Eidolon Mesh v3.6
+summary: >-
+  Eidolon Mesh v3.6 has been updated to restore and significantly improve its context management by
+  reducing conversation history turns to 3 and increasing protein context limits to 150,000
+  characters for Gemini API, while maintaining 6,000 for local LLMs. This enhances response quality
+  by allowing more protein knowledge to be utilized.
+insights:
+  - >-
+    v3.6 context management restored and improved post-rollback, enhancing protein synthesis
+    quality.
+  - >-
+    Reduced conversation history to 3 turns triggers synthesis, freeing up space for larger protein
+    contexts.
+  - >-
+    Protein context window dynamically adjusts based on LLM provider (150,000 chars for Gemini,
+    6,000 for local).
+  - Visual cues and pulsing animation added to prompt manual synthesis after 3 exchanges.
+  - >-
+    Significant increase in usable protein knowledge (25x for Gemini) leads to dramatically improved
+    response generation.
+tags:
+  - '#eidolonmesh'
+  - '#contextmanagement'
+  - '#llm'
+  - '#protein'
+  - '#api'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T03:13:48.039Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → empowerment
