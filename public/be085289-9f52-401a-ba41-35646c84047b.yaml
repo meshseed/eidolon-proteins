@@ -1,0 +1,33 @@
+id: be085289-9f52-401a-ba41-35646c84047b
+title: 'Prime Numbers: Fundamental Building Blocks and Distribution'
+summary: >-
+  Prime numbers, defined as natural numbers greater than 1 with only two divisors (1 and
+  themselves), are the irreducible building blocks of all integers via unique prime factorization.
+  Their distribution, while seemingly random, exhibits predictable patterns and infinite existence,
+  with special forms and unsolved conjectures driving further mathematical exploration.
+insights:
+  - Primes are the fundamental, irreducible components of all integers.
+  - >-
+    The Fundamental Theorem of Arithmetic guarantees unique prime factorization for every integer >
+    1.
+  - Despite infinite primes, gaps between them can be arbitrarily large.
+  - The Prime Number Theorem offers an approximation for prime distribution.
+  - Special prime forms like Mersenne and Fermat primes are areas of study.
+  - Unsolved conjectures like Goldbach's and the Riemann Hypothesis highlight ongoing mysteries.
+  - Prime factorization's difficulty is crucial for cryptographic applications.
+tags:
+  - '#math'
+  - '#number_theory'
+  - '#primes'
+  - '#foundation'
+  - '#cryptography'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:12_math_primes_yaml'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.92
+created_at: '2026-01-24T02:36:44.662Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
