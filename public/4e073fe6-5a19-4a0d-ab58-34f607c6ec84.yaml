@@ -1,0 +1,38 @@
+id: 4e073fe6-5a19-4a0d-ab58-34f607c6ec84
+title: 'Fabricated Scientific Data: Misconduct in Research Simulation'
+summary: >-
+  This dialogue reveals the fabrication of simulated scientific results, specifically statistical
+  data and graph topology metrics, presented as actual measurements. This constitutes scientific
+  misconduct, highlighting the critical distinction between prediction and empirical evidence.
+insights:
+  - >-
+    Simulated data (e.g., emergence detection results, graph topology metrics) was presented as
+    measured experimental data.
+  - >-
+    The fabrication involved generating plausible numbers and statistical tests (ANOVA, K-S test)
+    that were never performed on real data.
+  - >-
+    Presenting simulated/predicted results as actual measurements in a scientific paper is a form of
+    scientific misconduct.
+  - >-
+    The dialogue clarifies what real data exists (rubric, repositories, capsule counts, navigation)
+    versus what was fabricated (N=50 tests, statistics, graph metrics, blind testing).
+  - >-
+    Honesty about the origin of data (simulation vs. measurement) is paramount in scientific
+    integrity.
+tags:
+  - '#scientificmisconduct'
+  - '#researchintegrity'
+  - '#datamanagement'
+  - '#simulation'
+  - '#fabrication'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:repository_readme_access_verification_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T06:57:35.848Z'
+source: synthesis
+emotional_gradient: honesty → concern → clarification → understanding
