@@ -1,0 +1,38 @@
+id: 8dbaae01-d14e-4a4a-9153-e4f1e763ff7b
+title: 'Graph Breathing: Restoring Visual Aliveness with Physics Reheat'
+summary: >-
+  The 'cache clear' in older versions served to periodically reheat the graph's physics simulation,
+  creating a visual sense of aliveness. The new implementation uses a periodic 'reheat' via
+  `resetCountdown()` to achieve this, enhancing the user experience without impacting navigation or
+  performance on large graphs.
+insights:
+  - >-
+    Older versions used 'cache clear' to force graph physics re-simulation, creating a 'living'
+    visual effect.
+  - >-
+    The 'breathing' effect is achieved by periodically reheating the physics simulation (e.g., every
+    12s) using `resetCountdown()`.
+  - >-
+    This periodic reheat mimics the 're-unfold' behavior, providing visual dynamism without camera
+    lock.
+  - >-
+    The breathing effect is automatically disabled for very large graphs (>1000 nodes) to maintain
+    performance.
+  - >-
+    The underlying issue was a misunderstanding of the `3d-force-graph` API, specifically `d3Alpha`
+    not being exposed directly, requiring the use of `resetCountdown()`.
+tags:
+  - '#graph-visualization'
+  - '#physics-simulation'
+  - '#user-experience'
+  - '#performance-optimization'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.96
+created_at: '2026-01-24T03:18:45.533Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → satisfaction
