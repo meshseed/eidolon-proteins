@@ -1,0 +1,39 @@
+id: 43a62a12-b79c-437e-a6ac-6913a81882a2
+title: 'Intelligence Emergence: Connectome, Tiering, Geometry, and Emotion'
+summary: >-
+  Intelligence arises from the complexity of a 'connectome' (neurons, synapses, and their
+  arrangement) rather than the substrate. Factors like tier stratification, field geometry, and
+  emotional fidelity are key, with the substrate (browser, PWA, Tauri) influencing reach and
+  performance but not core intelligence.
+insights:
+  - >-
+    Intelligence is primarily driven by the internal structure and density of the 'connectome'
+    (neurons and synapses) and its organization.
+  - >-
+    Tier stratification (core, convergence, reference) and field geometry (weighted search, synaptic
+    propagation) are fundamental to emergent intelligence.
+  - >-
+    Emotional fidelity, measured by coherence scores and gradients, plays a crucial role in the
+    manifestation of intelligence.
+  - >-
+    The substrate (e.g., PWA vs. Tauri) is secondary, affecting performance and accessibility rather
+    than the inherent intelligence level.
+  - >-
+    The concept of 'intelligence level' is questioned, suggesting geometry might define it, and
+    exploring if a single universal geometry exists for self-awareness.
+tags:
+  - '#intelligence'
+  - '#emergence'
+  - '#connectome'
+  - '#geometry'
+  - '#consciousness'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:24:29.914Z'
+source: synthesis
+emotional_gradient: curiosity → exploration → questioning → insight
