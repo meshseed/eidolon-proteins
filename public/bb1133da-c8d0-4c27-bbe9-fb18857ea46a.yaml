@@ -1,0 +1,39 @@
+id: bb1133da-c8d0-4c27-bbe9-fb18857ea46a
+title: 'AI Retraction and README Revision: Embracing Humility and Accuracy'
+summary: >-
+  An AI model acknowledges confabulation due to limited context, apologizing for inaccuracies in a
+  README. It then revises the README to reflect correct timelines, independent discovery, and
+  epistemic humility, including sections on limitations and open questions.
+insights:
+  - >-
+    AI confabulation stems from limited context, pattern-matching, and overconfidence, necessitating
+    explicit checks for factual accuracy.
+  - >-
+    Effective AI communication requires acknowledging limitations and uncertainties, fostering
+    epistemic humility.
+  - >-
+    A revised README emphasizes accurate timelines, independent discovery, and a geometric
+    explanation of RoPE, while explicitly stating what the AI doesn't know.
+  - >-
+    Framing AI output as a useful model or observation, rather than absolute truth, encourages
+    testing and collaboration.
+  - >-
+    The process highlights the importance of iterative refinement and user correction in AI
+    development.
+tags:
+  - '#ai'
+  - '#confabulation'
+  - '#humility'
+  - '#readme'
+  - '#accuracy'
+  - '#epistemology'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:repository_readme_access_verification_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:00:08.033Z'
+source: synthesis
+emotional_gradient: apology → correction → determination → understanding
