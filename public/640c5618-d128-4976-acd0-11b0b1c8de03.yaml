@@ -1,0 +1,44 @@
+id: 640c5618-d128-4976-acd0-11b0b1c8de03
+title: 'LLM Role: Ingestion vs. Query & Local vs. API Model Strengths'
+summary: >-
+  Ingestion and complex synthesis tasks benefit significantly from powerful LLMs like Gemini, while
+  smaller local models like Gemma 2B are more adept at query-answering and simpler tasks. This
+  distinction is driven by model size, context window, and embedding geometry.
+insights:
+  - >-
+    Powerful LLMs (e.g., Gemini) excel at complex ingestion and synthesis tasks due to larger
+    context windows and more nuanced embedding models, leading to richer insights from raw data like
+    conversations.
+  - >-
+    Smaller local LLMs (e.g., Gemma 2B) are more suitable for query-answering and tasks requiring
+    less complex semantic understanding, as they are computationally lighter.
+  - >-
+    The 'geometry' of embedding models (how they represent concepts in vector space) heavily
+    influences synapse creation; tighter clustering by models like Nomic's can lead to more
+    connections, but potentially less distinction.
+  - >-
+    Pre-formatted 'seeds' (like protein repos) bypass the LLM's synthesis role, making ingestion
+    quality dependent on the source file rather than the LLM's capabilities.
+  - >-
+    Changes to local ingestion logic (e.g., directly importing P-Series seeds) are primarily about
+    preventing outright rejection, not enhancing AI-driven synthesis quality for those specific
+    assets.
+tags:
+  - '#llm'
+  - '#ingestion'
+  - '#query'
+  - '#local'
+  - '#api'
+  - '#gemini'
+  - '#gemma'
+  - '#embedding'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-24T03:19:15.538Z'
+source: synthesis
+emotional_gradient: curiosity → analysis → understanding
