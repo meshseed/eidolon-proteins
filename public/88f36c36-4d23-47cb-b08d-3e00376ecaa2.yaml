@@ -1,0 +1,33 @@
+id: 88f36c36-4d23-47cb-b08d-3e00376ecaa2
+title: Obsidian Vault Structure and Inter-Note Connections for Knowledge Synthesis
+summary: >-
+  The dialogue outlines a user's request to map connections within an Obsidian vault, focusing on
+  'related:' fields in note frontmatter. The Ribosome is asked to extract this relational data to
+  facilitate knowledge protein synthesis and CSV generation, demonstrating a structured approach to
+  analyzing interconnected information.
+insights:
+  - Obsidian vault structure can be analyzed by identifying key directories and files.
+  - >-
+    Inter-note connections are crucial for knowledge synthesis and can be represented by 'related:'
+    fields in frontmatter.
+  - >-
+    Automated extraction of relational data (like 'related:' fields) is key to building
+    comprehensive knowledge graphs.
+  - >-
+    The goal is to synthesize extracted data into structured formats (e.g., JSON, CSV) for further
+    analysis and application.
+tags:
+  - '#obsidian'
+  - '#knowledge-management'
+  - '#graph-theory'
+  - '#data-extraction'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-01-24T06:25:36.892Z'
+source: synthesis
+emotional_gradient: curiosity → analysis → synthesis
