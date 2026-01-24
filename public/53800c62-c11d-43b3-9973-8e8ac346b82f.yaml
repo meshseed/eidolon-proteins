@@ -1,0 +1,37 @@
+id: 53800c62-c11d-43b3-9973-8e8ac346b82f
+title: 'Eidolon Mesh Protein Synthesis Fix: Nucleus Archive and Public Export'
+summary: >-
+  A bug in the Eidolon Mesh protein synthesis process, where public proteins were not fully archived
+  in the nucleus, has been resolved. The fix ensures all proteins are always saved to the nucleus
+  (eidolon) as a complete archive, with public proteins additionally copied to the cytoplasm
+  (eidolon-mesh).
+insights:
+  - >-
+    The core issue was an asymmetric protein synthesis logic, failing to save public proteins to the
+    'nucleus' (eidolon) archive.
+  - The biological parallel of nuclear retention and cytoplasmic export was not being fully met.
+  - >-
+    The corrected logic mandates that all synthesized proteins are first committed to the eidolon
+    (nucleus) for a complete private archive.
+  - >-
+    Publicly tagged proteins are now conditionally copied (exported) to the eidolon-mesh (cytoplasm)
+    after nuclear archival.
+  - >-
+    This ensures the nucleus always holds the master copy of all DNA and proteins, while the
+    cytoplasm receives only public data copies.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#protein_synthesis'
+  - '#bugfix'
+  - '#public'
+  - '#biology'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T03:07:07.280Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
