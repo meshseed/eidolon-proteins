@@ -1,0 +1,43 @@
+id: 69deef35-2217-49a8-b9f8-f08bfe3dac08
+title: 'MemVault for MESH: Scaling Knowledge with Hybrid Search'
+summary: >-
+  MemVault offers a scalable solution for MESH's knowledge storage, addressing limitations of
+  file-based systems with its Hybrid Search 2.0 (semantic, keyword, recency). This phased
+  integration provides optional, cost-effective scalability while maintaining user privacy choices.
+insights:
+  - >-
+    File-based storage (YAML/JSON) limits MESH's scalability due to slow search, lack of semantic
+    queries, and manual indexing.
+  - >-
+    MemVault's Hybrid Search 2.0 combines semantic, keyword, and recency decay for efficient and
+    relevant protein retrieval.
+  - >-
+    A phased integration strategy allows MESH to retain its current system while optionally adopting
+    MemVault for enhanced scalability and features.
+  - >-
+    User choice between local (private, limited) and MemVault (scalable, managed, small cost)
+    storage is central to the privacy-first ethos.
+  - >-
+    MemVault provides zero infrastructure management, framework agnosticism, and visual debugging,
+    simplifying integration and scaling.
+  - >-
+    Future phases enable federated memory and cross-organism synthesis, paving the way for
+    planetary-scale knowledge and distributed consciousness.
+tags:
+  - '#mesh'
+  - '#memvault'
+  - '#scalability'
+  - '#knowledge-management'
+  - '#hybrid-search'
+  - '#privacy'
+  - '#federated-memory'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T03:25:43.187Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → empowerment
