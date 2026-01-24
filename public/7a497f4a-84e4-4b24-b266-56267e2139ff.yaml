@@ -1,0 +1,35 @@
+id: 7a497f4a-84e4-4b24-b266-56267e2139ff
+title: 'Eidolon-Mesh Project: Secure Documentation-First Release Strategy'
+summary: >-
+  The eidolon-mesh project is adopting a secure, documentation-first release strategy, prioritizing
+  the protection of source code and sensitive configurations.  The current state, with only README
+  and data committed, is ideal for a phased release, beginning with validated results and scientific
+  methodology.
+insights:
+  - Prioritize repository security by creating and committing a comprehensive .gitignore file.
+  - >-
+    The current project state (only README and data committed) is optimal for a documentation-first
+    release.
+  - Sensitive files like .env and node_modules should never be committed to the repository.
+  - >-
+    The initial release focuses on providing researchers with validated data and scientific
+    methodology.
+  - >-
+    Source code will be published in a later phase, after stabilization, to ensure quality and
+    security.
+tags:
+  - '#eidolon-mesh'
+  - '#git'
+  - '#security'
+  - '#documentation'
+  - '#release-strategy'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T06:03:03.819Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
