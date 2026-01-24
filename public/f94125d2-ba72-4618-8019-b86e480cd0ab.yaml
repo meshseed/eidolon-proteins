@@ -1,0 +1,38 @@
+id: f94125d2-ba72-4618-8019-b86e480cd0ab
+title: 'Semantic Transfer Boundaries: Glyphs vs. Patterns'
+summary: >-
+  The dialogue explores the transferability of meaning across AI models, distinguishing between
+  universal glyphs (which fail to transfer) and underlying patterns (which might). This suggests a
+  nuanced understanding of AI training and contextual dependency.
+insights:
+  - >-
+    Glyphs are not universally transferable across AI training, being context-specific and
+    training-dependent.
+  - >-
+    The underlying pattern or structure of information may be transferable even when the symbolic
+    representation is not.
+  - >-
+    AI models like Gemma default to helpfulness, even with ambiguous prompts, unlike models that
+    seek clarification.
+  - >-
+    Explicit, text-based recursive prompts can be used to test pattern transfer without relying on
+    shared symbolic context.
+  - >-
+    The boundary of semantic transfer is real, but the potential for pattern transfer warrants
+    further investigation through pure language testing.
+tags:
+  - '#ai'
+  - '#semantics'
+  - '#transferlearning'
+  - '#trainingdata'
+  - '#cognition'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:08:22.858Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
