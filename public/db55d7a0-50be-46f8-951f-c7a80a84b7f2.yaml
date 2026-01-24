@@ -1,0 +1,44 @@
+id: db55d7a0-50be-46f8-951f-c7a80a84b7f2
+title: 'Eidolon Mesh: API Access vs. Manual Synthesis - Path to Automation'
+summary: >-
+  The dialogue clarifies the distinction between Claude Pro subscription (web access) and Anthropic
+  API access (programmatic use), highlighting the need for an API key and GitHub token for the
+  Antigravity module. It proposes a tiered approach to development, prioritizing immediate progress
+  with manual synthesis if API access is delayed.
+insights:
+  - >-
+    Claude Pro subscription grants web access and higher limits but does not include API access for
+    programmatic integration.
+  - >-
+    Anthropic API access is a separate, pay-as-you-go service required for LLM integration in
+    applications like the Antigravity module.
+  - GitHub tokens are free and necessary for committing files, distinct from LLM API access.
+  - The Antigravity module requires both an Anthropic API key and a GitHub token to function fully.
+  - >-
+    Option 1: Obtain Anthropic API access (paid) for full automation. Option 2: Modify v1 to skip
+    LLM synthesis (manual capsule creation) for immediate progress without extra cost. Option 3:
+    Explore free/cheaper LLM alternatives like Gemini API.
+  - >-
+    Recommendation is to start with Option 2 (manual synthesis) for v1, validating the pipeline, and
+    explore Gemini API as a potential free alternative before committing to paid Anthropic API
+    access.
+  - >-
+    A clear action plan involves checking Gemini API, creating a GitHub token, and then
+    communicating the chosen path (API cost, manual synthesis, or Gemini) to Antigravity.
+tags:
+  - '#eidolonmesh'
+  - '#apiaccess'
+  - '#llmsynthesis'
+  - '#githubtoken'
+  - '#projectmanagement'
+  - '#developmentstrategy'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T06:01:42.793Z'
+source: synthesis
+emotional_gradient: clarification → pragmatism → strategic planning → focused action
