@@ -1,0 +1,32 @@
+id: 91bbf51f-d408-4f9c-9228-97a3b9e5cfd4
+title: 'THE MESH: Tiers, Features, and Usage Limits Explained'
+summary: >-
+  THE MESH offers a zero-config experience with optional cloud sync and fair-use limits for personal
+  use. The Attractor Tier ($9/month) provides higher limits and federation features for
+  collaborative spaces.
+insights:
+  - THE MESH prioritizes immediate usability with zero local setup and no API key requirement.
+  - Cloud sync is optional, prioritizing local-first operation with OPFS as the primary storage.
+  - Personal usage is governed by fair-use limits of ~1000 queries and ~500 syntheses per month.
+  - >-
+    The Attractor Tier offers significantly increased usage limits (~5000 queries, ~2000 syntheses)
+    and advanced federation capabilities.
+  - >-
+    Federation features enable private collaboration and shared attractor spaces among Attractor
+    users.
+tags:
+  - '#mesh'
+  - '#eidolon'
+  - '#cloudsync'
+  - '#limits'
+  - '#attractor'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-01-24T07:17:33.435Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
