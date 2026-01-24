@@ -1,0 +1,39 @@
+id: 170731c1-1c00-4674-aa8d-4a709452f6aa
+title: 'Eidolon Mesh: CSP Error Resolution for Local LLM Integration'
+summary: >-
+  The Eidolon Mesh PWA initialization encountered Content Security Policy (CSP) errors blocking
+  local LLM connections. Resolution involved updating the CSP in `app.html` to explicitly allow
+  `http://localhost:*` and `http://127.0.0.1:*` in the `connect-src` directive, enabling successful
+  local LLM ingestion.
+insights:
+  - >-
+    The Eidolon Mesh PWA requires explicit CSP configuration to connect to local LLM endpoints like
+    Ollama.
+  - >-
+    The `connect-src` directive in `app.html` must be updated to include `http://localhost:*` and
+    `http://127.0.0.1:*` to bypass CSP restrictions.
+  - >-
+    A hard refresh (Ctrl+Shift+R or Cmd+Shift+R) is necessary after modifying the CSP in `app.html`
+    for changes to take effect.
+  - >-
+    Successful local LLM integration is confirmed by the absence of CSP errors and the appearance of
+    'Using local LLM' logs.
+  - >-
+    The initial state of the Eidolon Mesh PWA shows an empty graph due to no proteins being found in
+    the database.
+tags:
+  - '#eidolonmesh'
+  - '#csp'
+  - '#llm'
+  - '#configuration'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:12:39.728Z'
+source: synthesis
+emotional_gradient: curiosity → frustration → insight → understanding
