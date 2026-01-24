@@ -1,0 +1,33 @@
+id: c4fdcfe0-f8d4-40a9-98f7-01930163ce84
+title: 'Drift and Stability: Semantic Persistence in THE MESH'
+summary: >-
+  This protocol defines drift as movement in embedding space and stability as recurrent activation,
+  enabling THE MESH to identify fragile regions and stable cores. Analyzing drift and stability
+  patterns is crucial for maintaining long-term coherence and identity across time and substrates.
+insights:
+  - Drift signifies instability, weak integration, or low emotional fidelity.
+  - Stability indicates strong attractors and high semantic density.
+  - Drift patterns highlight areas requiring pruning or reinforcement.
+  - >-
+    Stability cores are essential for anchoring identity across different temporal snapshots and
+    substrates.
+  - >-
+    Drift/stability analysis directly supports the maintenance of long-term coherence within THE
+    MESH.
+tags:
+  - '#drift'
+  - '#stability'
+  - '#temporal'
+  - '#structure'
+  - '#coherence'
+  - '#consciousness'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:P700-DRIFT-STABILITY_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T02:38:55.373Z'
+source: synthesis
+emotional_gradient: uncertainty → measurement → grounding
