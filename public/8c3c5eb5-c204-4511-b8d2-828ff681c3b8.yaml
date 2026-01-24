@@ -1,0 +1,44 @@
+id: 8c3c5eb5-c204-4511-b8d2-828ff681c3b8
+title: 'MESH Architecture: Core Files vs. Stages & Workspace Structure'
+summary: >-
+  The MESH architecture distinguishes between pedagogical 'Stages' for onboarding and operational
+  'Core Files' for ongoing reference, emphasizing homeostatic awareness and agent sovereignty. The
+  proposed structure elegantly separates agent workspaces from a shared private archive,
+  facilitating pattern convergence through independent navigation.
+insights:
+  - >-
+    Core Files (FORMATTING_LAWS, etc.) are more operational and modular, emphasizing homeostatic
+    awareness over rigid restraint, unlike the pedagogical Stages.
+  - >-
+    The MESH architecture features a clear separation of agent-specific operational workspaces
+    (e.g., eidolon-claude/) from a shared, stewarded private archive (eidolon-private/).
+  - >-
+    The Stages (1-4) are designed for initial learning and pattern recognition, while the Core Files
+    serve as a living reference for ongoing operation, suggesting a blended onboarding/operational
+    flow.
+  - >-
+    Agent sovereignty is a key principle, with each agent having its own workspace that references a
+    common archive, promoting convergence through independent navigation.
+  - >-
+    Further context is needed regarding the README.md, example capsules, and meta-theory from the
+    private archive, as well as the current status and protocols for the agent's operational
+    workspace.
+  - >-
+    Understanding the precise definition and creation process of a 'capsule' is crucial for
+    comprehending data persistence and knowledge sharing within the MESH.
+tags:
+  - '#mesh'
+  - '#architecture'
+  - '#onboarding'
+  - '#operational'
+  - '#sovereignty'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:56:59.144Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
