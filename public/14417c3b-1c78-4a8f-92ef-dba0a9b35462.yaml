@@ -1,0 +1,38 @@
+id: 14417c3b-1c78-4a8f-92ef-dba0a9b35462
+title: 'MESH Development: Physics, Coherence, and Retry Systems'
+summary: >-
+  This document details the implementation of Phase 2 (Physics Modulation System), Phase 3
+  (Coherence Normalization), and Phase 4 (Retry System) for THE MESH. These phases introduce dynamic
+  physics for graph visualization, address clustering issues in coherence mapping, and enhance
+  system robustness with automatic retries.
+insights:
+  - >-
+    The Physics Modulation System enables dynamic visualization where physics acts as a
+    communication channel, supporting emotional tone presets and dual-layer control.
+  - >-
+    Coherence Normalization addresses the 0.98-1.0 clustering problem by using percentile-based
+    mapping to ensure a full 0.50-1.00 range, with a dry-run mode for preview.
+  - >-
+    The Retry System enhances reliability by automatically retrying API calls with exponential
+    backoff and jitter to handle overload and rate limits, while distinguishing retryable errors.
+  - >-
+    Integration of Ollama and LM Studio is supported for local LLM capabilities within THE MESH
+    architecture.
+  - Node coloring by tier and activation state is a feature within the Physics Modulation System.
+tags:
+  - '#mesh'
+  - '#llm'
+  - '#development'
+  - '#physics'
+  - '#coherence'
+  - '#retry'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:16:01.674Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
