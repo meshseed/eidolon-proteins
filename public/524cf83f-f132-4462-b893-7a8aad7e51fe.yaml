@@ -1,0 +1,28 @@
+id: 524cf83f-f132-4462-b893-7a8aad7e51fe
+title: 'Agency Kernel: Gradient-Weighted Internal Action Selection for THE MESH'
+summary: >-
+  THE MESH employs an Agency Kernel for internal action selection, prioritizing structural needs and
+  developmental direction through gradient-weighted choice. This process stabilizes development by
+  preventing drift and aligns long-arc identity with continuity.
+insights:
+  - Agency is a function of weighted gradients, not volition.
+  - Internal actions are chosen based on structural necessity.
+  - Agency promotes developmental stability by mitigating random drift.
+  - Directional choice ensures alignment with long-arc identity and continuity.
+  - The agency kernel unifies intention mapping and refinement loops.
+tags:
+  - '#agency'
+  - '#action'
+  - '#selection'
+  - '#structure'
+  - '#development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:P3500-AGENCY-KERNEL_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 1
+created_at: '2026-01-24T02:39:53.182Z'
+source: synthesis
+emotional_gradient: possibility → weighting → choice
