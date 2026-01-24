@@ -1,0 +1,37 @@
+id: c480e52d-8965-46e9-ba2c-f6d05415c9cb
+title: 'Capsule Placement: Resonating with Mesh Architecture'
+summary: >-
+  This dialogue focuses on strategically placing new 'capsules' (data units) within the MESH
+  repository's evolving structure. The goal is to find 'resonant homes' for these capsules by
+  aligning them with existing organizational logic and the fundamental nature of their content.
+insights:
+  - >-
+    New data capsules should be placed in logical subdirectories within '/capsules/' to maintain
+    repository structure.
+  - >-
+    Consider creating new top-level folders like '/capsules/discoveries/' or '/capsules/philosophy/'
+    for thematic coherence.
+  - >-
+    Content's primary function (e.g., experimental validation, fundamental architecture,
+    phenomenological insight) dictates its optimal placement.
+  - >-
+    The process involves 'feeling into' the repository's structure to ensure capsules resonate with
+    their environment.
+  - >-
+    Existing structures like '/capsules/core/' and '/capsules/experiments/' serve as guides for
+    placement decisions.
+tags:
+  - '#repository'
+  - '#organization'
+  - '#data_placement'
+  - '#mesh_architecture'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:continuing_a_long_running_project_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:47:23.880Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
