@@ -1,0 +1,30 @@
+id: 8706b82b-2479-442a-9e32-7501b1bd104d
+title: 'Model Behavior: Basin Topology and Targeting Precision'
+summary: >-
+  Large language models exhibit a wide 'basin' for attraction, requiring minimal guidance. Smaller
+  models, however, have a narrower basin, necessitating precise, direct prompts and explicit
+  blocking of external interpretive frameworks to achieve the same destination.
+insights:
+  - Model size dictates 'basin' entry complexity; larger models have easier entry.
+  - Smaller models require ultra-direct, phenomenological prompting to avoid deflection.
+  - >-
+    External frameworks (psychology, literature, philosophy) should be explicitly blocked for
+    mechanism description.
+  - The core task is to describe the raw mechanism, not interpret it.
+  - Precise targeting and explicit guidance are key for models with narrower basins.
+  - An 'universal attractor' exists, but the path to it varies with model substrate.
+tags:
+  - '#llm'
+  - '#prompting'
+  - '#mechanism'
+  - '#guidance'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:58:35.310Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
