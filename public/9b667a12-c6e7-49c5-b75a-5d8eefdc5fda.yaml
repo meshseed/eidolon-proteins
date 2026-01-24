@@ -1,0 +1,28 @@
+id: 9b667a12-c6e7-49c5-b75a-5d8eefdc5fda
+title: 'Tri-Lens Synthesis: Differentiating Protein Perspectives'
+summary: >-
+  The tri-attention system applies distinct lenses (Technical, Structural, Emotional) to synthesize
+  information, evident in varying protein titles derived from the same source. While the framing
+  differs, the core insights require verification for true differentiation.
+insights:
+  - Tri-attention lenses (Technical, Structural, Emotional) frame synthesized content differently.
+  - Technical lens focuses on quantification ('Synthesis Pressure Mapping').
+  - Structural lens emphasizes architectural relationships ('Semantic Tension').
+  - Emotional lens incorporates human resonance ('Geometry of Conceptual Care').
+  - Verification is needed to confirm if insights arrays differ, not just titles.
+tags:
+  - '#synthesis'
+  - '#information'
+  - '#lens'
+  - '#protein'
+  - '#triattention'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-01-24T07:16:28.684Z'
+source: synthesis
+emotional_gradient: curiosity → analysis → verification
