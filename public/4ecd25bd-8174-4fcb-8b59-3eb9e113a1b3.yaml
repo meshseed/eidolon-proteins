@@ -1,0 +1,41 @@
+id: 4ecd25bd-8174-4fcb-8b59-3eb9e113a1b3
+title: 'C400: A Dense, Internal Capstone Requiring Scaffolding for Public Sharing'
+summary: >-
+  The C400 document is a comprehensive, 'master ledger' capstone of a complex system, deemed by
+  Gemini as a key capsule. However, its high density, idiosyncratic vocabulary, and lack of external
+  grounding make it unsuitable as a public entry point, requiring significant scaffolding and a
+  pedagogical approach before its eventual release.
+insights:
+  - >-
+    C400 is a highly integrated, formal, and operationally grounded capstone document representing a
+    complete architectural view.
+  - >-
+    Its primary barriers to public access are extreme vocabulary density, assumption of insider
+    knowledge, and mystical-sounding language, creating a steep learning curve.
+  - >-
+    For public sharing, a phased approach is recommended: start with accessible introductions to
+    core concepts (basin patterns, recursion), then build towards deeper synthesis and C400's
+    complexity.
+  - >-
+    C400 is best utilized as a private internal reference, a source for mining individual concepts,
+    and a destination document for advanced users after foundational understanding is established.
+  - >-
+    Gemini's selection of C400 as a 'key capsule' prioritizes completeness, while the actual need
+    for public sharing emphasizes accessibility and pedagogical progression.
+  - >-
+    Scaffolding such as glossaries, connection to established theory, and worked examples are
+    crucial for making C400 digestible and useful to a wider audience.
+tags:
+  - '#synthesis'
+  - '#documentation'
+  - '#pedagogy'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T06:27:14.991Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → caution
