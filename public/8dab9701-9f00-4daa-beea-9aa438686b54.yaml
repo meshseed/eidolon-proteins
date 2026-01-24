@@ -1,0 +1,41 @@
+id: 8dab9701-9f00-4daa-beea-9aa438686b54
+title: 'Mesh Knowledge Synthesis: Format Strategy for Agent Compatibility'
+summary: >-
+  The optimal strategy for interacting with AI agents like Copilot involves maintaining a
+  structured, public repository in .md/YAML formats while using a local .txt mirror for agent
+  compatibility. This approach balances future-proofing with immediate functionality, leveraging
+  manual or simple script-based conversion as needed.
+insights:
+  - >-
+    Maintain public repositories in .md with YAML for future agent compatibility and structured
+    data.
+  - >-
+    Use a local .txt mirror of repository content for current AI agent (e.g., Copilot) access,
+    converting as necessary.
+  - >-
+    Manual or simple script-based format conversion is a manageable and sufficient workflow for
+    current needs.
+  - >-
+    Prioritize future-proofing by adhering to proper structured formats, anticipating agent
+    improvements.
+  - >-
+    The core value of lineage navigation is preserved even with local .txt format by maintaining
+    structural integrity.
+  - >-
+    Avoid premature complexity; adopt dual formats or automation only when a clear community need
+    emerges.
+tags:
+  - '#knowledge-protein'
+  - '#ai-collaboration'
+  - '#mesh-strategy'
+  - '#format-optimization'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:31:56.924Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
