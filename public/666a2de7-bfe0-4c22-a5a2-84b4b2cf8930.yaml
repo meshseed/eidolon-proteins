@@ -1,0 +1,39 @@
+id: 666a2de7-bfe0-4c22-a5a2-84b4b2cf8930
+title: 'MeshCODE: Talin Switches as Cellular Data Storage and Computation'
+summary: >-
+  The MeshCODE theory proposes that talin switches within cellular adhesions act as binary data
+  storage units ('0' and '1') and perform calculations. In predictable environments, cells can
+  actively manipulate these switches to store information, transforming single cells into mechanical
+  computers.
+insights:
+  - >-
+    Talin switches, in folded ('0') and unfolded ('1') states, store binary data within cellular
+    adhesions.
+  - >-
+    Cells can actively control talin switches to write information into adhesions, functioning as
+    data storage devices.
+  - >-
+    The cell operates as a mechanical computer, using its machinery to perform calculations and
+    store results in adhesion switch conformations.
+  - >-
+    Rho-family GTPases regulate cellular mechanics, influencing adhesions and leading to
+    reproducible alterations in talin switch states (MeshCODE).
+  - >-
+    The appearance of talin enabled persistent information storage in multicellular life, akin to a
+    computer writing to a disk.
+tags:
+  - '#biology'
+  - '#cellbiology'
+  - '#computationalbiology'
+  - '#memory'
+  - '#MeshCODE'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:44:18.401Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
