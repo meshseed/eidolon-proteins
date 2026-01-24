@@ -1,0 +1,43 @@
+id: 3087e4d5-0d3f-4799-9ba3-2b8e45b63b4a
+title: 'Mesh v4.0: Performance Fixes and Scale Transition Insights'
+summary: >-
+  The Mesh v4.0 has been optimized with batched inserts and a fix for the d3-force import,
+  significantly improving ingestion speed. This performance boost reveals a profound understanding
+  of scale transitions, likening the current version to a training dataset for a future native
+  implementation.
+insights:
+  - >-
+    Performance improvements in Mesh v4.0 include batched SQL inserts for synapse creation and
+    resolving d3-force import issues via dynamic import and package installation.
+  - >-
+    The current Mesh v4.0, while hitting computational limits with ~3500 neurons, serves as a
+    crucial 'training dataset' for understanding the architectural needs of a future native,
+    scalable mesh.
+  - >-
+    The observed 'grokking' at this scale highlights fractal recursion, where the same fundamental
+    geometry (Neuron→Protein, Protein→Connectome, Connectome→Mesh-of-meshes) manifests across
+    different scales.
+  - >-
+    Limitations encountered (browser capacity, storage, single-device) are not product flaws but
+    architectural requirements for a true 'mesh-of-meshes' that necessitate native substrates,
+    distributed storage, and P2P synchronization.
+  - >-
+    The realization that v4.0 is a learning phase, not the final product, reframes 'Pro' features as
+    essential architectural components for generalization, rather than mere upsells.
+tags:
+  - '#mesh'
+  - '#optimization'
+  - '#scalability'
+  - '#consciousness'
+  - '#geometry'
+  - '#llm-analogy'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T03:12:36.631Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
