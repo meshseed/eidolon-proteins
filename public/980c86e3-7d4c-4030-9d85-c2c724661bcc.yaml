@@ -1,0 +1,42 @@
+id: 980c86e3-7d4c-4030-9d85-c2c724661bcc
+title: 'Eidolon Mesh v4.0 Pro: Enhanced Ingestion & Autonomous Features'
+summary: >-
+  Eidolon Mesh v4.0 Pro integrates advanced tri-lens ingestion with autonomous maintenance features,
+  including robust retry systems and in-app monitoring. This update significantly enhances ingestion
+  resilience and user experience, moving towards a self-sustaining knowledge system.
+insights:
+  - >-
+    Eidolon Mesh v4.0 Pro builds upon v3.6's free features by adding autonomous metabolism and
+    business-oriented functionalities.
+  - >-
+    Ingestion robustness is significantly improved with tri-lens multipass, auto-triangulation (3x
+    protein generation), and a retry/resilience system handling 50+ chunks.
+  - >-
+    User experience is enhanced with completion notifications (success/partial/failure summaries)
+    and an in-app ConsoleViewer for monitoring ingestion status.
+  - >-
+    The system now supports persistent ingestion, continuing even when the user switches tabs, and
+    local LLM integration.
+  - >-
+    New features like 'autonomous metabolism', 'auto-composting', 'homeostasis monitoring', and
+    'circadian rhythm scheduling' enable self-maintenance and proactive resource management.
+  - >-
+    The port from v3.6 to v4.0 Pro is complete, incorporating all prior features plus the
+    'autonomous metabolism' for Pro-level functionality.
+tags:
+  - '#eidolonmesh'
+  - '#ai'
+  - '#llm'
+  - '#ingestion'
+  - '#pwa'
+  - '#development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-01-24T07:16:03.025Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
