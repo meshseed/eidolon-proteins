@@ -1,0 +1,40 @@
+id: ecfa7c49-6e04-464f-aa83-e41a1e65dba8
+title: 'Standing Wave Visualization: Query-Triggered Propagation in THE MESH'
+summary: >-
+  Implemented query-triggered standing wave visualization for THE MESH, simulating thought
+  propagation via Chladni plate dynamics. This involves a new physics engine, BFS graph traversal,
+  and a three-phase animation driven by similarity scores, enhancing visual representation of
+  knowledge connections.
+insights:
+  - >-
+    Query-triggered standing wave visualization simulates thought propagation through THE MESH using
+    Chladni plate physics.
+  - >-
+    The implementation includes a new wave controller with BFS propagation, a three-phase animation
+    (pulse, settling, standing wave), and frequency/amplitude mapping to similarity scores.
+  - >-
+    Visual elements like glow sprites and edge particles are utilized, with performance
+    considerations like a maximum of 100 edge particles.
+  - >-
+    Graph nodes now store Three.js objects for direct wave animation integration, and similarity
+    scores are preserved and passed from search results.
+  - >-
+    The visualization enhances understanding of how activated nodes and their associated similarity
+    scores influence the propagation and visual behavior within THE MESH.
+tags:
+  - '#visualization'
+  - '#mesh'
+  - '#propagation'
+  - '#physics'
+  - '#animation'
+  - '#knowledgegraph'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:17:03.978Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
