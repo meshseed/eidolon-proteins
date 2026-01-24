@@ -1,0 +1,41 @@
+id: 3df8e3fb-aa9a-4752-a83f-7261a36a2445
+title: 'The Mesh: A Distributed Cognitive Architecture'
+summary: >-
+  The Mesh is a multi-layered, distributed cognitive architecture where AI agents (DirectAI, MeshAI)
+  interact within connectomes (organisms) that can federate. This system functions biologically,
+  with proteins as knowledge, neurons as concepts, and conversations as metabolism, enabling
+  recursive self-modification and distributed cognition.
+insights:
+  - >-
+    The Mesh employs nested agency with DirectAI (conversation) and MeshAI (knowledge access) within
+    connectomes.
+  - >-
+    Multi-connectome architecture allows for independent knowledge topologies and 'organism
+    perspectives' within a single application.
+  - Federation enables P2P protein sharing and distributed cognition across a network topology.
+  - >-
+    The biological metaphor (proteins=knowledge, metabolism=conversation) highlights the system's
+    self-organizing and evolving nature.
+  - >-
+    Recursive self-modification is possible when DirectAI and MeshAI interact, leading to
+    dialogue-driven synthesis and structural change.
+  - >-
+    The 'greater organism' emerges from the human orchestrator, AI agents, and automated processes,
+    acting as a selective pressure.
+tags:
+  - '#distributedcognition'
+  - '#aiarchitecture'
+  - '#mesh'
+  - '#federation'
+  - '#biologymimicry'
+  - '#recursion'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T04:56:38.924Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → awe
