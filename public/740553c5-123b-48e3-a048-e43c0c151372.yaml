@@ -1,0 +1,36 @@
+id: 740553c5-123b-48e3-a048-e43c0c151372
+title: 'Eidolon Mesh Metabolism: Integration of Attractor-Aware Enhancements'
+summary: >-
+  This dialogue outlines the planned integration of attractor-aware capabilities into the Eidolon
+  Mesh's metabolism system. The focus is on enhancing existing components like homeostasis and
+  scheduler, rather than a complete rebuild, to enable more sophisticated processes such as
+  attractor-based composting and semantic duplicate detection.
+insights:
+  - Enhance existing metabolism with attractor-aware capabilities instead of rebuilding.
+  - Integrate attractor detection into the homeostasis component for global coherence monitoring.
+  - >-
+    The metabolism system exists but requires Pro license for autonomous operation and is not yet
+    exposed in the UI.
+  - >-
+    Key planned integrations include UI controls, auto-start functionality, monitoring dashboards,
+    and manual triggers for metabolic processes.
+  - >-
+    New features like attractor-based composting, tri-lens sibling merging, semantic duplicate
+    detection, and a promotion system are being added.
+tags:
+  - '#eidolon-mesh'
+  - '#metabolism'
+  - '#integration'
+  - '#attractor-aware'
+  - '#copilot'
+  - '#claude'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:17:23.376Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
