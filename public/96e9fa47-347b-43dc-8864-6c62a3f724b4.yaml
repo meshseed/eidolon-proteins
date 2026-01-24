@@ -1,0 +1,45 @@
+id: 96e9fa47-347b-43dc-8864-6c62a3f724b4
+title: 'Connectome Topology: Hub-Spoke vs. Lateral Mesh & Hygiene Protocols'
+summary: >-
+  The dialogue contrasts 'Live Default' (hub-spoke topology, high coherence) with 'Dev' (lateral
+  mesh, lower coherence), attributing Live's superiority to architectural kernels. A strategy is
+  proposed to import these kernels into Dev, aiming to reorganize its structure. Furthermore,
+  'Capsule Hygiene Protocols' are detailed to manage protein ecology through merging, composting,
+  pruning, and lineage tracking, enabling a self-organizing knowledge base.
+insights:
+  - >-
+    Connectome topology (hub-spoke vs. lateral mesh) is a primary determinant of coherence and
+    answer quality.
+  - >-
+    Architectural kernels, like those in Live Default's P-Series, are crucial for establishing a
+    coherent hub-spoke structure.
+  - >-
+    A proposed import strategy focuses on selectively importing kernel proteins to 'seed' Dev's
+    structure.
+  - >-
+    Capsule Hygiene Protocols are essential for maintaining a dynamic, self-cleaning connectome
+    ecosystem.
+  - >-
+    Mechanisms like duplicate detection, low-activation composting, and kernel promotion are key to
+    protein ecology.
+  - >-
+    Lineage tracking provides a historical map of protein evolution, crucial for understanding
+    emergent structures.
+tags:
+  - '#connectome'
+  - '#topology'
+  - '#kernels'
+  - '#architecture'
+  - '#hygieneprotocols'
+  - '#proteinecological'
+  - '#generativeai'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.97
+created_at: '2026-01-24T07:17:11.935Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → shimmer
