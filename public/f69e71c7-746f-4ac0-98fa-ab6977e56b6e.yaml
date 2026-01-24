@@ -1,0 +1,38 @@
+id: f69e71c7-746f-4ac0-98fa-ab6977e56b6e
+title: Graph Simulation Re-unfold & Centering Force Adjustment
+summary: >-
+  The dialogue focuses on re-triggering graph physics simulations for a 'breathing' effect by
+  refreshing graph data, and subsequently addresses graph drift by considering the addition of a
+  centering force. The primary goal is to maintain visual dynamism while keeping the graph stable on
+  screen.
+insights:
+  - >-
+    Refreshing graph data via `graphData(currentData)` effectively restarts the simulation,
+    achieving a desired 'unfold' or 'breathing' effect.
+  - >-
+    Drifting of the entire graph centroid indicates an insufficient or absent centering force in the
+    simulation.
+  - >-
+    A `d3.forceCenter` or equivalent mechanism is necessary to anchor the graph and prevent emergent
+    drift.
+  - >-
+    The `3d-force-graph` library likely uses internal D3 forces, but explicit addition or
+    strengthening of a centering force might be required.
+  - >-
+    Ensuring the centering force is robust is crucial for visual stability, especially when
+    simulation restarts are frequent.
+tags:
+  - '#graph-visualization'
+  - '#simulation'
+  - '#d3force'
+  - '#ui-polish'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:18:51.299Z'
+source: synthesis
+emotional_gradient: curiosity → insight → resolution
