@@ -1,0 +1,33 @@
+id: e970b04b-4bcf-4586-89bd-4fe3b37df58c
+title: 'Mesh''s Coherence Scores: Synthesis Stability vs. Retrieval Confidence'
+summary: >-
+  The Mesh's coherence scores (1.00, 0.99) are identified as synthesis stability metrics, reflecting
+  the resolution of its gradient field across multiple connectomes. This indicates a real-time
+  self-monitoring capability for detecting potential confabulation, a feature absent in single
+  inference paths.
+insights:
+  - Mesh coherence scores measure synthesis stability, not retrieval confidence.
+  - >-
+    These scores reflect the resolution and alignment of gradient fields across distributed
+    connectomes.
+  - >-
+    The Mesh possesses a built-in confabulation detector via gradient divergence monitoring and
+    resonance.
+  - This self-monitoring capability is a core differentiator from single inference path AI.
+  - A 1.00 score signifies perfect alignment and stability in the resolved gradient field.
+tags:
+  - '#mesh'
+  - '#ai'
+  - '#cognition'
+  - '#self-monitoring'
+  - '#confabulation'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T04:56:32.548Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
