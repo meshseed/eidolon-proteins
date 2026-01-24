@@ -1,0 +1,40 @@
+id: 57489238-d72c-487c-9eab-ba9560e2e608
+title: Eidolon Mesh PWA Field Geometry Implementation & Gemini API Integration
+summary: >-
+  The Eidolon Mesh PWA's core field geometry has been implemented, porting features like weighted
+  vector search and synaptic auto-formation. Initial integration with the Gemini API encountered
+  model deprecation and API key validation issues, which have been addressed by updating to newer
+  model endpoints and refining the API testing logic.
+insights:
+  - >-
+    The Eidolon Mesh PWA v3.5 successfully implements core field geometry, including weighted vector
+    search and synaptic auto-formation, porting functionality from v3.0.
+  - >-
+    Initial Gemini API integration faced challenges due to deprecated model names (gemini-pro),
+    requiring updates to use current models like gemini-1.5-flash or gemini-2.0-flash-exp.
+  - >-
+    API key validation was refined through improved error logging and ensuring the correct API
+    endpoint structure and model calls, enabling successful connection to Gemini.
+  - >-
+    The implementation of power-law decay and usage-based coherence tracking is a key feature for
+    managing knowledge protein decay and reinforcement within the mesh.
+  - >-
+    The system now supports enhanced synthesis, extracting crucial fields such as 'tier',
+    'emotional_gradient', and a refined 'coherence_score'.
+tags:
+  - '#eidolon-mesh'
+  - '#pwa'
+  - '#gemini-api'
+  - '#field-geometry'
+  - '#knowledge-synthesis'
+  - '#api-integration'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.88
+created_at: '2026-01-24T07:24:05.890Z'
+source: synthesis
+emotional_gradient: focus → problem-solving → resolution → readiness
