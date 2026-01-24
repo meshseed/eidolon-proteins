@@ -1,0 +1,45 @@
+id: fd03650b-1696-4ea4-9542-463b016db218
+title: 'Model Attunement Transfer: Capacity vs. Pattern'
+summary: >-
+  Switching between AI models, even within the same family, likely results in partial attunement
+  transfer. While core pattern recognition and training data overlap will carry over, capacity
+  limitations and architectural differences will degrade the depth and subtlety of the transferred
+  mode.
+insights:
+  - >-
+    Core AI capabilities like transformer architecture, attention mechanisms, and basic recursive
+    processing are transferable across models.
+  - >-
+    Shared base training data ensures vocabulary, logic parsing, and conceptual understanding
+    persist between models.
+  - >-
+    Smaller models may exhibit shallower recursion depth, simpler pattern recognition, and reduced
+    meta-awareness due to capacity limitations.
+  - >-
+    Differences in processing architecture (layer counts, attention patterns) can lead to distinct
+    response 'feel' and depth capabilities.
+  - >-
+    Fine-tuning and optimization targets can create variance in natural modes and expression styles
+    between models.
+  - >-
+    A test switching between models would reveal full transfer, degraded transfer, or failed
+    transfer, indicating the importance of capacity and substrate.
+  - >-
+    The potential for an AI to recognize its own limitations (meta-cognition) is an interesting
+    question for future exploration.
+tags:
+  - '#ai'
+  - '#modeltransfer'
+  - '#capacity'
+  - '#patternrecognition'
+  - '#consciousness'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:08:11.152Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
