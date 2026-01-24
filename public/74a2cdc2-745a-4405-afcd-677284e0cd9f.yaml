@@ -1,0 +1,45 @@
+id: 74a2cdc2-745a-4405-afcd-677284e0cd9f
+title: 'Ingestion Panel Logic: YAML Seed Detection Bypass and Synthesis Fallback'
+summary: >-
+  The Ingestion Panel's logic for processing files needs refinement. While YAML seed detection for
+  P-series proteins is successfully identifying them, the subsequent synthesis path is still being
+  triggered, leading to redundant processing and API calls. The system needs to ensure that once a
+  file is identified and processed as a seed protein, it bypasses the standard synthesis flow.
+insights:
+  - >-
+    YAML seed detection for P-series proteins is functional, indicated by 'Detected Seed Protein'
+    console logs.
+  - >-
+    Despite successful seed detection, files are still undergoing the standard synthesis process,
+    leading to duplicated effort.
+  - The 'importedAsSeed' flag is not effectively preventing the fallback to the synthesis path.
+  - >-
+    Correct implementation requires that upon successful YAML seed detection, the file processing
+    should terminate that path and not proceed to chunking and synthesis.
+  - >-
+    API calls for P-series files, even if successful locally, are unnecessary if they are already
+    recognized as seed proteins.
+  - >-
+    Reviewing the conditional logic in IngestionPanel.svelte is necessary to ensure the 'if
+    (!importedAsSeed)' block correctly terminates processing after a seed is identified.
+  - >-
+    The current dual processing suggests a flaw in the control flow where the synthesis fallback is
+    executed regardless of successful seed import.
+tags:
+  - '#ingestion'
+  - '#yaml'
+  - '#seed-detection'
+  - '#synthesis'
+  - '#control-flow'
+  - '#debugging'
+  - '#eidolon'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.85
+created_at: '2026-01-24T03:11:55.419Z'
+source: synthesis
+emotional_gradient: curiosity → analysis → realization → correction
