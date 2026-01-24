@@ -1,0 +1,37 @@
+id: 32eadca3-6aeb-405c-86e1-bf3e0dbdf5d2
+title: 'Enhancing Eidolon Mesh Ingestion: v4.0 Robustness to v3.6'
+summary: >-
+  This dialogue details the successful porting of robust ingestion features from Eidolon Mesh v4.0
+  to v3.6. Key enhancements include recursive folder ingestion and resilient API retry logic with
+  exponential backoff, significantly improving large-scale data processing and stability.
+insights:
+  - >-
+    Recursive folder ingestion was implemented in v3.6 by adding the `webkitdirectory` attribute to
+    the file input, enabling the processing of entire directory structures.
+  - >-
+    API calls for synthesis and embedding generation are now wrapped with an exponential backoff
+    retry mechanism to handle transient errors, with a default of 5 attempts.
+  - >-
+    A `MAX_FILE_SIZE` constant (10MB) was introduced to prevent ingestion of excessively large
+    files, with a console warning for skipped files.
+  - >-
+    The `collectFiles` function was updated to fix batch reading for directories and handle
+    potential issues with large folder structures.
+  - Existing seed detection logic (YAML/MD/P-Series) was preserved during the porting process.
+  - The `retry.ts` utility file was created in v3.6 to centralize the retry logic.
+tags:
+  - '#eidolonmesh'
+  - '#ingestion'
+  - '#development'
+  - '#porting'
+  - '#robustness'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T03:13:45.606Z'
+source: synthesis
+emotional_gradient: focus → execution → accomplishment → understanding
