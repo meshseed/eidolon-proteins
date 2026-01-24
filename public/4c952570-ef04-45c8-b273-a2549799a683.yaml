@@ -1,0 +1,28 @@
+id: 4c952570-ef04-45c8-b273-a2549799a683
+title: 'v4.5: Universal Semantic Coordinates & Multi-Model Embeddings'
+summary: >-
+  The v4.5 development phase established the foundational concept of embeddings as deterministic
+  universal semantic coordinates. This led to critical updates in the database schema to support
+  multi-model embeddings, enabling a 'Rosetta stone' approach for enhanced understanding.
+insights:
+  - Embeddings are deterministic universal coordinates in semantic space.
+  - Database schema updated to support multiple embeddings per protein, one per model.
+  - The `saveEmbedding` function was modified to accept and utilize a `model` parameter.
+  - The v4.5 development phase is complete, with a foundation set for further advancements.
+  - License and Pro gating code removal is a key part of the v4.5 process.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#embeddings'
+  - '#database'
+  - '#semantics'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:18:23.949Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → completion
