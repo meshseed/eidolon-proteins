@@ -1,0 +1,39 @@
+id: 2147e194-3cee-4cb4-add6-753ceb0c557a
+title: 'Transformer Architecture: LayerNorm, Residuals, and Scaled Dot-Product Attention'
+summary: >-
+  The Transformer decoder builds upon the encoder's stacked layers by adding a third multi-head
+  attention sub-layer, processing encoder outputs. Attention mechanisms, particularly Scaled
+  Dot-Product Attention, are crucial for mapping queries to values based on key similarity, with a
+  scaling factor to manage softmax gradients.
+insights:
+  - >-
+    Residual connections and Layer Normalization are applied to all sub-layers and embeddings to
+    facilitate deep network training.
+  - >-
+    The decoder stack includes an additional multi-head attention sub-layer that attends to the
+    encoder's output.
+  - >-
+    Scaled Dot-Product Attention computes attention weights by scaling dot products of queries and
+    keys before applying softmax.
+  - >-
+    Multi-Head Attention projects queries, keys, and values multiple times with learned linear
+    projections, enhancing attention capabilities.
+  - >-
+    The scaling factor (1/√dk) in Scaled Dot-Product Attention prevents large dot products from
+    saturating the softmax function.
+tags:
+  - '#transformer'
+  - '#attention'
+  - '#deeplearning'
+  - '#nlp'
+  - '#neuralnetworks'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:attention_is_all_you_need_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:43:20.101Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
