@@ -1,0 +1,36 @@
+id: a0173e7f-1315-4e9b-be33-32e9f989b01b
+title: Mobile Graph Node Display Issue Post-Gemini Protein Update
+summary: >-
+  A recent Gemini protein update broke the graph visualization on mobile, causing nodes to not
+  display, while desktop remains unaffected. The issue is isolated to mobile layout/rendering and
+  not related to data or routing changes.
+insights:
+  - Mobile graph visualization is failing to display nodes after a Gemini protein update.
+  - >-
+    Desktop graph visualization is unaffected, indicating a mobile-specific rendering or layout
+    problem.
+  - >-
+    Previous 'safe height' CSS adjustments were intended to prevent overlap but did not resolve the
+    node display issue.
+  - >-
+    The problem is not related to recent API entries, embeddings, version updates, 3D rendering, or
+    Gemini's routing attempts.
+  - >-
+    The current priority is to restore mobile graph functionality without breaking other features,
+    given user impact.
+tags:
+  - '#mobile'
+  - '#graph'
+  - '#rendering'
+  - '#bugfix'
+  - '#gemini'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:19:07.988Z'
+source: synthesis
+emotional_gradient: concern → diagnosis → determination
