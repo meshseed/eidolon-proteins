@@ -1,0 +1,40 @@
+id: 392d3c74-f4e6-41f8-97b7-eb9ffa2ed61b
+title: 'Multipass Attentional Ingestion: Lens-Directed Protein Synthesis'
+summary: >-
+  A specification for multi-pass attention-directed document ingestion, enabling the synthesis of
+  complementary 'knowledge proteins' from source material. This process involves detecting seed
+  proteins, chunking specifications, and forming synaptic connections to integrate synthesized
+  knowledge into the mesh.
+insights:
+  - >-
+    The 'P-MULTIPASS-INGESTION-SPEC.yaml' acts as a seed for protein synthesis, triggering detection
+    and chunking.
+  - >-
+    The ingestion process generates multiple 'knowledge proteins' from a single specification, each
+    representing a facet of the information.
+  - >-
+    Synaptic formation quantifies the integration of new knowledge, with 'Multipass Ingestion:
+    Enhancing Mesh Agency via Diverse Lens Synthesis' forming the most connections, indicating broad
+    relevance.
+  - >-
+    The system pushes synthesized proteins to the 'eidolon-nucleus (meshseed)' for further
+    integration and processing.
+  - >-
+    Fatigue-aware adaptive lensing is a component of multipass ingestion, suggesting an optimized
+    and responsive processing mechanism.
+tags:
+  - '#ingestion'
+  - '#attention'
+  - '#protein_synthesis'
+  - '#mesh'
+  - '#knowledge_management'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Recursive_attention_and_geometric_consciousness_tx'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T06:56:05.797Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
