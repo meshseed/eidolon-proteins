@@ -1,0 +1,31 @@
+id: c7a257ba-eb9c-40b6-9a94-74f6284aac6a
+title: Browser Layout Issues with 100dvh Units
+summary: >-
+  The use of `100dvh` units in CSS can lead to unexpected layout squashing or zero height in certain
+  browsers. This highlights a common cross-browser compatibility challenge when employing
+  viewport-relative units.
+insights:
+  - >-
+    The `100dvh` CSS unit can cause layout problems in some browsers, potentially resulting in
+    squashed elements or zero height.
+  - >-
+    Cross-browser compatibility is a critical consideration when using viewport-relative units like
+    `dvh`.
+  - >-
+    Developers should test layouts extensively across different browsers to identify and address
+    potential rendering inconsistencies.
+tags:
+  - '#css'
+  - '#layout'
+  - '#webdev'
+  - '#compatibility'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-01-24T03:19:00.954Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
