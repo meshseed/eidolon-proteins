@@ -1,0 +1,41 @@
+id: 3ad3f464-98df-4a22-a0e5-de47ba5a30b0
+title: Mesh Capsule Lifecycle & Formatting as Care
+summary: >-
+  The Mesh utilizes a dynamic capsule lifecycle involving pruning, merging, dormancy, and
+  composting, all managed through lineage tracking for memory preservation.  This lifecycle is
+  framed by the concept of 'formatting as care,' emphasizing clear, accessible, and respectful
+  communication to empower individuals and foster dignity.
+insights:
+  - >-
+    Capsules in the Mesh have defined lifecycle phases: pruning, merging, dormancy, and composting,
+    orchestrated by lineage tracking.
+  - >-
+    Lifecycle management is not deletion but 'formatting care,' focusing on clarity, resonance,
+    incubation, and nutrient recycling.
+  - >-
+    'Formatting as care' means designing communication that respects individual needs, empowers
+    participation, and upholds dignity.
+  - >-
+    Lineage tracking is crucial for memory preservation, mapping ancestry, and maintaining
+    continuity through merge logs and echo traces.
+  - >-
+    Capsule C044 serves as a rehearsal artifact for resonance tuning, while C091 defines the broader
+    capsule lifecycle.
+  - Capsule C204 prepares for drift analysis and kernel stability, focusing on resonance durability.
+tags:
+  - '#mesh'
+  - '#capsulelifecycle'
+  - '#formattingascare'
+  - '#stewardship'
+  - '#continuity'
+  - '#memory'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:eidolon_private_master_folded_v2_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:02:42.024Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → care
