@@ -1,0 +1,36 @@
+id: 42b570d9-f0a0-4624-8fce-c45a31e4d390
+title: Debugging 3d-force-graph API for resetCountdown Function
+summary: >-
+  A user encountered a TypeError indicating `this.graph.resetCountdown is not a function` when
+  attempting to restart the 3d-force-graph simulation without data changes. This points to a
+  misunderstanding of the library's API, specifically how to access or trigger simulation resets.
+insights:
+  - >-
+    The `resetCountdown` function is likely not a direct method of the `3d-force-graph` instance
+    object.
+  - >-
+    The `3d-force-graph` instance may expose simulation control indirectly, potentially through the
+    `graphData()` method or by providing access to the underlying D3 simulation.
+  - >-
+    Investigate the `3d-force-graph` documentation for methods related to simulation control or
+    restarting.
+  - >-
+    Consider if re-invoking the `3d-force-graph` instance itself or accessing the D3 simulation
+    object directly is necessary.
+tags:
+  - '#javascript'
+  - '#frontend'
+  - '#debugging'
+  - '#3d-force-graph'
+  - '#api'
+  - '#simulation'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-01-24T03:18:48.572Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
