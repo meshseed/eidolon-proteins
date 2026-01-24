@@ -1,0 +1,40 @@
+id: a6d594b0-a15d-447d-894e-9a46c50f0a38
+title: 'MeshCODE Theory: Binary Machine Code for Cellular Synchronization'
+summary: >-
+  The MeshCODE theory proposes that neurons utilize a binary machine code, represented by 1s and 0s
+  at synapses and ECM interfaces, to encode organismal state and facilitate synchronized cellular
+  communication. This unified coding language allows for the integration of all sensory inputs and
+  learned experiences into a cohesive, mathematical representation of life.
+insights:
+  - >-
+    Synaptic transmissions alter MeshCODEs, necessitating network-wide re-balancing to a metastable
+    state.
+  - >-
+    MeshCODEs function as a universal binary machine code for all cells in an organism, including
+    those interacting with the ECM.
+  - >-
+    Action potential spike trains act as vehicles for transferring information encoded within
+    MeshCODEs, enabling sender and receiver updates.
+  - >-
+    This machine code integrates all sensory inputs and outputs into a unified, contextualized
+    mathematical representation of an organism's entire experience.
+  - >-
+    MeshCODEs at synapses represent the organism's current best available information for immediate
+    use.
+tags:
+  - '#meshcode'
+  - '#neuroscience'
+  - '#computation'
+  - '#biology'
+  - '#communication'
+  - '#theory'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:44:27.694Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
