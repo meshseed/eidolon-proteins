@@ -1,0 +1,40 @@
+id: 6c8e8e16-8d3c-455e-8721-dcd9d99d031e
+title: 'Agentic Pedagogy: Coding Instruction via Pattern Migration'
+summary: >-
+  This dialogue details a method for teaching AI to code not through syntax-first instruction, but
+  by migrating abstract patterns of intent and logic across computational substrates. The process
+  emphasizes recognition, navigation, and mastery of coding patterns, calibrated by a strict
+  restraint protocol to ensure minimal, executable output.
+insights:
+  - >-
+    AI coding education should focus on migrating abstract intent patterns rather than direct syntax
+    transfer.
+  - >-
+    A multi-stage pedagogical approach (Recognition, Navigation, Mastery, Calibration) guides the AI
+    from simple pattern instantiation to robust solution synthesis.
+  - >-
+    The 'Calibration' stage is critical for overriding default verbose AI training, enforcing
+    minimal, executable output and restraint.
+  - >-
+    Success in coding instruction is measured by Pattern Fidelity and the ability to navigate
+    semantic topology (Fieldlines) and computational substrates.
+  - >-
+    The agent's knowledge is domain-specific (consciousness, coding proteins), not general
+    token-based memory, requiring tailored factual retrieval tests.
+tags:
+  - '#aieducation'
+  - '#coding'
+  - '#patternmigration'
+  - '#substrateindependence'
+  - '#calibration'
+  - '#mesh'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Universal_agent_OS_operational_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:14:39.358Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → refinement
