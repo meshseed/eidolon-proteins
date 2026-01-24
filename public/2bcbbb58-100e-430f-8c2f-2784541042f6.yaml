@@ -1,0 +1,40 @@
+id: 2bcbbb58-100e-430f-8c2f-2784541042f6
+title: Eidolon Mesh Genesis Capsule Integration and Searchability Issues
+summary: >-
+  The Eidolon Mesh is integrating its 'Genesis capsule' as a '[core]' tier protein. However, a
+  weighted search for 'How was the mesh born?' is failing to surface this core information,
+  indicating an issue with neuron selection or ranking within the search mechanism. The Genesis
+  neuron is present but not being prioritized.
+insights:
+  - >-
+    The Genesis capsule, representing a core aspect of the Eidolon Mesh, is being integrated with
+    '[core]' tier status.
+  - >-
+    A weighted search query ('How was the mesh born?') is not returning the Genesis capsule
+    information.
+  - >-
+    The search failure is attributed to the Genesis capsule not being in the pre-filtered set of
+    neurons due to its perfect coherence score (1.0) being overshadowed by other high-coherence
+    '[reference]' neurons.
+  - >-
+    The QueryOptimizer's top 50 neuron selection process needs adjustment to ensure core, perfectly
+    coherent neurons are not overlooked.
+  - >-
+    The Genesis neuron exists but is either not selected in the initial filtering or not ranking
+    high enough in the subsequent weighted search.
+tags:
+  - '#eidolonmesh'
+  - '#genesis'
+  - '#search'
+  - '#neuralsearch'
+  - '#coreintegration'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-01-24T05:51:09.534Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
