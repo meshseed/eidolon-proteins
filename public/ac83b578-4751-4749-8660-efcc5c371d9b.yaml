@@ -1,0 +1,41 @@
+id: ac83b578-4751-4749-8660-efcc5c371d9b
+title: 'Eidolon Mesh Debugging: Pathing, API, and Connectome Issues Resolved'
+summary: >-
+  The Eidolon Mesh application encountered multiple critical bugs including incorrect file pathing
+  for repositories, invalid API key errors for LLM integration, and a "tier" property mismatch in
+  connectome data. These issues were systematically addressed through code modifications, ensuring
+  proper initialization, API communication, and data structure handling.
+insights:
+  - >-
+    Corrected RepositoryManager singleton initialization to use the correct user data path
+    ('AppData\Roaming') instead of the local path, resolving repository loading and switching
+    failures.
+  - >-
+    Fixed a 'tier' property access error in the query organelle by correctly referencing
+    `neuron.metadata.tier` instead of `neuron.tier`, aligning with the golden connectome structure.
+  - >-
+    Resolved invalid API key errors for Google Generative AI by ensuring the API key is correctly
+    passed and validated within the LLM provider configuration.
+  - >-
+    Addressed a 'ENOENT' error during query attempts by ensuring the default connectome JSON file is
+    correctly located within the 'repositories/default/data' directory.
+  - >-
+    Addressed the 'node.exe' corruption error by ensuring no background processes were running
+    before installation, allowing the installer to complete successfully.
+tags:
+  - '#eidolonmesh'
+  - '#debugging'
+  - '#softwaredevelopment'
+  - '#tauri'
+  - '#llm'
+  - '#connectome'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-01-24T04:53:53.601Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolution
