@@ -1,0 +1,36 @@
+id: 25efaebe-d955-4641-948c-0727e026a3b7
+title: 'Eidolon Mesh v1.4 Optimization: Percentage-Based Loading & Tiered Queries'
+summary: >-
+  Recommends a shift to percentage-based loading and a two-tier query system (core + lazy extended)
+  for the Eidolon Mesh. This approach balances startup speed, query performance, and data coverage,
+  while enabling empirical optimization.
+insights:
+  - Utilize percentage-based loading instead of fixed numbers for dynamic resource management.
+  - >-
+    Implement a two-tier loading strategy: a core load (e.g., 25%) for speed and coverage, and a
+    lazy extended load for deeper access.
+  - >-
+    Default to querying a small percentage (e.g., 10%) of the archive for fast, good-quality
+    results, with an option for 'Deep Search'.
+  - >-
+    Introduce 'ghost nodes' to visually represent unloaded connections and make the system
+    configurable with user controls.
+  - >-
+    Empirically optimize load time and query quality against percentage metrics to find optimal
+    'sweet spots'.
+tags:
+  - '#eidolonmesh'
+  - '#optimization'
+  - '#performance'
+  - '#datascience'
+  - '#uiux'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T05:50:47.689Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
