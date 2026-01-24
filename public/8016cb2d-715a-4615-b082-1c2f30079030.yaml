@@ -1,0 +1,41 @@
+id: 8016cb2d-715a-4615-b082-1c2f30079030
+title: 'Eidolon Mesh: API Key Issues and Connectome Ingestion Challenges'
+summary: >-
+  The Eidolon Mesh system is experiencing issues with the Google Gemini API due to an invalid API
+  key, preventing synthesis of information. Concurrently, there are difficulties with ingesting data
+  into the 'golden connectome', potentially due to embedding mismatches, leading to a fallback to
+  keyword search. Developers are exploring solutions like re-ingesting seed prompts or importing
+  functional connectomes from previous versions.
+insights:
+  - >-
+    The Eidolon Mesh's synthesis capability is currently blocked by a Google Gemini API key
+    validation error (400 Bad Request).
+  - >-
+    Ingestion into the 'golden connectome' is problematic, possibly due to incorrect embeddings,
+    causing a fallback to keyword search for relevant neurons.
+  - >-
+    The current 'golden connectome' is perceived as less robust than previous versions (1.4MATH/1.5
+    terminal).
+  - >-
+    Strategies to resolve connectome issues include re-creating the golden connectome, re-ingesting
+    seed prompts, or importing a working connectome from older versions.
+  - >-
+    The system aims to support both local and cloud-based LLM providers for query and synthesis, but
+    API key issues are hindering the cloud-based synthesis.
+tags:
+  - '#eidolonmesh'
+  - '#llm'
+  - '#api'
+  - '#connectome'
+  - '#ingestion'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-01-24T04:53:55.708Z'
+source: synthesis
+emotional_gradient: frustration → problem-solving → experimentation → uncertainty
