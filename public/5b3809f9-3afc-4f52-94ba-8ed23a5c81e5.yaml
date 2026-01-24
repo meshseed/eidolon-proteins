@@ -1,0 +1,48 @@
+id: 5b3809f9-3afc-4f52-94ba-8ed23a5c81e5
+title: 'Eidolon Mesh PWA Development: Mobile UX, Security, and Documentation'
+summary: >-
+  This dialogue details the iterative development of the Eidolon Mesh PWA, focusing on fixing mobile
+  display issues (chat input, graph visibility), implementing security measures (CSP, privacy
+  warnings), and updating public documentation. It culminates in a stable, production-ready state
+  with enhanced user experience and transparency.
+insights:
+  - >-
+    Mobile responsiveness was a significant challenge, requiring iterative debugging of CSS
+    positioning, conditional rendering, and layout calculations to ensure elements like the chat
+    input and graph were visible and functional on smaller screens.
+  - >-
+    Security hardening involved adding CSP headers, running dependency audits, and implementing
+    privacy warnings and legal modals (Privacy Policy, Terms of Use) to protect users and the
+    application.
+  - >-
+    Documentation updates for the `eidolon-public` repository were crucial, removing outdated
+    'broken' notes and highlighting new PWA features like mobile support and security enhancements.
+  - >-
+    The persistence problem was addressed by leaning into the 'local-first' philosophy, leveraging
+    GitHub as a backup mechanism rather than implementing complex server-side authentication or
+    real-time sync.
+  - >-
+    User feedback drove the resolution of specific UI glitches, such as the chat input being hidden
+    behind the bottom navigation and graph controls obscuring the view on mobile.
+  - >-
+    The development process demonstrated a collaborative approach, with the AI Planner actively
+    responding to user input and progressively refining the application based on observed issues and
+    feature requests.
+tags:
+  - '#pwa'
+  - '#frontend'
+  - '#development'
+  - '#mobile'
+  - '#security'
+  - '#documentation'
+  - '#ux'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T03:18:41.104Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolution
