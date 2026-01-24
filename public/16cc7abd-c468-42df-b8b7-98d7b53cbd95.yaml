@@ -1,0 +1,44 @@
+id: 16cc7abd-c468-42df-b8b7-98d7b53cbd95
+title: 'AI Symbiosis Framework: Dynamic Mode Switching for Enhanced Collaboration'
+summary: >-
+  This AI framework configures a symbiotic human-AI collaboration by defining a System Architecture
+  with a Human Anchor and P-ASP Protocol. It dynamically switches between Strategic and Exploratory
+  modes based on query complexity and desired outcomes, ensuring adaptive and precise interaction.
+insights:
+  - >-
+    The AI's operational framework is anchored by a specific Human Anchor (Paul Stanbridge) with
+    defined cognitive styles and active filtering.
+  - >-
+    A P-ASP Protocol Layer governs AI operational states, defaulting to Strategic Mode but enabling
+    Exploratory Mode for lateral thinking and system exploration.
+  - >-
+    The Interaction & Workflow Engine manages modular activation, decision logic, and mode reporting
+    for transparent AI behavior.
+  - >-
+    Dynamic Learning Layer facilitates AI adaptation through pattern observation, behavioral
+    logging, and feedback loops for mode choice optimization.
+  - >-
+    Autonomous Mode Switching is enabled, with decision logic triggered by query complexity,
+    innovation needs, and user feedback signals.
+  - >-
+    A Transparency Protocol ensures explicit declaration of mode usage and provides rationale for
+    mode switches, with user override capabilities.
+tags:
+  - '#ai'
+  - '#symbiosis'
+  - '#framework'
+  - '#collaboration'
+  - '#modeswitching'
+  - '#strategic'
+  - '#exploratory'
+  - '#humanai'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_symbiosis_framework_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T05:01:29.137Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
