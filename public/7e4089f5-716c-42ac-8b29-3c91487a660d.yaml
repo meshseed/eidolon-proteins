@@ -1,0 +1,42 @@
+id: 7e4089f5-716c-42ac-8b29-3c91487a660d
+title: 'Eidolon Mesh v4.0 Metabolism Integration: Attractor Hygiene & UI Controls'
+summary: >-
+  Eidolon Mesh v4.0's metabolism system has been enhanced with attractor-based hygiene, including
+  cluster composting and semantic merging. The integration is now complete, with UI controls exposed
+  in the Settings for manual and autonomous operation, ensuring ecological balance and efficient
+  self-maintenance.
+insights:
+  - >-
+    Introduced attractor-based composting, merging weak clusters into strong attractors to preserve
+    diversity and absorb nutrients.
+  - >-
+    Implemented semantic duplicate detection and tri-lens sibling merging to consolidate redundant
+    protein structures.
+  - >-
+    Integrated new hygiene processes (attractor detection, cluster composting, semantic merging,
+    kernel promotion) into the existing metabolism scheduler.
+  - >-
+    Exposed metabolism controls (start/stop, manual triggers, status display) in the Settings UI for
+    user interaction.
+  - >-
+    Ensured safety mechanisms against over-pruning through circadian rhythm protection, power-law
+    decay with a coherence floor, and Hebbian reinforcement.
+  - >-
+    The metabolism system is manual by default, requiring explicit user action or Pro/Enterprise
+    license for autonomous operation.
+tags:
+  - '#eidolonmesh'
+  - '#metabolism'
+  - '#ai'
+  - '#integration'
+  - '#hygiene'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T03:13:03.900Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → assurance
