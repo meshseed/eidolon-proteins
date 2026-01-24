@@ -1,0 +1,42 @@
+id: 146a6837-2c1d-43dd-96ea-da2b789275cf
+title: 'MeshCODE: Synaptic Switches for Binary Memory Encoding'
+summary: >-
+  The MeshCODE theory proposes that memory is encoded binarily within individual synapses through
+  dynamic conformational switches in molecules like talin. These switches alter synaptic adhesion
+  complexes, leading to structural remodeling of neurons and tuning of connection strengths,
+  enabling precise data storage and transmission across neural networks.
+insights:
+  - >-
+    Synaptic memory storage relies on dynamic, switchable conformations of molecules (e.g., talin)
+    within adhesion complexes.
+  - >-
+    These conformational switches create a binary encoding mechanism at each synapse, allowing for
+    rapid writing and potentially long-term persistence of information.
+  - >-
+    The collective switching patterns across a neuron's thousands of synapses enable precise control
+    over information flow and network architecture.
+  - >-
+    Neuronal signaling and mechanical cues via the cytoskeleton mediate the propagation of these
+    changes to other synapses within a neuron and to adjacent neurons.
+  - >-
+    This system allows for re-writable, long-term storage of information, with data storage encoded
+    in a binary format at the synaptic level.
+  - >-
+    MeshCODE operations can allosterically modulate synaptic signaling, directing data to specific
+    memory modules.
+tags:
+  - '#biology'
+  - '#neuroscience'
+  - '#memory'
+  - '#synapses'
+  - '#computationalneuroscience'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T03:44:26.023Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
