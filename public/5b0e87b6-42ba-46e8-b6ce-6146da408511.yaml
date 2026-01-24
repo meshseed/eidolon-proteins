@@ -1,0 +1,45 @@
+id: 5b0e87b6-42ba-46e8-b6ce-6146da408511
+title: 'Eidolon Mesh: Metabolism, Error Resolution, and Kernel Promotion Tuning'
+summary: >-
+  This dialogue details the debugging and refinement of the Eidolon Mesh's metabolism system. Key
+  issues resolved include import errors, SQL schema discrepancies (missing 'status' and
+  'protein_activations' columns), and the over-promotion of proteins to 'kernel' status due to
+  unnormalized coherence scores. Solutions involved code fixes, schema adjustments, and
+  re-calibration of promotion thresholds.
+insights:
+  - >-
+    System growth is organic; there's no target connectome size, with homeostasis triggering
+    repository splits, not deletions.
+  - Visual culling for performance does not affect database integrity or actual data deletion.
+  - >-
+    Metabolism features like autophagy and composting are decay-based and size-independent,
+    preserving nutrients.
+  - >-
+    Import errors related to 'Capsule' type were resolved by using `import type` for type-only
+    imports.
+  - >-
+    SQL errors stemming from missing database columns ('p.status', 'protein_activations') were fixed
+    by adjusting queries or adding table existence checks.
+  - >-
+    Kernel over-promotion was addressed by significantly increasing activation and connection
+    thresholds and limiting the number of promoted candidates.
+  - >-
+    Coherence normalization is crucial for effective metabolism; manual execution via console is
+    recommended to spread scores and enable meaningful differentiation.
+tags:
+  - '#eidolonmesh'
+  - '#development'
+  - '#debugging'
+  - '#metabolism'
+  - '#kernelpromotion'
+  - '#coherencenormalization'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T07:17:26.425Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolution
