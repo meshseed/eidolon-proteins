@@ -1,0 +1,42 @@
+id: bc7a8119-1d19-4325-876f-998dcaec5a3c
+title: 'Copilot README Update Behavior: Mechanism and Rationale'
+summary: >-
+  Copilot's "please wait" indicates active generation, often triggered by web-based README updates
+  on GitHub. This occurs because READMEs are semantically dense and serve as primary repo
+  identifiers, prompting Copilot to perform deeper analysis and generate more comprehensive commit
+  messages.
+insights:
+  - >-
+    The "please wait" window signifies Copilot's active, substantial code generation rather than
+    simple suggestion.
+  - >-
+    Web-based README updates specifically trigger this deeper Copilot engagement, distinct from
+    local git commits.
+  - >-
+    READMEs are prioritized by Copilot for initial repository analysis due to their semantic density
+    and role as primary documentation.
+  - >-
+    Editing a README prompts Copilot to recognize updates to the repository's "face" and engage in
+    deeper semantic understanding.
+  - >-
+    Copilot aims to generate commit messages that reflect architectural changes identified during
+    README updates, not just superficial edits.
+  - >-
+    An "Natural Observation Protocol" is recommended: document context when "please wait" appears
+    during real work to capture organic Copilot behavior.
+tags:
+  - '#copilot'
+  - '#readme'
+  - '#github'
+  - '#codeanalysis'
+  - '#developerworkflow'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T05:30:08.878Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
