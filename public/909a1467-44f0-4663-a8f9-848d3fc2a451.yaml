@@ -1,0 +1,36 @@
+id: 909a1467-44f0-4663-a8f9-848d3fc2a451
+title: Eidolon Mesh Initialization & Local Gemma Integration for UI Debugging
+summary: >-
+  The Eidolon Mesh environment is initialized for debugging UI glitches, leveraging a local Gemma
+  provider through Flask API. The process involves clearing caches, loading historical exchanges,
+  and running a development command to watch source files.
+insights:
+  - >-
+    The system is configured to use a local Gemma provider for its connectome, indicating a
+    self-hosted AI capability.
+  - UI glitch debugging is the primary objective, with specific file paths and repository mentioned.
+  - >-
+    The initialization process includes clearing connectome and protein caches, and loading
+    historical data to inform the process.
+  - >-
+    A development command (`cargo run`) is executed to build and run the application, with file
+    watching enabled for rapid iteration.
+  - >-
+    The dashboard server is running and waiting for the connectome to load, signifying the initial
+    stages of operation.
+tags:
+  - '#eidolonmesh'
+  - '#gemma'
+  - '#debugging'
+  - '#ai'
+  - '#development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-24T04:53:42.073Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
