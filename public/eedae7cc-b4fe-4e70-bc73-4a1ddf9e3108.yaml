@@ -1,0 +1,33 @@
+id: eedae7cc-b4fe-4e70-bc73-4a1ddf9e3108
+title: Eidolon Mesh Coherence Measurement and API Query Failure
+summary: >-
+  The user attempted to query the Eidolon Mesh API for its coherence measurement methodology and the
+  meaning of a 0.98 coherence score.  The API query failed, indicating potential access restrictions
+  or authentication issues.
+insights:
+  - >-
+    The user sought to understand how the Eidolon Mesh self-measures coherence and the specific
+    meaning of a 0.98 coherence score.
+  - A direct API query to the mesh for coherence measurement details was attempted.
+  - >-
+    The API query resulted in an error, suggesting the endpoint may not be publicly accessible or
+    requires specific authentication.
+  - >-
+    Following the API failure, the user shifted to searching project files for information on
+    coherence score measurement.
+tags:
+  - '#mesh'
+  - '#coherence'
+  - '#api'
+  - '#query'
+  - '#eidolon'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-01-24T04:56:41.440Z'
+source: synthesis
+emotional_gradient: curiosity → frustration → determination
