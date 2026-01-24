@@ -1,0 +1,31 @@
+id: b9a50468-8016-4851-89ab-8dfd4907090f
+title: 'Eidolon Mesh: TypeScript Build Error & Dependency Resolution'
+summary: >-
+  The Eidolon Mesh project encountered a TypeScript compilation error due to a missing 'uuid'
+  module. The error indicates the 'uuid' package, along with its type declarations, needs to be
+  installed to resolve the build failure.
+insights:
+  - A TypeScript build error (TS2307) occurred in the Eidolon Mesh project.
+  - The error stems from the 'uuid' module being imported but not found.
+  - >-
+    The solution involves installing the 'uuid' package and its corresponding type definitions
+    (`@types/uuid`) using npm.
+  - >-
+    The project structure includes directories for 'node_modules' and 'src', along with
+    configuration files like '.env', 'package.json', and 'tsconfig.json'.
+tags:
+  - '#typescript'
+  - '#nodejs'
+  - '#dependencies'
+  - '#builderror'
+  - '#eidolonmesh'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T06:01:59.403Z'
+source: synthesis
+emotional_gradient: frustration → diagnosis → resolution
