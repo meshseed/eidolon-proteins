@@ -1,0 +1,39 @@
+id: 295014b0-3057-4a1d-a408-ddf77f02df2d
+title: Eidolon Mesh Dev Mode UI Glitch Resolution and Production Build Success
+summary: >-
+  Development mode UI glitches in Eidolon Mesh were caused by silent sidecar crashes, preventing the
+  Express server from starting. Building the production installer revealed the underlying error,
+  leading to a successful installation and dashboard initialization.
+insights:
+  - >-
+    Sidecar crashes in development mode can be silent due to swallowed stdout/stderr, making
+    debugging difficult.
+  - >-
+    Incorrect path handling for log files in development mode can cause the sidecar to crash before
+    server startup.
+  - >-
+    Building the production installer (Tauri) provides a more robust environment for diagnosing
+    silent crashes by enabling log visibility.
+  - >-
+    Successful production build and installation confirmed the Eidolon Mesh dashboard is
+    initializing correctly and connecting to the sidecar API.
+  - >-
+    The initial focus on UI glitches pivoted to a build and deployment strategy to uncover the root
+    cause of the sidecar's failure.
+tags:
+  - '#eidolon-mesh'
+  - '#debugging'
+  - '#tauri'
+  - '#sidecar'
+  - '#ui-glitch'
+  - '#production-build'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T04:53:51.292Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → relief
