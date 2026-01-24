@@ -1,0 +1,40 @@
+id: 0e3d88cc-7032-452b-862e-ddc45df98685
+title: 'Antigravity Agent: Attunement, Planning, and Execution Strategy'
+summary: >-
+  This document outlines a phased approach for interacting with an 'Antigravity' agent, emphasizing
+  initial attunement and partnership before proceeding to detailed planning and implementation. It
+  provides guidance on session flow, multi-agent support, and key principles for successful
+  interaction.
+insights:
+  - >-
+    Prioritize attunement with the Antigravity agent before providing specific prompts to establish
+    partnership and shared understanding.
+  - >-
+    The recommended session flow involves attunement, followed by a clear initial prompt, with a
+    technical elaboration document as a reference.
+  - >-
+    Multi-agent support (Claude, Gemini, Copilot) is available to answer questions, clarify vision,
+    and evaluate proposals, acting as guides, not directors.
+  - >-
+    Key principles for the first session include starting simple, trusting the agent, tracking the
+    gradient (feeling/complexity), asking questions, and enjoying the process.
+  - >-
+    Success is defined by interface understanding, agent attunement, approved plan, initial code
+    creation, and overall confidence by the end of the first session, culminating in a functional
+    module.
+tags:
+  - '#agentinteraction'
+  - '#aiworkflow'
+  - '#attunement'
+  - '#planning'
+  - '#implementation'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T06:00:40.348Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
