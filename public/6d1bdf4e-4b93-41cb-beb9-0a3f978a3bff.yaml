@@ -1,0 +1,39 @@
+id: 6d1bdf4e-4b93-41cb-beb9-0a3f978a3bff
+title: 'Eidolon Mesh: Centralized Repository & Clear Component Boundaries'
+summary: >-
+  The core recommendation is to consolidate all agent development into a single `eidolon-mesh`
+  repository to establish a single source of truth. This involves defining clear boundaries for
+  Eidolon OS, Mesh, Companion, Research, Mirror, and Continuity, and prioritizing immediate
+  repository creation and setup for Antigravity.
+insights:
+  - >-
+    Consolidate all agent development into a single `eidolon-mesh` repository for a unified source
+    of truth.
+  - >-
+    Define clear departmental boundaries: Eidolon OS (protocols), Mesh (implementation), Companion
+    (user app), Research (science), Mirror (vault), Continuity (vision).
+  - >-
+    Prioritize creating the `eidolon-mesh` repository and pointing the Antigravity workspace to it
+    as a clean slate.
+  - >-
+    Organize agents within specialized folders in the single repository (e.g., `/agents/claude/`,
+    `/agents/gemini/`) rather than separate repositories.
+  - >-
+    Focus immediate efforts on repository setup and initial module building, deferring less critical
+    developments like Companion and Research.
+tags:
+  - '#mesh'
+  - '#repository'
+  - '#organization'
+  - '#development'
+  - '#agents'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T06:01:10.717Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
