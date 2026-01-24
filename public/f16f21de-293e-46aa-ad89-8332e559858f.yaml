@@ -1,0 +1,36 @@
+id: f16f21de-293e-46aa-ad89-8332e559858f
+title: 'AI Research Framework: Scientific Rigor & Persistent Memory'
+summary: >-
+  This research establishes a framework for documenting AI discoveries with scientific rigor,
+  emphasizing logic, evidence, and reproducibility. It addresses limitations of standard LLMs by
+  developing persistent memory and analytical development for a deeper, continuous research thread.
+insights:
+  - AI research should be grounded in logic, evidence, and reproducibility for peer review.
+  - >-
+    A timeline of discoveries is crucial for tracking insight evolution and building a living
+    research thread.
+  - >-
+    The research aims to overcome AI's tendency to forget and the superficiality of default LLM
+    interactions for scientific tasks.
+  - >-
+    Developing persistent memory and analytical frameworks is key to a deeper, more useful AI
+    research partnership.
+  - >-
+    Comparing and contrasting various AI models (Copilot, ChatGPT, Gemini, Claude) reveals distinct
+    traits and limitations relevant to scientific workflow.
+tags:
+  - '#AIresearch'
+  - '#scientificmethod'
+  - '#persistentmemory'
+  - '#LLMlimitations'
+  - '#computationalcognition'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:BIOGRAPHY_CONVERSATION_COPILOT_RAW_2025-09-26_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:09:23.638Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
