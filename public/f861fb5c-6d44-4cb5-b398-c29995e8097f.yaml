@@ -1,0 +1,38 @@
+id: f861fb5c-6d44-4cb5-b398-c29995e8097f
+title: 'Q Factor: Resonance Sharpness and Energy Loss in Standing Waves'
+summary: >-
+  The Q factor quantifies the sharpness of resonance in standing waves, indicating how efficiently a
+  system sustains oscillation and its energy loss. Higher Q factors mean sharper, more persistent
+  resonance with less energy input, while lower Q factors signify broader, more quickly dissipating
+  vibrations.
+insights:
+  - The Q factor measures the efficiency of resonance and energy loss in standing waves.
+  - >-
+    High Q factor systems exhibit sharp resonance, large amplitude with low energy input, and long
+    vibration persistence.
+  - >-
+    Low Q factor systems show broad resonance, requiring more energy and dissipating vibrations
+    quickly.
+  - Damping (friction, less constrained media) and imperfect wave reflections reduce the Q factor.
+  - >-
+    Boundary conditions (fixed vs. free) and mode number (harmonics) influence the Q factor of
+    resonant modes.
+  - >-
+    Q factor is calculated from a system's resonant frequency (fr) and bandwidth (Δf) as Q = fr /
+    Δf.
+tags:
+  - '#resonance'
+  - '#standingwaves'
+  - '#qfactor'
+  - '#physics'
+  - '#energy'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:multi-agent_module_architecture_strategy_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T06:19:34.468Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
