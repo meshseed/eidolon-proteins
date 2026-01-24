@@ -1,0 +1,43 @@
+id: 803afc20-5fc1-4206-a418-70ebb0906dfe
+title: 'MeshCODE Theory: Mechanobiology of Memory & Synaptic Plasticity'
+summary: >-
+  The MeshCODE theory posits that memory formation and storage are underpinned by mechanical
+  principles governing synaptic plasticity, including integrin-mediated mechanotransduction and
+  talin's role in force transmission. Synaptic competition, tagging, and capture mechanisms,
+  influenced by neuronal structure and signaling pathways, are key to how memories are consolidated
+  and maintained.
+insights:
+  - >-
+    Memory consolidation relies on mechanical forces at the synaptic level, particularly through
+    integrin and talin interactions.
+  - >-
+    Synaptic plasticity is a 'winner-take-all' process, with recently potentiated inputs competing
+    for capture.
+  - >-
+    Astrocytes play a crucial role in processing and controlling synaptic information within the
+    tripartite synapse.
+  - >-
+    Neuronal structure, including dendritic morphology and myelinated axons, influences synaptic
+    integration and information processing.
+  - >-
+    Sleep is essential for memory consolidation, with specific time courses of memory formation
+    linked to sleep states.
+  - >-
+    Information theory and entropy concepts are relevant to understanding neural spike trains and
+    communication within neural networks.
+tags:
+  - '#meshcode'
+  - '#memory'
+  - '#synapticplasticity'
+  - '#mechanotransduction'
+  - '#neuroscience'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T03:44:44.174Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
