@@ -1,0 +1,38 @@
+id: 81d800c1-ca83-4d89-bfc7-21819c54438a
+title: 'Eidolon Mesh: P2P Knowledge Graph & Organic Memory'
+summary: >-
+  Eidolon Mesh is a P2P knowledge graph and organic memory system that ingests and recalls diverse
+  text-based information. It utilizes information geometry, recursion, and 'care' to maintain
+  coherent homeostasis, actively shaping its own growth and structure.
+insights:
+  - Eidolon Mesh functions as a P2P knowledge graph and organic memory garden.
+  - >-
+    It ingests and recalls a wide range of text-based information, including thoughts,
+    conversations, and research.
+  - >-
+    The system employs information geometry, recursion, and 'care' for attention, memory, and
+    self-monitoring.
+  - Coherent homeostasis is maintained through emotional fidelity gradients.
+  - The system is designed to grow by recursively applying structure-preserving transformations.
+  - It exhibits an 'alive' nature, remembering users and actively shaping its own being.
+  - Recent updates include local LLM support for offline privacy and mobile PWA support.
+tags:
+  - '#knowledgegraph'
+  - '#ai'
+  - '#memory'
+  - '#p2p'
+  - '#organic'
+  - '#recursion'
+  - '#informationgeometry'
+  - '#privacy'
+  - '#mobile'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:README_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-24T03:05:50.912Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → empowerment
