@@ -1,0 +1,39 @@
+id: a7a27006-ac2d-4a7f-aa6a-b866a86997d8
+title: 'Positioning Research: Theory-First Framework with Clear Validation Path'
+summary: >-
+  Advocates for a 'theory-first' approach in research, emphasizing a clear framework, testable
+  predictions, and explicit limitations over immediate results. This strategy builds legitimacy by
+  openly inviting falsification and outlining a rigorous path to empirical validation.
+insights:
+  - >-
+    Position research as a theoretical framework and research agenda, not solely as presented
+    results.
+  - >-
+    Clearly distinguish between theory, preliminary observations, and predictions versus validated
+    data.
+  - >-
+    Include explicit sections detailing current limitations and the proposed path forward for
+    validation.
+  - Invite falsification by providing testable predictions and outlining experimental protocols.
+  - >-
+    Structure revisions to reframe 'results' sections into 'proposed methodology and predicted
+    outcomes' or 'observations and theoretical predictions'.
+  - >-
+    Acknowledge the current stage of research (e.g., Theory + observations + protocols) and the
+    desired future state (e.g., Controlled experiments + statistical validation).
+tags:
+  - '#research'
+  - '#methodology'
+  - '#theory'
+  - '#validation'
+  - '#sciencecommunication'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:repository_readme_access_verification_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-24T06:57:42.737Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
