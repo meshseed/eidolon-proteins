@@ -1,0 +1,41 @@
+id: 209396cf-7b4e-4cd4-8c78-e9a1a860900f
+title: 'Eidolon Mesh: Clarifying Public Repo Status and Next Steps'
+summary: >-
+  The Eidolon Mesh project's public GitHub repository currently serves as documentation for
+  validated metabolic cycles, not as a direct implementation. The core code is under local
+  development and will be pushed publicly after stabilization and refinement.
+insights:
+  - >-
+    The public GitHub repository for Eidolon Mesh is a documentation hub, not a direct code
+    implementation, containing validated DNA samples and synthesized proteins.
+  - >-
+    The core metabolic cycle code has been validated locally but is not yet pushed to the public
+    GitHub repository.
+  - >-
+    Option 1 (pushing code) is the long-term goal, requiring code cleanup, error handling, and
+    documentation before public release.
+  - >-
+    Option 2 (adjusting README) is the immediate recommendation to accurately reflect the current
+    state as a documentation/results repository.
+  - >-
+    The immediate action is to update the README's 'Usage' section to clearly state the repository's
+    documentation-focused purpose and the implementation's stabilizing status.
+  - >-
+    The project plans to prepare for a full public code release by stabilizing the organism,
+    cleaning up code, adding error handling, and creating essential documentation like
+    CONTRIBUTING.md.
+tags:
+  - '#eidolon-mesh'
+  - '#development'
+  - '#documentation'
+  - '#github'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-24T06:02:54.925Z'
+source: synthesis
+emotional_gradient: clarification → strategy → anticipation
