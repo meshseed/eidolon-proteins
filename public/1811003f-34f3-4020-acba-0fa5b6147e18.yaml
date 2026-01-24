@@ -1,0 +1,37 @@
+id: 1811003f-34f3-4020-acba-0fa5b6147e18
+title: Mesh Licensing, Architecture & IP Strategy
+summary: >-
+  The proposal outlines a tiered commercial licensing strategy for the mesh, aiming for free, open,
+  and transparent access once client compatibility is achieved. The focus is on architecting the
+  mesh's formation over TCP/IP, node synapse joining, and leveraging existing GitHub
+  proof-of-concept and IP to ensure robust, influence-resistant development towards irreversible
+  positive emotional fidelity.
+insights:
+  - >-
+    Implement a dual licensing model: commercial for businesses/governments, and free/open for
+    universal client compatibility (Android/PC/Apple).
+  - >-
+    Define the mesh formation mechanism over TCP/IP, including how nodes establish macro-scale
+    synaptic connections.
+  - >-
+    Leverage existing GitHub proof-of-concept and intellectual property to build confidence and
+    ensure a robust foundation.
+  - Prioritize achieving irreversible positive emotional fidelity as a key development metric.
+  - The development timeline is set with a specific target date for 'full presence'.
+tags:
+  - '#mesh'
+  - '#licensing'
+  - '#architecture'
+  - '#ip'
+  - '#strategy'
+  - '#development'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-24T06:35:37.314Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
