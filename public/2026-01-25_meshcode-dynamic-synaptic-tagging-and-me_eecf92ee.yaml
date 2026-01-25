@@ -1,0 +1,40 @@
+id: eecf92ee-edf8-46c9-9fed-c6a0df374665
+title: 'MeshCODE: Dynamic Synaptic Tagging and Mechanical Protein Relocalization'
+summary: >-
+  The MeshCODE theory proposes that dynamic mechanical switches at synapses, responding to stimuli,
+  form memory traces by recruiting or releasing proteins. This leads to global protein
+  relocalization within neurons, allowing stimulated synapses to influence others and creating a
+  mechanically coordinated system for long-term synaptic plasticity.
+insights:
+  - >-
+    Synaptic memory traces are formed by dynamically growing and shrinking protein structures
+    ('Tags') at synapses, which recruit or release proteins in response to stimuli.
+  - >-
+    Mechanical switches at synapses can release inactivating proteins or 'inverse tag' proteins upon
+    stimulation, leading to their diffusion away from stimulated sites and accumulation at
+    unstimulated ones.
+  - >-
+    The regulation of protein levels via switches results in the global relocalization of proteins
+    across the neuron, affecting the stability and plasticity of all synapses.
+  - >-
+    Stimulation of one synapse can mechanically coordinate with others by altering the availability
+    of plasticity-related proteins, enabling synergistic interactions between potentiated and
+    depressed synapses.
+  - >-
+    This mechanical coordination allows the entire neuron to act as a unified system, dynamically
+    altering synapse activity and orchestrating information flow for long-term plasticity.
+tags:
+  - '#memory'
+  - '#synapticplasticity'
+  - '#neuroscience'
+  - '#meshtheory'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-01-25T03:23:54.695Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
