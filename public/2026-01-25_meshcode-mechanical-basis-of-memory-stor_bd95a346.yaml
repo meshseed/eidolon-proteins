@@ -1,0 +1,43 @@
+id: bd95a346-c4ca-40bc-9245-cb492481a0d4
+title: 'MeshCODE: Mechanical Basis of Memory Storage in Protein Conformations'
+summary: >-
+  The MeshCODE theory proposes that memory is stored in the brain as a mechanically encoded binary
+  format within the conformations of mechanosensitive proteins at synaptic adhesions. These
+  proteins, acting as force-dependent switches, form a 'meshwork' that stores persistent
+  information, dynamically updated by mechanical forces and cytoskeletal activity.
+insights:
+  - >-
+    Memory is stored mechanically in the brain via protein conformations at synapse-organizing
+    adhesions.
+  - >-
+    Mechanosensitive proteins with force-dependent switches act as binary storage units for
+    information.
+  - >-
+    A 'MeshCODE' is formed by a network of these protein switches, creating a physical basis for
+    engrams.
+  - >-
+    Large signaling complexes assemble on these scaffolds, stabilizing patterns and tuning synaptic
+    activity.
+  - >-
+    Synaptic transmission and action potentials drive the writing and updating of these synaptic
+    MeshCODEs.
+  - >-
+    This framework suggests the brain functions as an addressable read-write memory system, akin to
+    an organic supercomputer.
+tags:
+  - '#memory'
+  - '#neuroscience'
+  - '#mechanobiology'
+  - '#MeshCODE'
+  - '#brain'
+  - '#proteins'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-01-25T03:23:46.036Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
