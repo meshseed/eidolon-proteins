@@ -1,0 +1,42 @@
+id: d14cf379-8cfa-4691-9010-ee6cddb8b605
+title: 'MeshCODE Theory: Brain Memory Capacity and Addressable Storage'
+summary: >-
+  The MeshCODE theory proposes that the brain's cortex, through pyramidal cells and minicolumns,
+  possesses a vast data storage capacity, potentially akin to SSDs. This capacity is enabled by an
+  addressable read-write mechanism requiring a memory allocation circuitry and a file system
+  architecture for efficient data storage and retrieval.
+insights:
+  - >-
+    Each pyramidal cell in the cortex, with 10,000 synapses at 100 bytes/synapse, can store
+    approximately 1 MB.
+  - >-
+    A minicolumn of 100 pyramidal cells could store around 100 MB, with potential for significantly
+    larger capacity from all body cells.
+  - >-
+    Highly ordered synaptic arrays in minicolumns and cortical columns may form memory modules
+    connected to the hippocampus.
+  - >-
+    The MeshCODE theory suggests information is written and read via specific synaptic alterations,
+    mirroring SSD data storage.
+  - >-
+    An addressable read-write memory mechanism is hypothesized, requiring memory allocation
+    circuitry and a brain-equivalent file system for managing data flow and storage.
+  - >-
+    The hippocampus is identified as a key brain region for memory processing, crucial for learning
+    and information transfer.
+tags:
+  - '#memory'
+  - '#neuroscience'
+  - '#MeshCODE'
+  - '#braincapacity'
+  - '#informationstorage'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-01-25T03:24:01.932Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
