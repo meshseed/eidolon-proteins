@@ -1,0 +1,38 @@
+id: 992187b9-e40c-460f-a9cd-0774c0cf5192
+title: 'Transformer Architecture: Multi-Head Attention and Feed-Forward Networks'
+summary: >-
+  The Transformer model employs multi-head attention, projecting queries, keys, and values multiple
+  times in parallel to attend to different representation subspaces. This is complemented by
+  position-wise feed-forward networks, which apply identical transformations to each position
+  separately, alongside learned embeddings and a softmax layer for output prediction.
+insights:
+  - >-
+    Multi-head attention allows the model to capture diverse relationships by attending to
+    information from different representation subspaces simultaneously.
+  - >-
+    Self-attention in encoders and decoders enables attending to all positions within the same
+    sequence or up to the current position, respectively.
+  - >-
+    Masking is used in scaled dot-product attention to prevent future information flow in the
+    decoder, preserving the auto-regressive property.
+  - >-
+    Position-wise feed-forward networks consist of two linear transformations with a ReLU
+    activation, applied independently to each position.
+  - >-
+    Learned embeddings convert input/output tokens into vectors, and a linear transformation +
+    softmax predicts next-token probabilities.
+tags:
+  - '#transformer'
+  - '#attention'
+  - '#deeplearning'
+  - '#nlp'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:attention_is_all_you_need_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-25T03:22:39.678Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
