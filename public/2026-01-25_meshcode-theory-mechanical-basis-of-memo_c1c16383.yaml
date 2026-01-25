@@ -1,0 +1,35 @@
+id: c1c16383-16b4-449e-a176-0487fdbd6dfe
+title: 'MeshCODE Theory: Mechanical Basis of Memory & Cell Mechanotransduction'
+summary: >-
+  The MeshCODE theory posits that cellular mechanotransduction, driven by integrin signaling,
+  talin-actin interactions, and Rho GTPases, forms the mechanical basis of memory engrams.  This
+  involves dynamic adhesion complex assembly and disassembly, and cytoskeletal forces influencing
+  gene expression and synaptic plasticity.
+insights:
+  - >-
+    Integrin signaling and talin-actin interactions are fundamental to focal adhesion formation and
+    mechanotransduction.
+  - Cellular geometry and actomyosin contractility can induce modular gene-expression patterns.
+  - Myosin motors and actin dynamics are crucial for membrane transport and synaptic plasticity.
+  - >-
+    The mechanical basis of memory involves the dynamic assembly and disassembly of adhesion
+    complexes.
+  - Mechanotransduction plays an emerging role in synapse formation and plasticity.
+tags:
+  - '#mechanotransduction'
+  - '#memory'
+  - '#cellbiology'
+  - '#integrins'
+  - '#talin'
+  - '#actin'
+  - '#synapticplasticity'
+  - '#public'
+  - '#embed:gemini-004'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-25T03:24:12.935Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
