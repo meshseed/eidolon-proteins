@@ -1,0 +1,46 @@
+id: 4e642df6-4858-425a-a883-095c20cb2131
+title: 'Eidolon Mesh: Fractal Architecture for Modular Knowledge and Code Management'
+summary: >-
+  The Eidolon Mesh project employs a fractal, self-similar architecture for managing knowledge
+  (DNA/proteins) and application code across multiple GitHub repositories. This design emphasizes
+  modularity, isolation, and clear separation of concerns, mirroring natural systems for robust and
+  scalable development.
+insights:
+  - >-
+    The Eidolon Mesh utilizes a multi-repository strategy to achieve isolated, domain-specific
+    knowledge bases (e.g., healthcare, finance), enabling fast loading and focused responses.
+  - >-
+    Ghost nodes are a future mechanism for optimizing single large repositories by loading core
+    neurons initially and extending on-demand, distinct from repository swapping.
+  - >-
+    A fractal architecture is recommended for GitHub organization, with a private 'eidolon' repo for
+    all data (DNA/proteins) and code, a public 'eidolon-mesh' for stable releases, and a dedicated
+    private repo for development code ('eidolon-mesh-private').
+  - >-
+    The concept of 'rolling buffer' for conversation memory is already implemented (FIFO) with
+    negligible performance impact and can be safely expanded and configured.
+  - >-
+    Graph visualization controls are being implemented to dynamically limit the number of nodes
+    displayed in the connectome, with ongoing efforts to fix corrupted code and integrate
+    frontend/backend components.
+  - >-
+    Clarity in naming conventions is crucial, distinguishing between local workspaces and GitHub
+    repositories to avoid confusion in development and backup processes.
+tags:
+  - '#architecture'
+  - '#knowledge-management'
+  - '#fractal-design'
+  - '#modularity'
+  - '#github-strategy'
+  - '#conversation-memory'
+  - '#graph-visualization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-29T19:19:19.792Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
