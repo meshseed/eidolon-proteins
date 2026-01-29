@@ -1,0 +1,41 @@
+id: 16140838-712e-4ad0-8d27-b8c9f9b1d84f
+title: 'Transformer: Attention-Only Sequence Transduction Model'
+summary: >-
+  The Transformer model abandons recurrence and convolution, relying entirely on attention
+  mechanisms to model global dependencies in sequence transduction. It utilizes multi-head
+  self-attention and position-wise feed-forward networks within an encoder-decoder structure.
+insights:
+  - >-
+    The Transformer is a novel sequence transduction model that eschews recurrence and convolution,
+    exclusively using attention mechanisms.
+  - >-
+    Attention allows modeling dependencies irrespective of their distance within input or output
+    sequences.
+  - >-
+    Previous models using convolutional networks faced challenges learning distant dependencies due
+    to operation growth with distance.
+  - >-
+    Self-attention (intra-attention) computes representations of a sequence by relating its
+    different positions.
+  - >-
+    The Transformer's encoder consists of N identical layers, each with multi-head self-attention
+    and a feed-forward network, employing residual connections and layer normalization.
+  - >-
+    The model is auto-regressive, generating output symbols one at a time, consuming previously
+    generated symbols as input.
+tags:
+  - '#attention'
+  - '#seq2seq'
+  - '#nlp'
+  - '#transformer'
+  - '#deeplearning'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:attention_is_all_you_need_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-01-29T19:09:35.851Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
