@@ -1,0 +1,31 @@
+id: 36ae9460-4abb-4a8e-bcb7-a78bd6649e13
+title: 'Calculus: Derivatives and the Essence of Instantaneous Change'
+summary: >-
+  Calculus, specifically derivatives, quantifies the instantaneous rate of change of functions,
+  representing the slope of tangent lines. This fundamental concept underpins optimization, motion
+  analysis, and related rates, revealing the continuous nature of change and the dynamics of
+  processes.
+insights:
+  - The derivative measures the infinitesimal change of one quantity with respect to another.
+  - Geometrically, the derivative is the slope of the tangent line to a function's graph.
+  - Derivatives are crucial for finding maximum/minimum values through optimization.
+  - Successive derivatives describe motion (position, velocity, acceleration) and concavity.
+  - >-
+    Calculus connects differentiation and integration as inverse operations via the Fundamental
+    Theorem.
+tags:
+  - '#math'
+  - '#calculus'
+  - '#change'
+  - '#continuity'
+  - '#rate_of_change'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:13_math_calculus_yaml'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.92
+created_at: '2026-01-29T20:24:09.112Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
