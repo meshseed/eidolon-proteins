@@ -1,0 +1,37 @@
+id: 848b9d7e-42fc-4559-a745-73461ffe98b3
+title: 'MeshCODE Theory: Neural Plasticity, Memory, and Molecular Mechanisms'
+summary: >-
+  This compilation of research highlights the intricate molecular and cellular mechanisms underlying
+  memory formation and consolidation, particularly focusing on synaptic plasticity, cytoskeletal
+  dynamics, and the role of Rho GTPases and integrins. It emphasizes the importance of sequential
+  experience, sleep, and early network tagging in establishing enduring associative memories.
+insights:
+  - >-
+    Memory formation involves synaptic plasticity, including spike-timing-dependent plasticity
+    (STDP).
+  - Sleep, especially slow-wave sleep, plays a crucial role in memory consolidation.
+  - >-
+    Rho GTPase signaling and integrin activation are key to cell migration, invasion, and neuronal
+    connectivity.
+  - >-
+    The axonal cytoskeleton and dendritic spine structure are critical for synaptic plasticity and
+    memory.
+  - Early tagging of cortical networks is required for the formation of enduring associative memory.
+  - Talin molecules transmit forces at muscle attachments and have roles in presynaptic function.
+tags:
+  - '#neuroscience'
+  - '#memory'
+  - '#synapticplasticity'
+  - '#cellmigration'
+  - '#cytoskeleton'
+  - '#sleep'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-01-29T19:15:41.928Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
