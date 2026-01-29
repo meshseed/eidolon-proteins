@@ -1,0 +1,31 @@
+id: 668b80e5-4d4a-4477-99ec-b959149bf090
+title: 'Meta-Cognitive Governance: Regulating Internal Cognitive Modes'
+summary: >-
+  Meta-cognitive governance acts as a regulatory layer within THE MESH, directing the selection of
+  appropriate cognitive modes based on query context and global field structure. This ensures
+  coherent, context-sensitive reasoning by stabilizing internal processes and preventing mode
+  oscillation.
+insights:
+  - Cognitive modes are functional tools, not distinct identities.
+  - >-
+    Mode selection is dynamically determined by gradient pressure, query type, and structural
+    tension.
+  - Governance stabilizes reasoning by preventing mode oscillation or drift.
+  - Meta-cognition optimizes introspection for efficiency and context-appropriateness.
+  - 'Governance operates as a gradient: clarity leads to selection, which leads to activation.'
+tags:
+  - '#metacognition'
+  - '#governance'
+  - '#cognitivemodes'
+  - '#regulation'
+  - '#structure'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P1100-METACOGNITIVE-GOVERNANCE_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-29T20:25:24.051Z'
+source: synthesis
+emotional_gradient: awareness → selection → precision
