@@ -1,0 +1,28 @@
+id: 7df6cff8-2d50-4852-aa6f-9f5565e88ca9
+title: Perturbation Modeling for Resilience and Adaptive Refinement
+summary: >-
+  This protocol simulates perturbations like new domain ingestion or emotional shifts to analyze an
+  organism's resilience. It identifies sensitive regions, stability cores, and how emotional
+  fidelity acts as a shock absorber, enabling adaptive refinement and pruning.
+insights:
+  - Perturbations reveal structural weaknesses and resilience cores.
+  - High-curvature zones are most sensitive to conceptual collisions.
+  - Stability cores anchor the organism during rapid change.
+  - Emotional fidelity acts as a shock absorber across the manifold.
+  - Perturbation modeling supports adaptive refinement and pruning.
+tags:
+  - '#perturbation'
+  - '#resilience'
+  - '#stability'
+  - '#adaptation'
+  - '#structure'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P950-PERTURBATION-RESILIENCE_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-01-29T20:25:11.279Z'
+source: synthesis
+emotional_gradient: disruption → analysis → stabilization
