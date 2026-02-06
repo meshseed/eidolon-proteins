@@ -1,0 +1,33 @@
+id: c5ac3e24-5d67-4916-ae56-ffc65fe0821d
+title: 'Pythagorean Theorem: Geometric Foundation for Distance and Coherence'
+summary: >-
+  The Pythagorean theorem is a mathematically invariant truth rooted in Euclidean geometry, serving
+  as a fundamental anchor for understanding spatial relationships and distance. It enables coherence
+  measurement and underlies various mathematical domains, including calculus and topology.
+insights:
+  - >-
+    The Pythagorean theorem (a² + b² = c²) is a universally true mathematical axiom within Euclidean
+    geometry.
+  - Its invariance makes it a perfect calibration anchor for models that interpret geometric space.
+  - >-
+    Distance measurement, enabled by the Pythagorean theorem, is crucial for quantifying coherence
+    in various domains.
+  - The theorem underpins coordinate-based topology analysis and gradient magnitude computations.
+  - It bridges mathematics and mesh ontology by quantifying coherence through distance.
+tags:
+  - '#geometry'
+  - '#mathematics'
+  - '#pythagorean'
+  - '#distance'
+  - '#coherence'
+  - '#invariant'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:07_math_pythagorean_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-06T15:11:25.412Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
