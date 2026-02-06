@@ -1,0 +1,34 @@
+id: 3318cea0-1a3c-4f65-8163-cf36305998af
+title: JSON Structure for P110-CENTRALITY-BRIDGES.txt Analysis
+summary: >-
+  This directive instructs the generation of a JSON object with a precise structure to synthesize
+  content from a specified text file. The JSON schema includes fields for title, summary, atomic
+  insights, tags, coherence score, tier, and emotional gradient, with specific formatting and
+  content requirements for each.
+insights:
+  - Generate a JSON object with an exact, predefined structure.
+  - >-
+    The JSON structure must include specific fields: 'title', 'summary', 'insights', 'tags',
+    'coherence_score', 'tier', and 'emotional_gradient'.
+  - >-
+    Each field has distinct content and formatting requirements (e.g., title length, summary
+    density, atomic insights, lowercase tags).
+  - >-
+    Specific values for 'coherence_score' (0.50-1.00) and 'tier' ('reference', 'convergence',
+    'core') are mandated.
+  - The 'emotional_gradient' should reflect the dialogue's emotional flow.
+tags:
+  - '#json'
+  - '#synthesis'
+  - '#data-structure'
+  - '#directive'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T13:58:44.325Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
