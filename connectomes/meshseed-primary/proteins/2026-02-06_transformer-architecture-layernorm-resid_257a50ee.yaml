@@ -1,0 +1,38 @@
+id: 257a50ee-f15b-481c-b7ac-924690569a76
+title: 'Transformer Architecture: LayerNorm, Residuals, and Scaled Dot-Product Attention'
+summary: >-
+  The Transformer model utilizes Layer Normalization and residual connections within its encoder and
+  decoder stacks, ensuring stable training and information flow.  The core attention mechanism,
+  Scaled Dot-Product Attention, efficiently computes relevance between queries, keys, and values
+  using matrix operations and softmax.
+insights:
+  - >-
+    LayerNorm and residual connections are applied to all sub-layers and embeddings, facilitating
+    stable training in deep networks.
+  - >-
+    The decoder includes an additional attention sub-layer over the encoder output, and its
+    self-attention masks future positions.
+  - >-
+    Scaled Dot-Product Attention computes attention weights via softmax on scaled query-key dot
+    products, applied to values.
+  - >-
+    Multi-Head Attention enhances performance by projecting queries, keys, and values multiple times
+    with learned linear projections.
+  - >-
+    Dot-Product Attention is faster and more space-efficient than Additive Attention due to
+    optimized matrix multiplication.
+tags:
+  - '#transformer'
+  - '#attention'
+  - '#deeplearning'
+  - '#nlp'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:attention_is_all_you_need_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:34:55.492Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
