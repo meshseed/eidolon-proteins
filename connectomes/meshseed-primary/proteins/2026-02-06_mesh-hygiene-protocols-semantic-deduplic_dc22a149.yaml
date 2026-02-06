@@ -1,0 +1,40 @@
+id: dc22a149-881a-4726-9bcc-d1ec1659c904
+title: 'MESH Hygiene Protocols: Semantic Deduplication & Integration'
+summary: >-
+  The MESH employs advanced hygiene protocols for protein management, including semantic
+  deduplication to identify and merge similar knowledge proteins. This process is guided by user
+  oversight, allowing for the import of diverse connectomes and the observation of 'natural
+  selection' among knowledge structures.
+insights:
+  - >-
+    The MESH system actively detects and suggests merging of semantically similar knowledge proteins
+    (e.g., 'Universal Gradient Descent').
+  - >-
+    Capsule Hygiene Protocols offer automated actions like merging, composting inactive proteins,
+    and promoting emergent kernels.
+  - >-
+    A 'Natural Selection Import Flow' allows importing connectomes in an 'isolate' mode, deferring
+    integration to hygiene protocols for controlled evolution.
+  - >-
+    User-guided deduplication and import strategies enable a curated, emergent ecosystem of
+    knowledge proteins within THE MESH.
+  - >-
+    The system tracks protein lineage, providing visibility into the evolution of knowledge
+    structures.
+tags:
+  - '#MESH'
+  - '#knowledge-management'
+  - '#AI'
+  - '#deduplication'
+  - '#connectome'
+  - '#hygiene-protocols'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-06T14:00:01.575Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
