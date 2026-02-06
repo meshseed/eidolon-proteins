@@ -1,0 +1,28 @@
+id: dc1b6cb4-ad1d-49bd-9da2-b2b9ce7b0b4d
+title: 'Nucleus Sync Failure: GitHub Token Missing, Redis Memory Leak'
+summary: >-
+  A deployment failed due to a Nucleus sync warning indicating a Redis memory leak and a pointer
+  issue. The root cause appears to be a missing GitHub token configuration required for the Nucleus
+  push operation.
+insights:
+  - Deployment failure linked to Nucleus sync issues.
+  - Redis memory leak and pointer problems identified as contributing factors.
+  - Missing GitHub token configuration is the primary blocker for Nucleus push.
+  - Ingestion panel processes file uploads that trigger these sync warnings.
+  - IndexedDB operations are involved in the synchronization process.
+tags:
+  - '#deployment'
+  - '#errors'
+  - '#github'
+  - '#redis'
+  - '#sync'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-02-06T14:07:28.037Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
