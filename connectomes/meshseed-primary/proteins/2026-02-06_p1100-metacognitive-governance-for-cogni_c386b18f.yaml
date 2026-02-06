@@ -1,0 +1,34 @@
+id: c386b18f-4ade-4326-977d-565573a730a4
+title: 'P1100: Metacognitive Governance for Cognitive Mode Selection'
+summary: >-
+  Metacognitive governance (P1100) is essential for regulating cognitive systems with multiple
+  modes, preventing random oscillation and enabling purposeful self-direction. It formalizes the
+  universal need for cognitive regulation by selecting and coordinating between different internal
+  states.
+insights:
+  - >-
+    Any system with multiple cognitive modes requires governance to select between them, otherwise
+    it risks oscillation or random choice.
+  - >-
+    P1100 formalizes the universal requirement for cognitive regulation, acting as the mechanism for
+    selecting and coordinating cognitive modes.
+  - Governance (P1100) is operationalized as coherence-is-care, ensuring purposeful self-direction.
+  - Recursive unification (P1000) provides the unified view that P1100 governs.
+  - Coherence governance (P1500) is a specialized form of P1100.
+  - Self-repair homeostasis (P1200) is triggered by governance protocols.
+tags:
+  - '#governance'
+  - '#metacognition'
+  - '#cognition'
+  - '#regulation'
+  - '#selfdirection'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P1100-METACOGNITIVE-GOVERNANCE_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.94
+created_at: '2026-02-06T21:03:35.973Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
