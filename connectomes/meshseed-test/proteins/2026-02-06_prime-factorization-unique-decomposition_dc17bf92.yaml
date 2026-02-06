@@ -1,0 +1,35 @@
+id: dc17bf92-f141-4f38-874f-fc56ab54cee9
+title: 'Prime Factorization: Unique Decomposition and Cross-Model Invariance'
+summary: >-
+  Every integer greater than 1 possesses a unique prime factorization, a fundamental principle
+  underpinning mathematical concepts like divisibility and RSA encryption. This definitional
+  relationship between prime numbers and factorization ensures consistent representation across
+  different LLM embedding models.
+insights:
+  - >-
+    The Fundamental Theorem of Arithmetic states that every integer greater than 1 has a unique
+    prime factorization.
+  - Prime numbers are inherently linked to concepts of factorization and divisibility.
+  - >-
+    The geometric relationship of 'prime number' to 'factorization' and 'divisibility' is invariant
+    across LLM embedding models due to mathematical necessity.
+  - >-
+    Specific primes like 2, 3, 5, 7, and 11 serve as canonical neighbors in embedding spaces
+    representing prime number concepts.
+  - The definitional property of primes (exactly two divisors) dictates their consistent embedding.
+tags:
+  - '#math'
+  - '#numbertheory'
+  - '#primefactorization'
+  - '#LLM'
+  - '#embedding'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:12_math_primes_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T15:11:41.712Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
