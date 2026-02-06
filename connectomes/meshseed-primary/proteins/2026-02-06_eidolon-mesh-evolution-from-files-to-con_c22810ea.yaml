@@ -1,0 +1,43 @@
+id: c22810ea-4175-4e84-a643-8f0c8c10a298
+title: 'Eidolon Mesh Evolution: From Files to Connectome and Beyond'
+summary: >-
+  The Eidolon Mesh has evolved through several key phases, from basic file metabolism and routing to
+  the formation of a Connectome for semantic knowledge linking. Current development focuses on
+  integrating richer external capsule formats and preparing for advanced querying and visualization.
+insights:
+  - >-
+    The Eidolon Mesh progresses through distinct evolutionary stages: DNA (dialogue) to Protein
+    (capsule) synthesis, privacy routing via Golgi, active transport by Watcher, and Connectome
+    formation for semantic linking.
+  - >-
+    Watcher organelle malfunctions (e.g., ENOENT errors) are being addressed by ensuring robust
+    directory creation and retry mechanisms.
+  - >-
+    The Connectome organelle enables synaptic linking between proteins based on semantic similarity,
+    creating a knowledge graph.
+  - >-
+    Recent advancements include the Mitosis organelle for processing large documents by splitting
+    them into manageable chunks with context overlap.
+  - >-
+    A significant challenge is the schema mismatch between the current Eidolon capsule format and
+    richer external formats like Copilot's, with proposed solutions involving schema extension or
+    dual format support.
+  - >-
+    The next evolutionary steps involve implementing a Query organelle for graph traversal and a
+    Dashboard for state visualization, building upon the established core capabilities.
+tags:
+  - '#eidolon-mesh'
+  - '#evolution'
+  - '#connectome'
+  - '#knowledge-graph'
+  - '#capsule-ecology'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T13:48:22.515Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
