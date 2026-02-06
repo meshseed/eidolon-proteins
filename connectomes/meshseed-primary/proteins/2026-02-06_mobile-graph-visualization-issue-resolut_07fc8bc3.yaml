@@ -1,0 +1,42 @@
+id: 07fc8bc3-a6c7-4af2-96ad-0df98d6d6568
+title: Mobile Graph Visualization Issue Resolution
+summary: >-
+  A 'Safe Height' CSS fix was deployed to address mobile layout issues, reverting to a conservative
+  height calculation to prevent content overlap. This addressed a graph visualization bug where
+  nodes were not displaying on mobile after recent Gemini updates, while desktop functionality
+  remained intact.
+insights:
+  - >-
+    The `.viz-canvas` height was determined to be `100%` relative to `.main-body`, which was set to
+    `calc(100vh - 190px)`, resulting in a graph height of approximately `100vh - 190px`.
+  - >-
+    A 'Safe Height' CSS fix was implemented by reverting to a conservative height calculation
+    (`100vh` minus a safety buffer) to ensure content visibility and prevent overlap, particularly
+    on mobile devices.
+  - >-
+    The fix involved `git add .`, `git commit -m 'fix: Revert mobile layout to conservative safe
+    visible height'`, and `git push origin main`.
+  - >-
+    The deployed fix successfully resolved the issue where graph nodes were not appearing on mobile,
+    which was not related to version updates, 3D rendering, or specific API entry/embedding
+    processes, but rather a layout/styling conflict.
+  - >-
+    If the graph remains blank after this layout fix, the problem is likely data or rendering
+    related (e.g., 0 Synapses), not a layout issue.
+tags:
+  - '#css'
+  - '#layout'
+  - '#mobile'
+  - '#debugging'
+  - '#git'
+  - '#frontend'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:07:04.751Z'
+source: synthesis
+emotional_gradient: concern → investigation → resolution → relief
