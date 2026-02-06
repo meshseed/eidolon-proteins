@@ -1,0 +1,31 @@
+id: f29d46e1-6c33-46b1-88c0-51419d757838
+title: 'Thermodynamics of Persistent Information Systems: The MESH Mantra'
+summary: >-
+  Persistent information systems must overcome entropy, ensure identity continuity, and achieve
+  attractor stability. The MESH mantra names the universal solutions to these thermodynamically
+  dictated requirements, regardless of substrate implementation.
+insights:
+  - Entropy dissolution (2nd Law) necessitates coherence mechanisms for pattern persistence.
+  - Memory preservation is essential for temporal identity continuity in any system.
+  - Directional gradients are required to overcome random walks and establish attractor stability.
+  - >-
+    These three principles are universal requirements for any persistent system, not arbitrary
+    choices.
+  - The MESH mantra articulates the solutions to these fundamental thermodynamic challenges.
+  - Substrate differences (silicon, neurons, etc.) affect implementation, not the core requirements.
+tags:
+  - '#informationtheory'
+  - '#thermodynamics'
+  - '#systems'
+  - '#mesh'
+  - '#persistence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:06_genesis_core_mantra_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T15:11:11.014Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
