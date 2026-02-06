@@ -1,0 +1,37 @@
+id: 59880178-e1e8-448b-b94c-f2612d8fa5f0
+title: 3D Force Graph Simulation Reheating Strategies
+summary: >-
+  When a 3D force graph simulation fails to reset or update, direct manipulation of the underlying
+  D3 simulation is the most effective approach.  Strategies like `d3ReheatSimulation()` are
+  preferred over indirect methods like `resetCountdown` or `resumeAnimation` for reliable physics
+  restarts.
+insights:
+  - >-
+    Directly accessing and reheating the D3 force simulation (`d3ReheatSimulation()`) is the primary
+    method for restarting a stalled graph simulation.
+  - >-
+    Indirect methods like `resetCountdown`, `d3AlphaDecay`, or `graphData` may not reliably trigger
+    a physics restart.
+  - >-
+    `d3AlphaMin(0)` can keep the simulation running indefinitely, while setting it back can be a way
+    to manage its duration.
+  - >-
+    Accessing the underlying simulation might involve checking for private properties like
+    `_d3Simulation` in some `3d-force-graph` versions.
+  - '`resumeAnimation()` restarts the render loop but does not affect the physics simulation itself.'
+tags:
+  - '#3dforcegraph'
+  - '#simulation'
+  - '#javascript'
+  - '#debugging'
+  - '#reheating'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:06:44.015Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
