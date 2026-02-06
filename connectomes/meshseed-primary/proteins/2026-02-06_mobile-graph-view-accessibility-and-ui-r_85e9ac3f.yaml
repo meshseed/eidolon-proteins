@@ -1,0 +1,38 @@
+id: 85e9ac3f-a97b-42dc-a864-350252a0b4c8
+title: Mobile Graph View Accessibility and UI Reversion
+summary: >-
+  The dialogue addresses a user's inability to see the graph view on mobile, despite a 'Graph' tab
+  existing in the bottom navigation. Reverting recent CSS changes to `.main-body` height is
+  prioritized to restore chat functionality, while the underlying cause of the graph's
+  inaccessibility remains under investigation.
+insights:
+  - A 'Graph' tab exists in the mobile bottom navigation, intended to display the network graph.
+  - >-
+    The user's report of 'no graph' suggests a rendering or visibility issue with the graph
+    component on mobile.
+  - >-
+    Recent CSS modifications to `.main-body` height (specifically using `100dvh`) are suspected of
+    causing side effects, including breaking chat input functionality.
+  - A rollback of specific `.main-body` CSS changes is being performed to restore the chat UI.
+  - >-
+    The graph's visibility is tied to `mainView === 'graph'` and the `showGraph` variable, which is
+    conditionally evaluated.
+  - >-
+    Potential conflicts between fixed positioning of the bottom nav and `.main-body` height
+    calculations on mobile are being considered.
+tags:
+  - '#ui'
+  - '#mobile'
+  - '#graph'
+  - '#css'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:06:53.352Z'
+source: synthesis
+emotional_gradient: curiosity → concern → resolution
