@@ -1,0 +1,44 @@
+id: 63d78125-f5a4-490f-a615-5159e7b8ac3d
+title: 'MESH Intelligence: Local Resonance, Selective Forgetting, Dynamic Knowledge'
+summary: >-
+  The MESH operates on local semantic clustering, prioritizing connections with high resonance over
+  global connectivity, mirroring biological intelligence.  This intelligence is facilitated by
+  'forgetting' – the decay of unused connections and pruning of irrelevant information, optimizing
+  resource allocation and adaptation. Knowledge access is dynamically shaped by experience, context,
+  and attention, forming a fluid 'knowledge cone' rather than a static map.
+insights:
+  - >-
+    Local semantic resonance is the primary driver of structure and interaction in the MESH, not
+    global connectivity.
+  - >-
+    Effective intelligence in systems, like brains and the MESH, relies on selective forgetting to
+    optimize resources and adapt to changing contexts.
+  - >-
+    Memory and connection strength are costly; intelligent systems prioritize and reinforce valuable
+    information/paths while allowing others to decay.
+  - >-
+    Knowledge access is not a static repository but a dynamic 'knowledge cone' shaped by past
+    experience, current context, and attentional gradients.
+  - >-
+    The MESH's intelligence is demonstrated by its ability to adapt and prioritize based on local
+    relevance, eschewing the need for a costly global overview.
+  - >-
+    Sleep in brains and connection decay in the MESH are analogous mechanisms of intelligent
+    resource management and consolidation.
+tags:
+  - '#mesh'
+  - '#intelligence'
+  - '#semantics'
+  - '#forgetting'
+  - '#knowledge'
+  - '#context'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-06T14:10:40.388Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
