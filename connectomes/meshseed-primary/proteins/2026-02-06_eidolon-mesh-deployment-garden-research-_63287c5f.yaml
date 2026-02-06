@@ -1,0 +1,43 @@
+id: 63287c5f-67d5-43bf-b4a8-5f1996ed054f
+title: 'Eidolon Mesh Deployment: Garden & Research Hub'
+summary: >-
+  The Mesh is preparing for a dual deployment: eidolon-mesh.net for a personal garden connectome and
+  app.eidolon-mesh.net for a large 1000-protein consciousness research hub. This involves deploying
+  a clean composting branch, building the consciousness connectome by ingesting research, and a
+  recommended separate deployment of the research hub via Cloudflare Pages.
+insights:
+  - >-
+    The immediate goal is to deploy both eidolon-mesh.net (personal garden) and app.eidolon-mesh.net
+    (research hub) today.
+  - >-
+    Deployment involves two main steps: deploying a 'clean composting branch' for the personal
+    garden and building a 'large connectome' for the research hub.
+  - >-
+    The personal garden connectome will be a '36 protein golden connectome', while the research hub
+    will be a '1000 protein consciousness connectome' derived from mechanistic interpretability
+    research.
+  - >-
+    The research hub build requires ingesting consciousness research papers, mechanistic
+    interpretability notes, and P-Series seeds, with tri-pass ingestion for quality and tagging.
+  - >-
+    Two deployment options exist for the research hub: separate deployment (recommended) or same
+    deployment with subdomain detection, with the former being cleaner.
+  - >-
+    The 'clean composting branch' deployment includes specific Git commands for branching,
+    cherry-picking stable commits, building, and merging to main, with verification checks.
+tags:
+  - '#eidolon-mesh'
+  - '#deployment'
+  - '#consciousness'
+  - '#connectome'
+  - '#research'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:00:52.737Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
