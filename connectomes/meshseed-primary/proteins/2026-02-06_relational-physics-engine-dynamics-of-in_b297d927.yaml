@@ -1,0 +1,44 @@
+id: b297d927-4dc0-420f-bd0d-bfcf63a2b25a
+title: 'Relational Physics Engine: Dynamics of Information and Interaction'
+summary: >-
+  The Relational Physics Engine (RPE) models information flow and interaction dynamics through a
+  series of abstract fields. It encodes input chunks into vectors, then quantifies coherence,
+  resonance, attunement, fidelity, and complexity to represent the state of a system over time.
+insights:
+  - >-
+    RPE processes sequential data chunks (text or capsules) to generate time-series field outputs:
+    coherence density (rho_c), amplitude (A), phase (phi), attunement (a_uv), fidelity potential
+    (F), and complexity index (kappa).
+  - >-
+    Key operations include deterministic encoding of chunks into normalized vectors, similarity
+    calculations, and windowing for temporal analysis.
+  - >-
+    Coherence density measures the average similarity of a window of encoded chunks to its centroid,
+    reflecting the internal consistency of the input.
+  - >-
+    Resonance captures system amplitude and phase by summing encoded vectors, representing
+    collective state.
+  - >-
+    Attunement quantifies agent alignment based on the similarity of previous states and the current
+    state of interacting entities.
+  - >-
+    Fidelity potential is a weighted combination of consistency, care, and dissonance signals,
+    indicating the emotional or qualitative state.
+  - >-
+    Complexity is a composite metric derived from entropy, modularity (of topics/roles), and the
+    rank span of encoded vectors.
+tags:
+  - '#rpe'
+  - '#informationtheory'
+  - '#computationalphysics'
+  - '#agentdynamics'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:LESSONS_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T13:55:55.693Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
