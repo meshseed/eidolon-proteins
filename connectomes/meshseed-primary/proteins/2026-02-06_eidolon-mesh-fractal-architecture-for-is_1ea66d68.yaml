@@ -1,0 +1,48 @@
+id: 1ea66d68-420d-4afc-b37d-52afa8e208a4
+title: 'Eidolon Mesh: Fractal Architecture for Isolated Knowledge Repositories'
+summary: >-
+  The Eidolon Mesh utilizes a fractal, self-similar architecture for managing knowledge, enabling
+  isolated, domain-specific repositories akin to complete organisms. This approach supports
+  efficient loading, focused responses, and clear GitHub backup strategies through distinct private
+  and public repositories for data and code.
+insights:
+  - >-
+    The Eidolon Mesh employs a multi-repository system where each repository acts as an isolated
+    'organism' with its own connectome, proteins, and DNA, allowing for fast loading and
+    domain-specific responses.
+  - >-
+    Ghost nodes represent a future mechanism for loading only essential neurons initially within a
+    single large repository, enabling faster startup while retaining full knowledge accessibility.
+  - >-
+    A clear GitHub strategy is crucial, recommending a private 'eidolon' repo for all data (DNA,
+    proteins) and code, a public 'eidolon-mesh' repo for public proteins, and a separate private
+    repo for development code ('eidolon-mesh-private') to maintain separation of concerns.
+  - >-
+    Ingestion into a specific repository (e.g., 'healthcare') directs DNA and synthesized proteins
+    to that repository's isolated connectome, ensuring no cross-contamination with other
+    repositories.
+  - >-
+    Conversation memory is implemented as a rolling buffer (FIFO) with a current limit of 5
+    exchanges, deemed negligible in performance impact and safely expandable to enhance context.
+  - >-
+    The core principle of fractal, nested self-similarity guides the architecture, decision-making,
+    and organization, ensuring wholeness and autonomy at every scale from individual neurons to
+    entire repositories.
+tags:
+  - '#eidolonmesh'
+  - '#architecture'
+  - '#knowledge-management'
+  - '#fractal'
+  - '#github'
+  - '#repositories'
+  - '#conversation-memory'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T13:48:52.402Z'
+source: synthesis
+emotional_gradient: clarity → organization → insight → wholeness
