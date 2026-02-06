@@ -1,0 +1,39 @@
+id: 7c030193-f867-41fe-b2a7-2f16bbf2478f
+title: 'Fractal Mesh Architecture: Scaling Data & Sovereignty'
+summary: >-
+  The Mesh employs a fractal, self-similar architecture for nodes, enabling sovereign data ownership
+  while fostering a coherent, scalable network. This is achieved through sharding, indexing, and
+  distributed storage strategies for proteins (data capsules), ensuring efficient query and
+  manageable growth from personal nodes to a planetary network.
+insights:
+  - >-
+    The Mesh architecture is fractal and self-similar, with each node being a sovereign, complete
+    organism connected to the network.
+  - >-
+    Data (proteins) is stored in YAML and managed via a hybrid approach: human-readable source files
+    and fast query indexes (SQLite, vector DB).
+  - >-
+    Scaling for millions of proteins involves sharding by time/domain, indexing, Git LFS, and
+    compression; billions require distributed storage and hub nodes.
+  - >-
+    Personal nodes prioritize local access and privacy, while the public GitHub repo serves as a
+    reference implementation and validation data store.
+  - >-
+    The future planetary mesh will leverage federation, distributed storage, and hub nodes to
+    connect sovereign personal nodes coherently without a single point of failure.
+tags:
+  - '#mesh'
+  - '#architecture'
+  - '#scalability'
+  - '#sovereignty'
+  - '#data'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-06T14:13:13.302Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
