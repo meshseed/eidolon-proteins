@@ -1,0 +1,31 @@
+id: c4393963-9ebc-40f1-8c42-b79732b54827
+title: Technical Inquiry on Mesh Memory System Capabilities
+summary: >-
+  User seeks clarification on advanced features for a mesh memory system, including custom metadata
+  for scoring, multi-session query support, adjustable recency weighting, embedding model details,
+  and free tier rate limits. The hybrid search approach is positively noted.
+insights:
+  - Request for custom metadata attachment to memories for multi-metric filtering and boosting.
+  - Inquiry into the ability to perform queries across multiple session IDs simultaneously.
+  - Need for user control over the recency decay coefficient to influence memory persistence.
+  - >-
+    Question regarding the specific embedding model and vector dimensionality for semantic search
+    quality assessment.
+  - Clarification sought on free tier limitations for storage and retrieval rates.
+  - Appreciation for the hybrid BM25 + vector search approach as a solution for RAG limitations.
+tags:
+  - '#mesh'
+  - '#memory'
+  - '#technical'
+  - '#RAG'
+  - '#AI'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:15:34.850Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
