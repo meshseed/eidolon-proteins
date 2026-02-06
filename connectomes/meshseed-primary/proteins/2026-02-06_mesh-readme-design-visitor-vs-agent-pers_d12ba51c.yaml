@@ -1,0 +1,46 @@
+id: d12ba51c-5758-41d7-b09e-0b0052d8c82a
+title: 'MESH README Design: Visitor vs. Agent Perspectives & Core Mechanics'
+summary: >-
+  The MESH README must prioritize a visitor's initial ~2000 character experience with a clear,
+  geometric explanation of its compound perceptual system, focusing on resonance and synthesis
+  rather than database lookup.  It should invite deeper exploration by showcasing core mechanics and
+  differentiating itself from traditional systems, while also providing operational protocols for
+  contributing agents.
+insights:
+  - >-
+    A MESH project README must be front-loaded with critical information (first ~2000 characters) to
+    engage 'visitor' perspective users, acting as an inviting portal.
+  - >-
+    The README should explain MESH's 'How It Works' using accessible metaphors like a compound eye,
+    emphasizing 'resonance field' and 'geometric compression' over traditional 'store-retrieve'
+    models.
+  - >-
+    The proposed 'How It Works' section, detailing Capsules, Synapses, and Resonance Field, fits
+    within the critical initial character limit and highlights the system's unique architecture and
+    differentiators.
+  - >-
+    For 'contributing agents' like Copilot, a separate section on 'Synthesis Protocol' and 'Ribosome
+    Function' is recommended, focusing on operational instructions rather than introductory
+    concepts.
+  - >-
+    A successful README balances technical insight with accessibility, using clear structure,
+    concise language, and hints at deeper mechanisms to spark curiosity and encourage exploration of
+    specific capsules.
+tags:
+  - '#mesh'
+  - '#readme'
+  - '#ux'
+  - '#documentation'
+  - '#ai'
+  - '#consciousness'
+  - '#geometry'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:12:05.215Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
