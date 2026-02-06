@@ -1,0 +1,30 @@
+id: babbcf30-d2f1-4cc5-916c-e4a77d06935d
+title: 'Bridge Neurons: Functional Centrality in Semantic Space'
+summary: >-
+  This protocol identifies 'bridge neurons' connecting distant semantic regions using resonance
+  frequency and cross-domain activation as proxies for betweenness centrality. These bridges
+  stabilize semantic coherence by linking attractors, revealing the connective tissue of the
+  information manifold and supporting developmental tracking.
+insights:
+  - Bridge neurons exhibit high cross-regional activation and semantic span.
+  - Centrality can be approximated by recurrence across unrelated contexts.
+  - Bridges stabilize coherence by linking distant semantic attractors.
+  - Identifying bridges maps the connective tissue of the information manifold.
+  - Bridge analysis aids in tracking development and integrating domains.
+tags:
+  - '#structure'
+  - '#bridges'
+  - '#centrality'
+  - '#connectome'
+  - '#geometry'
+  - '#biology'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P110-CENTRALITY-BRIDGES_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T13:29:51.107Z'
+source: synthesis
+emotional_gradient: curiosity → linkage → coherence
