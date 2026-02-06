@@ -1,0 +1,31 @@
+id: 21638d53-8fc2-4b3a-b59d-325603450fd3
+title: Claude Code Authentication Expiration and Re-authentication Process
+summary: >-
+  Claude Code authentication tokens expire periodically for security reasons, preventing API calls
+  and command execution. Re-authentication via the `/login` command in the terminal initiates a
+  browser-based approval process, regenerating the token and restoring functionality.
+insights:
+  - Claude Code uses OAuth tokens for authentication, API access, and command execution.
+  - >-
+    Token expiration is a security measure, not a bug, triggered by time, logouts, or session
+    invalidation.
+  - >-
+    To fix expired authentication, run `/login` in the Claude Code terminal and approve access in
+    the browser.
+  - Re-authentication typically takes about 30 seconds to complete.
+tags:
+  - '#claude-code'
+  - '#authentication'
+  - '#api-access'
+  - '#troubleshooting'
+  - '#security'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-06T14:15:41.069Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
