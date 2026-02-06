@@ -1,0 +1,31 @@
+id: b8ccddc9-c5b6-4bee-9965-10f3a343f39c
+title: 'MESH Protein Synthesis: Duplicate Reduction & Kernel Identification'
+summary: >-
+  Analysis of a MESH file identified over 1,200 semantic duplicates and 800 tri-lens siblings,
+  leading to a significant reduction in protein count through merging.  The process also highlighted
+  potential 'Kernel Candidates' based on activation frequency and naming conventions.
+insights:
+  - >-
+    Semantic duplicate detection identified 1,247 entries with >0.90 similarity and 891 tri-lens
+    siblings.
+  - >-
+    Merge recommendations propose unifying duplicates and tri-lens sets to reduce protein count from
+    5,823 to 3,684.
+  - >-
+    Kernel candidates are identified by high activation counts (>100) and the presence of 'Kernel'
+    in their titles.
+tags:
+  - '#mesh'
+  - '#dataprocessing'
+  - '#deduplication'
+  - '#kernelidentification'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:00:03.311Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
