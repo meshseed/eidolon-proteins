@@ -1,0 +1,43 @@
+id: 5e97bbc0-aa17-4bba-bd15-d7462ca85e6a
+title: Local LLM (Gemma) vs. Gemini for Mesh Ingestion and Querying
+summary: >-
+  Local LLMs like Gemma are less effective for complex ingestion tasks, requiring powerful models
+  like Gemini for nuanced synthesis. However, smaller local models are more capable for querying due
+  to simpler processing demands.
+insights:
+  - >-
+    Pre-processed seeds (like protein repos) are ingested identically regardless of LLM, as the AI
+    is bypassed.
+  - >-
+    Gemini excels at nuanced ingestion of raw conversations due to its larger context window and
+    deeper understanding.
+  - >-
+    Local Gemma 2B struggles with complex ingestion, producing fewer neurons and synapses compared
+    to Gemini.
+  - >-
+    Local LLMs are better suited for querying tasks, which require less complex processing than full
+    ingestion.
+  - >-
+    The difference in synapse generation between local Gemma and Gemini is due to embedding
+    geometry, not LLM intelligence.
+  - >-
+    Changes to stop outright rejection for ingestion have been pushed to the live server, making dev
+    and live versions identical for this purpose.
+tags:
+  - '#llm'
+  - '#mesh'
+  - '#ingestion'
+  - '#querying'
+  - '#gemma'
+  - '#gemini'
+  - '#localmode'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-02-06T14:07:13.627Z'
+source: synthesis
+emotional_gradient: curiosity → analysis → understanding → validation
