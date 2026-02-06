@@ -1,0 +1,46 @@
+id: 00c4023d-1e8e-4b27-95af-84e2b696246f
+title: 'Eidolon Mesh Metabolism: Error Resolution & Kernel Promotion Fixes'
+summary: >-
+  This synthesis details the resolution of critical errors within the Eidolon Mesh's metabolism
+  system, including import issues, SQL schema inconsistencies, and SQL query logic errors. It also
+  addresses a significant problem with kernel over-promotion due to narrowly clustered coherence
+  scores, proposing a two-part fix involving more selective promotion criteria and recommending
+  coherence normalization.
+insights:
+  - Visual culling of links is for performance optimization, not database deletion.
+  - The system has no target connectome size and grows organically.
+  - Autophagy and composting are decay-based, not size-based, and preserve nutrients.
+  - Import errors related to 'Capsule' type were resolved by using `import type`.
+  - >-
+    SQL errors stemmed from missing 'p.status' and 'protein_activations' columns, requiring schema
+    adjustments or graceful error handling.
+  - >-
+    Kernel promotion was over-promoting due to high, clustered coherence scores; fixes include
+    stricter thresholds (200 activations, 75 connections, 0.95 coherence) and limiting promotions to
+    the top 3 candidates.
+  - >-
+    Coherence normalization is recommended to spread scores for better metabolic function, with a
+    provided console command for execution.
+  - >-
+    The SQL error 'for SELECT DISTINCT, ORDER BY expressions must appear in select list' was
+    resolved by correctly grouping and selecting max weights.
+  - >-
+    Kernel promotion is temporarily disabled if the 'protein_activations' table is missing,
+    preventing critical errors.
+tags:
+  - '#eidolonmesh'
+  - '#metabolism'
+  - '#debugging'
+  - '#sql'
+  - '#kernelpromotion'
+  - '#coherence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:00:18.404Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolution
