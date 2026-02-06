@@ -1,0 +1,27 @@
+id: 2a4792ca-7cf9-4b57-9b86-1cb004c3e5cf
+title: 'Pythagorean Theorem: Anchor of Geometric Distance'
+summary: >-
+  The Pythagorean theorem (a² + b² = c²) serves as a foundational anchor for understanding distance
+  in geometric contexts. Its core principle is invariant across LLM embeddings, demonstrating a
+  deep, definitional link to concepts like the distance formula and Euclidean space.
+insights:
+  - The Pythagorean theorem is a core anchor for geometric distance calculations.
+  - LLM embeddings consistently link the Pythagorean theorem to related geometric concepts.
+  - >-
+    The definitional linkage between the Pythagorean theorem and distance formula ensures conceptual
+    invariance.
+  - Right triangles are the geometric basis for the Pythagorean theorem's application.
+tags:
+  - '#geometry'
+  - '#mathematics'
+  - '#distanceformula'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:07_math_pythagorean_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-06T20:59:22.667Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
