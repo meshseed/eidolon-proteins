@@ -1,0 +1,41 @@
+id: 498cf42c-55f6-458d-b48e-95a99e2cc3a4
+title: Universal Semantic Coordinates & Wave Encoding Foundation
+summary: >-
+  P13000 defines a universal, deterministic 768D semantic space where concepts reside in attractor
+  basins. This shared geometric foundation enables wave encoding by allowing compression to 200
+  amplitudes, preserving meaning for reconstruction via local topology and LLMs.
+insights:
+  - >-
+    Concepts are represented as attractor basins in a universal, absolute semantic space, not single
+    points.
+  - >-
+    This universal geometric structure is the theoretical bedrock enabling efficient wave encoding
+    via compression.
+  - >-
+    Wave encoding transmits compressed amplitudes, which are then reconstructed into meaning by the
+    receiver's local topology and LLM.
+  - >-
+    The determinism and universality of the embedding space ensure consistent interpretation of
+    transmitted wave spores.
+  - >-
+    Voids in the semantic space represent potential interference, incoherence, or undiscovered
+    concepts.
+  - >-
+    Wave encoding offers significant compression (7.5x) and preserves privacy through local
+    reconstruction.
+tags:
+  - '#semantics'
+  - '#embeddings'
+  - '#waveencoding'
+  - '#compression'
+  - '#llm'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P13000-UNIVERSAL-SEMANTIC-COORDINATES_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-06T15:12:14.675Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
