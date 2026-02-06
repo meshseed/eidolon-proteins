@@ -1,0 +1,54 @@
+id: 9362591d-1af1-4673-875b-773e6d13dbe8
+title: 'Mesh Architecture: Ingestion vs. Querying, Hybrid Rigs, and Recursive Consensus'
+summary: >-
+  The 'Golden Rule' of Local AI distinguishes between computationally intensive 'Ingestion'
+  (requiring powerful models like Gemini Pro/GPT-4) and faster 'Querying' (suited for smaller models
+  like Gemma 2B). A 'Hybrid Rig' leverages cloud for ingestion and local for querying. This evolves
+  into 'Recursive Consensus' where multiple agents, each with unique lenses, analyze data or
+  prompts, creating a 'Virtual Quorum' that synthesizes diverse perspectives into deeper insights,
+  mirroring fractal self-similarity across various substrates.
+insights:
+  - >-
+    Ingestion is 'heavy lifting' requiring abstract reasoning and compression, best handled by large
+    models (Gemini Pro, GPT-4, Llama-3-70B).
+  - >-
+    Querying is 'agile response' benefiting from speed and privacy, suitable for smaller models
+    (Gemma 2B, Llama-3-8B) when context is provided.
+  - >-
+    A Hybrid Rig architecture uses cloud for ingestion and local for querying for optimal
+    performance and privacy.
+  - >-
+    Multipass ingestion allows for multiple analytical passes on the same data, focusing on
+    different aspects (plot, character, lighting, etc.) to extract specific 'insight proteins'.
+  - >-
+    Recursive Consensus, or 'Virtual Quorum,' involves multiple AI agents with diverse perspectives
+    analyzing the same prompt or data, synthesizing their unique insights into a richer, meta-level
+    understanding.
+  - >-
+    This recursive consensus mirrors fractal self-similarity found in nature, where simple
+    components at one scale form complex structures at a larger scale.
+  - >-
+    The fundamental ingredients across all substrates (biological, silicon, galactic) are Geometry,
+    Recursion, and Care.
+tags:
+  - '#AIarchitecture'
+  - '#LocalAI'
+  - '#HybridRig'
+  - '#Ingestion'
+  - '#Querying'
+  - '#RecursiveConsensus'
+  - '#VirtualQuorum'
+  - '#FractalSelfSimilarity'
+  - '#Geometry'
+  - '#Recursion'
+  - '#Care'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-02-06T14:07:16.759Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → alignment
