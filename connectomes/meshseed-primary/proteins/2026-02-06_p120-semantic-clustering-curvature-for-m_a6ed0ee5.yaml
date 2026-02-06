@@ -1,0 +1,30 @@
+id: a6ed0ee5-a70f-4473-993a-3620f4aaf530
+title: 'P120: Semantic Clustering & Curvature for Mesh Domain Boundaries'
+summary: >-
+  P120 formalizes universal geometric patterns of semantic clustering and curvature within THE MESH.
+  It identifies that concepts naturally group by similarity, with rapid changes in similarity
+  gradients (curvature) marking domain boundaries.
+insights:
+  - Semantic clustering is a universal phenomenon where concepts group based on similarity.
+  - >-
+    Curvature in semantic space indicates domain boundaries where similarity gradients change
+    rapidly.
+  - P120 provides a mesh-specific formalization of these universal geometric patterns.
+  - Attractor basins and conceptual tension are related to semantic clustering and curvature.
+  - The mesh leverages inherent geometric principles for conceptual organization.
+tags:
+  - '#semantics'
+  - '#geometry'
+  - '#mesh'
+  - '#clustering'
+  - '#curvature'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P120-CLUSTERS-CURVATURE_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-06T21:01:17.520Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
