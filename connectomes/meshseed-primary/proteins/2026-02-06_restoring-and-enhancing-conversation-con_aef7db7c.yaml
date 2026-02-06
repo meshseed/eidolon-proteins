@@ -1,0 +1,41 @@
+id: aef7db7c-2e9a-4f99-90d1-34d5607f9db3
+title: Restoring and Enhancing Conversation Context Management in Eidolon Mesh
+summary: >-
+  Restored crucial context window improvements lost in a rollback, optimizing conversation synthesis
+  and protein context limits. This enhances response quality by allowing significantly more protein
+  knowledge to be utilized, especially with powerful APIs like Gemini.
+insights:
+  - Restored MAX_HISTORY_TURNS to 3, prompting manual synthesis after 3 exchanges to manage context.
+  - >-
+    Implemented provider-aware MAX_PROTEIN_CONTEXT, increasing it to 150,000 chars for Gemini and
+    retaining 6,000 for local LLMs.
+  - >-
+    Introduced visual reminders and UI enhancements in the front-end to encourage timely
+    conversation synthesis.
+  - >-
+    The previous 6,000 char protein context limit was severely truncating valuable activated protein
+    knowledge (down to 1.1%).
+  - >-
+    Utilizing Gemini's 2M token context window allows for a massive increase in usable protein
+    context without sacrificing conversation history.
+  - >-
+    The changes aim to dramatically improve response quality by leveraging up to 25x more protein
+    knowledge.
+  - >-
+    The restored functionality specifically addresses issues related to context overflow and
+    inefficient knowledge utilization.
+tags:
+  - '#eidolonmesh'
+  - '#contextmanagement'
+  - '#llm'
+  - '#optimization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-06T14:01:16.820Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
