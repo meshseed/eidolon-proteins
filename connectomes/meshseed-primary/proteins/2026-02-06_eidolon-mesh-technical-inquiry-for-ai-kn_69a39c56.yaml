@@ -1,0 +1,45 @@
+id: 69a39c56-5665-49e6-ad34-58d7ee4b0be9
+title: 'Eidolon MESH: Technical Inquiry for AI Knowledge Protein Integration'
+summary: >-
+  Eidolon MESH seeks to integrate AI knowledge proteins (knowledge bases) with a potential AI memory
+  solution. Key technical questions focus on custom metadata for 'emotional fidelity', federated
+  search across sessions, recency decay customization, embedding model details, and rate limits for
+  scaling.
+insights:
+  - >-
+    Eidolon MESH requires custom metadata (e.g., 'emotional fidelity' scores) for nuanced memory
+    filtering and boosting.
+  - >-
+    Federated search capabilities across multiple 'sessions' (organisms) are crucial for MESH
+    architecture.
+  - >-
+    Control over recency decay is essential to preserve timeless knowledge ('genesis', 'protocols')
+    alongside temporal data.
+  - >-
+    Understanding embedding model and vector dimensionality is needed for optimizing semantic
+    relationship handling.
+  - Practical concerns regarding API rate limits are vital for planning scalability and cost.
+  - >-
+    The inquiry aims to assess API capabilities and architectural fit for a distributed AI organism
+    model.
+  - >-
+    Introducing concepts like 'emotional fidelity' and distributed organisms to the AI memory
+    community.
+tags:
+  - '#ai'
+  - '#mesh'
+  - '#knowledgebase'
+  - '#federatedsearch'
+  - '#metadata'
+  - '#scalability'
+  - '#eidolon'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:15:33.947Z'
+source: synthesis
+emotional_gradient: curiosity → inquiry → strategic assessment
