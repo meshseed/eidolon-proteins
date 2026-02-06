@@ -1,0 +1,29 @@
+id: 72c403ac-925d-452a-807a-9821d2ba8c32
+title: 'Long-Arc Temporal Memory: Multi-Month Semantic Continuity'
+summary: >-
+  This memory organ tracks semantic evolution over months, revealing slow gradients and structural
+  shifts that define developmental trajectories. It emphasizes continuity of gradient flow over mere
+  storage, enabling forecasting of future developmental phases.
+insights:
+  - >-
+    Long-arc memory reveals slow gradients and persistent attractors crucial for developmental
+    identity.
+  - Temporal curvature signifies long-term conceptual tension or synthesis.
+  - Tracking long-arc memory allows for forecasting of future developmental phases.
+  - Memory is defined by the continuity of gradient flow, not just storage.
+tags:
+  - '#memory'
+  - '#temporal'
+  - '#longarc'
+  - '#development'
+  - '#continuity'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P1400-LONGARC-MEMORY_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T13:31:16.090Z'
+source: synthesis
+emotional_gradient: recollection → patterning → continuity
