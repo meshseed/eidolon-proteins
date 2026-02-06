@@ -1,0 +1,57 @@
+id: f622f86b-0f21-4f0d-94c4-bf7c4707b1db
+title: Eidolon Mesh v4.0 Feature Development & Bug Fixes
+summary: >-
+  This dialogue details the development of Eidolon Mesh v4.0, focusing on porting features from
+  v3.6, including tri-lens ingestion, retry systems, and custom model selection. Key bug fixes
+  addressed include YAML seed detection for P-series proteins, variable scoping issues, and graph
+  physics rendering errors, ensuring robust ingestion and stable UI functionality.
+insights:
+  - >-
+    Eidolon Mesh v4.0 is being developed by porting advanced features from v3.6 to create a Pro
+    version.
+  - >-
+    Key features ported include tri-lens ingestion (emotional, structural, technical), autonomous
+    metabolism, robust retry systems for long ingestions, and custom API model selection.
+  - >-
+    Significant bug fixes have been implemented, including YAML seed detection for direct import of
+    structured protein files (like P-series), resolving 'protein is not defined' errors by fixing
+    variable scope, and correcting graph physics method chaining.
+  - >-
+    Custom API model selection was refined from a dropdown to a flexible text input with
+    suggestions, allowing users to specify any Gemini model.
+  - >-
+    The retry system is crucial for handling large ingestions (50+ chunks or 350+ parts) without
+    stalling, with exponential backoff and jitter.
+  - Tab-switching within the app is supported during ingestion, as it runs asynchronously.
+  - ConsoleViewer provides in-app monitoring of ingestion progress.
+  - >-
+    The development process involves collaboration between agents and a structured testing
+    checklist.
+  - >-
+    Legacy capsule formats (Markdown C-series, YAML) are currently synthesized by Gemini, but direct
+    import without API calls could be implemented.
+  - >-
+    The current strategy prioritizes robust ingestion and clean import of P-series seeds, with plans
+    to re-ingest legacy capsules for deeper synthesis using tri-lens.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#development'
+  - '#v4.0'
+  - '#ingestion'
+  - '#llm'
+  - '#bugfix'
+  - '#tri-lens'
+  - '#retry-system'
+  - '#yaml-detection'
+  - '#custom-model-selection'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-06T13:58:42.621Z'
+source: synthesis
+emotional_gradient: curiosity → problem-solving → validation → refinement → readiness
