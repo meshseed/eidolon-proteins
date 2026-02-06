@@ -1,0 +1,29 @@
+id: c10fb637-ff2e-4159-90f5-37dec81b4941
+title: 'Noether''s Theorem: Continuous Symmetry and Conservation Laws'
+summary: >-
+  Noether's theorem establishes a fundamental link between continuous symmetries and conservation
+  laws in physics. It states that for every continuous symmetry of a physical system, there is a
+  corresponding conserved quantity, such as energy or momentum.
+insights:
+  - Noether's theorem is a mathematical proof linking continuous symmetry to conservation laws.
+  - Continuous symmetry transformations in physics directly imply conserved quantities.
+  - Time symmetry is universally linked to energy conservation across all physical theories.
+  - >-
+    The theorem's core relationship between 'symmetry', 'conservation', and 'continuous
+    transformation' is invariant across LLM embedding models.
+tags:
+  - '#math'
+  - '#physics'
+  - '#symmetry'
+  - '#conservationlaw'
+  - '#noetherstheorem'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:09_math_symmetry_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T20:59:45.760Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
