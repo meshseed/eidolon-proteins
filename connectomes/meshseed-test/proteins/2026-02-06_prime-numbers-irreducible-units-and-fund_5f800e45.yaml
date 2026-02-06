@@ -1,0 +1,39 @@
+id: 5f800e45-e51c-4a06-bc4e-4a40d03b6e16
+title: 'Prime Numbers: Irreducible Units and Fundamental Factorization'
+summary: >-
+  Prime numbers are defined as irreducible integers, serving as fundamental building blocks
+  analogous to core invariants in complex systems. The Fundamental Theorem of Arithmetic guarantees
+  unique factorization, providing a model for understanding identity as a composition of stable
+  primitives.
+insights:
+  - >-
+    Prime numbers are the irreducible units of integers, akin to fundamental invariants in other
+    domains.
+  - >-
+    Unique factorization (Fundamental Theorem of Arithmetic) establishes primes as the basis for
+    number decomposition.
+  - >-
+    The concept of primes and factorization offers a model for understanding identity as a
+    composition of stable primitives.
+  - >-
+    Prime numbers have deep connections to foundational mathematical axioms and
+    discrete/combinatorial concepts.
+  - >-
+    Prime-based encoding has potential applications in cryptography and information theory for
+    security and compression.
+tags:
+  - '#math'
+  - '#number_theory'
+  - '#primes'
+  - '#factorization'
+  - '#foundational'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:12_math_primes_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T15:11:39.505Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
