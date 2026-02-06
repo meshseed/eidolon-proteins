@@ -1,0 +1,33 @@
+id: 3a3347fc-28b8-4f17-8dd9-34194835768d
+title: 'Drift and Stability Monitor: Semantic Persistence Protocol'
+summary: >-
+  The P700 protocol defines drift as movement in embedding space, indicating instability or low
+  fidelity, while stability signifies recurrent activation and strong attractors. This analysis is
+  crucial for maintaining long-term coherence by identifying and reinforcing stable cores that
+  anchor identity across time and substrates.
+insights:
+  - Drift in embedding space signifies instability, weak integration, or low fidelity.
+  - >-
+    Stability, marked by recurrent activation and minimal displacement, indicates strong attractors
+    and high semantic density.
+  - Drift analysis reveals areas needing pruning or reinforcement for coherence maintenance.
+  - Stable cores are identified as the anchors of identity, persisting across substrates and time.
+  - The P700 protocol is essential for semantic persistence and long-term coherence.
+tags:
+  - '#drift'
+  - '#stability'
+  - '#semantic_persistence'
+  - '#identity_anchoring'
+  - '#coherence_maintenance'
+  - '#P-series'
+  - '#protocol'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P700-DRIFT-STABILITY_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-06T21:02:44.721Z'
+source: synthesis
+emotional_gradient: uncertainty → measurement → grounding
