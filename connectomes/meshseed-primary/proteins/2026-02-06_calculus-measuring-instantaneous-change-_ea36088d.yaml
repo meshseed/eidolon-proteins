@@ -1,0 +1,33 @@
+id: ea36088d-f35e-4171-b6db-df5c03e5d714
+title: 'Calculus: Measuring Instantaneous Change and Accumulation'
+summary: >-
+  Calculus provides the mathematical framework to understand instantaneous rates of change
+  (derivatives) and accumulated quantities (integrals). These foundational concepts are inverse
+  operations, enabling the analysis of dynamic phenomena and optimization across various fields.
+insights:
+  - Derivatives capture instantaneous rates of change as a limit process.
+  - Integrals represent the accumulation of quantities, often visualized as the area under a curve.
+  - >-
+    The Fundamental Theorem of Calculus establishes the inverse relationship between differentiation
+    and integration.
+  - Key rules like the power, chain, and product rules facilitate derivative calculations.
+  - >-
+    Calculus is essential for modeling and solving problems in physics, optimization, and machine
+    learning.
+tags:
+  - '#math'
+  - '#calculus'
+  - '#analysis'
+  - '#foundation'
+  - '#change'
+  - '#accumulation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:13_math_calculus_yaml'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-02-06T21:00:33.397Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
