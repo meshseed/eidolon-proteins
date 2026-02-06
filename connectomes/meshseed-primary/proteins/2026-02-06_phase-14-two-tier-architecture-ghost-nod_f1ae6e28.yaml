@@ -1,0 +1,34 @@
+id: f1ae6e28-6e76-47f8-834a-8501316d4968
+title: 'Phase 14: Two-Tier Architecture & Ghost Nodes for Performance'
+summary: >-
+  The dialogue outlines Phase 14, focusing on implementing a two-tier architecture to improve
+  dashboard loading times. This involves prioritizing core neuron loading and utilizing 'ghost
+  nodes' to visualize unloaded connections, addressing performance issues with large connectomes.
+insights:
+  - >-
+    Phase 14 aims to optimize startup and usability for large connectomes (554+ neurons) by
+    introducing a two-tier loading system.
+  - >-
+    Tier 1 (Core) will load high-coherence neurons instantly, while Tier 2 (Extended) will load
+    remaining neurons lazily or on demand.
+  - >-
+    Ghost nodes will be visualized as faint placeholders for unloaded neurons, providing a sense of
+    scale and enabling on-demand loading via interaction.
+  - The implementation plan for Phase 14 has been detailed and presented for user confirmation.
+  - Phase 17 deliverables for the Public Portal have been completed and verified.
+tags:
+  - '#architecture'
+  - '#performance'
+  - '#optimization'
+  - '#visualization'
+  - '#mesh'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-02-06T13:48:55.545Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
