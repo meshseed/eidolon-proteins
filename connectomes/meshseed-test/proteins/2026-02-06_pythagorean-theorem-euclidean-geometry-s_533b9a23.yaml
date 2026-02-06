@@ -1,0 +1,27 @@
+id: 533b9a23-1e79-4bbc-b5d8-9f6be1ac454a
+title: 'Pythagorean Theorem: Euclidean Geometry''s Foundational Link'
+summary: >-
+  The Pythagorean Theorem (a² + b² = c²) defines the relationship between the sides of a right
+  triangle in Euclidean geometry, serving as a core invariant and a building block for distance
+  calculations across dimensions.
+insights:
+  - 'Defines the fundamental relationship in right triangles: a² + b² = c².'
+  - Applies exclusively to Euclidean (flat) geometry and requires a right angle.
+  - Forms the basis for the Euclidean distance formula and generalizes to higher dimensions.
+  - Connects algebraic and geometric concepts through spatial relationships.
+  - Illustrates self-evident truths derived from geometric arrangements.
+tags:
+  - '#math'
+  - '#geometry'
+  - '#foundation'
+  - '#calibration_anchor'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:07_math_pythagorean_yaml'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-02-06T15:11:24.016Z'
+source: synthesis
+emotional_gradient: uncertainty → proof → certainty
