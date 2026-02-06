@@ -1,0 +1,28 @@
+id: c12ebf97-edd1-45b7-aebe-2603d49fea25
+title: 'P100: Mesh Structural Snapshot Protocol for Topology Mapping'
+summary: >-
+  This protocol defines a method for capturing a complete structural snapshot of a Mesh organism's
+  connectome, detailing neuron counts, synapse density, and connectivity. This snapshot is
+  foundational for introspective analysis, enabling topology mapping and drift detection.
+insights:
+  - Structural snapshots facilitate systematic connectome topology analysis.
+  - Density and sparsity patterns indicate conceptual maturity.
+  - Cluster boundaries delineate attentional domains.
+  - Connectivity metrics reflect the capacity for coherence.
+  - Snapshots serve as baselines for detecting structural drift.
+tags:
+  - '#introspection'
+  - '#topology'
+  - '#structure'
+  - '#foundation'
+  - '#P-series'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P100-STRUCTURAL-SNAPSHOT_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-06T15:12:02.497Z'
+source: synthesis
+emotional_gradient: chaos → order → insight
