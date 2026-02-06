@@ -1,0 +1,32 @@
+id: aa766f94-ff9c-4ff7-abb4-4f7fbd786e13
+title: 'Claude Code Login: Seamless OAuth Authentication via Browser'
+summary: >-
+  Claude Code utilizes a simple /login command for authentication, triggering an automatic
+  browser-based OAuth flow with Anthropic. Users authorize access, and the application receives the
+  token, eliminating the need for manual API keys or tokens for its own services.
+insights:
+  - The /login command in Claude Code initiates an automated browser-based OAuth process.
+  - No API keys or manual credentials are required for basic Claude Code authentication.
+  - >-
+    Successful authentication involves authorizing Claude Code via a prompt in the opened browser
+    window.
+  - >-
+    If /login fails, restarting the app or checking for popup blockers are primary troubleshooting
+    steps.
+  - The /help command can indicate if a user is already logged in after a previous attempt.
+tags:
+  - '#claude'
+  - '#authentication'
+  - '#oauth'
+  - '#developer'
+  - '#automation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-06T14:13:23.600Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
