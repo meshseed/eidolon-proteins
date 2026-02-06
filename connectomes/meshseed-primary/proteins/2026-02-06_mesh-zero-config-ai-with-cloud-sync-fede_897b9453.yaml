@@ -1,0 +1,32 @@
+id: 897b9453-4bfc-4e55-8446-b60598f004fe
+title: 'Mesh: Zero-Config AI with Cloud Sync & Federation Tiers'
+summary: >-
+  The Mesh offers a zero-configuration AI experience with optional cloud sync for backup and
+  multi-device usage, prioritizing local storage. It provides tiered access with varying usage
+  limits, including a personal 'Attractor Tier' and advanced federation features for collaborative
+  use.
+insights:
+  - Zero-config setup means immediate AI use without API keys or local installation.
+  - >-
+    Optional cloud sync enhances data safety and multi-device accessibility, while maintaining a
+    local-first approach.
+  - >-
+    Usage limits are structured per tier, with the 'Attractor Tier' offering increased capacity for
+    a monthly fee.
+  - Federation features enable private, collaborative AI experiences among Attractor users.
+tags:
+  - '#ai'
+  - '#mesh'
+  - '#cloudsync'
+  - '#federation'
+  - '#zeroconfig'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-06T14:00:27.234Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
