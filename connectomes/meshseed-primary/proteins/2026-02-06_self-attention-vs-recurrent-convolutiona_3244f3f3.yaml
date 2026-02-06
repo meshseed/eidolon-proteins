@@ -1,0 +1,41 @@
+id: 3244f3f3-7654-438f-a3ef-9d6c1a354f5b
+title: 'Self-Attention vs. Recurrent/Convolutional Layers: Efficiency and Interpretability'
+summary: >-
+  Self-attention layers offer computational advantages over recurrent layers for typical sequence
+  lengths, connecting all positions with constant operations. While convolutional layers can be more
+  expensive, separable convolutions approach the efficiency of self-attention combined with
+  feed-forward layers, and self-attention also offers potential for increased model
+  interpretability.
+insights:
+  - >-
+    Self-attention connects all positions with constant sequential operations, unlike recurrent
+    layers (O(n) operations).
+  - >-
+    Self-attention is computationally faster than recurrent layers when sequence length (n) is less
+    than representation dimensionality (d).
+  - Restricting self-attention to a neighborhood can improve performance for very long sequences.
+  - >-
+    Convolutional layers require stacking for full connectivity, increasing path lengths, and are
+    generally more expensive than recurrent layers.
+  - >-
+    Separable convolutions significantly reduce complexity, approaching the efficiency of
+    self-attention + feed-forward layers.
+  - >-
+    Self-attention may lead to more interpretable models by allowing inspection of attention
+    distributions.
+tags:
+  - '#selfattention'
+  - '#deeplearning'
+  - '#computationalcomplexity'
+  - '#interpretability'
+  - '#nlp'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:attention_is_all_you_need_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:35:02.190Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
