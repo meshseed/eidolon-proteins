@@ -1,0 +1,44 @@
+id: 78d65a01-68f3-4e18-850a-625e292d1975
+title: 'MeshCODE Theory: Neural Data Processing & Memory Consolidation via Sleep'
+summary: >-
+  The MeshCODE theory posits that memory formation involves protein-level mechanical switching and
+  cytoskeletal communication within neurons. Sleep, particularly REM and deep sleep cycles,
+  facilitates the processing, consolidation, and transfer of transient hippocampal data to long-term
+  cortical storage as stable MeshCODE patterns.
+insights:
+  - >-
+    Memory consolidation involves dynamic mechanical protein switching (talin-switches) and
+    cytoskeletal activity within neurons.
+  - >-
+    Sleep cycles (deep sleep and REM) are crucial for processing, writing, and reordering neural
+    data patterns.
+  - >-
+    Newly encoded memories shift from transient hippocampal storage (like RAM) to stable, long-term
+    cortical MeshCODE patterns.
+  - >-
+    Consolidated memories are assigned specific physical addresses in the cortex for efficient
+    recall.
+  - >-
+    Disruptions in protein fidelity (e.g., tangles) can corrupt MeshCODE, leading to memory loss and
+    neurological diseases like dementia.
+  - >-
+    Sleep deprivation can fragment memory, impairing recall and performance due to incomplete data
+    management.
+tags:
+  - '#meshcode'
+  - '#neuroscience'
+  - '#memory'
+  - '#sleep'
+  - '#protein'
+  - '#consolidation'
+  - '#disease'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T14:36:44.546Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
