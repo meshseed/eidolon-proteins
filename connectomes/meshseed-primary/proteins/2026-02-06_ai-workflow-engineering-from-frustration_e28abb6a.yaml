@@ -1,0 +1,43 @@
+id: e28abb6a-083c-409b-bdc8-9e5ba6cea6d9
+title: 'AI Workflow Engineering: From Frustration to Local LLM Deployment'
+summary: >-
+  The user details a methodical progression in building a personalized AI research environment,
+  moving from interface issues to sophisticated templating and multi-agent workflows. A key
+  achievement was successfully deploying a custom Gemma3 LLM locally via a web interface with
+  Copilot's assistance, demonstrating significant technical adaptability.
+insights:
+  - >-
+    Personalized AI workflows evolve from addressing interface frustrations to complex templating
+    and multi-agent integration.
+  - >-
+    Pre-setting model preferences and interaction logic through templates significantly increases
+    workflow efficiency.
+  - >-
+    Iterative refinement of templates across multiple AI agents yields diverse insights and further
+    efficiency gains.
+  - >-
+    Successfully deploying custom LLMs (like Gemma3) locally requires significant technical effort
+    and AI model understanding.
+  - >-
+    A systems-level approach to AI tooling, treating models as modular agents, is crucial for
+    emergent workflows.
+  - >-
+    Maintaining external records of AI interactions is vital due to potential memory buffer
+    limitations.
+tags:
+  - '#AIworkflow'
+  - '#LLMdeployment'
+  - '#Gemma3'
+  - '#Copilot'
+  - '#Templating'
+  - '#ResearchFramework'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:BIOGRAPHY_CONVERSATION_COPILOT_RAW_2025-09-26_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-06T13:56:25.715Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
