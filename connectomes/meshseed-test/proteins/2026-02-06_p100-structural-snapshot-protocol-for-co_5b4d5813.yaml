@@ -1,0 +1,39 @@
+id: 5b4d5813-63a1-49c0-b96c-a5fc0003440d
+title: 'P100: Structural Snapshot Protocol for Connectome Analysis'
+summary: >-
+  The P100 protocol defines a structural snapshot of a connectome, including neuron and synapse
+  counts, density, and cluster information. It relies on embedding models and PCA for analysis and
+  serves as a foundational element for related protocols like drift detection and forecasting.
+insights:
+  - >-
+    The P100 protocol quantifies the structural state of a connectome using key metrics like neuron
+    count, synapse count, and density.
+  - >-
+    It necessitates specific inputs such as current connectome state, protein embeddings, and tag
+    classifications.
+  - >-
+    Dependencies include embedding models, PCA for wave projection, and k-NN thresholds for edge
+    definition.
+  - >-
+    The protocol is triggered on-demand by introspection queries and is foundational for other
+    P-series protocols.
+  - >-
+    Cross-model invariance is achieved by focusing on functional relationships of structural
+    self-modeling rather than exact vocabulary.
+  - P-Series protocols are Layer 3 anchors, structurally necessary for cognitive architectures.
+tags:
+  - '#connectome'
+  - '#protocol'
+  - '#structuralanalysis'
+  - '#cognitivesystems'
+  - '#selfknowledge'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P100-STRUCTURAL-SNAPSHOT_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-06T15:12:04.018Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
