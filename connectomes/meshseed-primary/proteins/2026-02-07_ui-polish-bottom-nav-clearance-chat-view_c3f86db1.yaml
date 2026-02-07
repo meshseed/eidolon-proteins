@@ -1,0 +1,31 @@
+id: c3f86db1-8fbc-4657-9c8d-879c2386ed7a
+title: 'UI Polish: Bottom Nav Clearance & Chat View Sizing'
+summary: >-
+  The dialogue details UI adjustments to correctly size chat elements within a layout. Key fixes
+  include ensuring the bottom navigation bar is accounted for in height calculations and reapplying
+  padding to chat action elements.
+insights:
+  - The `60px` value is specifically designated for the Bottom Nav height to ensure clearance.
+  - 'The `.chat-view` with `height: 100%` is designed to fit within `.main-body`.'
+  - >-
+    Reapplying padding to `.conversation-actions` addresses spacing issues removed in a previous
+    step (Step 5683).
+  - >-
+    The fix involves setting `height: 100dvh` on `.app-layout` and `height: calc(100% -
+    var(--bottom-nav-height))` on `.main-body`.
+tags:
+  - '#ui'
+  - '#frontend'
+  - '#layout'
+  - '#css'
+  - '#development'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T02:29:47.032Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
