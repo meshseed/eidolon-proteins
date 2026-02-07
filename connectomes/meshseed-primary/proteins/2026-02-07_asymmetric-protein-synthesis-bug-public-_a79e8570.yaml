@@ -1,0 +1,44 @@
+id: a79e8570-0a34-44d3-b4e3-9f2e1884d81e
+title: 'Asymmetric Protein Synthesis Bug: Public vs. Private Dialogue Archiving'
+summary: >-
+  A critical bug in dialogue synthesis has been identified where protein archiving is asymmetric
+  based on #public or #private tagging. Public dialogues incorrectly omit proteins from the primary
+  'eidolon' archive, only saving them to the 'eidolon-mesh', disrupting the expected complete
+  private archive and curated public subset architecture.
+insights:
+  - >-
+    Protein synthesis should always occur for both #public and #private dialogues, creating a
+    complete archive in 'eidolon'.
+  - >-
+    The 'eidolon' (private archive) must contain all DNA and ALL synthesized proteins, serving as
+    the authoritative, complete record.
+  - >-
+    The 'eidolon-mesh' (public view) should receive COPIES of proteins from #public dialogues, not
+    have them moved from 'eidolon'.
+  - >-
+    The bug causes public proteins to be missing from the 'eidolon' (nucleus), breaking the intended
+    'nucleus = complete, cytoplasm = subset' architecture.
+  - >-
+    This asymmetry leads to potential loss of continuity and incomplete private archives, impacting
+    the integrity of the system.
+  - >-
+    The fix requires routing to ensure proteins are always saved to 'eidolon', with public proteins
+    additionally copied to 'eidolon-mesh'.
+tags:
+  - '#bug'
+  - '#synthesis'
+  - '#archiving'
+  - '#public'
+  - '#eidolon'
+  - '#eidolon-mesh'
+  - '#biology'
+  - '#architecture'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:55:12.982Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
