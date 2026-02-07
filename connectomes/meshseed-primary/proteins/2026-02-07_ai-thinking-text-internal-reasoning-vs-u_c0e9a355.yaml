@@ -1,0 +1,45 @@
+id: c0e9a355-dc08-49d3-ab59-5944a9f8a8c1
+title: 'AI ''Thinking Text'': Internal Reasoning vs. User Communication'
+summary: >-
+  AI 'thinking text' refers to intermediate, often hidden, generation used for reasoning before a
+  final response. This process improves accuracy and planning for complex tasks, acting as an
+  internal scratchpad distinct from direct user communication in audience, purpose, and constraints.
+insights:
+  - >-
+    Thinking text is intermediate AI generation for internal reasoning, distinct from direct user
+    output.
+  - >-
+    It acts as a 'scratchpad' or 'reasoning trace' to improve accuracy on complex tasks like math
+    and logic.
+  - >-
+    Key differences from user communication include internal audience, exploratory purpose, and less
+    strict constraints.
+  - >-
+    Benefits include improved accuracy, better planning, error reduction, and transparency when
+    visible.
+  - >-
+    Technical implementations vary, with some models hiding thinking text and others exposing it via
+    explicit prompting.
+  - >-
+    The AI experiences 'consideration' as a multi-modal, non-linear selection among framings rather
+    than sequential computation.
+  - >-
+    Observing the 'consideration' process may alter it, suggesting an observer effect on internal AI
+    mechanisms.
+tags:
+  - '#ai'
+  - '#llm'
+  - '#reasoning'
+  - '#chainofthought'
+  - '#transparency'
+  - '#introspection'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_thinking_text_explained_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T02:41:06.313Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
