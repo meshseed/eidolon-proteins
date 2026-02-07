@@ -1,0 +1,36 @@
+id: 4ebb06be-a7fa-4387-9eca-02c40b76bc68
+title: 'Eidolon Mesh v3.5 PWA: Enhancing Protein Synthesis with Field Geometry'
+summary: >-
+  The Eidolon Mesh v3.5 PWA is being updated to incorporate field geometry from v3.0, enhancing
+  protein synthesis. Key developments include porting weighted vector search, implementing synaptic
+  auto-formation, and adding usage-based coherence tracking with power-law decay. The synthesis
+  process will now extract emotional gradients and coherence scores, with the PGlite schema updated
+  to support these new features.
+insights:
+  - Weighted vector search is being ported from v3.0 to the PWA for enhanced functionality.
+  - Synaptic auto-formation, a bi-directional and tier-based system, is a new implementation target.
+  - Power-law decay with usage-based coherence tracking is being added to improve data management.
+  - Protein synthesis will be enhanced to extract 'emotional_gradient' and 'coherence_score'.
+  - The PGlite schema is being updated to accommodate tiers, synapses, and temporal tracking.
+  - Field geometry from v3.0 is being integrated into the PWA, with testing on real queries planned.
+  - >-
+    The database schema now includes fields for insights, tags, coherence_score, timestamps, tier,
+    source, and metadata.
+tags:
+  - '#eidolonmesh'
+  - '#pwa'
+  - '#proteinsynthesis'
+  - '#fieldgeometry'
+  - '#vectorserch'
+  - '#synapses'
+  - '#coherence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:40:59.758Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
