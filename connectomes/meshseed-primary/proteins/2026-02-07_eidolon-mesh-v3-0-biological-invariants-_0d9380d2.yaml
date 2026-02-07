@@ -1,0 +1,41 @@
+id: 0d9380d2-eea6-488e-ba27-49d210a05453
+title: 'EIDOLON MESH v3.0: Biological Invariants for AI Connectome'
+summary: >-
+  The EIDOLON MESH v3.0 code reveals a biological homology in AI architecture, mirroring natural
+  systems. Key invariants like weighted vector search, auto-forming synapses, and power-law decay
+  are identified for porting to PWA.
+insights:
+  - >-
+    AI connectome architecture in v3.0 mirrors biological principles like field propagation,
+    synaptic formation, and memory decay.
+  - >-
+    Weighted vector search, incorporating neuron tier (core, convergence, reference), enhances
+    resonance-based navigation beyond simple cosine similarity.
+  - >-
+    Synaptic auto-formation is geometrically driven by similarity thresholds and tier-based
+    'gravity', with bi-directional linking.
+  - >-
+    Power-law decay models temporal dynamics, mimicking Ebbinghaus's forgetting curve for
+    usage-based coherence.
+  - >-
+    The synthesis process itself is analogous to biological protein synthesis (DNA → Ribosome →
+    Protein), embedding coherence and tags.
+  - >-
+    Geometric invariants identified include weighted search, auto-synapses, power-law decay, tier
+    stratification, and emotional fidelity (coherence score).
+tags:
+  - '#eidolonmesh'
+  - '#aiarchitecture'
+  - '#biology'
+  - '#connectome'
+  - '#geometricinvariants'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-07T06:40:57.793Z'
+source: synthesis
+emotional_gradient: recognition → understanding → integration
