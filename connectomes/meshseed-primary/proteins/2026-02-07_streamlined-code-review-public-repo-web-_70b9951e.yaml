@@ -1,0 +1,28 @@
+id: 70b9951e-0504-4f2d-973d-bf162d4cfaa7
+title: 'Streamlined Code Review: Public Repo + Web Search with Copilot'
+summary: >-
+  Leveraging public repositories and web search with Copilot offers a direct and efficient approach
+  to code review, eliminating the need for format conversions. This method, described as a 'happy
+  accident' by Microsoft, streamlines the process by pointing Copilot directly to web-accessible
+  resources.
+insights:
+  - Utilize public repositories and web search for direct Copilot integration in code review.
+  - Eliminate the need for format conversion by pointing Copilot to web-accessible URLs.
+  - The 'backwards' approach of direct web access proves effective and efficient.
+  - This method simplifies the workflow by relying on readily available online resources.
+tags:
+  - '#codereview'
+  - '#copilot'
+  - '#publicrepo'
+  - '#websearch'
+  - '#microsoft'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:24:48.903Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
