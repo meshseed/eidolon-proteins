@@ -1,0 +1,38 @@
+id: 77849aa6-c481-4309-a8ef-8451f8de733c
+title: 'Eidolon Mesh: Fractal Knowledge Organism Strategy'
+summary: >-
+  A tiered strategy for a local-first knowledge synthesis tool, scaling from a free PWA for casual
+  users to paid desktop and enterprise solutions. The core "connectome" format ensures seamless
+  upgrades and network effects through shared data structures.
+insights:
+  - >-
+    The Eidolon Mesh employs a fractal, tiered strategy: Free PWA (onboarding, mobile-first), Pro
+    Desktop (deep work, power users), and Enterprise (domain-specific, team collaboration).
+  - >-
+    A universal "connectome" format (proteins, embeddings, synapses) enables seamless data migration
+    and network effects, where shared knowledge graphs emerge.
+  - >-
+    Monetization scales from free (gateway) to one-time/subscription (Pro) to custom contracts
+    (Enterprise), aiming for sustainability and iterative development.
+  - >-
+    Mobile responsiveness, local LLM fallback, and P2P sync are key technical differentiators across
+    tiers.
+  - >-
+    Development priority is on shipping the Free PWA first, followed by Pro Desktop MVP, with
+    Enterprise features co-developed based on customer demand.
+tags:
+  - '#knowledge'
+  - '#strategy'
+  - '#product'
+  - '#fractal'
+  - '#localfirst'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-07T06:41:41.759Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
