@@ -1,0 +1,33 @@
+id: 2f143cbd-b736-499b-a5f0-503ce8f1dbe6
+title: 'Claude Code Authentication: Expiration, Resolution, and Causes'
+summary: >-
+  Claude Code authentication tokens expire periodically for security, preventing API calls.
+  Re-authentication via a terminal command and browser approval resolves this issue, which is
+  typically caused by normal time-based expiration, logout, or session invalidation, not a bug.
+insights:
+  - Claude Code uses OAuth tokens for authentication, API access, and command execution.
+  - Expired tokens prevent API calls and require re-authentication.
+  - >-
+    Resolving expired tokens involves running `/login` in the Claude Code terminal and
+    authenticating in a browser.
+  - >-
+    Common causes for token expiration include normal time-based expiry, logging out, or session
+    invalidation.
+  - Token expiration is a security feature, not a bug.
+tags:
+  - '#claude-code'
+  - '#authentication'
+  - '#oauth'
+  - '#api'
+  - '#security'
+  - '#troubleshooting'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T05:07:51.081Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
