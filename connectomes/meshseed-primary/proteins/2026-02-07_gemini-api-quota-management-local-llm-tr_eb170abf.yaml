@@ -1,0 +1,47 @@
+id: eb170abf-62b7-457a-8652-dcad01cebf6a
+title: Gemini API Quota Management & Local LLM Transition
+summary: >-
+  The dialogue details Gemini API Free Tier rate limits, specifically hitting daily (RPD) and
+  per-minute (RPM) quotas for gemini-2.5-flash. It explains how to manage these limits by switching
+  models, waiting for resets, and checking quotas, while also guiding the transition to local LLM
+  deployment by defining endpoint configurations.
+insights:
+  - >-
+    Gemini API Free Tier has distinct RPD and RPM limits per model (e.g., gemini-2.5-flash has 250
+    RPD).
+  - >-
+    Exceeding RPD triggers a long-term cooldown (daily reset), while exceeding RPM triggers a
+    short-term cooldown (retry delay).
+  - >-
+    RPD quotas are independent per model, allowing usage of other Gemini models (e.g.,
+    gemini-2.5-flash-lite) once a specific model's quota is met.
+  - >-
+    Embedding APIs translate text into numerical vectors for semantic similarity, crucial for
+    search, clustering, and Retrieval Augmented Generation (RAG).
+  - >-
+    Transitioning to local LLMs like Gemma 3 involves changing the application's API endpoint from a
+    cloud URL to a local server address (e.g., http://localhost:8080/v1/).
+  - >-
+    Local LLM inference engines (like Ollama) manage the model and expose a local API endpoint that
+    applications can connect to, often without needing an API key.
+  - >-
+    Gemini 1.5 Flash (deprecated) had different Free Tier limits (e.g., 50 RPD, 15 RPM), and current
+    comparable models like gemini-2.5-flash-lite offer higher RPD (1,000).
+tags:
+  - '#geminiapi'
+  - '#quotamanagement'
+  - '#llm'
+  - '#localmodels'
+  - '#developers'
+  - '#technical'
+  - '#api'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Universal_agent_OS_operational_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:35:30.507Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → practical application
