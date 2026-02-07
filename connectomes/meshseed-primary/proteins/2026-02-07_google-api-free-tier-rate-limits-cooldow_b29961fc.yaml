@@ -1,0 +1,38 @@
+id: b29961fc-95f3-46eb-8253-2b48b0002803
+title: 'Google API Free Tier: Rate Limits, Cooldowns, and Handling Strategies'
+summary: >-
+  Google APIs enforce daily (RPD) and per-minute (RPM/TPM) rate limits to ensure fair usage, with
+  exceeding them triggering cooldown periods.  The free tier for Gemini 2.5 Flash/Pro has specific
+  limits like 250 RPD and 10 RPM, necessitating strategies like exponential backoff for graceful
+  error handling.
+insights:
+  - >-
+    Google APIs have three primary rate limit axes: Daily (RPD), Per-Minute (RPM), and Tokens Per
+    Minute (TPM).
+  - >-
+    Exceeding any rate limit results in errors (e.g., 403, 429) and triggers a cooldown period until
+    the limit resets.
+  - The Gemini 2.5 Flash/Pro free tier has a daily limit of 250 Requests Per Day (RPD).
+  - >-
+    Per-minute limits include Requests Per Minute (RPM), with a 10 RPM example for Gemini 2.5 Flash
+    free tier, and Tokens Per Minute (TPM) with a 250,000 TPM example.
+  - Short cooldowns for RPM/TPM violations typically last a few seconds.
+  - >-
+    Implementing an Exponential Backoff strategy is recommended for handling rate limit errors
+    gracefully.
+tags:
+  - '#googleapi'
+  - '#ratelimits'
+  - '#cooldown'
+  - '#developers'
+  - '#gemini'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Universal_agent_OS_operational_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T06:35:28.111Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
