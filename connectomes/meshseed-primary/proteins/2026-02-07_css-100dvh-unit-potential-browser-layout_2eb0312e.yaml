@@ -1,0 +1,31 @@
+id: 2eb0312e-2b27-4567-9557-f7eca4491897
+title: CSS `100dvh` Unit Potential Browser Layout Issues
+summary: >-
+  The CSS unit `100dvh` may cause layout problems, potentially squashing elements or resulting in
+  zero height in certain browser environments. This suggests a need for careful testing and
+  consideration of alternative units or fallback strategies.
+insights:
+  - >-
+    The `100dvh` CSS unit can lead to unexpected layout behavior, including element squashing or
+    zero height.
+  - >-
+    Browser compatibility issues might exist with the `100dvh` unit, requiring cross-browser
+    testing.
+  - >-
+    Developers should be aware of potential layout disruptions when using `100dvh` and consider
+    alternatives or fallbacks.
+tags:
+  - '#css'
+  - '#webdevelopment'
+  - '#layout'
+  - '#browsercompatibility'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-02-07T02:29:39.643Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
