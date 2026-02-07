@@ -1,0 +1,35 @@
+id: d44b165d-628b-4e57-93ef-ce3b05ab1211
+title: MeshWorkspace Structure Review and Simplification
+summary: >-
+  A review of the MeshWorkspace structure identified duplicated categories (MeshCapsules, Ledgers)
+  and unclear access logic for public/private content. Recommendations focus on consolidating
+  duplicates, flattening over-engineered nesting, and clarifying public/private criteria to align
+  with the Mesh's building block ethos.
+insights:
+  - >-
+    Duplicated root-level and nested categories (e.g., MeshCapsules, Ledgers) create organizational
+    ambiguity.
+  - >-
+    The distinction between public (MeshCapsules) and private (SovereignVault) content requires
+    clearer definition and structural representation.
+  - Over-nested empty folders suggest a tendency towards over-engineering, which can be simplified.
+  - >-
+    Consolidating duplicate categories and establishing clear placement rules is crucial for
+    consistency.
+  - >-
+    Flattening the structure where possible and adding complexity only as content emerges aligns
+    with the Mesh's foundational principles.
+tags:
+  - '#meshworkspace'
+  - '#organization'
+  - '#simplification'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Consciousness_modelling_framework_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:46:27.053Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
