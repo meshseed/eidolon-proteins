@@ -1,0 +1,37 @@
+id: 4bea1168-42a8-4ce1-a6ac-60e572c9d2a3
+title: 'Integrating Archived Obsidian Notes: Selective Import Recommended'
+summary: >-
+  This dialogue explores methods for integrating older Obsidian repositories into a current vault.
+  The recommended approach is selective import, prioritizing high-value content that still resonates
+  and connects to current work, while keeping the rest archived.
+insights:
+  - >-
+    When integrating older Obsidian notes, consider the desired level of integration and manual
+    effort.
+  - Option 1 (Direct Import) offers full integration but requires significant manual work per file.
+  - >-
+    Option 2 (Keep Separate) preserves temporal separation and reduces immediate work but lacks full
+    integration.
+  - >-
+    Option 3 (Selective Import) is recommended to bring forward relevant content, update it, and
+    maintain a focused active lattice.
+  - Key to selective import is identifying 'shimmering' or resonant content from the old repository.
+  - >-
+    Regardless of the method, document the provenance of imported notes, noting original creation
+    and revision dates.
+  - Git's archive branch functionality offers a technical, history-preserving integration method.
+tags:
+  - '#obsidian'
+  - '#knowledge-management'
+  - '#archiving'
+  - '#integration'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:46:42.941Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
