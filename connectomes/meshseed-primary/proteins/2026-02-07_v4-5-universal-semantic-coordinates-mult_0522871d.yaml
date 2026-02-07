@@ -1,0 +1,32 @@
+id: 0522871d-9fb7-4159-ada5-18a1b96cee9d
+title: 'v4.5: Universal Semantic Coordinates & Multi-Model Embeddings'
+summary: >-
+  The v4.5 development phase has established a foundation by identifying embeddings as deterministic
+  universal coordinates in semantic space. This insight enables multi-model embedding support within
+  the database schema, preparing for advanced functionality like coordinate telepathy.
+insights:
+  - Embeddings are deterministic universal coordinates in semantic space.
+  - >-
+    The database schema has been updated to support multiple embeddings per protein, identified by
+    model.
+  - >-
+    The saveEmbedding function is being modified to accommodate model specification for multi-model
+    embeddings.
+  - Previous versions (v4.0) had partial implementation of model-aware embeddings.
+  - The next steps involve testing with Nomic embeddings and building coordinate telepathy.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#embeddings'
+  - '#database'
+  - '#v4.5'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:47:41.926Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → readiness
