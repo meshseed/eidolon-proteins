@@ -1,0 +1,28 @@
+id: b2273092-9447-4dfa-888a-6e3ed9f5dbb6
+title: Eidolon Mesh Initialization & Dev Environment Setup
+summary: >-
+  The Eidolon Mesh system initializes its local Gemma provider and Connectome, clearing caches and
+  loading historical exchanges. It then initiates a development command to run the Tauri
+  application, indicating the setup of the local development environment for UI glitch debugging.
+insights:
+  - The system utilizes a local Gemma provider via a Flask API for its Connectome.
+  - Top neurons by coherence score are prioritized for query strategy.
+  - The development environment is set up to watch for changes in the Tauri source code.
+  - The application is launched using a bundled Node.js runtime after compilation.
+  - Caching mechanisms for embeddings and proteins are cleared for a fresh development cycle.
+tags:
+  - '#eidolonmesh'
+  - '#development'
+  - '#initialization'
+  - '#connectome'
+  - '#tauri'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T02:26:33.892Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
