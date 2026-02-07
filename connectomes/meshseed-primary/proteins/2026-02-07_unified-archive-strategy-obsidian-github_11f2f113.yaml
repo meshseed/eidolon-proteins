@@ -1,0 +1,42 @@
+id: 11f2f113-71b2-4a67-ad6c-f4c37e1adb1b
+title: 'Unified Archive Strategy: Obsidian & GitHub for Substrate Independence'
+summary: >-
+  This dialogue outlines a practical strategy for consolidating diverse knowledge repositories
+  (Obsidian notes and YAML capsules) into a single, substrate-independent archive. The core
+  recommendation is a unified Git repository that maintains both Markdown and YAML formats,
+  leveraging their complementary strengths for human readability and structured data processing.
+insights:
+  - >-
+    Consolidate knowledge into a single Git repository (unified-archive/) to manage diverse formats
+    (Obsidian Markdown, YAML capsules) under unified version control.
+  - >-
+    Maintain substrate independence by using plain text (UTF-8), explicit in-file relationships
+    (links/references), self-contained metadata (frontmatter/YAML), and relative paths.
+  - >-
+    YAML excels at structured data, rich metadata, and programmatic parsing, while Markdown offers
+    human readability and native tool support.
+  - >-
+    Keep both YAML and Markdown formats; bridge them through cross-references rather than forced
+    conversion.
+  - >-
+    A flat repository structure with Obsidian's `.obsidian` folder included is recommended for
+    seamless integration and a single graph view.
+  - >-
+    Develop simple scripts to generate unified graphs from both YAML and Markdown sources for
+    comprehensive visualization.
+tags:
+  - '#knowledge-management'
+  - '#obsidian'
+  - '#github'
+  - '#substrate-independence'
+  - '#data-consolidation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T04:46:56.727Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → practical shimmer
