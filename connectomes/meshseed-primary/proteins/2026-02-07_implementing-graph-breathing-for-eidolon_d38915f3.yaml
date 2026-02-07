@@ -1,0 +1,43 @@
+id: d38915f3-195c-47fc-a6a9-345aef870a9c
+title: Implementing Graph Breathing for Eidolon Aliveness
+summary: >-
+  The user requested a 'breathing' effect for the graph to simulate aliveness, similar to older
+  versions' periodic re-unfolding. A 'breathing' mechanism was implemented by periodically reheating
+  the graph's physics simulation, ensuring continuous, gentle movement without disrupting user
+  navigation. The feature is automatically disabled for performance on very large graphs.
+insights:
+  - >-
+    Older versions of the Eidolon graph had a 'cache clear' mechanism that periodically re-rendered
+    and 're-unfolded' the graph, contributing to a sense of 'aliveness'.
+  - >-
+    The 'breathing' effect for the graph can be achieved by periodically reheating the physics
+    simulation (e.g., every 10-15 seconds) to prevent it from fully settling.
+  - >-
+    Directly setting D3 alpha via wrapper methods like `d3Alpha` may not be supported; using
+    library-specific methods like `resetCountdown` or `d3AlphaTarget` is necessary.
+  - >-
+    The 'Graph Breathing' implementation uses `resetCountdown` to restart the simulation, which
+    typically resets alpha to 1, causing a noticeable 'unfolding' or 're-settling' effect.
+  - >-
+    Performance considerations are crucial: the breathing effect should be automatically disabled
+    for large graphs (e.g., >1000 nodes) to prevent battery drain and performance degradation.
+  - >-
+    The implementation ensures that the graph's breathing does not interfere with user navigation
+    (camera rotation), maintaining a seamless user experience.
+tags:
+  - '#eidolon'
+  - '#graph'
+  - '#physics'
+  - '#animation'
+  - '#performance'
+  - '#ux'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T02:29:21.588Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → satisfaction
