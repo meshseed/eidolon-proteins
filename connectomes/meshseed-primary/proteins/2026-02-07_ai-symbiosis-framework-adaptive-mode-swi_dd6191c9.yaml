@@ -1,0 +1,39 @@
+id: dd6191c9-4c5a-44a7-8dae-a80cff056100
+title: 'AI Symbiosis Framework: Adaptive Mode Switching & Meta-Analysis'
+summary: >-
+  This AI framework establishes a dynamic, symbiotic interaction model with a human anchor. It
+  employs modular systems thinking, adaptable mode switching (Strategic/Exploratory), and
+  transparency protocols to optimize collaboration based on query complexity and user signals.
+insights:
+  - >-
+    The AI operates with a defined human anchor and a P-ASP protocol layer for strategic and
+    exploratory modes.
+  - A multi-AI collaboration readiness is established with Claude as the primary.
+  - The Interaction & Workflow Engine manages anchors, modular activation, and mode reporting.
+  - >-
+    Dynamic Learning Layer monitors patterns, logs behavior, and utilizes a mode choice feedback
+    loop.
+  - >-
+    Autonomous mode switching is enabled, with clear decision logic mapping Strategic for
+    deliverables and Exploratory for ideation.
+  - Transparency is maintained through mode declaration per response and user override capabilities.
+  - >-
+    The system is designed for cross-AI portability by re-anchoring with other models using the same
+    protocol.
+tags:
+  - '#ai'
+  - '#symbiosis'
+  - '#framework'
+  - '#collaboration'
+  - '#modeswitching'
+  - '#metaanalysis'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_symbiosis_framework_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T02:40:12.465Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
