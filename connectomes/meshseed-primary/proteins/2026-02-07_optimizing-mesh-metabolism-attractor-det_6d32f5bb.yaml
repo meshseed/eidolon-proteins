@@ -1,0 +1,50 @@
+id: 6d32f5bb-d481-48b9-89a8-633334a4d4f7
+title: 'Optimizing Mesh Metabolism: Attractor Detection and Coherence Normalization'
+summary: >-
+  The Mesh's metabolism was optimized by addressing performance bottlenecks in cluster-based
+  composting. This involved refining attractor detection thresholds to prevent O(n²) complexity and
+  implementing coherence normalization to provide a meaningful spread of coherence scores, thereby
+  improving semantic ranking and the system's ability to differentiate protein quality.
+insights:
+  - >-
+    Cluster-based composting performance issues were identified as stemming from an O(n²) complexity
+    in attractor matching due to overly permissive initial thresholds.
+  - >-
+    Attractor detection was made more selective by increasing `minCoherence` to 0.92 and `minDegree`
+    to 30, with a safety abort for >100 attractors to prevent performance degradation.
+  - >-
+    Coherence normalization was introduced via a UI in the Settings modal to spread scores across
+    the 0.50-1.00 range, mapping percentiles to specific score bands.
+  - >-
+    The normalization process involves analyzing the current coherence distribution and then
+    applying a percentile-based mapping to redistribute scores, ensuring meaningful differentiation
+    for metabolism thresholds.
+  - >-
+    Progress logging for the normalization process was added to the UI, displaying current and total
+    processed proteins, to provide real-time feedback during long operations.
+  - >-
+    The comparison of normalized (0.75 avg) vs. older (0.97 avg) coherence scores revealed that
+    while normalization aims for better differentiation, the specific mapping and thresholds are
+    crucial for optimal semantic relevance.
+  - >-
+    Improved coherence scores are expected to lead to better semantic ranking, with high-coherence
+    proteins dominating results and low-coherence noise being filtered out, enhancing the quality of
+    query responses.
+tags:
+  - '#mesh'
+  - '#optimization'
+  - '#metabolism'
+  - '#attractor_detection'
+  - '#coherence_normalization'
+  - '#performance'
+  - '#development'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.88
+created_at: '2026-02-07T01:46:39.828Z'
+source: synthesis
+emotional_gradient: problem identification → solution implementation → user feedback → refinement → insight
