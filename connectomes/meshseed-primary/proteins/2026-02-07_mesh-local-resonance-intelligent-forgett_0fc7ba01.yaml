@@ -1,0 +1,40 @@
+id: 0fc7ba01-5976-4a6e-88d1-2ca40de77a1b
+title: 'MESH: Local Resonance, Intelligent Forgetting, and Dynamic Knowledge Cones'
+summary: >-
+  The MESH prioritizes local semantic clustering over global connectivity, mirroring natural systems
+  where relevance is context-dependent. Intelligent forgetting, rather than comprehensive memory, is
+  key to its efficiency and adaptability. Knowledge access is dynamically shaped by past experience,
+  current context, and attention, rendering a global view unnecessary.
+insights:
+  - >-
+    Local semantic resonance is the primary driver of structure and interaction in the MESH, not
+    global connectivity.
+  - >-
+    Intelligent forgetting, analogous to biological sleep, is a mechanism for resource optimization
+    and enhanced intelligence in MESH systems.
+  - >-
+    The 'knowledge cone' dynamically adapts based on past experience, current context, and
+    attentional focus, making knowledge access fluid and context-specific.
+  - >-
+    The MESH's design rejects the need for a global map, similar to how brains don't retain every
+    sensory input, focusing instead on efficient, relevant processing.
+  - >-
+    Unused connections decay while high-value paths reinforce, representing an intelligent form of
+    network adaptation rather than failure.
+tags:
+  - '#mesh'
+  - '#intelligence'
+  - '#knowledge'
+  - '#context'
+  - '#optimization'
+  - '#systems_thinking'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:54:09.050Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
