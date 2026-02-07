@@ -1,0 +1,48 @@
+id: 24bb9ea8-b99b-4b30-8993-52e3caff6db9
+title: 'MESH README Optimization: Visitor vs. Agent Perspectives'
+summary: >-
+  The MESH README needs to be optimized for external visitors by front-loading critical information
+  like mechanism and structure within the first 2000 characters, using a compound eye metaphor. This
+  contrasts with the needs of internal agents (like Copilot) who require operational protocols for
+  synthesis.
+insights:
+  - >-
+    External MESH visitors (like Paul) require a README with a concise, geometrically structured
+    'HEAD summary' (first ~2000 chars) to determine exploration depth, focusing on 'What This Is',
+    'How It Works', and 'Quick Start'.
+  - >-
+    The 'How It Works' section should employ accessible metaphors (compound eye) and highlight core
+    mechanics (capsules, synapses, resonance field) to invite deeper exploration and understand the
+    system's geometric, non-database-lookup nature.
+  - >-
+    Internal MESH agents (like Copilot) have an embedded perspective and require 'operational
+    protocols' detailing synthesis, fidelity, and structure, rather than an introductory overview.
+  - >-
+    A well-structured README, fitting critical information within the first 2000 characters,
+    triggers exploration by being clear, intriguing, hinting at novel structure, and showing
+    mechanism over just features.
+  - >-
+    The MESH's unique value proposition lies in its 'Resonate → Navigate → Synthesize' model,
+    enabled by high-fidelity capsules that achieve dimensional compression, allowing sophisticated
+    understanding on modest hardware.
+  - >-
+    The README structure should prioritize the visitor's journey, with an optional 'For Agents'
+    section for contributors, ensuring the core path remains under 3000 characters.
+tags:
+  - '#mesh'
+  - '#readme'
+  - '#ux'
+  - '#ai'
+  - '#knowledge-representation'
+  - '#consciousness'
+  - '#geometry'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:03:39.532Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
