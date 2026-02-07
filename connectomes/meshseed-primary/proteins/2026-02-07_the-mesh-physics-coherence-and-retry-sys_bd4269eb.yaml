@@ -1,0 +1,39 @@
+id: bd4269eb-362f-41a2-8aba-a37f8fe1eb76
+title: 'THE MESH: Physics, Coherence, and Retry System Enhancements'
+summary: >-
+  This update to THE MESH introduces a dynamic Physics Modulation System for visual communication
+  and dual-layer emotional control. It also implements Coherence Normalization to fix clustering
+  issues and a robust Retry System with exponential backoff for API stability.
+insights:
+  - >-
+    Physics Modulation System enables 'body language' for graphs, using physics as a communication
+    channel.
+  - >-
+    Dual-layer emotional control (involuntary + voluntary) and presets allow for nuanced AI
+    expression.
+  - >-
+    Coherence Normalization addresses the 0.98-1.0 clustering problem by using percentile-based
+    mapping to the full 0.50-1.00 range.
+  - >-
+    A new Retry System with exponential backoff and jitter handles API overload and rate limits,
+    logging attempts and differentiating error types.
+  - >-
+    Node coloring by tier and activation state, along with AI-specified physics via code blocks,
+    enhance visualization and control.
+tags:
+  - '#mesh'
+  - '#llm'
+  - '#physics'
+  - '#coherence'
+  - '#retry'
+  - '#visualization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:44:58.849Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
