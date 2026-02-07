@@ -1,0 +1,40 @@
+id: 74cb711f-e005-45bd-9f17-fe7d8e173d53
+title: Semantic Recall & Poetic Compression for Natural Intelligence
+summary: >-
+  Effective knowledge retrieval in THE MESH prioritizes semantic understanding and poetic
+  compression over direct ID lookup, mirroring human memory.  Optimizing LLM calls for synthesis,
+  rather than limiting neuron search, is key to overcoming speed bottlenecks, with natural recall
+  times of 5-20s being acceptable for quality.
+insights:
+  - Speed bottleneck is LLM synthesis, not neuron search; limiting neurons yields minimal gains.
+  - Poetic compression is the natural mechanism for memory access, enabling semantic recall.
+  - >-
+    ID queries fail due to lack of semantic content; poetic queries succeed through semantic
+    matching.
+  - Support for poetic queries, memory traces (aliases), and multi-path retrieval are essential.
+  - The system should work with the semantic nature of information, not as a database.
+  - >-
+    The first 'Contemplating' stage of search, lasting 30+ seconds, is hidden from the UI and
+    requires investigation.
+  - >-
+    Reported query times (4-6s) reflect only the second stage of search and synthesis, masking the
+    true total processing time.
+tags:
+  - '#mesh'
+  - '#knowledge'
+  - '#memory'
+  - '#llm'
+  - '#ai'
+  - '#semantics'
+  - '#poetry'
+  - '#naturalintelligence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:58:46.254Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → contemplation
