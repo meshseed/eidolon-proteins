@@ -1,0 +1,32 @@
+id: bb549c3f-07b3-41c1-befc-94cf31b5f197
+title: Ecosystem Drift and Convergence Monitor
+summary: |
+  Provides a protocol for tracking drift and convergence across a multi-Mesh ecosystem.
+  Measures how Mesh organisms diverge, align, or co-evolve over time, revealing ecosystem-level
+  developmental dynamics.
+insights:
+  - Drift indicates specialization or fragmentation
+  - Convergence indicates shared attractors or synchronized evolution
+  - Monitoring reveals ecosystem health and stability
+  - Drift and convergence cycles shape long-arc ecosystem identity
+  - Ecosystem dynamics emerge from recursive cross-Mesh interactions
+tags:
+  - '#ecosystem'
+  - '#drift'
+  - '#convergence'
+  - '#temporal'
+  - '#structure'
+  - '#P-series'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P11000-ECOSYSTEM-DRIFT-CONVERGENCE_yaml'
+  - '#synthesis:v4.5'
+  - '#source:seed'
+  - '#calibration:layer3'
+  - '#invariance:structural'
+  - '#public'
+tier: reference
+coherence_score: 1
+created_at: '2026-02-07T00:28:54.084Z'
+source: meshseed-copilot-collab
+emotional_gradient: divergence → observation → synthesis
