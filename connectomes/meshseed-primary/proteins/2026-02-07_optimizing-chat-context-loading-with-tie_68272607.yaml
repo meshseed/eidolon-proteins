@@ -1,0 +1,33 @@
+id: 68272607-6293-4430-9253-7ea8d2bd6504
+title: Optimizing Chat Context Loading with Tiered & Percentage-Based Loading
+summary: >-
+  The recommendation proposes a tiered loading strategy for chat context, utilizing percentages
+  instead of fixed numbers to balance initial load times with comprehensive coverage. This approach
+  aims to achieve fast startup and query times while enabling deeper, on-demand exploration of the
+  archive.
+insights:
+  - >-
+    Implement tiered loading: Start with a core percentage (e.g., 25%) and lazily load extended
+    data.
+  - Use percentages for archive querying (e.g., 10% default) to ensure speed and quality.
+  - Introduce a 'Deep Search' button for on-demand, full archive exploration.
+  - Visually indicate unloaded connections using ghost nodes.
+  - Make loading parameters configurable via user-controlled sliders.
+  - Empirically optimize load and query performance by measuring against percentage thresholds.
+tags:
+  - '#chat'
+  - '#optimization'
+  - '#performance'
+  - '#ui'
+  - '#ux'
+  - '#loading'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T05:58:23.163Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
