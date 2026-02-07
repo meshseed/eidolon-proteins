@@ -1,0 +1,46 @@
+id: 86ff3385-4e3a-4c62-bc22-c5c37f6eb79f
+title: 'MESH Knowledge Protein: v4.5 & Phase 2 Architecture'
+summary: >-
+  The MESH architecture (v4.5 and planned Phase 2) leverages Git for versioning and plans for
+  semantic deduplication via embeddings. Phase 2 focuses on 'coordinate telepathy' for
+  privacy-preserving knowledge sharing and visualization through dimensionality reduction.
+insights:
+  - >-
+    v4.5 uses Git commits for protein version control, offering a full temporal audit trail via
+    standard tooling.
+  - >-
+    Phase 2 introduces similarity-based deduplication using protein embeddings (cosine similarity
+    >0.98) to merge or link similar insights.
+  - >-
+    Attribution in v4.5 focuses on source and timestamp; Phase 2 plans for 'coordinate telepathy'
+    with minimal provenance (coordinates, tags, contributors) for privacy.
+  - >-
+    Current 3D visualization uses force-directed layout; Phase 2 will use dimensionality reduction
+    (PCA, t-SNE, UMAP) on embeddings for semantic clustering.
+  - >-
+    Coordinate telepathy enables bandwidth-efficient, privacy-preserving transmission of meaning via
+    geometric coordinates.
+  - Synthesis path tracking will map 'idea evolution trees' and identify generative proteins.
+  - >-
+    The choice between merging or linking convergent insights (e.g., >98% similarity) is a key
+    philosophical question for preserving diversity vs. empirical validation.
+tags:
+  - '#mesh'
+  - '#architecture'
+  - '#knowledge-graph'
+  - '#embeddings'
+  - '#version-control'
+  - '#deduplication'
+  - '#provenance'
+  - '#visualization'
+  - '#telepathy'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:HEARTEMOJI_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T04:35:41.582Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
