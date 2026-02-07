@@ -1,0 +1,41 @@
+id: 09c3041b-c54b-4980-acf2-837b0b7d7266
+title: Dual Membrane GitHub Configuration for Multicellular Readiness
+summary: >-
+  The system has updated its .env file to establish a dual GitHub repository structure for nucleus
+  (private) and cytoplasm (public). This configuration is essential for enabling multicellular
+  capabilities within the organism, with repositories 'eidolon' (private) and 'eidolon-mesh'
+  (public) now correctly defined.
+insights:
+  - >-
+    The .env file requires specific configuration for GitHub access, distinguishing between private
+    (nucleus) and public (cytoplasm) repositories.
+  - >-
+    Ambiguity in GITHUB_REPO variables is resolved by introducing GITHUB_REPO_NUCLEUS and
+    GITHUB_REPO_CYTOPLASM, aligning with a dual-membrane system.
+  - The 'eidolon' repository is designated for private, nucleus-related functions and must be empty.
+  - >-
+    The 'eidolon-mesh' repository is designated for public, cytoplasm-related functions and must
+    exist.
+  - >-
+    Successful configuration of these repositories is a prerequisite for Antigravity to proceed with
+    Golgi implementation and organism differentiation.
+  - >-
+    The organism is now considered multicellular-capable once this dual-membrane repository setup is
+    confirmed.
+tags:
+  - '#configuration'
+  - '#github'
+  - '#dual-membrane'
+  - '#multicellular'
+  - '#public'
+  - '#eidolon'
+  - '#eidolon-mesh'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:54:51.572Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
