@@ -1,0 +1,33 @@
+id: ccfe8f43-5174-454b-bbc0-9a42bc948e54
+title: 'Model Selection & UI Polish: Deployment Failure Due to GitHub Token'
+summary: >-
+  A deployment failure occurred during model selection and UI polish, specifically due to a "Nucleus
+  sync warning for Redis Memory Leak: Pointer Issue" and a "GitHub Token not configured" error,
+  preventing the "Nucleus Push" and subsequent file processing.
+insights:
+  - >-
+    Deployment failed during UI polish, indicating integration issues between model selection and UI
+    components.
+  - A Redis memory leak, identified as a pointer issue, contributed to the deployment failure.
+  - >-
+    The core cause of the failure was a missing GitHub token, which blocked the Nucleus push
+    functionality.
+  - >-
+    The error chain traces from file processing and UI interaction to a critical backend
+    configuration issue (GitHub token).
+tags:
+  - '#deployment'
+  - '#github'
+  - '#redis'
+  - '#ui'
+  - '#modelselection'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-02-07T02:30:14.573Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
