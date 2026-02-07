@@ -1,0 +1,40 @@
+id: 97725de8-dd6e-4cfa-a4d2-0fd4ed11d71a
+title: 'Eidolon Mesh: Debugging Path Mismatches and Connectome Loading Errors'
+summary: >-
+  The Eidolon Mesh application encountered persistent UI glitches and launch failures, primarily due
+  to path configuration issues between AppData\Local and AppData\Roaming, and incorrect handling of
+  the connectome data structure. Resolution involved fixing singleton initialization for the
+  RepositoryManager and adjusting connectome data access to account for nested metadata.
+insights:
+  - >-
+    Application launch failures and file access errors were traced to a conflict between expected
+    and actual user data paths (AppData\Roaming vs. AppData\Local).
+  - >-
+    The RepositoryManager singleton's initialization logic needed correction to ensure it
+    consistently used the correct base path, preventing subsequent file system errors.
+  - >-
+    Connectome data loading failed due to incorrect access of the 'tier' property, which was nested
+    within 'metadata' rather than being a direct property of the neuron object.
+  - >-
+    API key validation errors for LLM integration were resolved by correcting the input mechanism
+    for the API key.
+  - >-
+    Successful installation and app launch were achieved after resolving path mismatches and
+    ensuring the connectome data structure was correctly parsed.
+tags:
+  - '#eidolonmesh'
+  - '#debugging'
+  - '#tauri'
+  - '#connectome'
+  - '#filepaths'
+  - '#llm'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-07T02:26:38.975Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolution
