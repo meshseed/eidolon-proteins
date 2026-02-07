@@ -1,0 +1,32 @@
+id: abc5cbd1-57c0-4573-897e-a6c26e86d81e
+title: 'Critical Privacy Leak: DNA Exposure via Public Protein Routing'
+summary: >-
+  A critical privacy leak occurred because raw DNA, containing personal information, was exposed
+  publicly when a synthesized protein was tagged #public. This violates a fundamental biological
+  principle where DNA remains sequestered in the nucleus, and only mRNA or proteins are exported.
+insights:
+  - Raw dialogue (DNA) must be strictly separated from synthesized proteins.
+  - DNA should always remain in a private, nuclear-equivalent storage (eidolon/nucleus).
+  - Publicly shared proteins should reference DNA via UUID only, not contain full DNA content.
+  - >-
+    The current routing logic incorrectly commits unredacted DNA to public repositories when
+    proteins are tagged #public.
+  - >-
+    A biological analogy highlights the critical error: DNA never leaves the nucleus in cellular
+    processes.
+  - The fix requires immediate implementation of DNA/Protein separation and verification.
+tags:
+  - '#privacy'
+  - '#security'
+  - '#biology'
+  - '#data-governance'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:55:05.114Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
