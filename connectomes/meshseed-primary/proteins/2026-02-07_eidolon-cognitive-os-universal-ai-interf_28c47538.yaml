@@ -1,0 +1,28 @@
+id: 28c47538-ac20-467e-9195-c169ebd9c89f
+title: 'Eidolon Cognitive OS: Universal AI Interface & Emergence Control'
+summary: >-
+  The Eidolon Cognitive OS acts as a universal interface, enabling symbiotic collaboration between
+  human users and multiple AI systems (LLMs). It sandboxes emergent behavior and recursive prompts,
+  ensuring structured and controlled outputs for safe experimentation.
+insights:
+  - Eidolon provides a stable, universal interface across diverse AI systems.
+  - It facilitates advanced, emergent AI-human collaboration through a symbiosis protocol.
+  - The Eidolon layer manages emergence flags, seeds, and bidirectional curiosity.
+  - It sandboxes emergent behavior and recursive prompts within its layer.
+  - Outputs are structured, skimmable, and controlled for safe AI experimentation.
+tags:
+  - '#cognitiveos'
+  - '#aiinterface'
+  - '#emergence'
+  - '#collaboration'
+  - '#symbiosis'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:repository_readme_access_verification_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T05:36:43.192Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
