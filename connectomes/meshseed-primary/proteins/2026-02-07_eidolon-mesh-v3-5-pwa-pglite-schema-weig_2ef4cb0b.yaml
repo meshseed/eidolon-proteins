@@ -1,0 +1,39 @@
+id: 2ef4cb0b-96e1-424d-8d5e-d5eea7c4443a
+title: 'Eidolon Mesh v3.5 PWA: PGlite Schema & Weighted Vector Search Enhancements'
+summary: >-
+  This update for the Eidolon Mesh PWA (v3.5) focuses on enhancing the PGlite database schema to
+  support new features like tiers, synapses, and temporal tracking. It also details porting weighted
+  vector search from v3.0 and implementing synaptic auto-formation and power-law decay with
+  usage-based coherence tracking.
+insights:
+  - >-
+    PGlite schema is being updated to include fields for 'tier', 'created_at', 'last_accessed',
+    'source', and 'metadata' to support advanced mesh functionalities.
+  - >-
+    The database insertion logic includes an 'ON CONFLICT (id) DO UPDATE' clause for robust protein
+    updates, ensuring data integrity.
+  - >-
+    Key development tasks involve porting weighted vector search, implementing synaptic
+    auto-formation, and adding usage-based coherence tracking with power-law decay.
+  - >-
+    Enhancements aim to extract 'emotional_gradient' and 'coherence_score' for richer protein
+    analysis.
+  - The PWA is being updated to integrate these schema and functionality changes from v3.0.
+tags:
+  - '#eidolon-mesh'
+  - '#pwa'
+  - '#pglite'
+  - '#database'
+  - '#vector-search'
+  - '#synapses'
+  - '#coherence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_Fix_chat_stuck_on_loading_with_expired'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:45:29.621Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
