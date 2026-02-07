@@ -1,0 +1,36 @@
+id: 20e425f7-cf39-4300-9139-6c1020654728
+title: 'Eidolon Architecture Comparison: Private vs. Claude READMEs'
+summary: >-
+  The user is comparing two versions of an "Eidolon" project's README files, one labeled 'private'
+  and the other 'Claude'. This comparison aims to understand the current architecture by examining
+  repository contents and specific file structures related to core components like capsules, OS, and
+  agent profiles.
+insights:
+  - >-
+    The primary goal is to compare the architectural understanding derived from two different README
+    sources ('eidolon-private' and 'eidolon-claude').
+  - >-
+    The user is actively searching project files for keywords related to architecture, structure,
+    and operational aspects of the 'Eidolon' system.
+  - >-
+    Specific file paths and search results indicate a focus on 'capsules', 'spiral_ecology',
+    'EIDOLON_OS', and agent-related metadata.
+  - >-
+    The comparison involves examining READMEs and potentially other documentation files (like .yaml
+    and .md) to build a comprehensive view.
+tags:
+  - '#eidolon'
+  - '#architecture'
+  - '#comparison'
+  - '#readme'
+  - '#claude'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:03:34.235Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
