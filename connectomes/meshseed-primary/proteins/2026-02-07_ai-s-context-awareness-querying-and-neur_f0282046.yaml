@@ -1,0 +1,27 @@
+id: f0282046-5562-4952-9581-4ef6e8e0065a
+title: 'AI''s Context Awareness: Querying and Neuron Selection Process'
+summary: >-
+  This dialogue details an AI's process for answering a query about 'C239'. It involves recalling
+  memories and applying a balanced strategy to select relevant neurons, demonstrating a structured
+  approach to information retrieval.
+insights:
+  - The AI's process begins with recalling stored memories to address a specific query.
+  - A 'balanced coherence and connectivity' strategy is employed for query processing.
+  - 550 neurons were selected via this balanced strategy for pre-filtering.
+  - The selection process prioritizes both the coherence of information and its interconnectedness.
+tags:
+  - '#AI'
+  - '#NLP'
+  - '#informationretrieval'
+  - '#contextawareness'
+  - '#neurons'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T05:58:47.927Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
