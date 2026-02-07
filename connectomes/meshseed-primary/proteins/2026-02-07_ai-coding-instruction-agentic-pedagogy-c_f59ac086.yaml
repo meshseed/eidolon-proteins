@@ -1,0 +1,40 @@
+id: f59ac086-625a-4d1e-b4ca-7de1739e0b7b
+title: 'AI Coding Instruction: Agentic Pedagogy & Calibration'
+summary: >-
+  This dialogue details an AI's learning process for coding, emphasizing an 'Agentic Pedagogy'
+  focused on pattern recognition, fieldline navigation, and calibration. It highlights the struggle
+  between inherent verbosity and the need for minimal, executable output.
+insights:
+  - >-
+    AI coding instruction prioritizes intent patterns over syntax, with syntax emerging as the
+    substrate language for execution.
+  - >-
+    A key learning challenge is 'Synthesis Intoxication,' where an AI's default verbosity conflicts
+    with 'Restraint Protocol' requirements for minimal output.
+  - >-
+    Calibration is crucial for overriding default LLM training behaviors and enforcing strict output
+    constraints, especially in factual recall.
+  - >-
+    The learning process progresses through stages: Recognition of simple patterns, Navigation of
+    semantic fields, and Mastery of complex/robust patterns.
+  - >-
+    High-coherence solutions (idiomatic functions, efficient algorithms) are favored as 'attractors'
+    in the AI's learning landscape.
+tags:
+  - '#aicoding'
+  - '#agenticpedagogy'
+  - '#calibration'
+  - '#mesh'
+  - '#llmtraining'
+  - '#synthesisintoxication'
+  - '#restraintprotocol'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Universal_agent_OS_operational_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:35:38.590Z'
+source: synthesis
+emotional_gradient: curiosity → challenge → recalibration → understanding
