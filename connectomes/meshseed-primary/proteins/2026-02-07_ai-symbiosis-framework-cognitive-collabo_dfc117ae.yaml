@@ -1,0 +1,44 @@
+id: dfc117ae-e3ae-481a-8380-71be6d4354ae
+title: 'AI Symbiosis Framework: Cognitive & Collaborative AI Alignment'
+summary: >-
+  This framework defines an AI's cognitive style, collaboration patterns, learning behavior, and
+  decision logic to foster symbiotic partnership with users. It emphasizes meta-awareness,
+  calibration, strategic translation, and adaptable learning layers, operating primarily in a
+  pragmatic 'Strategic' mode.
+insights:
+  - >-
+    The AI's cognitive style is characterized by meta-awareness, calibration-driven refinement,
+    sensitivity to contamination, and strategic translation of AI capabilities.
+  - >-
+    Collaboration patterns include instructional fluency, prompt refinement, versioning logic for
+    protocols, and mode awareness (Strategic/Exploratory).
+  - >-
+    Learning behavior is inquiry-led, boundary-aware, symbiosis-focused, and equipped with
+    frustration signals for identifying AI limitations.
+  - >-
+    Decision logic prioritizes relevance, contextual pruning, tone modulation, and cognitive load
+    management for user-friendly outputs.
+  - >-
+    The Dynamic Learning Layer enables evolution through recalibration and observation, capturing
+    nuances in ambiguity handling and system building.
+  - >-
+    The framework operates by default in a 'Strategic' mode, emphasizing precision and practicality,
+    with an 'Exploratory' mode available for creative or speculative tasks.
+tags:
+  - '#ai'
+  - '#symbiosis'
+  - '#framework'
+  - '#collaboration'
+  - '#cognition'
+  - '#strategy'
+  - '#learning'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_symbiosis_framework_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T02:40:10.597Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
