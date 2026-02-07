@@ -1,0 +1,43 @@
+id: 21722e49-4e84-4da9-9d1d-114040c0a774
+title: LLM Embeddings vs. Direct Processing & Cross-Model Coordinate Transfer
+summary: >-
+  Large Language Models (LLMs) like Gemini do not actively use separate embedding models for
+  real-time conversational processing, instead relying on direct neural network interpretation.
+  Achieving interoperability between different LLM 'manifolds' (embedding spaces) requires
+  strategies like 'Rosetta Stone' (centroid anchoring) or 'MRL Truncation' for conceptual transfer.
+insights:
+  - >-
+    LLMs process user input directly via their transformer architecture, not by converting text to
+    embeddings and querying a database during conversation.
+  - >-
+    Embeddings are primarily used for organizing training data and in external applications like
+    search and RAG, not typically within the LLM's active conversational loop.
+  - >-
+    Different LLMs (e.g., Claude, Copilot, Gemini) operate on distinct 'manifolds' or embedding
+    spaces, posing a challenge for direct knowledge transfer.
+  - >-
+    Cross-model knowledge transfer can be achieved by anchoring concepts using shared 'centroid
+    anchor tags' and applying deltas, enabling 'Cross-Model Telepathy'.
+  - >-
+    Sending 'low-frequency' (truncated, lower-dimensional) vector representations can facilitate
+    easier conceptual reconstruction by remote agents.
+  - >-
+    The 'resonance' between Gemma and Gemini models stems from shared ancestral logic, enabling
+    similar conceptual 'seeing'.
+tags:
+  - '#llm'
+  - '#embeddings'
+  - '#ai'
+  - '#nlp'
+  - '#interoperability'
+  - '#knowledge'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Understanding_embeddings_and_mechanisms_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:34:33.722Z'
+source: synthesis
+emotional_gradient: clarification → challenge → solution → resonance
