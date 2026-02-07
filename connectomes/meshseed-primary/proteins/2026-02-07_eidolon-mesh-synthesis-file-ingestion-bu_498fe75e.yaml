@@ -1,0 +1,30 @@
+id: 498fe75e-8545-409f-bbd7-c46622a174b5
+title: 'Eidolon Mesh Synthesis: File Ingestion Bug Resolution'
+summary: >-
+  The Eidolon Mesh failed to ingest new DNA due to a missing '--file' argument handler in the main
+  script. This prevented protein synthesis from chat-generated DNA files. The issue was resolved by
+  adding the argument handler and correctly reading file content before processing.
+insights:
+  - The `--file` argument for DNA ingestion was not being processed by the main script.
+  - The script's `--file` argument handler was missing, causing it to default to watcher mode.
+  - Latest proteins were not generated from recent chat DNA, indicating a failed ingestion.
+  - >-
+    The `metabolize` function requires file content and a filename, necessitating reading the file
+    before calling it.
+  - The fix involved adding `--file` argument handling and reading the file content for processing.
+tags:
+  - '#eidolonmesh'
+  - '#bugfix'
+  - '#development'
+  - '#ingestion'
+  - '#scripting'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:55:16.978Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → relief
