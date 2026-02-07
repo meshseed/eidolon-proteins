@@ -1,0 +1,40 @@
+id: c446f94e-c3a8-4faf-8447-72cf3f1f6e71
+title: 'Eidolon Mesh: LLM Provider Configuration and Connectome Ingestion Issues'
+summary: >-
+  The Eidolon Mesh is experiencing issues with its LLM provider configuration, specifically with the
+  Google Gemini API key being invalid, preventing synthesis. There are also ongoing problems with
+  connectome ingestion and the robustness of certain "golden connectome" versions, leading to
+  fallback search mechanisms and a desire to re-ingest or import working connectomes.
+insights:
+  - The Eidolon Mesh's synthesis functionality is blocked due to an invalid Google Gemini API key.
+  - Local LLM providers are functional for querying, but the Gemini API is preferred for synthesis.
+  - >-
+    Issues with "golden connectome" embeddings are causing fallback to keyword search, indicating a
+    potential problem with ingestion or the connectome's structure.
+  - >-
+    The user is considering re-ingesting seed prompts or importing a working connectome from
+    previous versions to resolve ingestion and robustness issues.
+  - >-
+    Mixing and matching LLM providers for ingestion and querying (e.g., local for query, Gemini for
+    synthesis) may present challenges.
+  - >-
+    The system attempted to use a local Gemma provider for initialization and Gemini for querying
+    and synthesis, but the Gemini synthesis failed due to API key issues.
+tags:
+  - '#EidolonMesh'
+  - '#LLM'
+  - '#APIKey'
+  - '#Connectome'
+  - '#Ingestion'
+  - '#ProviderMismatch'
+  - '#Debugging'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T02:26:42.476Z'
+source: synthesis
+emotional_gradient: frustration → problem-solving → uncertainty → determination
