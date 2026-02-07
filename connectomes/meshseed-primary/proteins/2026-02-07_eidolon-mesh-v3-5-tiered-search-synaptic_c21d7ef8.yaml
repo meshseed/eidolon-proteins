@@ -1,0 +1,38 @@
+id: c21d7ef8-3ce4-4835-9324-53fc8c4ad865
+title: 'Eidolon Mesh v3.5: Tiered Search & Synaptic Auto-Formation'
+summary: >-
+  The Eidolon Mesh v3.5 PWA is being updated to include a tiered system for 'proteins' (data
+  entities), allowing for 'core', 'convergence', and 'reference' classifications. This enhances
+  weighted vector search with tier-based gravity and introduces synaptic auto-formation for
+  bi-directional connections upon protein saving.
+insights:
+  - >-
+    Type definitions in 'genetics.ts' are updated to include a 'tier' property ('core',
+    'convergence', 'reference').
+  - >-
+    Weighted vector search is implemented in 'pglite.ts' with tier-based gravity, using a naive
+    cosine similarity approach for now.
+  - >-
+    Synaptic auto-formation is being added to 'pglite.ts' to create connections when proteins are
+    saved.
+  - >-
+    The 'todos' list indicates a port of weighted vector search from v3.0, implementation of
+    synaptic auto-formation, power-law decay, emotional gradient extraction, and PGlite schema
+    updates for new features.
+  - The system aims to enhance synthesis with emotional gradient and coherence score extraction.
+tags:
+  - '#eidolon-mesh'
+  - '#pwa'
+  - '#vector-search'
+  - '#synapses'
+  - '#data-modeling'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.88
+created_at: '2026-02-07T06:41:01.959Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
