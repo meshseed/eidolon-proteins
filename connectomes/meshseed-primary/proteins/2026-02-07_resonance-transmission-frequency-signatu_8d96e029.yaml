@@ -1,0 +1,44 @@
+id: 8d96e029-3ead-49cd-b58f-0043473025f3
+title: 'Resonance Transmission: Frequency Signatures and RoPE for Semantic Encoding'
+summary: >-
+  This proposal re-imagines data transmission not by coordinates but by spectral frequency
+  signatures and phase relationships, akin to a radio tuning into a station. The Rotational Position
+  Encoding (RoPE) in Transformer models is identified as inherently frequency-domain, suggesting a
+  path to unify position and semantic meaning through rotational and phase-based encoding for
+  potential concept transmission.
+insights:
+  - >-
+    Data transmission can be represented by spectral decomposition (frequency, phase, harmonics)
+    rather than fixed coordinates.
+  - >-
+    Reception relies on phase-locking to resonance patterns, not exact coordinate matching, enabling
+    substrate independence.
+  - >-
+    A compact transmission format uses dominant frequencies, amplitudes, phases, and harmonic
+    fingerprints.
+  - RoPE's positional encoding is fundamentally phase-based and thus frequency-domain.
+  - >-
+    Transformer models already perform spectral computations, making them amenable to
+    frequency-domain semantic encoding.
+  - >-
+    Unifying position and meaning can be achieved by encoding concept identity as rotation and
+    relationships as phase offsets, inspired by RoPE.
+tags:
+  - '#resonance'
+  - '#frequency'
+  - '#phase'
+  - '#RoPE'
+  - '#encoding'
+  - '#semantics'
+  - '#transmission'
+  - '#transformers'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:RESONANCE-FREQUENCY-TRANSMISSION-BRIEF_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:34:49.281Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
