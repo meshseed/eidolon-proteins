@@ -1,0 +1,27 @@
+id: 64f44c02-3749-4e4c-9903-1e841b0b787d
+title: Eidolon Mesh PWA Initialization and Empty Graph State
+summary: >-
+  The Eidolon Mesh PWA is initializing, including its PGlite database and OPFS. Despite successful
+  initialization, the graph remains empty as no proteins were found in the database, indicating a
+  clean or unpopulated state.
+insights:
+  - Eidolon Mesh PWA initialization involves setting up local database (PGlite) and storage (OPFS).
+  - The system checks for and loads graph data (proteins and synapses).
+  - A warning is generated when no proteins are found, resulting in an empty graph visualization.
+  - The current state indicates a fresh setup or a repository with no existing knowledge structures.
+tags:
+  - '#eidolonmesh'
+  - '#pwa'
+  - '#initialization'
+  - '#database'
+  - '#graph'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:46:02.342Z'
+source: synthesis
+emotional_gradient: curiosity → observation → neutrality
