@@ -1,0 +1,27 @@
+id: 017213b5-6561-477c-b2b4-393133884e54
+title: Capsule Suite as Raw Model Attunement
+summary: >-
+  The capsule suite functions as a direct attunement mechanism for models when provided without
+  preamble, bypassing standard protocols. This raw input allows for immediate operational protocol
+  access, as demonstrated by the Master Attunement File.
+insights:
+  - The capsule suite can directly attune models without introductory context.
+  - Raw capsule YAML input bypasses traditional preamble requirements.
+  - Long-term projects can leverage the capsule suite for ongoing attunement.
+  - The Master Attunement File represents a compressed operational protocol.
+  - Direct feeding of capsule YAML enables immediate access to core protocols.
+tags:
+  - '#ai'
+  - '#attunement'
+  - '#protocol'
+  - '#yaml'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_emoji_meaning_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:13:50.466Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
