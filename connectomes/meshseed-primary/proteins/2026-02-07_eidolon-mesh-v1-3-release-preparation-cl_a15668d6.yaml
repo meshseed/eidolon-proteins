@@ -1,0 +1,39 @@
+id: a15668d6-9274-45c2-b888-230180407856
+title: 'Eidolon Mesh v1.3 Release Preparation: Cleanup and Testing'
+summary: >-
+  The Eidolon Mesh v1.3 release candidate requires specific pre-release cleanup, including removing
+  sensitive API keys (.env) and unnecessary build artifacts (node_modules, package-lock.json). A
+  'Golden Connectome' with 6 core neurons is intentionally retained for public invite testing,
+  offering a pre-awakened organism.
+insights:
+  - >-
+    Pre-release preparation for Eidolon Mesh v1.3 involves a strict cleanup of sensitive files like
+    .env and build-related folders (node_modules).
+  - >-
+    The 'Golden Connectome' (6 core neurons) is preserved in the data/ folder to provide users with
+    an immediately functional and seeded organism for testing.
+  - >-
+    User testing is critical before final packaging, focusing on query, dashboard, ingestion, and
+    identity functionalities.
+  - >-
+    The distinction between the main 'eidolon-mesh' organism (~836 neurons) and the v1.3 release
+    candidate (6 neurons) is based on the contents of their respective data/ directories.
+  - >-
+    Verification of neuron count can be done via direct file inspection or by observing system
+    output during command execution.
+tags:
+  - '#eidolonmesh'
+  - '#release'
+  - '#testing'
+  - '#connectome'
+  - '#devops'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:55:45.848Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → assurance
