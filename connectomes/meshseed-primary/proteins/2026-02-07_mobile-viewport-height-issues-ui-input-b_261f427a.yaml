@@ -1,0 +1,45 @@
+id: 261f427a-6c34-4c40-8dc7-05c0cf011bc2
+title: Mobile Viewport Height Issues & UI Input Bar Visibility
+summary: >-
+  The core issue revolves around mobile browser viewport height definitions (100vh vs. 100dvh/svh)
+  causing UI elements, specifically a chat input bar, to be hidden. Reverting previous height
+  adjustments is necessary, but a robust solution for input bar visibility, especially with keyboard
+  interactions, is still required.
+insights:
+  - >-
+    `100vh` on mobile browsers (Chrome Android/Safari iOS) refers to viewport height with the URL
+    bar retracted, leading to elements being cut off when the URL bar is visible.
+  - >-
+    The `.main-body` having `overflow: hidden` and children handling internal scrolling, combined
+    with a fixed `.bottom-nav`, exacerbates the issue of content being hidden.
+  - >-
+    The `100vh` definition on mobile is the primary cause of the bottom ~60px of `.main-body` being
+    cut off, hiding the input bar.
+  - >-
+    Solutions like `100dvh` or `100svh` are technically correct for viewport-relative sizing but may
+    have faced rejection or poor support.
+  - >-
+    Using `position: fixed; top: ...; bottom: ...;` for `.main-body` is an alternative to
+    height-based sizing but can introduce complexities with keyboard pop-ups.
+  - >-
+    The user's report of a 'missing graph' might be a consequence of the UI issues, potentially due
+    to the Bottom Nav being pushed off-screen.
+  - >-
+    Reverting previous height changes is a step, but a stable fix for the input bar's consistent
+    visibility is paramount, addressing prior complaints about hidden buttons.
+tags:
+  - '#ui'
+  - '#css'
+  - '#mobile'
+  - '#viewport'
+  - '#frontend'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T02:29:38.205Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
