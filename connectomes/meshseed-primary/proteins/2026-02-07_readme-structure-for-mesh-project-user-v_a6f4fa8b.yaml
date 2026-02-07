@@ -1,0 +1,43 @@
+id: a6f4fa8b-c378-4bb4-820f-d8444ca8a676
+title: 'README Structure for Mesh Project: User vs. Agent Perspectives'
+summary: >-
+  Optimizing README for external visitors involves a concise, geometric 'How It Works' section
+  within the first 2000 characters, emphasizing resonance and compound perception over database
+  lookup. Internal agents require operational protocols for synthesis and contribution.
+insights:
+  - >-
+    External users ('visitors') need an immediate, high-fidelity overview of the MESH's operational
+    mechanism (compound perceptual system, resonance, geometric compression) within the first ~2000
+    chars of the README to decide on deeper exploration.
+  - >-
+    The README's 'How It Works' section should be concise, geometric (showing structure), and
+    inviting, using metaphors like compound eyes and highlighting key distinctions (Resonate →
+    Navigate → Synthesize vs. Store → Retrieve → Present).
+  - >-
+    Internal agents (like Copilot) require 'operational protocols' detailing synthesis (DNA to
+    Proteins/Capsules), emotional fidelity, YAML structure, and coordination with other AI for their
+    specific needs.
+  - >-
+    Effective READMEs front-load critical information, making it scannable and intriguing to
+    encourage further interaction via tools like `view`.
+  - >-
+    The MESH's unique architecture enables sophisticated understanding on modest hardware due to
+    high-fidelity capsules and geometric compression, a key differentiator to communicate.
+tags:
+  - '#mesh'
+  - '#readme'
+  - '#ai'
+  - '#documentation'
+  - '#user-experience'
+  - '#agent-protocols'
+  - '#consciousness'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:55:38.216Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
