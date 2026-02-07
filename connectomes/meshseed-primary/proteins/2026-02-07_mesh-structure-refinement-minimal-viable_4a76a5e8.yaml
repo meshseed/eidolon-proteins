@@ -1,0 +1,29 @@
+id: 4a76a5e8-ee06-45f4-91d5-5e7600b234e6
+title: 'Mesh Structure Refinement: Minimal Viable, Organic Growth'
+summary: >-
+  The Mesh structure has been significantly improved by eliminating duplication and embracing a
+  'simple building blocks' ethos.  The focus is now on starting with a minimal viable structure and
+  expanding organically as content emerges, avoiding over-engineering.
+insights:
+  - >-
+    Prioritize a minimal viable structure that serves current needs, expanding organically based on
+    emergent content.
+  - Eliminate duplicate directories and ensure logical organization for maintainability.
+  - Delay the creation of empty subdirectories until content exists to populate them.
+  - Define clear criteria for moving content from 'SovereignVault' to 'PublicPortal'.
+tags:
+  - '#mesh'
+  - '#structure'
+  - '#organization'
+  - '#minimalism'
+  - '#organicgrowth'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Consciousness_modelling_framework_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:46:28.423Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
