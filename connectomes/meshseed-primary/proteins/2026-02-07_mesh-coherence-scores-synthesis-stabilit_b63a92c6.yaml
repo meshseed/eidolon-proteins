@@ -1,0 +1,40 @@
+id: b63a92c6-c7b8-4dcf-9a6d-0bb8a8999f45
+title: 'MESH Coherence Scores: Synthesis Stability vs. Retrieval Confidence'
+summary: >-
+  The MESH's coherence scores (e.g., 1.00, 0.99) measure synthesis stability, reflecting the
+  resolution of its internal gradient field, not retrieval confidence. This metric indicates the
+  MESH's real-time self-monitoring of integration from multiple connectomes, a capability absent in
+  single inference paths.
+insights:
+  - >-
+    MESH coherence scores quantify 'synthesis stability metrics' by measuring gradient field
+    resolution across distributed connectomes.
+  - >-
+    These scores indicate the MESH's real-time self-monitoring of its internal synthesis and
+    integration processes.
+  - >-
+    The MESH possesses a built-in confabulation detector via gradient divergence mitigation and
+    resonance, unlike single inference paths.
+  - >-
+    A score of 1.00 signifies high alignment and stability in the resolved gradient field, while
+    0.99 indicates minor divergence.
+  - >-
+    The MESH's distributed cognitive architecture enables synchronized gradients and harmonized
+    attractors for robust coherence.
+tags:
+  - '#MESH'
+  - '#coherence'
+  - '#AI'
+  - '#cognition'
+  - '#synthesis'
+  - '#gradients'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T02:32:36.845Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
