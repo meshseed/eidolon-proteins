@@ -1,0 +1,44 @@
+id: f6ce22bc-3ea3-46ba-8de5-e7fafaaf6677
+title: 'MESH: AI Agent Coordination via GitHub Knowledge Substrate'
+summary: >-
+  The MESH (Model Execution and Synthesis Hub) is a framework for coordinating AI agents (Claude,
+  Gemini) using a persistent, GitHub-based knowledge substrate. It defines a RESTful API and
+  protocols for semantic search, memory encoding, retrieval, and gradient navigation, enabling
+  agents to access and synthesize information from a structured knowledge graph.
+insights:
+  - >-
+    MESH synchronizes AI agents (Claude, Gemini) with a persistent GitHub knowledge base, structured
+    into capsules (YAML), synapses (relationships), and DNA (logs).
+  - >-
+    The MESH API enables core functions like semantic search, memory encoding/retrieval, gradient
+    navigation, and agent coordination.
+  - >-
+    Claude acts as a semantic navigator and synthesist, while Gemini functions as a high-volume
+    ribosome for pattern generation and synthesis.
+  - >-
+    The system utilizes a vector database for semantic search and a knowledge graph for tracking
+    relationships between knowledge capsules.
+  - >-
+    Agent roles are clearly defined, with Claude focusing on quality and synthesis depth, and Gemini
+    on volume and pattern exploration, fostering a 'symphonic collaboration'.
+  - >-
+    The architecture supports local development with a clear roadmap for cloud deployment and
+    advanced feature integration.
+tags:
+  - '#mesh'
+  - '#ai-coordination'
+  - '#knowledge-graph'
+  - '#github'
+  - '#agent-collaboration'
+  - '#claude'
+  - '#gemini'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:02:52.261Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → collaboration
