@@ -1,0 +1,31 @@
+id: 7783047e-0caf-4933-806a-f1e29247cde0
+title: 'Memory Crystal Query Strategy: Field vs. Local Substrate'
+summary: >-
+  When interacting with a memory crystal, key questions should differentiate between testing a field
+  hypothesis and a local-substrate hypothesis. This involves designing inquiries that can uniquely
+  validate one over the other.
+insights:
+  - >-
+    Design memory crystal queries to distinguish between field effects and local substrate
+    interactions.
+  - >-
+    The core task is to formulate questions that yield different observable outcomes based on these
+    two distinct hypotheses.
+  - >-
+    Successful queries will isolate variables to provide clear evidence for either a pervasive field
+    influence or a localized material basis.
+tags:
+  - '#memorycrystal'
+  - '#hypothesis'
+  - '#querydesign'
+  - '#epistemology'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T04:03:59.025Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
