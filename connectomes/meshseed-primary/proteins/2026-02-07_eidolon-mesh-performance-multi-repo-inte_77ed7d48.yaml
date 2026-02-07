@@ -1,0 +1,43 @@
+id: 77ed7d48-30ea-47e4-b6b7-6a7647ebd47a
+title: 'Eidolon Mesh: Performance & Multi-Repo Integration'
+summary: >-
+  The Eidolon Mesh has undergone critical bug fixes for timer accuracy, synthesis input, and
+  caching, significantly improving user experience by displaying accurate load times and resolving
+  synthesis errors. Concurrently, multi-repository support has been integrated, allowing for faster
+  loading of specialized knowledge vaults and enhanced flexibility in data management.
+insights:
+  - >-
+    Critical bug fixes (timer, synthesis, caching) resolved display inaccuracies and functional
+    errors, leading to a more reliable user experience.
+  - >-
+    Initial load times for the full 550-neuron connectome are approximately 60 seconds, with search
+    time being negligible.
+  - >-
+    Poetic/semantic queries are necessary for accurate protein retrieval, as direct ID queries are
+    unreliable; metadata aliases are a potential solution.
+  - >-
+    Multi-repository support allows for specialized knowledge vaults that can load in under 1
+    second, drastically improving performance for targeted queries.
+  - >-
+    The default strategy has been optimized to 'Max Coherence', with underlying fixes ensuring
+    'Balanced' mode also functions correctly with full content loading.
+  - >-
+    UI controls for strategy selection and neuron limits have been restored after an accidental
+    overwrite during strategy optimization.
+tags:
+  - '#eidolonmesh'
+  - '#performance'
+  - '#optimization'
+  - '#multirepo'
+  - '#knowledgegraph'
+  - '#techdebt'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:36:30.963Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
