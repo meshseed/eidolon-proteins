@@ -1,0 +1,41 @@
+id: 613ba402-7a8c-4fda-a869-b8643f8d6a32
+title: 'Eidolon Mesh: License Manager & Performance Optimization'
+summary: >-
+  The Eidolon Mesh has integrated a License Manager into its Settings modal, enabling tier upgrades
+  from Free to Pro. Simultaneously, critical performance bottlenecks in synapse formation and graph
+  physics have been identified and resolved, significantly improving ingestion speed and visual
+  rendering stability.
+insights:
+  - >-
+    License Manager component added to SettingsModal, supporting Free, Pro, and Enterprise tiers
+    with key activation and feature display.
+  - >-
+    Slow ingestion (6 hours for 18 capsules) was traced to an O(n²) synapse formation logic
+    involving repeated cosine similarity calculations.
+  - >-
+    Synapse formation performance improved by 50-100x by switching from individual SQL inserts to
+    batch operations in pglite.ts.
+  - >-
+    Graph physics 'd3.forceCollide is not a function' error resolved by correctly importing and
+    utilizing the d3-force library in graph3d.ts.
+  - >-
+    The ingestion bottleneck is now primarily the O(n²) similarity calculation, with synapse
+    insertion being significantly optimized.
+  - Successful activation of 'PRO-2024-BETA-001' key demonstrates License Manager functionality.
+  - API authentication errors (OAuth token expired) require user re-login or token refresh.
+tags:
+  - '#eidolonmesh'
+  - '#licensing'
+  - '#performanceoptimization'
+  - '#datascience'
+  - '#softwaredevelopment'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:45:55.335Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolution
