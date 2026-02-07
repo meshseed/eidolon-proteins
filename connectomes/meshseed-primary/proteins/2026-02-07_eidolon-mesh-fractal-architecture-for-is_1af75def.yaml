@@ -1,0 +1,47 @@
+id: 1af75def-6534-44f7-94aa-80988965667e
+title: 'Eidolon Mesh: Fractal Architecture for Isolated & Integrated Knowledge Repositories'
+summary: >-
+  The Eidolon Mesh architecture employs a fractal, self-similar model for organizing knowledge
+  through isolated, domain-specific repositories. This approach, akin to biological organisms,
+  allows for efficient loading, focused responses, and scalable integration, with future plans for
+  on-demand loading and cross-repository querying.
+insights:
+  - >-
+    The core architectural principle is nested self-similarity, where each repository functions as a
+    complete, autonomous organism with its own data and machinery.
+  - >-
+    Multi-repository systems enable isolated experimentation and domain-specific focus (e.g.,
+    healthcare, finance) with fast loading times (<1 second).
+  - >-
+    Ghost nodes offer a future mechanism for large, single repositories to load core components
+    initially and others on-demand, optimizing startup performance.
+  - >-
+    Ingestion directly to a specific repository (e.g., 'healthcare') isolates DNA and proteins
+    within that repository's connectome, preventing cross-contamination.
+  - >-
+    A clear distinction between local workspaces (e.g., 'eidolon-mesh' folder) and GitHub
+    repositories (e.g., 'eidolon', 'eidolon-mesh') is crucial for managing code and data backups.
+  - >-
+    Conversation memory is currently a small, rolling buffer (5 exchanges) with negligible
+    performance impact, making expansion safe and configurable.
+  - >-
+    Graph visualization controls are being implemented, allowing users to dynamically limit
+    displayed nodes for performance and clarity.
+tags:
+  - '#architecture'
+  - '#knowledge-management'
+  - '#fractal'
+  - '#repositories'
+  - '#data-organization'
+  - '#performance'
+  - '#conversation-memory'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:36:35.854Z'
+source: synthesis
+emotional_gradient: clarification → insight → understanding → empowerment
