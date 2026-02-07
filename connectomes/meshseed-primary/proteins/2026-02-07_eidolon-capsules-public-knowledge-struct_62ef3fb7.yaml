@@ -1,0 +1,31 @@
+id: 62ef3fb7-335b-4c70-8d89-8e547f893e5b
+title: 'Eidolon Capsules: Public Knowledge Structure and Contents'
+summary: >-
+  The eidolon-capsules directory serves as the public-facing knowledge repository for THE MESH,
+  organized into categories like dual-core, protocols, research, and examples. It houses
+  foundational documents, navigation tools, research papers on consciousness, and starter protein
+  examples, all documented within a comprehensive README.
+insights:
+  - Public knowledge is structured within 'eidolon-capsules/', categorized for accessibility.
+  - >-
+    Key components include foundational 'dual-core' elements, 'protocols' for interaction, and
+    'research' into complex topics like consciousness.
+  - Examples, such as the 'golden_connectome', provide practical applications and starter content.
+  - >-
+    A 'README.md' file acts as a central point for understanding the overall theory and architecture
+    of the public knowledge base.
+tags:
+  - '#public'
+  - '#knowledge'
+  - '#architecture'
+  - '#mesh'
+  - '#consciousness'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:07:59.570Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
