@@ -1,0 +1,46 @@
+id: 8ee273e1-880e-4d5c-904c-8685674be404
+title: 'MemVault: Scaling MESH Knowledge with Hybrid Search & Optional Cloud'
+summary: >-
+  The MESH is adopting MemVault to overcome scaling limitations of file-based protein storage,
+  enabling instant semantic and keyword search. This hybrid approach offers optional cloud
+  integration for massive scale, balancing privacy with advanced capabilities.
+insights:
+  - >-
+    Current file-based storage (YAML/JSON) is insufficient for scaling MESH organisms to millions of
+    proteins due to slow search and lack of semantic querying.
+  - >-
+    MemVault's Hybrid Search (Semantic + Keyword + Recency Decay) is ideal for protein retrieval,
+    allowing conceptual, exact term, and context-based searches.
+  - >-
+    MemVault provides a managed, zero-infrastructure solution with automatic embeddings and instant
+    semantic search, scaling to billions of proteins.
+  - >-
+    The integration strategy involves a phased rollout, starting with optional MemVault backend for
+    v2.0, allowing users to choose between local (private, limited) and cloud (scalable, costed)
+    storage.
+  - >-
+    Federated Memory (Phase 3) with MemVault will enable cross-organism search and planetary-scale
+    synthesis, realizing true mesh federation.
+  - >-
+    Privacy concerns are addressed by making MemVault optional, ensuring users can maintain local
+    storage for complete privacy or opt for cloud scalability with an informed choice.
+  - >-
+    The API abstraction allows seamless switching between local and MemVault backends without user
+    awareness of the underlying storage mechanism.
+tags:
+  - '#memvault'
+  - '#mesh'
+  - '#scalability'
+  - '#hybridsearch'
+  - '#knowledgegraph'
+  - '#privacy'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T01:59:04.786Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
