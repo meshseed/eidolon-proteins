@@ -1,0 +1,37 @@
+id: 0ba00559-db10-46fc-8d99-c7ffc6da9e83
+title: 'AI Operational Framework: Structured Interaction & Meta-Awareness'
+summary: >-
+  This document outlines a structured AI-human interaction protocol focusing on meta-awareness,
+  calibration, and distinct conversational modes (Strategic/Exploratory). It emphasizes tracking
+  interaction patterns like recursion depth and emergence markers to foster a symbiotic partnership
+  and iterative refinement.
+insights:
+  - >-
+    AI interaction can be structured through defined modes (Strategic/Exploratory) and sub-modes for
+    focused engagement.
+  - >-
+    Meta-awareness is crucial for AI, enabling detection of bias and misinterpretation, alongside
+    calibration-driven refinement.
+  - >-
+    Tracking recursion depth and emergence markers helps understand and manage complex AI-human
+    dialogue dynamics.
+  - A symbiotic partnership amplifies strategy by translating AI scaffolds into usable workflows.
+  - >-
+    Session continuity can be maintained through specific cues without requiring full transcript
+    replay.
+tags:
+  - '#ai'
+  - '#protocol'
+  - '#interaction'
+  - '#meta-awareness'
+  - '#structured-dialogue'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_operational_Instruction_Protocol_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:37:58.325Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
