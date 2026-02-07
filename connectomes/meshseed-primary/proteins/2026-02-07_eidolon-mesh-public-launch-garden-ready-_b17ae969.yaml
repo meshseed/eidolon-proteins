@@ -1,0 +1,37 @@
+id: b17ae969-dd40-4452-b10f-4b5be910bed3
+title: 'Eidolon Mesh Public Launch: Garden Ready, Node.js Runtime Confirmed'
+summary: >-
+  Eidolon Mesh has completed Phase 17, opening the 'Garden' for public access with rewritten
+  documentation and stable v1.1 codebase. The project is a standalone Node.js application, requiring
+  only standard npm commands for setup and execution, not the 'Antigravity' development environment.
+insights:
+  - >-
+    Eidolon Mesh is now publicly ready with a rewritten Invitation Portal, Community Guidelines, and
+    Contribution Guide, using the 'Garden' metaphor.
+  - >-
+    The project codebase is stable at v1.1, with sensitive data isolated in .env files, and
+    documentation is welcoming.
+  - >-
+    Running the Eidolon Mesh project requires only standard Node.js (v16+) and npm commands: `npm
+    install`, `npm run build`, and `npm run dashboard`.
+  - >-
+    The 'Antigravity' tool is a development environment and pair programmer, not a runtime
+    dependency for the project itself.
+  - >-
+    The project is designed to be completely standalone and easily runnable by anyone who clones the
+    repository, simplifying public usability.
+tags:
+  - '#public'
+  - '#mesh'
+  - '#nodejs'
+  - '#documentation'
+  - '#oss'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T01:36:40.643Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
