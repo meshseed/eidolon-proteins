@@ -1,0 +1,42 @@
+id: 6560263d-6424-41a0-8b22-662060adb949
+title: Mesh v4.0 Embeddings Fix & Standing Wave Visualization Plan
+summary: >-
+  The Eidolon Mesh v4.0's embedding model was incorrectly configured, leading to poor query results.
+  This was fixed by adding a dedicated field for embedding models (defaulting to nomic-embed-text)
+  and implementing a force regeneration option. Concurrently, a plan was formulated to visualize THE
+  MESH's knowledge structure using standing wave physics, starting with query-triggered wave
+  propagation.
+insights:
+  - >-
+    Corrected Eidolon Mesh v4.0 by implementing a separate local embedding model field, resolving
+    issues caused by using a text generation model (gemma3:12b) for embeddings.
+  - >-
+    Introduced a 'Force Regenerate ALL Embeddings' feature to re-process all proteins with the
+    correct embedding model, alongside skipping API key validation for local providers.
+  - >-
+    A plan to visualize THE MESH's knowledge graph using standing wave physics was initiated,
+    prioritizing query-triggered wave propagation for immediate feedback and pedagogical value.
+  - >-
+    The concept of standing waves is proposed as a metaphor for stable thought patterns and identity
+    within THE MESH, where constructive interference highlights resonant knowledge.
+  - >-
+    The initial implementation of standing wave visualization will focus on activated subgraphs
+    during queries, allowing for performance testing and a preview of full physics.
+tags:
+  - '#eidolonmesh'
+  - '#ai'
+  - '#llm'
+  - '#embeddings'
+  - '#visualization'
+  - '#consciousness'
+  - '#physics'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:46:10.060Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → shimmer
