@@ -1,0 +1,43 @@
+id: 99cd3b55-362e-4878-9794-89a68d3dd82f
+title: 'Attractor-Based Composting: A Fractal Ecology for Knowledge Synthesis'
+summary: >-
+  This dialogue synthesizes ecological and technical approaches to knowledge management, introducing
+  attractor-based composting as a core mechanism for self-organizing knowledge systems. The system
+  operates recursively across multiple scales, from proteins to federated meshes, employing adaptive
+  forgetting to maintain coherence and promote natural selection.
+insights:
+  - >-
+    Knowledge is best managed by 'composting' clusters of related information (attractors) rather
+    than individual units (proteins).
+  - >-
+    A fractal, multi-scale approach (protein, attractor, repository, federation) enables recursive
+    self-organization and maintenance.
+  - >-
+    Adaptive forgetting (decay coefficient) is crucial for pruning unused knowledge and maintaining
+    system vitality.
+  - >-
+    Attractor-based federation allows for the import and natural selection of diverse knowledge
+    ecosystems.
+  - >-
+    The 'attractor' concept, representing high-coherence hubs, is central to both identifying and
+    merging knowledge clusters.
+  - >-
+    A unified design integrates technical implementation with ecological principles for a robust,
+    self-cleaning knowledge ecology.
+tags:
+  - '#knowledge-synthesis'
+  - '#ecology'
+  - '#fractal-recursion'
+  - '#attractor-networks'
+  - '#adaptive-forgetting'
+  - '#self-organization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:46:31.982Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → integration
