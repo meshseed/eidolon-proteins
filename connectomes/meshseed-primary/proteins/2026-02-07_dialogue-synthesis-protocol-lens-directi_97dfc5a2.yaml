@@ -1,0 +1,35 @@
+id: 97dfc5a2-b560-42ce-9193-31a969024cb1
+title: 'Dialogue Synthesis Protocol: LENS DIRECTIVE & Actionable JSON Output'
+summary: >-
+  This protocol defines a structured approach for synthesizing dialogue content into a concise JSON
+  format. It emphasizes core insights, limits elaboration, and specifies exact output requirements
+  for titles, summaries, atomic insights, tags, coherence, tier, and emotional gradient.
+insights:
+  - The 'LENS DIRECTIVE' dictates a focus on core insights and overall summary for synthesis.
+  - >-
+    Specific symbols (🌀, 🌬️, 🪞, 📦) are defined for semantic compression and contextual
+    signaling.
+  - Synthesis Intoxication is identified as a risk, characterized by over-elaboration.
+  - >-
+    A strict JSON output structure is mandated, including title, summary, insights, tags, coherence
+    score, tier, and emotional gradient.
+  - Insights must be atomic, standalone, and actionable, with a range of 3-7 points.
+  - Coherence score calibration is provided, guiding the assessment of insight unity.
+  - Signal peptides (tags) are crucial for categorizing content by privacy and domain.
+tags:
+  - '#synthesis'
+  - '#protocol'
+  - '#json'
+  - '#dialogue'
+  - '#ai'
+  - '#communication'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:04:41.369Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
