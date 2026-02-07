@@ -1,0 +1,32 @@
+id: bca33735-31ad-460c-9600-33b6e49a6954
+title: 'Hierarchical Neural Architecture: Core and Convergence Tiers'
+summary: >-
+  The provided content describes a two-tiered neural architecture. Tier 1, the 'Core,' is
+  foundational and manually crafted with high fidelity, focusing on identity. Tier 2, the
+  'Convergence,' is semi-automated and validates external research, acting as a peer layer.
+insights:
+  - >-
+    The 'Core' tier is characterized by a small neuron count (20-50), manual creation, high density,
+    and serves as the foundational identity anchor.
+  - >-
+    The 'Convergence' tier utilizes a larger neuron count (100-200), semi-automated curation, and
+    selective connectivity for validating external research.
+  - >-
+    This hierarchical structure suggests a layered approach to knowledge processing, with a
+    foundational identity layer supported by a validated external research layer.
+tags:
+  - '#neuralarchitecture'
+  - '#tiers'
+  - '#identity'
+  - '#validation'
+  - '#framework'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T06:00:44.373Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
