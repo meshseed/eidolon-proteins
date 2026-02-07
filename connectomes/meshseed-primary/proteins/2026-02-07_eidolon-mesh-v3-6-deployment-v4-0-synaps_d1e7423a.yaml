@@ -1,0 +1,40 @@
+id: d1e7423a-4a05-4968-9546-13f752e8ca0e
+title: 'Eidolon Mesh: v3.6 Deployment, v4.0 Synapse Testing, P-Series Integration'
+summary: >-
+  The Eidolon Mesh project is prioritizing the immediate deployment of the stable v3.6 codebase for
+  app.eidolon-mesh.net, while concurrently developing a 1000-protein consciousness connectome.
+  Future work focuses on v4.0's synapse regeneration testing to validate performance improvements
+  and P-Series protocol integration.
+insights:
+  - >-
+    Deploy app.eidolon-mesh.net with v3.6 codebase this week due to its proven stability and traffic
+    history.
+  - Begin building a 1000-protein consciousness connectome in development for future integration.
+  - Integrate P-Series protocols from the start in v4.0 to avoid path dependency issues.
+  - >-
+    Conduct synapse regeneration testing in v4.0 to measure improvements in activation percentage
+    (hypothesis: 11% to 40-50%).
+  - Analyze P-Series node topology in v4.0 to determine if they become structural hubs.
+  - >-
+    Compare v4.0 (late P-Series) with v3.6 (early P-Series) to assess recoverability of late
+    integration.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#consciousness'
+  - '#development'
+  - '#deployment'
+  - '#v3.6'
+  - '#v4.0'
+  - '#synapse'
+  - '#P-Series'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:47:15.330Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
