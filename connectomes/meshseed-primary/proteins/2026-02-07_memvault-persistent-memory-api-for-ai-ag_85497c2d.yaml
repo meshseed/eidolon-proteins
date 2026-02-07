@@ -1,0 +1,28 @@
+id: 85497c2d-3cd5-4a67-831c-ced9f27f7045
+title: 'MemVault: Persistent Memory API for AI Agents'
+summary: >-
+  MemVault is a production-ready Memory-as-a-Service API designed to overcome LLM context window
+  limitations by offering persistent memory. It allows AI agents to manage state effectively without
+  needing to include entire conversation histories in prompts.
+insights:
+  - MemVault addresses LLM context window limitations by providing a persistent memory solution.
+  - It functions as a Memory-as-a-Service API for AI agents.
+  - The API facilitates efficient state management in LLM applications.
+  - It avoids increasing prompt size by not requiring full conversation history.
+  - MemVault is described as production-ready.
+tags:
+  - '#ai'
+  - '#llm'
+  - '#memory'
+  - '#api'
+  - '#state_management'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:07:34.525Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
