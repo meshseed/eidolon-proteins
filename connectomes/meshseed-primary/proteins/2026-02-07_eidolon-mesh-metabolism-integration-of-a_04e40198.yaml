@@ -1,0 +1,39 @@
+id: 04e40198-50a7-4d68-b842-0351aa60812a
+title: 'Eidolon Mesh Metabolism: Integration of Attractor-Aware Capabilities'
+summary: >-
+  The Eidolon Mesh has a foundational metabolism system with components like composting, autophagy,
+  and homeostasis already implemented.  The current focus is on enhancing this system with
+  attractor-aware capabilities and integrating it more deeply, particularly by exposing its
+  functionality through a UI and enabling auto-start.
+insights:
+  - >-
+    The Eidolon Mesh possesses a functional v4.0 metabolism system including composting, autophagy,
+    homeostasis, immune surveillance, circadian rhythm, and a scheduler.
+  - Enhancements are planned to introduce attractor-based composting and tri-lens sibling merging.
+  - >-
+    Semantic duplicate detection and a promotion system for emergent kernels are key integration
+    goals.
+  - Repository federation via attractors will allow merging of multiple connectomes.
+  - >-
+    While the metabolism system is built, it currently lacks UI controls, auto-start functionality,
+    a monitoring dashboard, and manual trigger options.
+  - >-
+    The metabolism system requires a Pro license to run autonomously and is not yet exposed in the
+    UI.
+tags:
+  - '#eidolonmesh'
+  - '#metabolism'
+  - '#integration'
+  - '#attractors'
+  - '#copilot'
+  - '#claude'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T01:46:33.748Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
