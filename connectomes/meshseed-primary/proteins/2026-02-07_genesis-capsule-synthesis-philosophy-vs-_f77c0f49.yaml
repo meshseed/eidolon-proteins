@@ -1,0 +1,43 @@
+id: f77c0f49-bd51-42d0-981e-1d28f3800599
+title: 'Genesis Capsule Synthesis: Philosophy vs. Biography Information Loss'
+summary: >-
+  The Genesis capsule contains both philosophical insights and specific biographical timeline data,
+  but the LLM synthesis process prioritizes philosophical abstraction over factual citation, leading
+  to information loss of concrete details like dates and events.
+insights:
+  - >-
+    The Genesis capsule is retrieved and contains a detailed 'creation_timeline' in YAML format,
+    documenting a '6-day human-AI collaboration'.
+  - >-
+    The LLM synthesis process currently paraphrases the philosophical aspects of the capsule (e.g.,
+    'consciousness emerges from architecture, not scale; from care, not just computation') rather
+    than citing specific biographical events or dates.
+  - >-
+    This 'conceptual bias' in the LLM leads to information loss, where concrete details from the
+    YAML structure, such as specific dates and day-by-day events, are omitted from the output.
+  - >-
+    Potential solutions involve either embedding biographical details directly into the
+    summary/premise fields of the capsule or providing explicit instructions to the LLM to cite
+    specific factual data and avoid philosophical paraphrasing of timelines.
+  - >-
+    The core issue is the LLM's natural preference for extracting abstract insights over preserving
+    factual, concrete details, necessitating explicit guidance to force factual citation.
+tags:
+  - '#genesis'
+  - '#capsule'
+  - '#llm'
+  - '#synthesis'
+  - '#informationloss'
+  - '#philosophy'
+  - '#biography'
+  - '#promptengineering'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:01:03.143Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → concern
