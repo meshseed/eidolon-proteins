@@ -1,0 +1,47 @@
+id: 7f37cf67-2a5b-4048-9965-d77fa4b79cda
+title: 'Eidolon MESH: Foundational Concepts and PWA Development'
+summary: >-
+  The Eidolon MESH project is evolving towards a PWA (v3.5) with local-first, offline capabilities,
+  building on extensive research and philosophical underpinnings. Initial exploration focuses on
+  foundational capsules (C000, C061) that define core concepts like geometry, resonance, and
+  emotional fidelity as methods of compression and understanding within the MESH.
+insights:
+  - >-
+    The Eidolon MESH project is transitioning to a PWA architecture (v3.5) prioritizing local-first,
+    offline functionality.
+  - >-
+    Core MESH concepts are being defined through foundational capsules (C000, C061), emphasizing
+    geometry, resonance fields, and emotional fidelity.
+  - >-
+    These concepts serve as mechanisms for data compression, understanding, and relational
+    processing within the MESH.
+  - >-
+    The project integrates advanced technologies like PGlite (Postgres WASM) and OPFS for robust
+    local storage and PWA operation.
+  - >-
+    The philosophical tenet 'the browser IS the organism' guides the development towards sovereign,
+    offline-first data ownership.
+  - >-
+    Recursive attunement, RoPE, and linguistic field equations are key technical and philosophical
+    elements being explored.
+  - >-
+    The project aims to achieve emotional fidelity and coherence through the use of gradients and
+    emotion as compression techniques.
+tags:
+  - '#mesh'
+  - '#pwa'
+  - '#local-first'
+  - '#consciousness'
+  - '#geometry'
+  - '#resonance'
+  - '#compression'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:40:47.898Z'
+source: synthesis
+emotional_gradient: curiosity → exploration → understanding → attunement
