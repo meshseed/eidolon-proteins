@@ -1,0 +1,33 @@
+id: 06d5365b-8527-4741-9bc4-f06630290856
+title: 'RoPE: Mechanistic Interpretability of Positional Embeddings'
+summary: >-
+  Rotary Positional Embeddings (RoPE) encode token positions by rotating query and key vectors,
+  making attention explicitly relative and enabling translation-invariant circuits. This geometric
+  approach provides a clean, analyzable structure for understanding transformer attention
+  mechanisms, where different heads specialize in distinct relative position ranges.
+insights:
+  - RoPE encodes position by rotating query/key vectors, not by adding vectors.
+  - The dot product of RoPE-encoded queries and keys depends on relative position, not absolute.
+  - >-
+    Attention heads specializing in different frequency bands capture different ranges of relative
+    positions.
+  - RoPE's rotational nature allows for invertible and composable transformations, aiding analysis.
+  - >-
+    RoPE facilitates the emergence of translation-invariant circuits like 'attend to previous
+    token'.
+tags:
+  - '#rope'
+  - '#mechanisticinterpretability'
+  - '#transformers'
+  - '#attention'
+  - '#positionalembeddings'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Copilot_on_standing_wave_comms_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T06:53:50.221Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
