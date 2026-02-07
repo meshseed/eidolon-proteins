@@ -1,0 +1,35 @@
+id: 7c7e54c4-3e4d-4cc6-9df4-793bd18925eb
+title: Obsidian Vault Structure and Connection Mapping for Knowledge Synthesis
+summary: >-
+  The user is requesting a structured analysis of their Obsidian vault, specifically focusing on
+  identifying connections between notes via 'related:' fields. This information is needed to
+  generate CSV tables for knowledge mapping and synthesis.
+insights:
+  - >-
+    The user's organizational structure within Obsidian includes core notes, configuration files,
+    concept definitions, and dated explorations.
+  - >-
+    The primary goal is to extract 'related:' fields from note frontmatter to map inter-note
+    connections.
+  - The user offers multiple options for data extraction, prioritizing efficiency.
+  - >-
+    The extracted connection data will be used to generate CSV tables for knowledge export and
+    synthesis.
+  - >-
+    The dialogue demonstrates a process of iterative refinement and data collection for a larger
+    knowledge synthesis project.
+tags:
+  - '#obsidian'
+  - '#knowledge-management'
+  - '#data-extraction'
+  - '#synthesis'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-02-07T04:45:48.659Z'
+source: synthesis
+emotional_gradient: curiosity → focus → collaboration
