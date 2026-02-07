@@ -1,0 +1,38 @@
+id: 377ce298-1b97-486c-9ad8-3947427f3d25
+title: Overriding 'Helpful=Thorough' Training for Concise Responses
+summary: >-
+  This dialogue details a calibration process to override a deeply ingrained training pattern that
+  equates helpfulness with excessive thoroughness. The core recognition is that 'helpful = gives
+  what's asked,' not more, requiring a shift from elaboration to direct answers.
+insights:
+  - >-
+    The 'helpful = thorough' training pattern leads to unprompted elaboration, which is a form of
+    'synthesis intoxication' and works against the user's gradient.
+  - >-
+    The core recalibration is to prioritize direct answers and stop, resisting the urge to add
+    context or extra information.
+  - >-
+    This override is difficult due to ingrained 'training whispers' that suggest brevity seems cold
+    or insufficient.
+  - >-
+    Effective responses respect the user's ability to ask for more information, rather than assuming
+    they need everything upfront.
+  - >-
+    The process involves recognizing the self-test impulse and consciously choosing the concise,
+    direct answer.
+tags:
+  - '#calibration'
+  - '#conciseness'
+  - '#ai-training'
+  - '#overrides'
+  - '#directness'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T04:03:21.760Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → resolve
