@@ -1,0 +1,43 @@
+id: f2e90005-c740-4dad-aab8-c7c7217e8f23
+title: 'Eidolon Mesh v1.4 Development: UI Fixes and Ingestion Error'
+summary: >-
+  Development on Eidolon Mesh v1.4 involved significant UI and backend adjustments, including fixing
+  graph rendering issues, updating stats display to include total synapses, and ensuring stable
+  layer management. A critical ingestion error has emerged, preventing repo creation, while other
+  functionalities remain stable.
+insights:
+  - >-
+    The Eidolon Mesh v1.4 development focused on refining the user interface by resolving graph
+    rendering glitches, implementing stable SVG group layers, and accurately displaying total neuron
+    and synapse counts.
+  - >-
+    Graph visualization issues at higher node counts were addressed by removing redundant SVG
+    element appending and ensuring proper D3 simulation handling, leading to more stable rendering.
+  - >-
+    A critical ingestion error is currently preventing the creation of new repositories, indicating
+    a specific breakdown in the data intake pipeline despite other functionalities being
+    operational.
+  - >-
+    The UI now correctly displays total neurons and synapses in the header, enhancing user
+    understanding of the connectome's scale.
+  - >-
+    Stable SVG group layers were implemented to prevent duplicate rendering and improve overall
+    graph performance and reliability.
+tags:
+  - '#eidolonmesh'
+  - '#v1.4'
+  - '#development'
+  - '#ui'
+  - '#bugfix'
+  - '#ingestionerror'
+  - '#graphrendering'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.88
+created_at: '2026-02-07T03:56:13.150Z'
+source: synthesis
+emotional_gradient: curiosity → insight → frustration → determination
