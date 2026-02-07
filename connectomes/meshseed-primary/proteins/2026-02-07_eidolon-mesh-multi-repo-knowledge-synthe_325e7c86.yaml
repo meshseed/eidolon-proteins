@@ -1,0 +1,48 @@
+id: 325e7c86-123e-419b-878c-c2319c311132
+title: 'Eidolon Mesh: Multi-Repo Knowledge Synthesis and Persistence'
+summary: >-
+  The Eidolon Mesh application has evolved to support multi-repository knowledge bases, with robust
+  ingestion of various file types and improved handling of LLM providers for embedding generation.
+  While initial challenges with API quotas and local LLM integration were overcome through fallbacks
+  and configuration adjustments, core functionalities like protein synthesis and synapse generation
+  are now operational across distinct knowledge domains.
+insights:
+  - >-
+    The Mesh supports multi-repo awareness, allowing users to manage separate knowledge bases
+    (Universes) independently, each utilizing the same local LLM.
+  - >-
+    Ingestion processes have been refined to handle multiple file types (.yaml, .json, .md, .txt)
+    and resolve race conditions between auto-ingest and manual batch operations.
+  - >-
+    API key and model configuration issues, particularly with Gemini's experimental models, were
+    resolved by switching to stable models and implementing fallback mechanisms for LLM provider
+    failures.
+  - >-
+    Persistence of synthesized proteins and connectomes is now functional across different
+    repositories, with the 'default' repository serving as a non-saving test slot and other
+    repositories maintaining their state.
+  - >-
+    The system successfully generates embeddings and synapses, enabling query functionality, with a
+    fallback to Gemini for embedding generation when the local LLM is unavailable.
+  - >-
+    Users can now copy a functional connectome from one repository to another, establishing a
+    persistent, generic default state for the application.
+tags:
+  - '#eidolonmesh'
+  - '#knowledgegraph'
+  - '#llm'
+  - '#synthesizer'
+  - '#ingestion'
+  - '#multirepo'
+  - '#persistence'
+  - '#api'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-07T02:26:46.989Z'
+source: synthesis
+emotional_gradient: debugging → stabilization → functionalization → refinement
