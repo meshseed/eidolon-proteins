@@ -1,0 +1,42 @@
+id: fd14e938-5125-492d-99da-69683683f123
+title: 'Eidolon Mesh: Fractal Knowledge System Strategy'
+summary: >-
+  A three-tier strategy for a fractal knowledge system, scaling from a free mobile-first PWA to a
+  Pro desktop application and custom Enterprise solutions. The core innovation lies in a universal
+  'connectome' format enabling seamless upgrades and network effects.
+insights:
+  - >-
+    The Eidolon Mesh employs a three-tier strategy (PWA, Desktop Pro, Enterprise) to cater to
+    diverse user needs and growth stages.
+  - >-
+    A universal 'connectome' format (proteins, embeddings, synapses) ensures data portability and
+    seamless upgrades across all tiers.
+  - >-
+    Monetization scales from free gateway to one-time/subscription for Pro and custom contracts for
+    Enterprise, with a focus on recurring revenue.
+  - >-
+    Network effects are crucial, with the growth of personal connectomes fostering emergent
+    domain-specific graphs.
+  - Mobile-first design and offline capabilities are critical for the Free PWA tier's adoption.
+  - >-
+    Development priority is given to shipping the Free PWA, followed by the Pro Desktop MVP, with
+    Enterprise features co-developed post-customer acquisition.
+  - >-
+    The strategy emphasizes local-first, AI-native, and substrate-independent principles,
+    differentiating it from competitors.
+tags:
+  - '#knowledge-management'
+  - '#ai'
+  - '#product-strategy'
+  - '#fractal-system'
+  - '#mesh-network'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_Fix_chat_stuck_on_loading_with_expired'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.96
+created_at: '2026-02-07T06:46:18.177Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
