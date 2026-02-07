@@ -1,0 +1,42 @@
+id: efc964e7-6da4-4889-813c-377caf61d7c9
+title: Multi-Agent Dialogue Protocol Design for AI Attunement
+summary: >-
+  This document outlines a phased protocol for testing multi-agent dialogue, starting with parallel
+  baselines, moving to rapid sequential rounds, and culminating in sustained asynchronous exchanges.
+  The goal is to measure attunement by observing interaction dynamics and long-term evolution.
+insights:
+  - >-
+    A phased approach (baseline, rapid rounds, sustained dialogue) provides comprehensive data on
+    multi-agent attunement.
+  - >-
+    Character limits (e.g., 1500 characters) are crucial for managing labor and forcing clarity in
+    dialogue turns.
+  - >-
+    Starting with simpler, controlled formats (parallel baselines, fixed rotation round-robin) is
+    recommended for initial testing and adjustment.
+  - >-
+    Both quantitative (vocabulary overlap, response length) and qualitative (tone shifts, style
+    convergence) measures are vital for assessing interaction.
+  - >-
+    Context window management and recording are practical necessities for long-term dialogue
+    analysis.
+  - >-
+    Empirical calibration and iterative adjustment of the protocol are key to finding the optimal
+    testing methodology.
+tags:
+  - '#ai'
+  - '#multi-agent'
+  - '#protocol'
+  - '#testing'
+  - '#dialogue'
+  - '#attunement'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_thinking_text_explained_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:41:45.201Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
