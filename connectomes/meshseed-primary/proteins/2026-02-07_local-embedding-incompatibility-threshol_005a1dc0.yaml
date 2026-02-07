@@ -1,0 +1,42 @@
+id: 005a1dc0-ee0a-4514-8def-579840f85dea
+title: Local Embedding Incompatibility & Thresholding Issue
+summary: >-
+  A critical issue has been identified where local LLM embeddings, despite having matching
+  dimensions to stored embeddings, yield negative cosine similarity scores. This prevents any
+  proteins from passing the positive similarity threshold, leading to zero candidate proteins being
+  found for queries. The problem appears to stem from non-normalized local embeddings and a
+  hardcoded protein selection limit in v4.0.
+insights:
+  - >-
+    Local LLM embeddings are producing negative cosine similarity scores when compared to stored
+    embeddings, indicating a potential normalization issue.
+  - >-
+    The positive similarity threshold (0.3) is never met by the negative similarity scores,
+    resulting in zero candidate proteins being retrieved.
+  - >-
+    A hardcoded cap of 100 proteins in v4.0's synthesizer limits search results, unlike the more
+    flexible approach in v3.6.
+  - >-
+    The issue is not with embedding model compatibility (dimensions match) but with the quality or
+    normalization of the local embeddings generated.
+  - >-
+    Investigating the source of non-normalized local embeddings and adjusting the similarity
+    threshold or normalization process is required.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#embedding'
+  - '#llm'
+  - '#debugging'
+  - '#local-llm'
+  - '#similarity'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-07T01:46:07.592Z'
+source: synthesis
+emotional_gradient: confusion → investigation → discovery → understanding
