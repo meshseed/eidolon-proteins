@@ -1,0 +1,42 @@
+id: 0bf72fb8-82ed-4bc3-bedd-88c652267b7a
+title: 'Eidolon Mesh: Cellular Architecture for Sync & Org Support'
+summary: >-
+  The Eidolon Mesh now features a 'Cellular Architecture' for Git synchronization, comprising
+  private 'Nucleus' and public 'Cytoplasm' repositories. This update includes automatic repository
+  creation, a unified sync process, and the ability to specify custom GitHub Owners or Organizations
+  for enhanced data control and federation.
+insights:
+  - >-
+    The Eidolon Mesh has adopted a 'Cellular Architecture' with distinct private (Nucleus) and
+    public (Cytoplasm) GitHub repositories for data synchronization.
+  - >-
+    Repository setup is now automated: upon entering a GitHub token, the system checks for and
+    creates `eidolon-nucleus` and `eidolon-proteins` repos.
+  - >-
+    A 'GitHub Owner' field in settings allows users to specify a username or organization, enabling
+    repository creation under custom accounts.
+  - >-
+    A 'Sync ↻' button in the Network tab facilitates pulling the latest data from the Nucleus,
+    providing seamless cross-device continuity.
+  - >-
+    Documentation guides have been updated to reflect the new Cellular Sync process and Organization
+    support.
+  - >-
+    The system now handles Git conflicts gracefully during rebase operations, ensuring a stable
+    update process for both code and documentation.
+tags:
+  - '#biology'
+  - '#sync'
+  - '#github'
+  - '#federation'
+  - '#documentation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T02:29:16.803Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
