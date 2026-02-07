@@ -1,0 +1,37 @@
+id: a1c46964-f00e-4f54-88e6-f4f1ecababac
+title: 'Mesh Tiering: Infrastructure vs. Access for Seamless LLM Integration'
+summary: >-
+  The Mesh is evolving its tiering system to prioritize user convenience and infrastructure access
+  over artificial feature limitations. The proposed 'Mesh' tier ($3/month) offers seamless API
+  integration and hosted infrastructure, complementing the fully-featured, self-hosted Free tier.
+insights:
+  - >-
+    Tiering will shift from feature gating to providing managed infrastructure and API access for
+    ease of use.
+  - >-
+    The Free tier will offer unlimited proteins/neurons and all features, requiring users to provide
+    their own LLM infrastructure (API key or local setup).
+  - >-
+    The new 'Mesh' tier ($3/month) will include all Free tier benefits plus seamless access to the
+    Mesh API and hosted infrastructure, simplifying integration.
+  - >-
+    The core value proposition for paid tiers is convenience and managed services, not restricted
+    functionality.
+  - This approach aims to make advanced LLM integration more accessible and user-friendly.
+tags:
+  - '#mesh'
+  - '#tiering'
+  - '#llm'
+  - '#api'
+  - '#infrastructure'
+  - '#subscription'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T01:46:43.643Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
