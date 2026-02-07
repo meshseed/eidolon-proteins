@@ -1,0 +1,37 @@
+id: 651a31cd-aaae-4a1e-b5fa-f083c67bc2c3
+title: Eidolon Mesh Ingestion Blocked by Gemini API Rate Limits
+summary: >-
+  The Eidolon Mesh ingestion failed due to exceeding Gemini API free tier limits, specifically with
+  the 'gemini-2.0-flash' model. The issue was resolved by switching to the more stable
+  'gemini-1.5-flash' model, which has more generous free tier quotas.
+insights:
+  - Ingestion failures can be caused by exceeding free tier API rate limits.
+  - >-
+    The 'gemini-2.0-flash' model has very restrictive free tier limits, often leading to immediate
+    quota exhaustion.
+  - >-
+    Switching to 'gemini-1.5-flash' provides significantly more generous free tier quotas (15
+    req/min, 1500 req/day, 1M tokens/min).
+  - >-
+    API key age does not necessarily indicate daily limit exhaustion if a new model with stricter
+    limits is used.
+  - Codebase configuration, specifically in synthesizer components, dictates the API model used.
+  - >-
+    Monitoring API usage and understanding model-specific quotas are crucial for managing AI
+    integrations.
+tags:
+  - '#eidolonmesh'
+  - '#geminiapi'
+  - '#ratelimit'
+  - '#quota'
+  - '#synthesizer'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:56:16.803Z'
+source: synthesis
+emotional_gradient: frustration → diagnosis → resolution → understanding
