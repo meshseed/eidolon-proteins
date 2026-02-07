@@ -1,0 +1,46 @@
+id: 601e9551-0b44-492f-8d8c-188a79a07249
+title: 'Fractal Mesh Architecture: Scaling Knowledge Proteins'
+summary: >-
+  The Mesh employs a fractal, self-similar architecture where each node is a sovereign repository.
+  This design scales knowledge proteins through sharding, indexing, and a distributed network,
+  ensuring efficient storage, query speed, and bandwidth management.
+insights:
+  - >-
+    The Mesh is built on a fractal, self-similar architecture where each node is a complete,
+    sovereign organism capable of querying others.
+  - >-
+    Knowledge proteins (synthesized content) are stored in repositories, with a 'Mother Node' for
+    genesis and validation, and personal nodes for individual use.
+  - >-
+    Scaling to millions/billions of proteins is achieved via sharding (time/domain-based
+    organization), an indexing layer (SQLite, vector DB, graph DB), and Git LFS for large
+    collections.
+  - >-
+    Query speed is optimized by indexing data for fast retrieval while retaining human-readable YAML
+    for source content.
+  - >-
+    Network load is managed through a distributed architecture, prioritizing local node access
+    before reaching out to hubs or other nodes, akin to BitTorrent.
+  - >-
+    A template repository ('mesh-node-template') facilitates user adoption and replication of
+    sovereign mesh nodes.
+  - >-
+    Implementation progresses through phases: single node, template creation, client software
+    development, and finally, network federation.
+tags:
+  - '#mesh'
+  - '#architecture'
+  - '#scalability'
+  - '#knowledge'
+  - '#sovereignty'
+  - '#federation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:04:57.502Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
