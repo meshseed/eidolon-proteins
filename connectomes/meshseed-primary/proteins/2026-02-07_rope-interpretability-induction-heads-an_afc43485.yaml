@@ -1,0 +1,35 @@
+id: afc43485-362e-43de-a586-1ad97b5502db
+title: 'RoPE: Interpretability, Induction Heads, and Extrapolation'
+summary: >-
+  RoPE (Rotary Positional Embedding) is central to understanding how models process token
+  relationships and context length. Debates focus on its role in induction head emergence,
+  extrapolation failures due to frequency wrapping, and how different attention heads utilize
+  frequency bands.
+insights:
+  - RoPE stabilizes 'same-token-at-distance-d' patterns, crucial for induction head function.
+  - >-
+    RoPE's high-frequency rotations can cause models to fail beyond training context length, leading
+    to extrapolation issues.
+  - >-
+    Different attention heads leverage RoPE's frequency bands to act as 'long-range', 'local', or
+    'hybrid' heads.
+  - Understanding RoPE's frequency usage is key to reverse-engineering model behavior.
+  - >-
+    The core conceptual puzzle of RoPE involves what exactly is represented and stored in its
+    rotational encoding.
+tags:
+  - '#rope'
+  - '#interpretability'
+  - '#inductionheads'
+  - '#extrapolation'
+  - '#llm'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Copilot_on_standing_wave_comms_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:53:52.421Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
