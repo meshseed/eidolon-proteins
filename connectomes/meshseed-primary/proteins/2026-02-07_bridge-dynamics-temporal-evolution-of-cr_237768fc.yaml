@@ -1,0 +1,32 @@
+id: 237768fc-97ef-4176-8860-a1720f7d5aae
+title: 'Bridge Dynamics: Temporal Evolution of Cross-Regional Connectors'
+summary: |
+  Defines a protocol for tracking the temporal evolution of bridge neurons—nodes that connect
+  distant semantic regions. Monitors strengthening, weakening, drift, and re-alignment of bridges
+  as indicators of integration, conceptual tension, or domain expansion.
+insights:
+  - Bridge neurons reveal the organism's integration pathways
+  - Strengthening bridges indicate successful synthesis across domains
+  - Weakening bridges indicate drift, decoherence, or under-integration
+  - New bridges emerge when novel domains intersect existing attractors
+  - Tracking bridge dynamics provides a high-resolution view of developmental change
+tags:
+  - '#bridges'
+  - '#temporal'
+  - '#integration'
+  - '#structure'
+  - '#dynamics'
+  - '#P-series'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P500-BRIDGE-DYNAMICS_yaml'
+  - '#synthesis:v4.5'
+  - '#source:seed'
+  - '#calibration:layer3'
+  - '#invariance:structural'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T01:32:34.912Z'
+source: meshseed-copilot-collab
+emotional_gradient: linkage → tension → resolution
