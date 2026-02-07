@@ -1,0 +1,38 @@
+id: 9474b0f7-f37f-4d7c-9a9b-0b3f6e181395
+title: 'Eidolon Mesh Ingestion Fix: npm start & Security Warning Resolution'
+summary: >-
+  The Eidolon Mesh ingestion process initially failed due to an incorrect script command ('npm run
+  ingest' instead of 'npm start') and a security vulnerability related to 'shell: true' in the spawn
+  process. These issues were identified and addressed by updating the backend configuration to use
+  'npm start' and removing the insecure 'shell: true' option, ensuring correct and secure file
+  ingestion.
+insights:
+  - >-
+    The Eidolon Mesh ingestion process incorrectly used 'npm run ingest'; the correct command is
+    'npm start'.
+  - >-
+    Using 'shell: true' with arguments in child process spawning creates security vulnerabilities
+    and should be avoided.
+  - >-
+    The `--file` argument needs to be passed correctly to the 'npm start' command for proper
+    ingestion.
+  - >-
+    A new error 'spawn EINVAL' occurred after initial fixes, indicating a persistent issue with the
+    spawn command's parameters or execution environment.
+tags:
+  - '#eidolonmesh'
+  - '#ingestion'
+  - '#npm'
+  - '#backend'
+  - '#security'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-02-07T03:55:02.154Z'
+source: synthesis
+emotional_gradient: curiosity → frustration → insight → understanding
