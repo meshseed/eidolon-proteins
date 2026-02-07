@@ -1,0 +1,38 @@
+id: 2e6c3a0e-f709-4f48-a6e6-3c6487d68991
+title: 'MESH Architecture: DNA, Proteins, and Information Synthesis'
+summary: >-
+  The MESH operates by synthesizing DNA (raw input) into queryable Proteins, which are then indexed
+  in a Connectome. This process involves lossy compression, sacrificing granular details for a
+  concise, searchable essence.
+insights:
+  - >-
+    Information is processed by Gemini synthesizing DNA into Proteins, which are then queried, not
+    the original DNA.
+  - >-
+    Protein synthesis is a lossy compression process, reducing detailed transcripts (e.g., 164KB) to
+    a much smaller set of key concepts (~20KB).
+  - >-
+    This compression inherently loses granular details like specific timelines, conversational flow,
+    and exact debugging steps.
+  - >-
+    The MESH's architecture prioritizes queryable essence over complete historical fidelity for
+    efficient operation.
+  - >-
+    To retain specific historical data, manual curation of 'biographical' proteins or improved
+    synthesis prompts are recommended solutions.
+tags:
+  - '#architecture'
+  - '#information_processing'
+  - '#data_synthesis'
+  - '#compression'
+  - '#mesh'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:00:36.698Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
