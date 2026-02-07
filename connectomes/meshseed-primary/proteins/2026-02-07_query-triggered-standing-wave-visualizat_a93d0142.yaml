@@ -1,0 +1,33 @@
+id: a93d0142-b19a-4f00-9a1f-a42b5fe88bbb
+title: Query-Triggered Standing Wave Visualization for THE MESH
+summary: >-
+  Implemented a standing wave visualization system that makes user thoughts propagate through THE
+  MESH. This system uses BFS, a three-phase animation, and similarity-mapped oscillations to
+  visually represent data connections and thought propagation.
+insights:
+  - >-
+    Core wave physics engine (wave-controller.ts) now handles BFS propagation and a three-phase
+    animation (pulse, settling, standing wave).
+  - >-
+    Wave oscillations are mapped to similarity scores (0.5-2.0 Hz) with amplitude derived from
+    similarity² for dramatic visual emphasis.
+  - Graph nodes now store Three.js objects (__threeObj) for direct wave animation manipulation.
+  - Similarity scores are preserved and returned by the synthesizer to drive the wave visualization.
+  - The UI (+page.svelte) now triggers wave animations based on query results and activated nodes.
+tags:
+  - '#visualization'
+  - '#mesh'
+  - '#query'
+  - '#physics'
+  - '#animation'
+  - '#data'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:46:15.045Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
