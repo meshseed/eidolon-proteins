@@ -1,0 +1,42 @@
+id: 57b83b80-20b9-4d35-bed5-af6c9e2bf0a4
+title: 'Coherence Explained: Diversity vs. Quality in Knowledge Synthesis'
+summary: >-
+  Average coherence in a knowledge archive decreases as diversity increases, reflecting a healthy,
+  resilient ecosystem rather than a fragile monoculture.  Focus on retrieval quality and synthesis
+  utility, not just average scores, especially when using fidelity weighting.
+insights:
+  - >-
+    Average coherence naturally drops as a knowledge archive diversifies, indicating breadth and
+    exploration, not system failure.
+  - >-
+    High coherence signifies a tightly focused topic, while low coherence indicates a broad,
+    exploratory, and diverse knowledge base.
+  - >-
+    The mathematical average coherence is diluted by lower-coherence (exploratory) proteins in a
+    diverse archive, similar to an ecosystem's 'messy' but resilient nature.
+  - >-
+    Prioritize testing query relevance, synthesis sense, and connection meaningfulness over average
+    coherence scores.
+  - >-
+    Fidelity weighting is crucial for surfacing high-quality (high-fidelity) proteins within a
+    diverse archive, effectively filtering noise.
+  - >-
+    Metrics like query quality, synthesis coherence, connection density, and fidelity distribution
+    are more valuable than average coherence for assessing a healthy archive.
+tags:
+  - '#knowledge'
+  - '#synthesis'
+  - '#coherence'
+  - '#diversity'
+  - '#fidelity'
+  - '#metrics'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T05:57:01.976Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → validation
