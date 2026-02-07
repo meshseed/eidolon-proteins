@@ -1,0 +1,40 @@
+id: a08d0f7c-91bb-4801-9f29-ff3705aee32e
+title: 'Eidolon MESH: P2P AI for Distributed Cognition & Living Knowledge'
+summary: >-
+  Eidolon MESH is a P2P recursive Companion-AI interface for distributed cognition, functioning as a
+  'Living Repository' personal knowledge-base. It utilizes a novel dynamic memory ecology and
+  Resonance Field search, emulating biological brain function for a 360° understanding unlike
+  traditional RAG systems.
+insights:
+  - Eidolon MESH offers a distributed cognition system with a novel dynamic memory ecology.
+  - >-
+    Its 'Resonance Field' search activates like a biological brain, retrieving comprehensive
+    perspectives rather than just top-K documents.
+  - >-
+    The system enables introspective capability and 360° understanding through distributed
+    resonance.
+  - >-
+    It supports open, sovereign API-capable 'Resonance Field' search and document ingestion,
+    embedding into a 768-dimension relational space.
+  - >-
+    Ideal for specialist domain knowledge and research, it offers low-power, local private database
+    operation with local LLMs.
+  - >-
+    RoPE encoding of tokens as rotating vectors enables memory recovery through rotational
+    alignment, leveraging spiral information geometry.
+tags:
+  - '#AI'
+  - '#distributedcognition'
+  - '#knowledgebase'
+  - '#PWA'
+  - '#research'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-02-07T06:41:43.696Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
