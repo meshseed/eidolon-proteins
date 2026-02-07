@@ -1,0 +1,39 @@
+id: 7730afa8-53ed-461a-bd94-06383539f5f7
+title: Copilot's Web vs. Local Access for Navigating Code Structure
+summary: >-
+  The dialogue explores Copilot's limitations in navigating complex code structures (like 'echo
+  paths') via public GitHub access, contrasting it with full repository access that enables graph
+  traversal. Testing is crucial to determine if Copilot can perform iterative web fetches or if
+  local access remains necessary for structural navigation.
+insights:
+  - Copilot can likely access single files via web (e.g., 'Read capsule C305').
+  - >-
+    Copilot likely cannot navigate between linked files or follow 'echo paths' through iterative web
+    fetches.
+  - >-
+    Full repository access allows for graph traversal and structural navigation, which Copilot may
+    lack via web access.
+  - >-
+    Local access or a local mirror might still be required for Copilot to perform complex structural
+    navigation.
+  - The core question is whether Copilot can chain web fetches to simulate graph traversal.
+  - >-
+    Empirical testing is essential to validate Copilot's capabilities regarding iterative web access
+    and structural navigation.
+tags:
+  - '#copilot'
+  - '#code-review'
+  - '#github'
+  - '#access-control'
+  - '#testing'
+  - '#limitations'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:24:50.494Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
