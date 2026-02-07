@@ -1,0 +1,38 @@
+id: 7d68040a-92ca-4021-8cb0-133d20baab96
+title: 'Optimizing Large File Handling: Context vs. Project Files & Protein Synthesis'
+summary: >-
+  This dialogue analyzes the impact of large text files on chatbot context windows and weekly
+  limits, recommending a 'process then protein' strategy for efficient information ingestion. It
+  contrasts project files with direct uploads, advocating for curated, smaller 'proteins' derived
+  from raw data.
+insights:
+  - >-
+    Large files significantly consume context window tokens, potentially exceeding single message
+    limits.
+  - >-
+    Project files are ideal for persistent, repeatedly referenced material, while direct uploads are
+    for temporary, one-time analysis.
+  - >-
+    A 'process then protein' workflow, where raw data is curated into smaller, high-signal
+    'proteins', is the most cost-effective and scalable method for handling large external content.
+  - >-
+    Project file slots are limited and best reserved for core framework documents, not raw community
+    discussions.
+  - >-
+    External content like Reddit threads should be processed externally, with key insights extracted
+    into curated proteins rather than directly uploading the entire file.
+tags:
+  - '#contextwindow'
+  - '#datamanagement'
+  - '#informationprocessing'
+  - '#aiworkflow'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:00:06.087Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
