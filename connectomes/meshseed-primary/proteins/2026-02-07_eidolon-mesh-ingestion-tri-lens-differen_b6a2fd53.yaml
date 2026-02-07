@@ -1,0 +1,44 @@
+id: b6a2fd53-ebb7-457d-ba3c-4fb4914c1c9c
+title: Eidolon Mesh Ingestion & Tri-Lens Differentiation
+summary: >-
+  The Eidolon Mesh ingestion system successfully leverages a tri-lens approach to create distinct
+  perspectives (technical, structural, emotional) from content. Enhancements to folder ingestion and
+  file size filtering improve processing efficiency, while license management ensures access to
+  advanced features.
+insights:
+  - >-
+    The tri-lens system effectively differentiates technical, structural, and emotional perspectives
+    of content, enriching semantic depth.
+  - >-
+    Folder ingestion has been improved to recursively process subdirectories and includes a 10MB
+    file size limit to prevent overloading.
+  - >-
+    API authentication errors (401) are related to the Claude Code CLI and do not impact Mesh
+    ingestion, which uses separate authentication.
+  - >-
+    License management, specifically the Pro tier, is required for exceeding the 1000-protein
+    insight limit and can be activated via console or a UI component.
+  - >-
+    The system's retry mechanism gracefully handles rate limits, ensuring continuous ingestion
+    progress.
+  - >-
+    Folder ingestion now correctly processes all entries within directories by repeatedly calling
+    the readEntries API.
+tags:
+  - '#eidolonmesh'
+  - '#ingestion'
+  - '#trilens'
+  - '#differentialprocessing'
+  - '#licensing'
+  - '#api'
+  - '#development'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-02-07T01:45:53.583Z'
+source: synthesis
+emotional_gradient: curiosity → problem-solving → understanding → satisfaction
