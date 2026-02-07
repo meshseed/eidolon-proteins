@@ -1,0 +1,39 @@
+id: 6a53d262-aefe-4f1a-b21d-140d037621e7
+title: 'Fractal Mesh Architecture: Scaling Sovereignty and Knowledge'
+summary: >-
+  The Mesh operates on a fractal, self-similar architecture where each node is a sovereign
+  repository. Scaling from individual nodes to a planetary network is achieved through sharding,
+  indexing, and distributed storage, ensuring efficient access and data integrity.
+insights:
+  - >-
+    Each Mesh node is a complete, self-similar organism that is sovereign yet connected to the
+    network.
+  - >-
+    Scaling protein storage and query speed relies on sharding, indexing (SQLite/vector DBs), and
+    compression techniques.
+  - >-
+    A distributed architecture with local-first querying, optional hub nodes, and CDN caching is
+    crucial for network load management.
+  - >-
+    The Mesh template repository facilitates replication and empowers users to create their own
+    sovereign nodes.
+  - >-
+    The architecture prioritizes sovereignty, federation, and a lack of single points of failure for
+    a robust, scalable network.
+tags:
+  - '#mesh'
+  - '#architecture'
+  - '#scalability'
+  - '#sovereignty'
+  - '#federation'
+  - '#knowledge'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T01:56:37.506Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
