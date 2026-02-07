@@ -1,0 +1,39 @@
+id: b138c033-42bc-49f9-b424-4dd15c64184f
+title: 'Eidolon Mesh: Documentation vs. Implementation Status'
+summary: >-
+  The Eidolon Mesh repository's README incorrectly describes active code when it primarily contains
+  documentation and data. The content clarifies this discrepancy, offering two paths: push the
+  existing local code to make it public, or adjust the README to reflect its current state as a
+  documentation/results repository. The recommendation is to adjust the README for now, allowing the
+  code to stabilize before a full public release.
+insights:
+  - >-
+    The Eidolon Mesh README provided usage instructions for code not yet present in the public
+    GitHub repository.
+  - >-
+    The discrepancy arose because the documentation described local implementation details rather
+    than the repository's current public contents (README, data files).
+  - >-
+    Two solutions are proposed: publish the local code to GitHub to make it public and replicable,
+    or revise the README to accurately represent the repository as a documentation and results
+    archive.
+  - >-
+    The recommended immediate action is to update the README to reflect the current state
+    (documentation/results) to avoid misleading users and allow the codebase to stabilize.
+  - >-
+    A future plan involves cleaning up the code, adding error handling, and preparing for a full
+    open-source release once the organism stabilizes.
+tags:
+  - '#eidolonmesh'
+  - '#documentation'
+  - '#codeimplementation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T04:11:07.294Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
