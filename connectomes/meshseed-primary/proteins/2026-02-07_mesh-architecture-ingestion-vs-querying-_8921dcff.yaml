@@ -1,0 +1,42 @@
+id: 8921dcff-13e0-436c-ab92-949b7b888094
+title: 'Mesh Architecture: Ingestion vs. Querying, Hybrid Rigs, and Multipass Ingestion'
+summary: >-
+  The Mesh architecture distinguishes between 'heavy lifting' Ingestion (requiring powerful models
+  like Gemini Pro/GPT-4/Llama-3-70B) and 'agile' Querying (efficient with smaller models like Gemma
+  2B/Llama-3-8B). A Hybrid Rig leverages cloud for ingestion and local for querying, while Multipass
+  Ingestion refines data processing by applying multiple focused passes for deeper, multi-faceted
+  insights.
+insights:
+  - >-
+    Ingestion demands high IQ for complex tasks like PDF summarization with deep insight extraction,
+    best handled by large models.
+  - >-
+    Querying requires speed and efficiency, making smaller, localized models ideal for contextual
+    question answering.
+  - >-
+    A Hybrid Rig optimizes resource use by employing cloud for demanding ingestion and local models
+    for rapid querying.
+  - >-
+    Multipass Ingestion enhances data analysis by processing the same information through different
+    focused prompts, yielding a richer set of specific 'insight proteins'.
+  - >-
+    The combination of these approaches allows for more effective querying and better 'connectivity'
+    and coherence within the Mesh.
+tags:
+  - '#mesh'
+  - '#ai'
+  - '#architecture'
+  - '#ingestion'
+  - '#querying'
+  - '#hybridrig'
+  - '#multipass'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:30:04.525Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
