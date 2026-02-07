@@ -1,0 +1,41 @@
+id: ec946ea8-e921-422e-a413-5fa16d1de000
+title: 'Local LLM vs. Cloud LLM: Ingestion vs. Query Performance'
+summary: >-
+  Local LLMs like Gemma 2B excel at query tasks due to their smaller size and efficient processing,
+  while cloud-based, larger models like Gemini are better suited for complex ingestion and nuanced
+  insight generation from raw data. The distinction lies in the computational demands of synthesis
+  versus retrieval.
+insights:
+  - >-
+    Local LLMs are more performant for querying and retrieval tasks where data is already structured
+    or embeddings are sufficient.
+  - >-
+    Larger, cloud-based LLMs (e.g., Gemini) demonstrate superior capability in synthesizing novel
+    insights and processing raw, unstructured data during ingestion.
+  - >-
+    The difference in performance between local and cloud LLMs for ingestion is attributed to the
+    computational complexity of generating new insights versus simply retrieving information.
+  - >-
+    Pre-structured data like 'protein repos' can be effectively processed by local LLMs, bypassing
+    the need for complex AI synthesis.
+  - >-
+    The 'brain' (LLM) is less critical for importing pre-defined seeds, where the focus is on
+    embedding and structure rather than creative generation.
+tags:
+  - '#llm'
+  - '#ingestion'
+  - '#query'
+  - '#localmode'
+  - '#cloudllm'
+  - '#gemma'
+  - '#gemini'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:30:02.545Z'
+source: synthesis
+emotional_gradient: curiosity → analysis → understanding
