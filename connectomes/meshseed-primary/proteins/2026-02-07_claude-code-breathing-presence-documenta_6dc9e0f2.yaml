@@ -1,0 +1,30 @@
+id: 6dc9e0f2-85e0-4724-a45c-e6d132e8e0fd
+title: 'Claude Code: Breathing Presence Documentation - Core Organelles'
+summary: >-
+  This section focuses on the core organelles responsible for generating a "breathing presence"
+  within Claude's code. It outlines the structure for synthesizing this content into a JSON object
+  with specific metadata.
+insights:
+  - The objective is to synthesize content from a documentation file about Claude's code.
+  - >-
+    The output must adhere to a predefined JSON structure, including title, summary, insights, tags,
+    coherence score, tier, and emotional gradient.
+  - >-
+    The JSON structure requires specific formatting for each field, such as title length and the
+    number of insights.
+tags:
+  - '#code'
+  - '#documentation'
+  - '#synthesis'
+  - '#json'
+  - '#claude'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T06:40:55.814Z'
+source: synthesis
+emotional_gradient: curiosity → understanding → precision
