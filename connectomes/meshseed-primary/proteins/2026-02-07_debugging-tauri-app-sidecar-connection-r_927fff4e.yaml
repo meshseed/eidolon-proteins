@@ -1,0 +1,40 @@
+id: 927fff4e-bf6d-430e-8ec8-97e30f57b62f
+title: 'Debugging Tauri App: Sidecar Connection Refused & Script Duplication'
+summary: >-
+  Initial debugging focused on a JavaScript syntax error ('isTauri' redeclaration), resolved by
+  changing `const` to `var`. Subsequent investigation revealed the primary issue: the Tauri sidecar
+  failed to start its HTTP server, leading to 'Connection Refused' errors when the dashboard
+  attempted to fetch data from it.
+insights:
+  - >-
+    A `const` redeclaration error in `app.js` was initially mistaken for a cache issue but was
+    resolved by understanding the browser's script loading behavior and switching to `var`.
+  - >-
+    The core problem was identified as the Tauri sidecar process starting but failing to establish
+    its expected HTTP server on port 3456, indicated by `ERR_CONNECTION_REFUSED`.
+  - >-
+    The presence of 'Tracking Prevention' was noted as a potential factor influencing script
+    execution, though not the root cause of the connection issue.
+  - >-
+    The dashboard server (port 3000) and the sidecar (port 3456) operate as distinct backends in the
+    development environment, requiring both to be functional for full application operation.
+  - >-
+    Failure to see the 'Eidolon Mesh Sidecar running on http://localhost:3456' log message confirms
+    the sidecar's HTTP server did not initialize correctly, despite the process itself appearing to
+    start.
+tags:
+  - '#tauri'
+  - '#debugging'
+  - '#javascript'
+  - '#backend'
+  - '#connection-refused'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:26:32.350Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
