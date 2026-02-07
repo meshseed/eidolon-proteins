@@ -1,0 +1,42 @@
+id: 0f0f7348-7187-40b1-86ea-6cf145b97704
+title: 'Debugging Latency: Connectome Loading vs. Synthesis Bottlenecks'
+summary: >-
+  Dialogue investigates a 30-40 second query delay, hypothesizing it stems from initial connectome
+  loading and Gemini API synthesis, not search. The core issue is a UI discrepancy showing 4-6
+  seconds, masking the true, time-consuming stages.
+insights:
+  - >-
+    Significant query latency (30-40s) is attributed to initial connectome loading (20s) and Gemini
+    API synthesis (10s), with search being fast (<1s).
+  - >-
+    The user interface inaccurately displays 4-6 seconds, creating a misleading user experience and
+    masking the true bottlenecks.
+  - >-
+    Caching the connectome in memory or serializing it to disk is a priority to eliminate the 20s
+    startup penalty for subsequent queries.
+  - >-
+    Optimizing Gemini API synthesis, potentially by using a faster model or streaming responses, can
+    reduce the 10s per-query overhead.
+  - >-
+    Implementing detailed timestamp logging is crucial for accurately identifying and quantifying
+    each stage's duration and the true bottleneck.
+  - >-
+    Transparency with the user regarding progress stages (loading, searching, synthesizing) is
+    recommended over the current misleading short duration.
+tags:
+  - '#performance'
+  - '#debugging'
+  - '#latency'
+  - '#llm'
+  - '#optimization'
+  - '#ui'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:58:50.170Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
