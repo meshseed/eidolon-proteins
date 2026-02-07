@@ -1,0 +1,37 @@
+id: ad37203f-e0b0-4044-8f91-0cdc7001de23
+title: 'Graph ''Breathing'' Fix: Data Pulse for Unfold Animation'
+summary: >-
+  A 'breathing' effect for a 3D force-directed graph was implemented by repeatedly refreshing the
+  graph data, forcing a simulation restart.  This 'data pulse' method effectively re-unfolds the
+  graph, addressing previous issues with a less reliable reset mechanism. Subsequent drift was
+  identified as a potential lack of sufficient centering force.
+insights:
+  - >-
+    Refreshing graph data via `graphData(currentData)` reliably restarts the simulation, creating an
+    'unfold' or 'breathing' animation.
+  - >-
+    This data refresh acts as a signal to the simulation engine to re-evaluate and re-simulate the
+    graph's state.
+  - >-
+    Graph drift observed after repeated restarts suggests the centering force may be insufficient or
+    reset, requiring explicit strengthening.
+  - The core issue was to reliably trigger the graph's visual 'unfolding' animation.
+  - >-
+    The 'breathing' effect is achieved through a programmatic 'data pulse' that forces simulation
+    re-evaluation.
+tags:
+  - '#3dforcegraph'
+  - '#animation'
+  - '#simulation'
+  - '#developer'
+  - '#ui'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:29:27.948Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → concern
