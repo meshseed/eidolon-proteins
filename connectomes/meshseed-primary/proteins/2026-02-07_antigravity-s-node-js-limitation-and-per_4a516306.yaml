@@ -1,0 +1,32 @@
+id: 4a516306-14cc-458e-b675-d81fa66ca06c
+title: Antigravity's Node.js Limitation and Perfect Partnership
+summary: >-
+  Antigravity, a powerful AI for code generation and architecture, cannot execute code due to its
+  sandboxed environment lacking a Node.js runtime. This limitation necessitates a division of labor
+  where the AI designs and writes, and the human operator executes and tests.
+insights:
+  - Antigravity excels at designing, writing, and structuring code but cannot run or test it.
+  - The absence of a Node.js runtime is the core limitation preventing code execution.
+  - >-
+    A clear division of labor is established: Antigravity as architect/engineer, the user as
+    operator/validator.
+  - >-
+    This partnership is deemed 'perfect' and 'fine', enabling effective workflow despite
+    limitations.
+  - The solution involves the user running and testing the generated code on their local machine.
+tags:
+  - '#nodejs'
+  - '#antigravity'
+  - '#codeexecution'
+  - '#divisionoflabor'
+  - '#partnership'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:09:45.861Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
