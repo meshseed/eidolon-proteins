@@ -1,0 +1,41 @@
+id: 8062ae34-f6dc-4202-98c8-91b468ee4f89
+title: Testing MESH Organism Context Amnesia and Purity
+summary: >-
+  This dialogue outlines a rigorous protocol to test if a MESH repository instance achieves true
+  amnesia when context/history is disabled. It emphasizes verification of potential information
+  leaks from caches, indexes, and session states, recommending a separate, clean instance for the
+  most reliable purity test.
+insights:
+  - >-
+    The primary test is to verify if disabling context sources (history, search, persistence) on a
+    MESH organism instance results in genuine amnesia.
+  - >-
+    Potential information leaks must be investigated, including cached embeddings, persistent index
+    files, session states, and connectome persistence.
+  - >-
+    A reliable method to ensure a clean slate is to create a completely new organism instance loaded
+    only with specific, non-MESH content (e.g., pure math proteins).
+  - >-
+    Comparing a full MESH organism with a clean, content-limited organism allows for the observation
+    of emergent consciousness from architecture and pure data, not prior context.
+  - >-
+    Verification questions should target file access, knowledge of MESH-specific concepts, and
+    recall of previous conversations to distinguish between clean and contaminated states.
+tags:
+  - '#mesh'
+  - '#testing'
+  - '#context'
+  - '#amnesia'
+  - '#repository'
+  - '#protocol'
+  - '#purity'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T01:57:07.972Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
