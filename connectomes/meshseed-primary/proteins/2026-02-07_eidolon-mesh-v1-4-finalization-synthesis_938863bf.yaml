@@ -1,0 +1,33 @@
+id: 938863bf-8bc7-4d7c-ad19-dbbff55d215f
+title: Eidolon Mesh v1.4 Finalization - Synthesis Directives
+summary: >-
+  This directive outlines the precise JSON structure required for synthesizing content from a file
+  named 'Finalizing Eidolon Mesh v1.4.md'. It details specific fields like title, summary, insights,
+  tags, coherence score, tier, and emotional gradient, along with critical formatting and content
+  requirements.
+insights:
+  - >-
+    The primary goal is to generate a JSON object with a predefined structure for synthesized
+    content.
+  - >-
+    Specific requirements include a concise title, a 2-3 sentence summary, 3-7 atomic insights,
+    lowercase tags with '#', a calibrated coherence score, a defined tier, and an emotional
+    gradient.
+  - >-
+    The directive emphasizes exact JSON structure adherence and limits output to only the JSON
+    object.
+tags:
+  - '#synthesis'
+  - '#json'
+  - '#directive'
+  - '#mesh'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:56:07.522Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
