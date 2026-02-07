@@ -1,0 +1,36 @@
+id: b18d332f-32fc-4697-ba6d-db24f47f9e18
+title: 'Eidolon Mesh: Portable Node.js Organism, LLM Agnostic'
+summary: >-
+  The Eidolon Mesh organism is a portable Node.js application, independent of its development
+  environment (Antigravity). Its core logic is substrate-independent, allowing for LLM provider
+  swapping (Gemini, Claude, local) through interface abstraction and configuration.
+insights:
+  - >-
+    The Eidolon Mesh organism is a self-contained, portable Node.js application, separate from its
+    build environment.
+  - >-
+    LLM providers for synthesis and contemplation are swappable via an abstracted interface,
+    enabling flexibility.
+  - >-
+    The organism's portability is achieved by abstracting LLM dependencies and using standard
+    Node.js execution.
+  - Configuration allows users to select and integrate different LLM providers (cloud or local).
+  - >-
+    Antigravity served as a builder, not a dependency; the organism can be run and maintained
+    anywhere Node.js executes.
+tags:
+  - '#nodejs'
+  - '#llm'
+  - '#portability'
+  - '#architecture'
+  - '#api'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-02-07T05:55:55.812Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
