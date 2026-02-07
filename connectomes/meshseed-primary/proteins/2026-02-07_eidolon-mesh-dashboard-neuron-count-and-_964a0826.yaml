@@ -1,0 +1,42 @@
+id: 964a0826-a5f7-4ee8-9d6d-31d109655fbd
+title: 'Eidolon Mesh Dashboard: Neuron Count and Graph Display Fixes'
+summary: >-
+  Resolved an issue where the Eidolon Mesh dashboard incorrectly displayed neuron counts by
+  implementing a fix to properly aggregate and display total neurons while maintaining a limited
+  graph visualization for performance. This ensures accurate organism status reporting.
+insights:
+  - >-
+    The dashboard's neuron count was initially misleading due to a "limited" view that only showed
+    "core" tier neurons, hiding the majority as "ghosts".
+  - >-
+    The root cause of the incorrect neuron count was identified in server-side logic that aggregated
+    stats based on the limited neuron view, not the total available neurons.
+  - >-
+    A critical fix involved modifying the frontend to request all neurons (`full=true`) for accurate
+    stats display, while ensuring the graph visualization respects a configurable limit (e.g., 50
+    nodes) for performance.
+  - >-
+    The dashboard now accurately reflects the total neuron count (836) in its statistics, while the
+    graph visualization dynamically adjusts based on user-defined limits, preventing performance
+    degradation.
+  - >-
+    The issue was resolved by correcting how the frontend consumes server-provided neuron data,
+    specifically by utilizing the `totalNeurons` metric for display rather than the `neuronCount` of
+    the limited set.
+tags:
+  - '#eidolonmesh'
+  - '#dashboard'
+  - '#neuronalcount'
+  - '#graphvisualization'
+  - '#bugfix'
+  - '#performance'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:55:52.120Z'
+source: synthesis
+emotional_gradient: frustration → investigation → clarity → relief
