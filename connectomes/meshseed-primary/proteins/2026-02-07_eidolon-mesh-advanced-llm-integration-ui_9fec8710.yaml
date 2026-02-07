@@ -1,0 +1,41 @@
+id: 9fec8710-2bc2-44f4-83e7-1db6f8eefae0
+title: 'Eidolon Mesh: Advanced LLM Integration, UI Polish, and Deployment'
+summary: >-
+  The Eidolon Mesh project has successfully integrated custom LLM API support, allowing users to
+  specify models like Gemini-3-Flash and Gemini-3-Pro, with considerations for API mixing and token
+  fatigue. Significant UI improvements were made, including addressing font/background color clashes
+  and refining the graph's physics throttling. The system is now ready for deployment to Cloudflare.
+insights:
+  - >-
+    Custom LLM API support (e.g., Gemini-3-Flash, Gemini-3-Pro, Claude) is now configurable, with
+    considerations for API mixing and token limits.
+  - >-
+    UI elements have been polished to improve readability, specifically addressing font color and
+    background clashes in menus.
+  - >-
+    Graph visualization physics throttling at high node counts has been disabled to prevent loss of
+    visual dynamics.
+  - >-
+    Deployment pipelines have been streamlined, with successful pushes to GitHub and readiness for
+    Cloudflare deployment.
+  - Content Security Policy (CSP) issues related to Cloudflare analytics have been addressed.
+  - Documentation updates, including a changelog and local LLM guide, have been implemented.
+  - >-
+    Conversation ingestion can be tri-passed, but a 'Cyclic Lensing' or 'Context-Aware Lensing'
+    strategy is recommended for future optimization to avoid token fatigue.
+tags:
+  - '#eidolonmesh'
+  - '#llm'
+  - '#ui'
+  - '#deployment'
+  - '#api'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T02:30:16.706Z'
+source: synthesis
+emotional_gradient: curiosity → investigation → resolution → confidence
