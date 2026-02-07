@@ -1,0 +1,37 @@
+id: 6f022cd4-1653-4893-8407-c5f3b540f571
+title: Mobile Graph Rendering & UI Controls Regression Identified
+summary: >-
+  A regression has been identified where mobile graph nodes are not displaying, and UI controls for
+  the graph are missing. The issue appears to have been introduced between commit f7643b8 (last good
+  build) and 1190d02 (broken build), specifically with the 'Update Golden Connectome' commit.
+insights:
+  - >-
+    Mobile graph nodes are not visible, despite embeddings running, indicating a rendering or camera
+    positioning issue specific to mobile.
+  - >-
+    The UI button to toggle mobile graph controls is missing, suggesting a UI CSS or component
+    regression.
+  - >-
+    The breakage correlates with the 'Update Golden Connectome with P-Series seeds' commit
+    (1190d02), pointing to potential data format or initialization changes affecting mobile
+    rendering.
+  - >-
+    Previous fixes for mobile CSS layout and camera positioning (zoomToFit) may need re-evaluation
+    in light of this new regression.
+  - The last known working state for mobile graph display and controls was prior to commit 1190d02.
+tags:
+  - '#mobile-regression'
+  - '#graph-rendering'
+  - '#ui-controls'
+  - '#connectome-update'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:29:52.747Z'
+source: synthesis
+emotional_gradient: frustration → focused-investigation → clarity
