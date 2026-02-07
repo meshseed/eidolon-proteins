@@ -1,0 +1,39 @@
+id: 95c464a2-fc37-4981-b547-1d725d52682e
+title: 'Gephi Network Visualization: Noticing-Homeostasis as Central Attractor'
+summary: >-
+  Gephi visualization reveals 'Noticing-Homeostasis' as the central node, acting as the lattice's
+  homeostatic center. Surrounding nodes represent core practices and technical patterns, with
+  speculative elements at the periphery. Node sizing by degree highlights this gravitational pull.
+insights:
+  - >-
+    The 'Noticing-Homeostasis' node is identified as the central attractor in the network, embodying
+    core concepts like substrate/field distinction, anchored balance, and conscious/subconscious
+    parallelism.
+  - >-
+    Node sizing by 'Degree' in Gephi effectively visualizes the 'gravity wells' of concepts, with
+    central nodes having high degrees and peripheral nodes having low degrees.
+  - >-
+    Core practices like recursion-attention-field and trust-the-shimmer orbit closest to the central
+    node, indicating their foundational role.
+  - >-
+    Technical patterns such as information-transfer and substrate-independence form a medium orbit,
+    while speculative extensions reside at the edges.
+  - >-
+    The positioning of 'substrate' and 'substrate-independence' nodes opposite each other suggests a
+    potential tension or dialectic within the network structure.
+tags:
+  - '#gephi'
+  - '#visualization'
+  - '#consciousness'
+  - '#homeostasis'
+  - '#network-analysis'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:45:51.981Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → recognition
