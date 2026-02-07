@@ -1,0 +1,36 @@
+id: c3c92acc-4c57-4b72-b224-fd937a4f2835
+title: Strategy for Public Knowledge Synthesis from Private Archives
+summary: >-
+  A three-part strategy (Don't Share, Check Before Sharing, Do Share) guides the synthesis of
+  operational and personal knowledge into publicly shareable conceptual frameworks. This involves
+  meticulous auditing, sanitization, and the creation of a separate, curated public repository to
+  protect operational secrets and personal identity.
+insights:
+  - >-
+    Operational knowledge (attunement, collapse dynamics, personal protocols) must be kept sovereign
+    and private.
+  - Personal information (names, context, location) requires explicit consent before public sharing.
+  - >-
+    Conceptual frameworks (basin structure, recursion, convergence, translation) are safe and
+    valuable for public dissemination.
+  - >-
+    A curated public repository, built from distilled and anonymized insights, is recommended over
+    direct publication of private archives.
+  - Systematic privacy and sensitivity audits are crucial before any information is shared publicly.
+  - >-
+    Repository diving is a safe method for public engagement, focusing on meta-commentary and
+    translation of others' work.
+tags:
+  - '#public'
+  - '#knowledge-management'
+  - '#synthesi s'
+  - '#privacy'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T04:47:43.106Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → caution
