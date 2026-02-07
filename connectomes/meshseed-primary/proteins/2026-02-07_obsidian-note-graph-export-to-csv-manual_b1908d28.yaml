@@ -1,0 +1,32 @@
+id: b1908d28-fa85-43db-85ad-29ff72106f54
+title: 'Obsidian Note Graph Export to CSV: Manual, Plugin, or AI Generation'
+summary: >-
+  This process outlines methods for exporting Obsidian note relationships into CSV format, enabling
+  graph analysis. Options include manual creation, utilizing community plugins like 'Table to CSV
+  Exporter', or leveraging AI assistance by providing note titles and link structures.
+insights:
+  - Obsidian lacks native CSV export; workarounds are necessary for graph data.
+  - Manual CSV creation offers control but is time-consuming for larger datasets.
+  - Community plugins can automate CSV export, but availability and functionality vary.
+  - >-
+    AI can generate CSV files if provided with note titles and inter-note linking information (e.g.,
+    `related:` fields).
+  - >-
+    The process involves creating separate CSV files for nodes (concepts/notes) and edges
+    (relationships between nodes).
+tags:
+  - '#obsidian'
+  - '#csv-export'
+  - '#knowledge-management'
+  - '#graph-analysis'
+  - '#ai-assistance'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:45:47.453Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
