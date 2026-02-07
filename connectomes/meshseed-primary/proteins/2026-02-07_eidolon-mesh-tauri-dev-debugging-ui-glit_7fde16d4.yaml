@@ -1,0 +1,39 @@
+id: 7fde16d4-ac7f-4f85-9e42-2a157138d45e
+title: 'Eidolon Mesh Tauri Dev: Debugging UI Glitches & Connectome Initialization'
+summary: >-
+  The Eidolon Mesh development process encountered UI glitches including tracking prevention
+  blocking storage access and a JavaScript syntax error. The `tauri:dev` command successfully
+  initiated the development server, loaded the local Gemma provider, and initialized the Connectome
+  with 886 neurons, indicating progress despite initial errors.
+insights:
+  - >-
+    UI glitches related to tracking prevention and JavaScript syntax errors were observed during the
+    `tauri:dev` process.
+  - >-
+    The `npm run tauri:dev` command successfully launched the development environment, including the
+    dashboard server and Tauri's Rust backend.
+  - >-
+    A local Gemma AI provider was initialized and connected to the Connectome, which loaded 886
+    neurons from history.
+  - >-
+    The Connectome's query strategy is set to 'Top neurons by coherence score (quality filter)',
+    with its cache cleared.
+  - >-
+    Embedding and protein caches were cleared, and the Connectome was loaded for the 'default'
+    repository.
+tags:
+  - '#tauri'
+  - '#eidolon-mesh'
+  - '#debugging'
+  - '#ai'
+  - '#connectome'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T02:26:26.621Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
