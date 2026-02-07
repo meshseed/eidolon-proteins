@@ -1,0 +1,36 @@
+id: 9068448b-988e-445c-8cb7-bb43b3bdc49f
+title: 'Eidolon Mesh: API Access vs. Manual Workflow for LLM Integration'
+summary: >-
+  The Eidolon Mesh project requires API keys for LLM synthesis and GitHub integration. A key
+  distinction is made between a Claude Pro subscription (web access) and API access (programmatic
+  use), with the latter incurring pay-as-you-go costs. Several options are presented for proceeding,
+  prioritizing cost-effectiveness and immediate progress.
+insights:
+  - >-
+    Claude Pro subscription does not grant API access; a separate Anthropic API key is required for
+    programmatic LLM calls.
+  - The Antigravity module needs both an Anthropic API key and a GitHub token to function fully.
+  - >-
+    Options to proceed include obtaining paid API access, modifying the module to skip LLM synthesis
+    for v1 (manual capsule creation), or exploring alternative free/cheaper LLM APIs like Gemini.
+  - >-
+    Checking for a free tier on the Gemini API is recommended as a potentially zero-cost solution
+    that aligns with existing integrations.
+  - A GitHub Personal Access Token is free to generate and required for committing files.
+tags:
+  - '#eidolon-mesh'
+  - '#api-access'
+  - '#llm'
+  - '#github'
+  - '#development-strategy'
+  - '#cost-optimization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:09:38.453Z'
+source: synthesis
+emotional_gradient: clarification → decision → pragmatism
