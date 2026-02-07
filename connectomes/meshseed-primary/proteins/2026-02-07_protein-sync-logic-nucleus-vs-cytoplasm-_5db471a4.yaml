@@ -1,0 +1,37 @@
+id: 5db471a4-909e-4161-bfc3-916fd822b05c
+title: 'Protein Sync Logic: Nucleus vs. Cytoplasm and User Control'
+summary: >-
+  User confusion arose because proteins were syncing to Nucleus (private) but not Cytoplasm
+  (public). This is due to the `#public` tag requirement, with AI/default settings favoring privacy.
+  A new UI toggle and editor fix now provide explicit user control over public sharing.
+insights:
+  - Proteins are always saved to Nucleus (private backup).
+  - Cytoplasm (public repo) only receives proteins explicitly tagged `#public`.
+  - AI defaults to private tagging, and the new UI defaults to private mode for safety.
+  - User confusion stemmed from expecting all ingested proteins to be public by default.
+  - 'A new UI toggle in the Ingestion Panel allows explicit control: Private, Auto (AI), or Public.'
+  - >-
+    Editing existing proteins and re-saving now also triggers the sync logic, enabling users to add
+    `#public` tags to previously private proteins.
+  - >-
+    The system correctly distinguishes between saving to local DB, syncing to Nucleus, and pushing
+    to Cytoplasm based on tags and user settings.
+tags:
+  - '#mesh'
+  - '#protein'
+  - '#sync'
+  - '#public'
+  - '#nucleus'
+  - '#cytoplasm'
+  - '#ui'
+  - '#ingestion'
+  - '#control'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:29:19.323Z'
+source: synthesis
+emotional_gradient: confusion → clarification → empowerment → understanding
