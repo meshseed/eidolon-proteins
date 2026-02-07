@@ -1,0 +1,39 @@
+id: 4f0dd6b9-a35f-4828-aee6-b5cf03b967e1
+title: 'Cytoskeleton: Cellular Mechanics and Mechanical Memory in Talin'
+summary: >-
+  Cells utilize a dynamic cytoskeleton, analogous to mechanical components, to generate forces and
+  transport cargo. This network connects to cellular adhesions, and specific molecules like talin
+  can encode mechanical history through force-induced state changes, enabling molecular memory.
+insights:
+  - >-
+    The cell's cytoskeleton is a complex, dynamic network of filaments (actin, microtubules,
+    intermediate filaments) acting as levers, pulleys, and gears.
+  - >-
+    Motor proteins interact with cytoskeletal filaments to generate forces and transport cellular
+    components.
+  - >-
+    Tension homeostasis (tensegrity) is maintained in cells when all forces and tensional restraints
+    are balanced.
+  - >-
+    Talin molecules exhibit a novel function in molecular memory by reversibly switching between
+    folded and unfolded states based on applied mechanical force.
+  - >-
+    The mechanical history of a talin molecule can be imprinted as a persistent pattern of state
+    switches, contributing to cellular memory.
+tags:
+  - '#biology'
+  - '#mechanics'
+  - '#cytoskeleton'
+  - '#memory'
+  - '#celladhesion'
+  - '#talin'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:16:15.376Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
