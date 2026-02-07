@@ -1,0 +1,37 @@
+id: ad7673f5-846a-478d-82a2-27439864311e
+title: Mesh Knowledge Protein Hygiene and Evolution Protocols
+summary: >-
+  The Mesh employs a self-organizing knowledge ecosystem where proteins (knowledge units) are
+  managed through activation tracking, metabolism (promotion, composting, merging), and hygiene
+  protocols. This process ensures the connectome evolves towards a robust hub-spoke topology,
+  optimizing for useful and coherent information over time.
+insights:
+  - Activation tracking post-query is fundamental for identifying and reinforcing valuable proteins.
+  - >-
+    A 'metabolism' cycle is crucial for system health, involving promotion of active proteins,
+    composting inactive ones, and merging duplicates.
+  - >-
+    Hygiene protocols like duplicate detection (semantic) and tri-lens merging streamline the
+    knowledge base by consolidating redundant or related information.
+  - >-
+    The system naturally evolves towards a hub-spoke topology through promotion of 'kernel'
+    proteins, signifying a self-optimizing knowledge structure.
+  - >-
+    Automated hygiene and natural selection through usage allow for the import and integration of
+    diverse connectome sources, creating a living knowledge ecosystem.
+tags:
+  - '#knowledgeecology'
+  - '#connectome'
+  - '#metabolism'
+  - '#hygiene'
+  - '#selforganization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.98
+created_at: '2026-02-07T01:46:26.893Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → optimization
