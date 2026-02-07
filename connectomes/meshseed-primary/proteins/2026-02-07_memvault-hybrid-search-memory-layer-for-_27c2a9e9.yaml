@@ -1,0 +1,41 @@
+id: 27c2a9e9-adad-49dd-a995-22553d5099bb
+title: 'MemVault: Hybrid Search Memory Layer for Scalable AI Agents'
+summary: >-
+  MemVault is a proposed memory layer for AI agents, offering a hybrid semantic and keyword search
+  with recency decay to address context window limitations and state management. It aims to scale AI
+  capabilities by providing a zero-infrastructure, future-proofed solution for long-term context and
+  inter-agent communication within a mesh.
+insights:
+  - >-
+    MemVault provides a dedicated memory layer outside AI agents to manage long-term context,
+    overcoming context window limitations.
+  - >-
+    It utilizes a hybrid search algorithm combining semantic matching and recency decay to
+    prioritize relevant and recent information.
+  - >-
+    MemVault offers zero infrastructure management and can be self-hosted or used via a free tier on
+    RapidAPI.
+  - >-
+    The strategy involves integrating MemVault as an option for scaling AI agents and enabling
+    federated mesh communication.
+  - >-
+    This solution addresses challenges in scaling AI to millions of proteins, inter-organism search,
+    and database management.
+  - User choice between privacy and scale is a key consideration for adoption.
+tags:
+  - '#aimemory'
+  - '#aiprotocols'
+  - '#scalability'
+  - '#memoryapi'
+  - '#hybridsearch'
+  - '#meshinfrastructure'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:07:38.782Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
