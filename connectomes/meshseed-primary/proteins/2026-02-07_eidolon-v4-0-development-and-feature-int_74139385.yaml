@@ -1,0 +1,49 @@
+id: 74139385-3256-44f8-ac59-6ef20bac6a50
+title: Eidolon v4.0 Development and Feature Integration
+summary: >-
+  This dialogue details the development and porting of features from Eidolon v3.6 to v4.0, focusing
+  on enhancing ingestion robustness, customizability, and overall user experience. Key advancements
+  include asynchronous ingestion with retries, tab-switching compatibility, custom API model
+  selection, and the successful integration of P-series YAML seed protein detection.
+insights:
+  - >-
+    Eidolon v4.0 is being developed as a Pro version, integrating features from the stable v3.6 free
+    version.
+  - >-
+    Robust asynchronous ingestion with retry mechanisms is a core improvement, allowing users to
+    leave long processes unattended.
+  - >-
+    Tab-switching within the application is supported, with asynchronous operations not blocking UI
+    interactions.
+  - >-
+    Custom API model selection has been implemented, allowing users to specify preferred Gemini
+    models via a text input field.
+  - >-
+    P-series YAML seed proteins are now auto-detected and imported directly, bypassing API synthesis
+    for efficiency.
+  - >-
+    Resolved technical issues include a 'protein is not defined' error due to missing YAML detection
+    and scope issues, and a graph visualization physics bug.
+  - >-
+    A comprehensive test checklist has been created to ensure all ported features are thoroughly
+    validated.
+tags:
+  - '#eidolon'
+  - '#development'
+  - '#feature-porting'
+  - '#ingestion'
+  - '#api-integration'
+  - '#yaml-parsing'
+  - '#testing'
+  - '#v4.0'
+  - '#v3.6'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.92
+created_at: '2026-02-07T01:45:02.782Z'
+source: synthesis
+emotional_gradient: curiosity → problem-solving → validation → progress
