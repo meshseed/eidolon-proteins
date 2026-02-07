@@ -1,0 +1,41 @@
+id: 4c2370a8-d7b2-488e-b8a7-cc5536eb01ef
+title: 'Eidolon-Mesh: Porting Tri-Lens Ingestion and Core Features to v4.0 Pro'
+summary: >-
+  The dialogue details a strategic porting of advanced features from the stable v3.6 'free' version
+  of Eidolon-Mesh to the upcoming v4.0 'Pro' platform. Key functionalities like tri-lens ingestion,
+  physics modulation, and coherence normalization were successfully integrated into v4.0. The
+  process also included establishing a robust LLM provider abstraction and implementing a retry
+  mechanism for API calls.
+insights:
+  - >-
+    v3.6 serves as a stable, community-promised free version, while v4.0 is being developed as the
+    feature-rich Pro platform.
+  - >-
+    Tri-lens ingestion (emotional, structural, technical) and auto-triangulate functionality were
+    ported from v3.6 to v4.0, enhancing protein synthesis capabilities.
+  - >-
+    Graph physics modulation ('body language') and coherence normalization features, previously in
+    uncommitted v3.6 changes, were integrated into v4.0 to address graph behavior and protein
+    ranking issues.
+  - >-
+    v4.0 now supports both cloud (Gemini) and local LLMs via a provider abstraction layer, with
+    added resilience through a retry utility with exponential backoff.
+  - >-
+    The strategic decision was made to port features from v3.6 to v4.0 rather than modifying the
+    live v3.6 environment, preserving its stability for the community.
+tags:
+  - '#eidolon-mesh'
+  - '#software-development'
+  - '#llm'
+  - '#feature-porting'
+  - '#pro-version'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T01:44:57.264Z'
+source: synthesis
+emotional_gradient: collaboration → strategy → implementation → validation
