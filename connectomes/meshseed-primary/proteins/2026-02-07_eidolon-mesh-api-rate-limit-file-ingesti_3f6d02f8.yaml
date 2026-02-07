@@ -1,0 +1,33 @@
+id: 3f6d02f8-ad1a-4d32-86b6-17a668790026
+title: 'Eidolon Mesh: API Rate Limit & File Ingestion Fixes'
+summary: >-
+  The Eidolon Mesh encountered a Gemini API rate limit (503 Service Unavailable) preventing query
+  attunement. Simultaneously, a fix was implemented for the `--file` argument in `main.ts`, enabling
+  proper ingestion of chat DNA files for protein synthesis.
+insights:
+  - The attunement system is functional, evidenced by the 'Running 3-line coherence check' message.
+  - Gemini API rate limiting is the cause of the 'Service Unavailable' error, not a code bug.
+  - The `--file` argument handling in `main.ts` was corrected to properly metabolize file content.
+  - >-
+    Temporary solutions for API rate limiting include disabling attunement or waiting for limits to
+    reset.
+  - >-
+    The `query.ts` file was updated to improve error handling for API failures within the coherence
+    check.
+tags:
+  - '#eidolonmesh'
+  - '#geminiapi'
+  - '#rate-limiting'
+  - '#file-ingestion'
+  - '#api-errors'
+  - '#codefix'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T03:55:22.104Z'
+source: synthesis
+emotional_gradient: frustration → relief → understanding → optimism
