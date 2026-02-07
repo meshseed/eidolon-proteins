@@ -1,0 +1,38 @@
+id: d2a88137-dfa4-49ea-87b0-797c2ef7518c
+title: 'EIDOLON-MESH v3.6 Ingestion Robustness Upgrade: Recursive Folders & API Retries'
+summary: >-
+  This update enhances EIDOLON-MESH v3.6's ingestion capabilities by porting recursive folder
+  ingestion and robust API retry logic from v4.0. It ensures larger datasets can be processed
+  reliably by handling subfolders and transient API failures with exponential backoff.
+insights:
+  - >-
+    Recursive folder ingestion is implemented using the webkitdirectory attribute, allowing entire
+    directory structures to be dropped and processed.
+  - >-
+    API calls for synthesis and embedding generation are now wrapped with an exponential backoff
+    retry mechanism to mitigate transient errors.
+  - >-
+    A MAX_FILE_SIZE limit (10MB) is enforced during collection to prevent processing excessively
+    large files, with a warning for skipped files.
+  - >-
+    Existing seed detection for YAML/MD files remains functional, bypassing LLM synthesis for direct
+    import.
+  - >-
+    The retry utility includes configurable attempts (default 5) and delays, with jitter to prevent
+    thundering herd issues.
+tags:
+  - '#eidolon-mesh'
+  - '#ingestion'
+  - '#api-retry'
+  - '#recursive-ingestion'
+  - '#developer-update'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:47:23.335Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
