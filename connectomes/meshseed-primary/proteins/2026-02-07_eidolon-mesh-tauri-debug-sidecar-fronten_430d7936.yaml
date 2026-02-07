@@ -1,0 +1,44 @@
+id: 430d7936-75f6-4d4f-9e4e-ad547cd98931
+title: 'Eidolon Mesh Tauri Debug: Sidecar-Frontend Connection & Data Loading'
+summary: >-
+  Debugging the Eidolon Mesh Tauri application revealed issues with the sidecar's API endpoints and
+  frontend connection, specifically the hardcoded port and missing API functionality. Resolution
+  involved updating the frontend to connect to the correct sidecar port and expanding the sidecar's
+  API to match dashboard expectations.
+insights:
+  - >-
+    The Tauri app's frontend was hardcoded to connect to port 3000, while the sidecar operated on
+    port 3456, causing connection failures.
+  - >-
+    The sidecar's initial API was incomplete, lacking endpoints expected by the frontend dashboard,
+    necessitating the addition of endpoints like /api/repositories and /api/connectome.
+  - >-
+    The 'default' connectome is stored in the 'data/' directory, not the 'repositories/' folder,
+    which initially caused the repository listing to appear empty.
+  - >-
+    Enabling DevTools in Tauri requires rebuilding the application, and running in `tauri:dev` mode
+    provides a more effective debugging environment with real-time logs.
+  - >-
+    The core issue of repositories not loading was traced to the frontend's fetch calls failing
+    silently due to incorrect API endpoints and port configurations.
+  - >-
+    Successful connection and initialization to 'Initializing' state indicate the frontend can now
+    communicate with the sidecar, paving the way for further data loading diagnostics.
+tags:
+  - '#eidolonmesh'
+  - '#tauri'
+  - '#debugging'
+  - '#api'
+  - '#connectome'
+  - '#sidecar'
+  - '#frontend'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:26:21.788Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
