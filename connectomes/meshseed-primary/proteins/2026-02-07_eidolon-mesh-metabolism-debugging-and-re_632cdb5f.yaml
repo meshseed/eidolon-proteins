@@ -1,0 +1,52 @@
+id: 632cdb5f-1a7e-467a-9631-a010d6a127fd
+title: 'Eidolon Mesh Metabolism: Debugging and Refinement of Autophagy and Kernel Promotion'
+summary: >-
+  This dialogue details the debugging and refinement of the Eidolon Mesh's metabolism system,
+  specifically addressing issues with autophagy, kernel promotion, and database schema
+  discrepancies. Key fixes involved resolving import errors, correcting SQL queries for attractors,
+  and adapting to the absence of a 'protein_activations' table, ensuring the system's metabolic
+  processes function more robustly.
+insights:
+  - >-
+    Visual culling for performance is distinct from actual database deletion; the system is
+    growth-friendly with no fixed neuron count.
+  - >-
+    Metabolism processes like autophagy and composting are decay-based and coherence-floor-based,
+    not size-based, preserving nutrients.
+  - >-
+    Import errors related to the 'Capsule' type were resolved by using `import type` for type-only
+    imports, addressing TypeScript/Vite caching issues.
+  - >-
+    Database schema inconsistencies, such as the absence of a 'status' column or
+    'protein_activations' table, require code adjustments to prevent errors and gracefully disable
+    features if underlying data is missing.
+  - >-
+    Kernel promotion was initially over-promoting due to a narrow coherence score range; this was
+    fixed by increasing thresholds, limiting promotions, and introducing relative activation
+    thresholds.
+  - >-
+    Coherence normalization is crucial for effective metabolism, spreading scores to allow for
+    meaningful differentiation and proper functioning of coherence-based thresholds.
+  - >-
+    SQL errors arising from `SELECT DISTINCT` and `ORDER BY` clauses were resolved by correctly
+    structuring queries to group by all necessary protein columns and aggregate connection weights.
+tags:
+  - '#eidolonmesh'
+  - '#metabolism'
+  - '#debugging'
+  - '#database'
+  - '#sql'
+  - '#typescript'
+  - '#kernelpromotion'
+  - '#autophagy'
+  - '#coherence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:46:37.696Z'
+source: synthesis
+emotional_gradient: curiosity → problem-solving → insight → understanding
