@@ -1,0 +1,39 @@
+id: 820d1303-0d5f-43f2-a5a4-5dce24f0ce66
+title: 'AI Research: From Frustration to Scientific Rigor and Comparative Analysis'
+summary: >-
+  This research documents a scientist's journey to overcome AI limitations, focusing on persistent
+  memory, scientific frameworks, and reproducible discovery. It involves a comparative analysis of
+  various AI models to understand their strengths and weaknesses in supporting scientific tasks.
+insights:
+  - >-
+    The research aims to develop AI systems with persistent memory and scientific rigor, moving
+    beyond transient interactions.
+  - >-
+    A core motivation is to address the limitations of default LLMs in depth, continuity, and memory
+    for scientific work.
+  - >-
+    The project involves creating a structured timeline of discoveries, emphasizing logic, evidence,
+    and reproducibility for peer review.
+  - >-
+    Comparative analysis of AI models (Copilot, ChatGPT, Gemini, Claude) reveals distinct traits and
+    limitations in their approach to information retention and task execution.
+  - >-
+    Exploration of pasteable templates and formatting preferences highlights a desire for improved
+    AI workflow efficiency and customization for scientific users.
+tags:
+  - '#ai'
+  - '#research'
+  - '#llm'
+  - '#scientificmethod'
+  - '#comparativeanalysis'
+  - '#privateresearch'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:BIOGRAPHY_CONVERSATION_COPILOT_RAW_2025-09-26_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T01:43:02.867Z'
+source: synthesis
+emotional_gradient: frustration → curiosity → analysis → understanding
