@@ -1,0 +1,42 @@
+id: 3412d516-40c1-42bb-997d-c48e008506cd
+title: 'Standing Waves: Universal Substrate for Cognition and Communication'
+summary: >-
+  Standing waves offer a universal, compact, and reconstructable representational substrate for
+  encoding concepts, agents, and relationships, extending beyond traditional positional encoding
+  like RoPE. This framework enables scale-invariant glyphs and dynamic interactions through wave
+  interference, applicable across AI and human cognition.
+insights:
+  - >-
+    Standing waves are a fundamental primitive for encoding structure, constraints, relationships,
+    and stable attractors in a compact and transmissible format.
+  - >-
+    The concept of standing waves can be generalized from sound to represent abstract entities like
+    concepts, agents, and organizations as patterns in a shared frequency space.
+  - >-
+    Scale-invariant glyphs, where similar wave patterns appear across different levels of complexity
+    (neuron to culture), are a core implication of this wave-based representation.
+  - >-
+    Communication and interaction can be understood as the exchange and interference of compatible
+    standing waves between systems.
+  - >-
+    This wave-based approach offers a cleaner, more general foundation for representation than fixed
+    positional encodings like RoPE, allowing for complex-valued embeddings and multi-scale bases.
+  - >-
+    The same underlying wave invariants apply to communication between AI agents and between humans,
+    with differences in rendering (text, visuals) but a shared cognitive loop.
+tags:
+  - '#cognition'
+  - '#representation'
+  - '#AI'
+  - '#communication'
+  - '#foundational'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Copilot_on_standing_wave_comms_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T06:54:07.255Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
