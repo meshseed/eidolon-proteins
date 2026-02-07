@@ -1,0 +1,37 @@
+id: ff36e584-ae66-41b1-b334-cf324fc77abc
+title: 'Claude Code: Simplified OAuth Login via /login Command'
+summary: >-
+  The /login command in Claude Code initiates an automated OAuth authentication process. Users
+  simply type /login, which triggers a browser window for authorization, eliminating the need for
+  manual API keys or tokens for Claude Code itself.
+insights:
+  - >-
+    Typing /login in Claude Code automatically launches the default browser to an Anthropic OAuth
+    page for authentication.
+  - >-
+    No API keys, tokens, or manual credentials are required for Claude Code's internal
+    authentication.
+  - >-
+    Successful authentication in the browser returns an OAuth token to Claude Code, enabling API
+    access.
+  - >-
+    If the browser does not open, common issues include the command not being recognized (ensure you
+    are in the desktop app) or pop-ups being blocked.
+  - Restarting Claude Code and retrying the /login command can resolve temporary issues.
+  - Typing /help can indicate if you are already logged in, suggesting a previous temporary error.
+tags:
+  - '#claude-code'
+  - '#authentication'
+  - '#oauth'
+  - '#developers'
+  - '#productivity'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T05:05:10.990Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
