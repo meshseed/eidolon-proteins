@@ -1,0 +1,40 @@
+id: 82a74aa9-09db-40cf-a6a4-21b6f934b370
+title: 'Mobile Graph Rendering Fix: CSS Syntax and Layout Restoration'
+summary: >-
+  A critical CSS syntax error in `.main-body` was identified and corrected, restoring proper mobile
+  layout. This fix, combined with previous adjustments to graph resizing and padding, aims to
+  resolve the persistent issue of the graph not displaying on mobile devices.
+insights:
+  - >-
+    A missing opening brace in `.main-body` CSS selector caused a syntax error, breaking mobile
+    layout rendering.
+  - >-
+    Restoring the correct CSS selector and layout (`height: calc(100vh - 190px); padding-bottom:
+    0;`) ensures the `.main-body` is visible and positioned correctly above the bottom navigation.
+  - >-
+    The graph rendering issue on mobile is likely a consequence of the broken layout, and previous
+    fixes for resize polling and `zoomToFit` should now function correctly with a properly rendered
+    container.
+  - >-
+    The user's request to revert graph code to 'yesterday' was considered, but current fixes are
+    prioritized before exploring rollbacks.
+  - >-
+    Verification of the version string in the About modal is crucial for ensuring the user is
+    testing the latest deployed code.
+tags:
+  - '#css'
+  - '#mobile'
+  - '#layout'
+  - '#debugging'
+  - '#pwa'
+  - '#graphrendering'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T02:29:49.142Z'
+source: synthesis
+emotional_gradient: frustration → relief → anticipation → hope
