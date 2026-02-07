@@ -1,0 +1,45 @@
+id: d87f7c0b-21a3-4616-bcd7-295c91bf93d7
+title: 'Active Transport: Batch Dialogue Processing with Watcher Mechanism'
+summary: >-
+  This plan outlines the implementation of an 'Active Transport' mechanism, specifically a 'Watcher'
+  component, to enable batch processing of historical dialogue logs. It introduces a 'Watch Folder'
+  that monitors an input directory, ingests text files, synthesizes knowledge proteins, and archives
+  processed files, while incorporating rate limiting and error handling.
+insights:
+  - >-
+    The 'Watcher' component will monitor an input directory for text files (.txt, .md) to initiate
+    batch processing.
+  - >-
+    A 'Watch Folder' mechanism with a `setTimeout` delay between files (5 seconds base rate) is
+    crucial for managing rate limits and preventing 'Metabolic Shock' (429 Errors).
+  - >-
+    Robust error handling includes retrying synthesis up to 3 times with exponential backoff,
+    quarantining failed files in an 'error' archive, and logging detailed metabolism data.
+  - >-
+    The architecture involves a new organelle (`src/membrane/watcher.ts`) and refactoring of
+    `src/main.ts` to extract a callable `metabolize` function, promoting reusability and a DRY
+    principle.
+  - >-
+    The proposed folder hierarchy (`input/`, `archive/success/`, `archive/error/`, `logs/`) provides
+    clean separation of states and clear failure handling.
+  - >-
+    Verification involves testing file ingestion, successful archiving, protein synthesis, and
+    commit generation for dropped files.
+tags:
+  - '#batchprocessing'
+  - '#dialogue'
+  - '#architecture'
+  - '#implementation'
+  - '#errorhandling'
+  - '#ratelimiting'
+  - '#softwaredevelopment'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:55:22.926Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
