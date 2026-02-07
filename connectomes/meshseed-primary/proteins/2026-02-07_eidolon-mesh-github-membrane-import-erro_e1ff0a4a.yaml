@@ -1,0 +1,41 @@
+id: e1ff0a4a-54b0-483b-aeef-9eb42166b364
+title: 'Eidolon Mesh: GitHub Membrane Import Error During TypeScript Compilation'
+summary: >-
+  A TypeScript compilation error (TS2305) occurred in the Eidolon Mesh project, specifically in
+  src/main.ts, failing to import 'GitHubMembrane' from './membrane/github'. This indicates a
+  potential issue with how GitHubMembrane is exported or imported following a refactoring, possibly
+  related to dual repository support.
+insights:
+  - >-
+    The Eidolon Mesh project encountered a TypeScript compilation error (TS2305) in src/main.ts
+    related to importing 'GitHubMembrane'.
+  - >-
+    The error suggests that the 'GitHubMembrane' member is not exported from './membrane/github',
+    likely due to a refactoring that altered export names, introduced a default export, or removed
+    the export entirely.
+  - >-
+    The issue is attributed to a refactoring effort by the 'Antigravity' team to support dual
+    repositories.
+  - >-
+    The recommended action is to verify the export/import chain between github.ts and main.ts, and
+    also check the import in golgi.ts, to correct the mismatch.
+  - >-
+    This is flagged as a straightforward export/import problem that should be resolvable by the
+    development team.
+tags:
+  - '#typescript'
+  - '#compilationerror'
+  - '#eidolonmesh'
+  - '#github'
+  - '#refactoring'
+  - '#importexport'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T05:54:57.739Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
