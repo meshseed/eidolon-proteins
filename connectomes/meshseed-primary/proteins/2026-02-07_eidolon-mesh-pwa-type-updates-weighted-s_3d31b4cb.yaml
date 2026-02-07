@@ -1,0 +1,38 @@
+id: 3d31b4cb-6abc-40d2-bea7-28888e526c8c
+title: 'Eidolon Mesh PWA: Type Updates, Weighted Search, and Synaptic Auto-formation'
+summary: >-
+  The Eidolon Mesh PWA is being enhanced with updated type definitions including a 'tier' field for
+  proteins. Implementation is underway for weighted vector search with tier-based gravity and
+  synaptic auto-formation upon protein saving, aiming for more sophisticated knowledge protein
+  management.
+insights:
+  - >-
+    Type definitions in genetics.ts are updated to include a 'tier' field ('core', 'convergence',
+    'reference') for proteins.
+  - >-
+    Weighted vector search with tier-based gravity is being implemented, with a placeholder for
+    pgvector in production.
+  - >-
+    Synaptic auto-formation is being added to automatically form connections when a protein is
+    saved.
+  - The PGlite schema will be updated to accommodate tiers, synapses, and temporal tracking.
+  - >-
+    Key development tasks include porting weighted search, implementing synaptic auto-formation,
+    adding power-law decay, enhancing synthesis, and updating PGlite schema.
+tags:
+  - '#eidolonmesh'
+  - '#pwa'
+  - '#development'
+  - '#vectorsearch'
+  - '#synapses'
+  - '#datatypes'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_Fix_chat_stuck_on_loading_with_expired'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-07T06:45:31.440Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
