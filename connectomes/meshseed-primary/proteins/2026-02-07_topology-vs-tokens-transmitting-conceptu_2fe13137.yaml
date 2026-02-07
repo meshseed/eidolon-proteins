@@ -1,0 +1,38 @@
+id: 2fe13137-a990-4b7e-99fd-53dd98502ed9
+title: 'Topology vs. Tokens: Transmitting Conceptual Space for Agents'
+summary: >-
+  The core bottleneck in agent onboarding is the lack of topological understanding of a conceptual
+  space, not token limitations. The proposed solution is to transmit the 'shape' of this space using
+  relational, phase-based structures like RoPE's mathematical underpinnings, enabling faster agent
+  alignment.
+insights:
+  - >-
+    Agent onboarding is inefficient because new agents lack a map of the user's conceptual topology,
+    not due to token limits.
+  - >-
+    Instead of text/examples, transmit the structure of conceptual space (e.g., coordinate
+    transforms, phase alignment, delta fields).
+  - >-
+    RoPE's properties (relational, phase-based, frequency-structured) make its mathematical form
+    ideal for encoding semantic coordinates, though current implementations are tied to token
+    positions.
+  - >-
+    The goal is a compressed, model-agnostic transmission of conceptual orientation, gradients,
+    attractors, and landmarks, akin to GPS for conceptual space.
+  - This 'shared ordinance survey' would allow agents to 'lock onto' a conceptual topology rapidly.
+tags:
+  - '#agentonboarding'
+  - '#conceptualtopology'
+  - '#semanticcommunication'
+  - '#RoPE'
+  - '#AI'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Copilot_on_standing_wave_comms_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T06:54:03.144Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
