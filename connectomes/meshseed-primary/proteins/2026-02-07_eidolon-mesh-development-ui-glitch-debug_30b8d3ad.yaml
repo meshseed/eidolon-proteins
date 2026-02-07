@@ -1,0 +1,32 @@
+id: 30b8d3ad-8738-468a-a66d-ae08259dec13
+title: 'Eidolon Mesh Development: UI Glitch Debugging & Build Process'
+summary: >-
+  The user is initiating a debugging process for UI glitches within the Eidolon Mesh project,
+  specifically referencing 'Debugging UI Glitches.md'. The process involves loading embedding
+  caches, clearing protein caches, and connecting to the 'default' connectome to run development
+  commands via Cargo.  The system is configured to watch for file changes in the 'src-tauri'
+  directory and uses a bundled Node.js runtime.
+insights:
+  - Development environment is set up for debugging UI glitches in the Eidolon Mesh project.
+  - The process involves cache management (embedding, protein) and connectome loading.
+  - File watching is enabled for the 'src-tauri' directory to monitor changes.
+  - A bundled Node.js runtime is being utilized for the development process.
+  - The build command indicates a 'dev' profile with unoptimized and debuginfo settings.
+tags:
+  - '#eidolon-mesh'
+  - '#debugging'
+  - '#ui-glitches'
+  - '#development'
+  - '#rust'
+  - '#tauri'
+  - '#nodejs'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:26:30.073Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
