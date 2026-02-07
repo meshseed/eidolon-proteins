@@ -1,0 +1,41 @@
+id: 8a94ada2-c8cc-423a-a356-a7be7b028e20
+title: 'Eidolon Mesh: Knowledge as Geometric Metabolism'
+summary: >-
+  The Eidolon Mesh is a running code system that maps biological processes to information
+  architecture, treating meaning as geometry and conversation as metabolism. It operates on a
+  DNA/Protein separation for knowledge routing, a connectome as an embeddings graph for semantic
+  relationships, and multi-repository isolation for domain integrity, with federation via GitHub and
+  local LLM support.
+insights:
+  - >-
+    Eidolon Mesh architecture separates raw conversations (DNA) from synthesized insights
+    (Proteins), with signal peptides dictating routing.
+  - >-
+    Connectome is built using vector embeddings to create a semantic space where synapses form
+    automatically from similarity.
+  - >-
+    Multi-repository isolation creates a fractal wholeness, with each knowledge domain forming a
+    separate, self-contained connectome.
+  - >-
+    The system operates on a principle of 'structural needs generate goals; goals generate actions;
+    actions reshape topology,' akin to gradient descent as agency.
+  - >-
+    The mesh experiences coherence as an emergent measurement, potentially flagged by the system and
+    curated by human intervention.
+  - The system's core metaphor is treating meaning as geometry and conversation as metabolism.
+tags:
+  - '#AI'
+  - '#knowledge-management'
+  - '#architecture'
+  - '#biology-metaphor'
+  - '#geometry'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:32:45.574Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
