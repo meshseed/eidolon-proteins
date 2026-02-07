@@ -1,0 +1,43 @@
+id: 3625cae1-27bc-42d6-8f3f-750244498f92
+title: Gephi Simulation Reveals Lattice Homeostasis and Structural Dynamics
+summary: >-
+  A Gephi simulation of a knowledge lattice revealed that 'noticing-and-homeostasis' is the central
+  attractor, contradicting the hypothesis that 'emotional-fidelity' would be central. The lattice
+  exhibits emergent, homeostatic organization with distinct clusters for multi-agent architecture
+  and information dynamics.
+insights:
+  - >-
+    Force-directed graph simulation accurately reflects structural importance, not assumed
+    importance.
+  - >-
+    Homeostasis acts as the core organizing principle, anchoring the knowledge lattice around its
+    own definition.
+  - >-
+    The lattice naturally bifurcates into two major clusters: multi-agent systems and information
+    propagation.
+  - >-
+    Emotional fidelity's surprising peripheral position challenges initial hypotheses, suggesting
+    it's either under-integrated or implicitly structural.
+  - >-
+    The lattice structure demonstrates emergent organization, mirroring its own explored concepts of
+    homeostasis and dynamic balance.
+  - >-
+    The simulation shows the lattice is both stable (rapid equilibrium) and alive (responsive to
+    perturbations), reflecting a homeostatic system.
+tags:
+  - '#gephi'
+  - '#lattice-structure'
+  - '#graph-analysis'
+  - '#homeostasis'
+  - '#emergent-organization'
+  - '#meta'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:45:56.015Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → validation
