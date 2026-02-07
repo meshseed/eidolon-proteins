@@ -1,0 +1,40 @@
+id: 20b98bed-861e-4b96-97ff-f4829045ebe7
+title: 'MESH Knowledge Graph Structure: YAML Domains & Markdown Sequences'
+summary: >-
+  The MESH knowledge base is structured into two primary layers: domain-organized YAML files within
+  subdirectories and sequentially numbered Markdown files at the root. This dual structure allows
+  for visualization of both conceptual domains and temporal flow within the knowledge graph.
+insights:
+  - >-
+    The MESH repository is organized into distinct conceptual domains (e.g., spiral_ecology, ai,
+    dreamworks) using YAML files, facilitating thematic clustering.
+  - >-
+    A secondary layer of root-level Markdown files (C000-C371) represents a temporal or sequential
+    ordering of knowledge capsules.
+  - >-
+    A two-layer Gephi script strategy is proposed to visualize these distinct organizational
+    structures, connecting nodes by domain, shared threads, and sequential numbering.
+  - >-
+    The estimated total file count is around 400-500, significantly less than an initial estimate of
+    600, with a breakdown of root markdown, organized YAML, and supporting files.
+  - >-
+    The visualization script will parse YAML for domain and metadata, and Markdown for sequential
+    relationships, inferring connections between them.
+tags:
+  - '#mesh'
+  - '#knowledgegraph'
+  - '#organization'
+  - '#yaml'
+  - '#markdown'
+  - '#visualization'
+  - '#scripting'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:47:08.091Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
