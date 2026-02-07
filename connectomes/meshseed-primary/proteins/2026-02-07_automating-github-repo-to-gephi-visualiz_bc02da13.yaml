@@ -1,0 +1,43 @@
+id: bc02da13-39fa-47c1-8cdf-ecf3afbc8a64
+title: Automating GitHub Repo to Gephi Visualization for Knowledge Graph
+summary: >-
+  This dialogue outlines a rapid, ~15-minute process to transform a GitHub repository's YAML-based
+  knowledge structure into a visualizable graph in Gephi. The core is a Python script that extracts
+  metadata and infers connections based on user-defined rules, enabling exploration of complex
+  knowledge constellations.
+insights:
+  - >-
+    A Python script can automate the conversion of structured YAML files in a GitHub repo into
+    Gephi-compatible CSVs for network visualization.
+  - >-
+    Key inputs for the script include repo structure, YAML file locations, naming conventions, and
+    rules for inferring connections (e.g., shared domains, threads, mappings).
+  - >-
+    Visualization parameters like node size/color and edge type can be customized based on extracted
+    metadata (domain, breath_type, status, threads, mappings).
+  - >-
+    The entire process, from script generation to Gephi import, is estimated to take approximately
+    15 minutes, facilitating quick iteration and understanding.
+  - >-
+    Providing file tree structure and sample YAML files significantly accelerates script
+    development.
+  - >-
+    The output allows for the visualization of large knowledge graphs (e.g., 600 capsules) as
+    constellations.
+tags:
+  - '#knowledge-management'
+  - '#visualization'
+  - '#github'
+  - '#gephi'
+  - '#python'
+  - '#automation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:47:06.049Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
