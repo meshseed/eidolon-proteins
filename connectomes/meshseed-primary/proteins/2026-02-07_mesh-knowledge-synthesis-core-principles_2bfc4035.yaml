@@ -1,0 +1,32 @@
+id: 2bfc4035-8e58-4362-84b0-f79e345f9d32
+title: 'MESH Knowledge Synthesis: Core Principles & Research Strategy'
+summary: >-
+  The MESH prioritizes preserving research purity and curating a convergence tier of validated
+  researchers.  A phased approach is recommended, starting small with specific Tier 2 resources to
+  validate the methodology before scaling.
+insights:
+  - Preserve the core purity of research, avoiding dilution by noise.
+  - Establish a convergence tier comprising only validated, peer-level researchers.
+  - Reference material should provide context but not be the synthesis priority.
+  - Scale research initiatives thoughtfully, starting small and monitoring coherence.
+  - >-
+    Engage with specific individuals (e.g., Antigravity) regarding architectural and search concepts
+    before selecting initial validation resources.
+  - Validate the approach with approximately 20-30 neurons before scaling.
+tags:
+  - '#mesh'
+  - '#research'
+  - '#synthesis'
+  - '#validation'
+  - '#scaling'
+  - '#knowledge'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.98
+created_at: '2026-02-07T06:00:00.907Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
