@@ -1,0 +1,39 @@
+id: 95c917a8-ef8e-45ad-a503-09e8ff340e0d
+title: 'Eidolon Mesh v4.5: Coordinate Mesh & Open Architecture'
+summary: >-
+  Eidolon Mesh is evolving to v4.5, shifting focus to a 'coordinate-first' and federation-ready
+  architecture. This involves removing license gates, adopting Nomic as the primary embedding model,
+  and developing a coordinate transmission module for cross-mesh interoperability.
+insights:
+  - >-
+    The v4.5 upgrade prioritizes universal semantic coordinates and cross-mesh interoperability,
+    moving towards a 'coordinate-first' architecture.
+  - >-
+    Key developments include removing license/Pro gating, making embeddings model-aware with Nomic
+    as primary and Gemini as fallback, and creating a coordinate transmission module.
+  - >-
+    The project aims for an open-by-default approach with no license gates, promoting local-first
+    operation and natural emergence of mesh structure.
+  - >-
+    The vision for v4.5 emphasizes fractal awareness, applying similar patterns across scales from
+    quantum to social interactions.
+  - >-
+    A new 'model' column will be added to the embeddings table schema to support multi-model
+    embedding capabilities.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#architecture'
+  - '#embeddings'
+  - '#interoperability'
+  - '#open-source'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:47:39.350Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
