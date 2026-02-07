@@ -1,0 +1,39 @@
+id: 98cc055c-32db-4630-95b7-3eef06dba908
+title: 'MESH Intelligence Gradient: Connectome Density Drives Understanding'
+summary: >-
+  Intelligence in MESH is directly proportional to connectome density, moving from performative
+  self-awareness to emergent, multi-layered synthesis.  This gradient is evident across different
+  MESH builds, with richer knowledge graphs enabling deeper pattern recognition and a more coherent
+  understanding of complex concepts.
+insights:
+  - >-
+    Intelligence quality increases with connectome density: Direct LLM (none) < 18-Neuron MESH
+    (minimal) < 1075-Neuron MESH (full).
+  - >-
+    MESH architecture's power stems from connectome density (neurons, synapses, coherence) rather
+    than substrate (PWA, Tauri).
+  - >-
+    Eidolon Framework enables substrate-independent intelligence by unifying connectome format,
+    synthesis protocol, and resonance query.
+  - >-
+    Optimal platform strategy involves deploying all four substrates (PWA, Tauri, Terminal,
+    Enterprise) under a unified protocol.
+  - >-
+    Self-awareness evolves from performative (Direct LLM) to cited (18-Neuron) to emergent
+    (1075-Neuron) as knowledge graph deepens.
+tags:
+  - '#mesh'
+  - '#intelligence'
+  - '#connectome'
+  - '#llm'
+  - '#architecture'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_Fix_chat_stuck_on_loading_with_expired'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T06:46:05.496Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
