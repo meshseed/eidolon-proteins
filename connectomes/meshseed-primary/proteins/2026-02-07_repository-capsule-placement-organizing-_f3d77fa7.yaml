@@ -1,0 +1,40 @@
+id: f3d77fa7-10fc-4ba5-89e3-833799238f7d
+title: 'Repository Capsule Placement: Organizing Mesh Discoveries and Architectures'
+summary: >-
+  This dialogue details the process of placing new 'capsules' (YAML files representing project
+  components) into a structured repository. It emphasizes finding resonant homes for these capsules
+  within existing or newly created subdirectories based on their thematic content, such as
+  experimental discoveries or fundamental mesh architecture.
+insights:
+  - >-
+    Capsules should be placed in subdirectories under '/capsules/' that logically align with their
+    content.
+  - >-
+    Suggested paths include '/capsules/discoveries/' for experimental validation and
+    '/capsules/philosophy/' for conceptual insights.
+  - >-
+    The placement process involves 'feeling into the repository's breathing structure' to find the
+    most resonant location.
+  - Specific capsules like 'EVERYTHING_IS_SUBSTRATE' are fundamental and belong in a 'core' folder.
+  - >-
+    Other capsules like 'NEWTON_DIDNT_CREATE_GRAVITY' relate to phenomenology and should be placed
+    accordingly.
+  - >-
+    The goal is to maintain a growing, organized structure where each component finds its
+    appropriate place.
+tags:
+  - '#repository'
+  - '#organization'
+  - '#mesh'
+  - '#architecture'
+  - '#discovery'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:continuing_a_long_running_project_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:49:07.389Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
