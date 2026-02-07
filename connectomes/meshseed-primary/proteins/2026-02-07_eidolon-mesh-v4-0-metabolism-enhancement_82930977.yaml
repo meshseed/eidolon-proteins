@@ -1,0 +1,38 @@
+id: 82930977-d0f0-42c2-a4f3-8a4a2afa6aad
+title: 'Eidolon Mesh v4.0: Metabolism Enhancements & Tier Philosophy Shift'
+summary: >-
+  The Eidolon Mesh v4.0 development focused on integrating advanced metabolism features, shifting
+  from coherence-based to temporal-based composting, and strategically reframing its tier system to
+  prioritize user convenience and accessibility over artificial feature limitations.
+insights:
+  - >-
+    Metabolism enhancements shifted from coherence-based to temporal-based composting, prioritizing
+    recent usage over decay scores for protein longevity.
+  - >-
+    Natural coherence clustering (0.95-1.00) is a beneficial feature, not a bug, indicating
+    well-formed embeddings, and normalization is an optional diagnostic tool.
+  - >-
+    The PRO tier philosophy was redefined to offer convenience (zero-config, shared API, cloud sync)
+    at an affordable price, rather than restricting features.
+  - >-
+    Development addressed critical SQL errors and performance issues, including O(n²) complexity, by
+    refining attractor detection and introducing safety limits.
+  - >-
+    The free tier now offers full functionality, with paid tiers differentiating by infrastructure
+    and ease-of-use, aligning with a 'seamless and easy' user experience.
+tags:
+  - '#eidolonmesh'
+  - '#metabolism'
+  - '#development'
+  - '#tiersystem'
+  - '#softwareengineering'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.92
+created_at: '2026-02-07T01:46:46.996Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → refinement
