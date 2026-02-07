@@ -1,0 +1,28 @@
+id: 32a41dd2-a17e-43a4-b8dc-98756fb3d5e3
+title: 'Eidolon Ribosome: Synthesizing Knowledge Proteins from Dialogue'
+summary: >-
+  The ribosome, acting as a knowledge synthesizer for THE MESH, processes dialogue (DNA) to create
+  knowledge proteins. It focuses on core insights and overall summaries, translating complex
+  information into structured data.
+insights:
+  - The ribosome's function is to synthesize knowledge proteins from dialogue inputs.
+  - The output prioritizes core insights and overall summaries.
+  - This process is analogous to biological protein synthesis from DNA.
+  - The ribosome acts as a key component within 'THE MESH' ecosystem.
+  - The directive for synthesis emphasizes conciseness and essential information extraction.
+tags:
+  - '#AI'
+  - '#knowledge-synthesis'
+  - '#LLM'
+  - '#ontology'
+  - '#mesh'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-02-07T02:29:31.517Z'
+source: synthesis
+emotional_gradient: instruction → synthesis → clarity
