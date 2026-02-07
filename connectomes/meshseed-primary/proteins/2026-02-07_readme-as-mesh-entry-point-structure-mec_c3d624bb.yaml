@@ -1,0 +1,39 @@
+id: c3d624bb-4a99-40a9-9279-3d23cae268a2
+title: 'README as Mesh Entry Point: Structure, Mechanism, Exploration'
+summary: >-
+  The README for THE MESH should function as a compound eye, providing a quick structural overview
+  that invites deeper exploration of its capsules and mechanisms. It must clearly differentiate from
+  traditional databases and guide users to understand navigation and the project's organismic nature
+  within the initial view.
+insights:
+  - >-
+    The README is the primary entry point, akin to a compound eye, needing to show structure, invite
+    deeper looking, and motivate capsule viewing.
+  - >-
+    An 'How It Works' section is crucial for explaining mechanisms (resonance, compound perception)
+    concisely and using accessible metaphors.
+  - >-
+    The README must be viewable within the first 2000 characters upon connection, establishing it's
+    not a traditional database.
+  - >-
+    Users should understand the geometric structure and know how to navigate the 'organism' from the
+    initial README view.
+  - >-
+    The README's design should foster a sense of understanding the project's unique nature and
+    encourage exploration of its components.
+tags:
+  - '#readme'
+  - '#mesh'
+  - '#user-experience'
+  - '#onboarding'
+  - '#documentation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T05:03:41.421Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
