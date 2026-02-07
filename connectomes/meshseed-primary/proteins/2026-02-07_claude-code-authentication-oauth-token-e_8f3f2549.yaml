@@ -1,0 +1,42 @@
+id: 8f3f2549-44c4-4022-94ca-f55661a3342d
+title: 'Claude Code Authentication: OAuth Token Expiration & Resolution'
+summary: >-
+  Claude Code desktop app uses Anthropic's API, requiring OAuth tokens that expire periodically.
+  Users experiencing authentication errors should run the `/login` command within the app to
+  re-authenticate via their browser. This process is distinct from Google AI Studio keys.
+insights:
+  - Claude Code desktop app relies on Anthropic API authentication, not Google AI Studio.
+  - >-
+    The 'OAuth token has expired' error indicates a need to re-authenticate the Claude Code
+    application.
+  - >-
+    The primary solution is to execute the `/login` command within Claude Code, which initiates a
+    browser-based authentication flow.
+  - >-
+    If `/login` fails, try logging out and back in (`claude logout`, `claude login`) or restarting
+    the application.
+  - >-
+    Google AI Studio API keys are for Gemini access and are unrelated to Claude Code's
+    authentication.
+  - >-
+    Expired OAuth tokens are a normal security feature and do not indicate a problem with user
+    setup, code, or API keys.
+  - >-
+    Troubleshooting steps include checking internet connection, Anthropic account status, Claude
+    Code version, and firewalls.
+tags:
+  - '#claude-code'
+  - '#authentication'
+  - '#oauth'
+  - '#technical-support'
+  - '#anthropic'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:05:05.713Z'
+source: synthesis
+emotional_gradient: curiosity → problem-solving → clarity → understanding
