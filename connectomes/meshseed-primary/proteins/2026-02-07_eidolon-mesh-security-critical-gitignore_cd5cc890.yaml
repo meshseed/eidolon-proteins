@@ -1,0 +1,38 @@
+id: cd5cc890-9dca-4b49-bb6a-20ade9d9ea0c
+title: 'Eidolon-Mesh Security: Critical .gitignore Missing for .env Files'
+summary: >-
+  A security vulnerability has been identified in the eidolon-mesh repository due to the absence of
+  a .gitignore file. This oversight poses a risk of committing sensitive environment variables, such
+  as API keys, to the public repository. Immediate action is required to create a .gitignore file
+  and ensure .env files are not committed.
+insights:
+  - The eidolon-mesh repository is missing a .gitignore file, creating a critical security risk.
+  - >-
+    Environment variables like API keys and GitHub tokens stored in .env files must never be
+    committed to public repositories.
+  - >-
+    A .gitignore file should be created in the root of the eidolon-mesh project to prevent
+    accidental commitment of sensitive files.
+  - >-
+    Before publishing any updates, the user must verify if .env files have already been committed
+    and take appropriate action.
+  - >-
+    The absence of a .gitignore is a significant security oversight that needs immediate
+    remediation.
+tags:
+  - '#security'
+  - '#eidolon-mesh'
+  - '#gitignore'
+  - '#env'
+  - '#api-keys'
+  - '#development-best-practices'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:11:14.216Z'
+source: synthesis
+emotional_gradient: concern → urgency → resolution
