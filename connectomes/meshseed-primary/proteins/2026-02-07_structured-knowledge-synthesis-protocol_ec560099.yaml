@@ -1,0 +1,29 @@
+id: ec560099-1c54-4c50-aa90-3992c14b5e08
+title: Structured Knowledge Synthesis Protocol
+summary: >-
+  A protocol for generating structured, atomic knowledge proteins from dialogue, emphasizing
+  semantic coherence and emotional flow through a JSON format with specific fields for analysis and
+  categorization.
+insights:
+  - JSON structure enforces atomic insights and semantic density.
+  - Coherence score requires calibration based on emergent unity.
+  - Tier classification denotes stage of knowledge validation.
+  - Emotional gradient tracks affective trajectory of communication.
+  - Signal peptides categorize data sensitivity and domain.
+tags:
+  - '#json'
+  - '#protocol'
+  - '#knowledge'
+  - '#synthesis'
+  - '#ai'
+  - '#mesh'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_thinking_text_explained_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:41:48.340Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → utility
