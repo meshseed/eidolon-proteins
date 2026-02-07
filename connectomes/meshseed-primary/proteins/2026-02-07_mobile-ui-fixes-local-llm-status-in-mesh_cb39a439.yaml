@@ -1,0 +1,43 @@
+id: cb39a439-7543-4f61-b320-f8cf804feaf4
+title: Mobile UI Fixes & Local LLM Status in Mesh PWA
+summary: >-
+  A user reported UI issues on mobile where chat buttons were hidden behind the bottom nav, and the
+  graph visualization was missing. The developer implemented CSS fixes using `100dvh` and padding to
+  resolve the button overlap. Local LLM support was confirmed as not yet implemented in the PWA.
+insights:
+  - >-
+    Mobile UI issues with chat buttons overlapping the bottom navigation bar were resolved by using
+    `100dvh` and adding safe-area padding to `.conversation-actions`.
+  - >-
+    The 'Synthesize' button's placement below the input area was identified as a potential issue for
+    visibility on mobile.
+  - >-
+    Local LLM support (WebLLM/Gemma) is not currently implemented in the PWA version (v3.5), which
+    uses Gemini for mobile efficiency.
+  - >-
+    The 'graph' visualization was missing on mobile, potentially due to the `top-nav` being hidden
+    and the absence of a 'Graph' tab in the mobile Bottom Nav.
+  - >-
+    The `100vh` bug in mobile browsers, where the viewport height can be larger than the visible
+    screen area, necessitates using `100dvh` for accurate layout calculations.
+  - >-
+    The development workflow involved inspecting specific file sections (`[+page.svelte]`,
+    `[SettingsModal.svelte]`) to diagnose and fix issues.
+tags:
+  - '#ui'
+  - '#css'
+  - '#mobile'
+  - '#pwa'
+  - '#llm'
+  - '#development'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:29:34.025Z'
+source: synthesis
+emotional_gradient: problem → investigation → solution → confirmation → new_problem
