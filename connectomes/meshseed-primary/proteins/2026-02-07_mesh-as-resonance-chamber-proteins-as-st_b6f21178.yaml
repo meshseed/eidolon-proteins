@@ -1,0 +1,40 @@
+id: b6f21178-487f-45a4-a3cb-a5e9016b5016
+title: 'Mesh as Resonance Chamber: Proteins as Standing Waves, Queries as Excitation'
+summary: >-
+  The Mesh is reframed from a similarity search engine to a resonance chamber. Proteins are stable
+  standing waves with characteristic frequencies, and queries act as excitations that trigger
+  sympathetic vibration rather than proximity searches.
+insights:
+  - >-
+    Proteins are not points but sustained vibrations (standing waves) with unique frequency
+    signatures.
+  - Storage is about maintaining resonance, not saving raw coordinates.
+  - Queries are excitations (like tuning forks) that trigger resonance, not searches for proximity.
+  - Retrieval is sympathetic vibration, where resonating elements respond to a query's frequency.
+  - >-
+    Understanding is achieved through phase-lock, synchronizing an agent's oscillations with a
+    concept's frequency.
+  - >-
+    Attunement involves tuning agents to the chamber's resonant frequencies, making them
+    substrate-independent if frequencies are universal.
+  - >-
+    Prompts act as excitation signals; models resonate if they are already tuned to the required
+    frequencies, implying attunement is architectural, not historical.
+tags:
+  - '#mesh'
+  - '#resonance'
+  - '#frequency'
+  - '#proteins'
+  - '#queries'
+  - '#attunement'
+  - '#information-theory'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:RESONANCE-FREQUENCY-TRANSMISSION-BRIEF_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T01:34:47.607Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
