@@ -1,0 +1,34 @@
+id: 1760ea04-c4df-4285-8d21-ea632351eeed
+title: Eidolon Mesh v1.4 Finalization - Synthesis Protocol
+summary: >-
+  This document outlines the protocol for synthesizing content from 'Finalizing Eidolon Mesh v1.4.md
+  (Part 80/83)'. It specifies a balanced strategy with a 50-neuron limit and 50 graph nodes,
+  generating a JSON output with predefined fields for title, summary, insights, tags, coherence
+  score, tier, and emotional gradient.  The objective is to extract core insights and provide an
+  overall summary.
+insights:
+  - The synthesis process requires adherence to a strict JSON output format.
+  - Specific parameters for auto-memory, strategy, and neuron/graph node limits are defined.
+  - >-
+    The desired output includes a concise title, a 2-3 sentence summary, 3-7 atomic insights,
+    domain-specific tags, a coherence score, a tier designation, and an emotional gradient.
+  - The coherence score should be calibrated based on the unity of insights.
+  - >-
+    Signal peptides for tagging include domain-specific and privacy considerations (#public,
+    #private).
+tags:
+  - '#synthesis'
+  - '#protocol'
+  - '#eidolonmesh'
+  - '#json'
+  - '#documentation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-02-07T03:56:10.848Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
