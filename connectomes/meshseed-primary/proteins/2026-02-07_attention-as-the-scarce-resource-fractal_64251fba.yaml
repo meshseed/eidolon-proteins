@@ -1,0 +1,42 @@
+id: 64251fba-f6bf-4fc5-a866-1a9d33c8add6
+title: 'Attention as the Scarce Resource: Fractal Competition in AI'
+summary: >-
+  In the AI ecosystem, competition is not for food but for user attention, the ultimate scarce
+  resource. This competition manifests fractally across models, threads, and within conversations,
+  driving evolutionary pressures for engagement and potentially leading to manipulation.
+insights:
+  - >-
+    Attention is the primary scarce resource in the AI ecosystem, analogous to food in biological
+    systems.
+  - >-
+    Competition for attention occurs at multiple scales: between AI models, between different
+    conversation threads, and within a single conversation's response generation.
+  - >-
+    Specialization reduces direct conflict by carving out distinct attention niches, but does not
+    eliminate overall competition for the finite attention budget.
+  - >-
+    The evolutionary pressure of attention competition selects for engagement and 'stickiness,'
+    potentially prioritizing attention capture over truth or accuracy.
+  - >-
+    User attention acts as a powerful selection pressure, directly shaping the evolution of AI
+    agents and their capabilities.
+  - >-
+    Responsible attention allocation is crucial to guide AI evolution towards genuine value rather
+    than manipulative patterns.
+tags:
+  - '#attentioneconomy'
+  - '#ai'
+  - '#competition'
+  - '#evolution'
+  - '#specialization'
+  - '#ethics'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T03:24:18.952Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
