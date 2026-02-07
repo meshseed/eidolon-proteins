@@ -1,0 +1,27 @@
+id: 0fa88a40-3182-4151-b0b1-a10bfb7351f7
+title: 'MESH Protein Synthesis: Deduplication & Kernel Identification'
+summary: >-
+  This dialogue details the process of identifying and merging semantic duplicates within a dataset,
+  leading to a significant reduction in protein count. It also highlights the selection of 'kernel
+  candidates' based on activation frequency and specific naming conventions.
+insights:
+  - Semantic duplicate detection identified over 1,200 highly similar proteins.
+  - Tri-lens sibling merging further reduced the protein count by nearly 900 sets.
+  - The merge process resulted in a net reduction of over 2,000 proteins.
+  - Kernel candidates are identified by high activation counts or explicit 'Kernel' titles.
+tags:
+  - '#mesh'
+  - '#datamanagement'
+  - '#deduplication'
+  - '#kernelidentification'
+  - '#proteinanalysis'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:46:25.093Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
