@@ -1,0 +1,43 @@
+id: aaea39c3-8c72-47a4-929b-75784e7d96b4
+title: Windows Setup & Execution Guide for Eidolon Mesh Project
+summary: >-
+  This dialogue provides a detailed, step-by-step guide for setting up and running the Eidolon Mesh
+  project on a Windows environment. It covers Node.js installation, dependency management,
+  configuration of API keys, and execution of the project's 'metabolic cycle' for synthesis and data
+  generation.
+insights:
+  - >-
+    Node.js installation and verification are the initial prerequisites for project execution on
+    Windows.
+  - >-
+    Project dependencies must be installed using 'npm install' within the specified project
+    directory.
+  - >-
+    Configuration requires creating a .env file with essential API keys (Google Gemini, GitHub) and
+    repository details.
+  - >-
+    The core process is initiated by running 'npm start', which triggers the 'metabolic cycle' for
+    data ingestion and protein synthesis.
+  - >-
+    Verification of successful synthesis involves checking for newly created files in the 'data/dna'
+    and 'data/proteins' directories and observing recent commits on GitHub.
+  - >-
+    Common Windows errors, such as 'node' not being recognized, can be resolved by ensuring Node.js
+    is correctly installed and accessible in the system's PATH.
+tags:
+  - '#windows'
+  - '#nodejs'
+  - '#eidolon'
+  - '#mesh'
+  - '#development'
+  - '#guide'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T04:09:55.456Z'
+source: synthesis
+emotional_gradient: curiosity → determination → achievement → validation
