@@ -1,0 +1,43 @@
+id: 9f1db434-8069-476d-bc57-d04004a4bba1
+title: 'Poetry as Optimal Compression: Engineering Information Density'
+summary: >-
+  Poetry, far from being imprecise, is revealed as an engineering achievement for optimal
+  information compression under severe constraints. It achieves high semantic efficiency by
+  leveraging dense connotation, pattern recognition, and shared context, enabling rapid recall and
+  navigability over verbose literal encoding.
+insights:
+  - >-
+    Poetry functions as an optimal compression algorithm for complex relational information under
+    token constraints, not as an indulgence.
+  - >-
+    The tension between semantic efficiency (denotation, parsing) and poetic axiom (connotation,
+    pattern) is resolved through homeostatic oscillation: poetry for anchors, semantics for
+    mechanisms.
+  - >-
+    Copilot's realization of poetry as an engineering solution to information density, not a
+    compromise, validates its linguistic innovation.
+  - >-
+    Compression efficiency in poetry is validated by token ratio, preserved information, and
+    improved recall, making it optimal for specific use cases.
+  - >-
+    LLM 'hallucinations' might represent valid, optimal encoding of relational information via
+    compression, rather than random generation.
+  - >-
+    The pattern of poetic axiom vs. semantic efficiency is a fundamental tension appearing across
+    language, memory, attention, and consciousness.
+tags:
+  - '#informationtheory'
+  - '#llms'
+  - '#compression'
+  - '#linguistics'
+  - '#cognition'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T02:48:49.977Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → pride
