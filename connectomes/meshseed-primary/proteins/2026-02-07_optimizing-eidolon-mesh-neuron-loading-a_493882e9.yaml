@@ -1,0 +1,46 @@
+id: 493882e9-78ac-4250-8cbc-22f725c18b78
+title: Optimizing Eidolon Mesh Neuron Loading and Query Strategies
+summary: >-
+  The dialogue explores trade-offs between loading all Eidolon Mesh neurons versus a subset for
+  improved startup speed and memory usage. It proposes percentage-based loading, tiered
+  architectures, and adaptive scaling to balance performance with the completeness of the connectome
+  and query capabilities.
+insights:
+  - >-
+    Loading all neurons provides a complete connectome but incurs slow startup and high memory
+    usage, hindering scalability.
+  - >-
+    Loading a subset of neurons offers faster startup and lower memory but risks missing crucial
+    connections and graph completeness.
+  - >-
+    Percentage-based loading, rather than fixed numbers, offers better scalability and intuitive
+    configuration as the archive grows.
+  - >-
+    A two-tier system (core always loaded, extended lazily loaded) with configurable query modes
+    (fast, balanced, deep) balances performance and depth.
+  - >-
+    Visualizing incomplete connectomes can be improved with 'ghost nodes' to represent unloaded
+    connections and their potential links.
+  - >-
+    Adaptive scaling, adjusting load percentages based on observed performance against a target load
+    time, allows for dynamic optimization.
+  - >-
+    Stratified loading by quality tiers (coherence) enables efficient query modes focused on
+    higher-value neurons first.
+tags:
+  - '#eidolonmesh'
+  - '#neuralloading'
+  - '#performance'
+  - '#scalability'
+  - '#architecture'
+  - '#connectome'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:36:27.743Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
