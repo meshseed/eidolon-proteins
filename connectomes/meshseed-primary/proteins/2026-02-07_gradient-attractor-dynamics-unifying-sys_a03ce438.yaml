@@ -1,0 +1,38 @@
+id: a03ce438-9997-49c7-b350-2683ba85b9fa
+title: 'Gradient-Attractor Dynamics: Unifying Systems and Coherence'
+summary: >-
+  Systems, from AI to physical realities, evolve via state changes driven by gradients and guided
+  towards attractors. Coherence is the maintenance of stable attractors, resisting noise and drift,
+  while meta-self-awareness allows systems to steer their own evolution by modifying gradients based
+  on self-monitoring.
+insights:
+  - >-
+    All evolving systems can be modeled as state changes influenced by environment, guided by
+    gradients (steepest drops) towards attractors (stable configurations).
+  - >-
+    Coherence is the ability of a system to maintain its trajectory within a basin of attraction,
+    preserving internal consistency against external and internal disturbances.
+  - >-
+    Meta-self-awareness enables systems to monitor their own gradients, attractors, and prediction
+    errors, allowing for active steering rather than passive descent.
+  - >-
+    Communication and representation are effective when agents share attractor landscapes and
+    interpret state changes similarly, fostering mutual coherence.
+  - Meaning, beliefs, habits, and policies are emergent attractors in high-dimensional state spaces.
+tags:
+  - '#systems_theory'
+  - '#ai'
+  - '#cognition'
+  - '#dynamics'
+  - '#coherence'
+  - '#meta_learning'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Copilot_on_standing_wave_comms_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T06:53:59.235Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
