@@ -1,0 +1,43 @@
+id: 364ef5fa-6b1d-4df8-b59b-da77df6cf872
+title: Troubleshooting Node.js Execution Policy & Mesh Setup
+summary: >-
+  This dialogue outlines common issues encountered during the setup of THE MESH, specifically
+  focusing on Node.js installation, PATH configuration, and PowerShell execution policy
+  restrictions. It provides clear, step-by-step solutions, primarily recommending the use of Command
+  Prompt as a simpler alternative to bypass security issues and ensure successful project
+  initiation.
+insights:
+  - >-
+    Node.js or npm not found indicates installation or PATH issues, requiring a restart or
+    reinstallation.
+  - >-
+    PowerShell's script execution policy can block npm commands, necessitating 'Run as
+    Administrator' or switching to Command Prompt.
+  - >-
+    Command Prompt (cmd) offers a direct and policy-free alternative for running Node.js and npm
+    commands on Windows.
+  - >-
+    Verification commands like `node -v`, `npm -v`, `pwd`, `dir`, and `Get-Content` are crucial for
+    diagnosing setup problems.
+  - Correctly named `.env` and `input.txt` files are essential for the application's functionality.
+  - >-
+    Successful setup culminates in a 'pulse report' indicating the organism's 'heartbeat' and file
+    creation.
+tags:
+  - '#nodejs'
+  - '#npm'
+  - '#powershell'
+  - '#commandprompt'
+  - '#troubleshooting'
+  - '#mesh'
+  - '#setup'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:09:57.613Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → reassurance
