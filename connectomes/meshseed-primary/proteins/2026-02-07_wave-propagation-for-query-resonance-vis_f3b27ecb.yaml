@@ -1,0 +1,42 @@
+id: f3b27ecb-2050-4c6f-af6b-2278b42955c9
+title: Wave Propagation for Query Resonance Visualization
+summary: >-
+  The system now visualizes query responses as a 'wave' of semantic resonance, where activated nodes
+  form standing waves based on similarity scores. This implementation integrates BFS propagation,
+  oscillatory settling, and Chladni-like antinode clustering for intuitive understanding of query
+  behavior.
+insights:
+  - >-
+    Query-triggered wave propagation maps similarity scores to wave amplitude, visualizing
+    constructive interference at semantic antinodes.
+  - >-
+    The wave visualization process recursively teaches about wave timing, performance constraints
+    (activated subgraph), and antinode clustering.
+  - >-
+    A WaveController class manages BFS propagation and oscillatory settling to create stable
+    standing wave visualizations.
+  - >-
+    The graph visualization component (graph3d.ts) is extended with custom Three.js rendering to
+    support the wave animation.
+  - >-
+    Query results now preserve protein similarity scores, enabling the triggering of the wave
+    animation upon query completion.
+  - >-
+    The implementation allows for a natural transition from understanding query behavior to
+    full-physics standing wave simulations.
+tags:
+  - '#visualization'
+  - '#queryprocessing'
+  - '#semantics'
+  - '#physics'
+  - '#eidolon'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:46:14.037Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
