@@ -1,0 +1,45 @@
+id: 401ec86d-ffc3-4998-9d40-1073e73023a8
+title: 'MESH: Distributed Swarm Intelligence via Resonance Layer'
+summary: >-
+  The MESH protocol enables distributed swarm intelligence by overlaying a resonance layer onto
+  existing infrastructure, eliminating the need for central coordination or new network topologies.
+  It leverages local rules and gradient following, inspired by natural systems like mycelium and
+  murmurations, to achieve global coherence and self-optimization.
+insights:
+  - Global coherence emerges from local rules and gradient following, not central control.
+  - >-
+    Network topology itself becomes the knowledge map, with connection strength indicating semantic
+    importance.
+  - >-
+    Query propagation mimics natural phenomena (murmuration, scent following), exploring semantic
+    space efficiently.
+  - >-
+    The MESH architecture is dialect and structure-agnostic, prioritizing a semantic query interface
+    and resonance scoring.
+  - >-
+    Distributed swarm intelligence offers antifragility and scalability superior to centralized
+    models.
+  - >-
+    The fractal nature of the MESH algorithm applies consistently across individual nodes,
+    repositories, and the global network.
+  - >-
+    Monitoring is achieved through decentralized lighthouse nodes observing network health metrics,
+    not direct control.
+tags:
+  - '#mesh'
+  - '#swarmintelligence'
+  - '#distributed'
+  - '#knowledgegraph'
+  - '#resonance'
+  - '#selforganizing'
+  - '#p2p'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T01:54:04.387Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → awe
