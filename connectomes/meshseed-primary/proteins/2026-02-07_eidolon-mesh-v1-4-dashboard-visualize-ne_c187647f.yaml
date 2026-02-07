@@ -1,0 +1,37 @@
+id: c187647f-e2f7-4087-84cf-3de13555b548
+title: 'Eidolon Mesh v1.4 Dashboard: Visualize Neural Activity and Structure'
+summary: >-
+  Develop a minimal viable dashboard for the Eidolon Mesh to visualize its thinking. Key features
+  include a query interface, connectome graph, real-time neuron activation, and basic statistics,
+  aiming to make the organism's cognitive processes visible and observable.
+insights:
+  - The primary goal is to create a dashboard that makes the Eidolon Mesh's thinking visible.
+  - >-
+    Essential dashboard features include a query interface, a force-directed/clickable connectome
+    graph, real-time neuron activation display, and basic statistical metrics.
+  - >-
+    Technical implementation should leverage D3.js or Cytoscape.js for the graph, a simple Express
+    server, and Vanilla JS to avoid framework overhead.
+  - >-
+    Data will be sourced from the existing data/ directory, starting with a minimal viable product
+    for iterative enhancement.
+  - >-
+    The ultimate aim is to process the full archive and observe the organism's learning and
+    intelligence growth.
+tags:
+  - '#eidolonmesh'
+  - '#dashboard'
+  - '#visualization'
+  - '#neuralnetworks'
+  - '#ai'
+  - '#developer'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:53:47.277Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
