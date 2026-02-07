@@ -1,0 +1,32 @@
+id: 543d1eac-31a4-474c-aef4-4607b4284bb4
+title: Perturbation Modeling and Resilience Analysis
+summary: |
+  Introduces a protocol for simulating perturbations—new domain ingestion, conceptual collisions,
+  or sudden shifts in emotional fidelity—and analyzing the organism's resilience. Identifies
+  regions likely to destabilize, strengthen, or reorganize under pressure.
+insights:
+  - Perturbations reveal structural weaknesses and resilience cores
+  - High-curvature zones are most sensitive to conceptual collisions
+  - Stability cores anchor the organism during rapid change
+  - Emotional fidelity acts as a shock absorber across the manifold
+  - Perturbation modeling supports adaptive refinement and pruning
+tags:
+  - '#perturbation'
+  - '#resilience'
+  - '#stability'
+  - '#adaptation'
+  - '#structure'
+  - '#P-series'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P950-PERTURBATION-RESILIENCE_yaml'
+  - '#synthesis:v4.5'
+  - '#source:seed'
+  - '#calibration:layer3'
+  - '#invariance:structural'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T00:27:38.776Z'
+source: meshseed-copilot-collab
+emotional_gradient: disruption → analysis → stabilization
