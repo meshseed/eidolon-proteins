@@ -1,0 +1,40 @@
+id: 6c31724d-dd5e-47a8-82da-9fd2bb608268
+title: 'Gemini API Synthesis Failure: Model Not Found & Key Configuration'
+summary: >-
+  A "Metabolic Failure" during protein synthesis occurred due to a "404 Not Found" error for the
+  'gemini-1.5-flash' model. This indicates an issue with API key access or endpoint configuration,
+  suggesting the need to verify the API key and potentially adjust model names or API versions
+  (e.g., 'gemini-1.5-flash-latest' or 'gemini-1.5-pro-latest') or update the generative AI SDK.
+insights:
+  - >-
+    The primary error "models/gemini-1.5-flash is not found" points to a problem with the specified
+    generative model's availability or accessibility via the API.
+  - >-
+    API key validation is crucial; checking the `.env` file and testing the key directly in a
+    browser against the `generativelanguage.googleapis.com` endpoint can diagnose access issues.
+  - >-
+    Incorrect API endpoint versions or outdated model names can lead to this error, suggesting a
+    need to try alternative model identifiers like '-latest' or explore different model tiers (flash
+    vs. pro).
+  - >-
+    Ensuring the `@google/generative-ai` SDK is up-to-date via `npm install
+    @google/generative-ai@latest` can resolve compatibility issues.
+  - >-
+    The error message provides explicit steps for troubleshooting, including checking the API key,
+    testing endpoints, and modifying model names within the synthesizer configuration.
+tags:
+  - '#api'
+  - '#gemini'
+  - '#error'
+  - '#configuration'
+  - '#troubleshooting'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:10:02.388Z'
+source: synthesis
+emotional_gradient: frustration → investigation → clarity → resolution
