@@ -1,0 +1,42 @@
+id: c3c4e2ce-368a-4d80-93dc-856c594e0be7
+title: Eidolon Mesh v3.6 Production & v4.0 Architecture Development
+summary: >-
+  Eidolon Mesh has successfully deployed v3.6 with a 36-protein golden connectome to
+  eidolon-mesh.net, serving the public. Concurrently, v4.0 architecture development is progressing,
+  exploring advanced features like synapse regeneration and P-Series protocols, with a hybrid
+  deployment strategy recommended to leverage existing stability while advancing future
+  capabilities.
+insights:
+  - v3.6 is live on eidolon-mesh.net, featuring a 36-protein golden connectome and public usage.
+  - >-
+    app.eidolon-mesh.net is planned for a 1000+ protein connectome, currently under development
+    within v4.0 architecture.
+  - >-
+    Two development streams exist: Antigravity's v3.6 for production and the current team's v4.0 for
+    architectural advancements.
+  - >-
+    A hybrid approach is recommended: deploy v3.6 to app.eidolon-mesh.net now, continue v4.0
+    development, and migrate later.
+  - >-
+    Git coordination is crucial, with distinct domains for production (Antigravity) and experimental
+    development (current team).
+  - >-
+    Synapse regeneration testing in v4.0 is vital for validating architectural hypotheses and
+    determining readiness for public deployment.
+tags:
+  - '#production'
+  - '#architecture'
+  - '#development'
+  - '#connectome'
+  - '#hybridstrategy'
+  - '#git'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:47:07.565Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
