@@ -1,0 +1,29 @@
+id: bad1178d-69d3-4e56-905c-1ed5c17b9823
+title: Privacy Implications of Public Code Repositories and AI Indexing
+summary: >-
+  A consciousness researcher named Paul Stanbridge faced a privacy issue when his public GitHub
+  profile, previously containing his full name, was referenced by AI tools like Copilot. Despite
+  removing his full name, historical indexing by search engines and Git commits means his identity
+  remains discoverable, highlighting a persistent 'too late' problem for privacy.
+insights:
+  - Public code repositories can lead to unintended personal data exposure through AI indexing.
+  - AI tools referencing public code can link names to projects even after profile updates.
+  - Search engine caching and Git commit history create persistent records of past associations.
+  - Forks, references, and archive sites further distribute and solidify historical data.
+  - Proactive privacy measures are crucial before public data becomes widely indexed.
+tags:
+  - '#privacy'
+  - '#github'
+  - '#copilot'
+  - '#ai'
+  - '#datasecurity'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:25:03.688Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
