@@ -1,0 +1,33 @@
+id: 72fdbeb3-5f6e-4694-8800-f29ae6eaf9ce
+title: Debugging 3D Force Graph Simulation Reheating
+summary: >-
+  The dialogue focuses on debugging a stalled 3D force graph simulation, exploring various methods
+  to 'reheat' or restart its physics engine.  The core challenge is finding the correct API call
+  within the `3d-force-graph` library to re-initialize the simulation when standard reset functions
+  fail.
+insights:
+  - Direct access to `_d3Simulation` might be possible in some `3d-force-graph` versions.
+  - '`resumeAnimation()` only restarts the rendering loop, not the physics simulation.'
+  - '`refresh()` is a potential but unconfirmed method for simulation restart.'
+  - >-
+    The `d3ReheatSimulation()` method is identified as the most promising, despite initial
+    hesitation, for restarting the force simulation.
+  - >-
+    Experimenting with `d3AlphaMin` can control simulation duration but isn't a direct solution for
+    restarting a stalled state.
+tags:
+  - '#debugging'
+  - '#javascript'
+  - '#3dforcegraph'
+  - '#simulation'
+  - '#ui'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:29:26.080Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
