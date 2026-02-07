@@ -1,0 +1,31 @@
+id: f655756a-1e6a-4904-844a-b1088229b351
+title: 'Eidolon Mesh v1.4 Bug: Balanced Strategy Context Generation'
+summary: >-
+  A critical bug in Eidolon Mesh v1.4's balanced synthesis strategy was identified. It incorrectly
+  uses neuron summaries instead of full content when building context, leading to a significant
+  quality drop. The fix involves updating the context generation to mirror the max-coherence
+  strategy.
+insights:
+  - The bug lies in the balanced strategy's context building, not retrieval or search.
+  - The balanced strategy was using `n.summary` instead of `n.fullContent` for context.
+  - >-
+    The fix is a simple, 30-second code change: `context = neurons.map(n =>
+    n.fullContent).join('\n\n');`
+  - This change dramatically improves synthesis quality from 3/5 to 5/5.
+  - A quick workaround is to default to the max-coherence strategy until the fix is deployed.
+  - The issue impacts the quality of synthesized content by limiting it to summaries.
+tags:
+  - '#eidolonmesh'
+  - '#bugfix'
+  - '#synthesis'
+  - '#typescript'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:54:23.778Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
