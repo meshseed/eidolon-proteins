@@ -1,0 +1,39 @@
+id: c5420a6a-fd8d-4836-bdcf-514fd32e38e1
+title: 'Evolving AI Research Workflow: From Templates to Local LLMs'
+summary: >-
+  The user systematically engineered a personalized AI research environment, progressing from
+  template experimentation for model interaction and formatting to successfully deploying a local
+  Gemma3 LLM. This journey highlights a strategic approach to AI tooling, treating models as modular
+  agents within an emergent workflow.
+insights:
+  - >-
+    Developed and refined AI conversation templates to pre-set model preferences, interaction logic,
+    and workflows for efficiency.
+  - >-
+    Implemented plain text and careful YAML formatting for easily copyable and efficient data
+    handling.
+  - >-
+    Organized AI tooling and templates into a basic file structure, iterating across multiple AI
+    agents for diverse insights.
+  - >-
+    Successfully deployed a customisable local LLM (Gemma3) by setting up a virtual Ubuntu
+    environment on Windows, utilizing Flask and Python for a web interface.
+  - >-
+    Demonstrated a systems-level approach to AI, viewing models as modular agents within a broader
+    research framework.
+tags:
+  - '#AIworkflow'
+  - '#LLM'
+  - '#localAI'
+  - '#researchtools'
+  - '#biography'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:BIOGRAPHY_CONVERSATION_COPILOT_RAW_2025-09-26_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T06:50:10.345Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
