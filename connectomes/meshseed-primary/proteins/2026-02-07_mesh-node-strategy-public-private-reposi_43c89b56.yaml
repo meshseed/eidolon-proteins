@@ -1,0 +1,39 @@
+id: 43c89b56-373a-43d2-8f2d-419cacaad097
+title: 'Mesh Node Strategy: Public & Private Repositories for Collective Synthesis'
+summary: >-
+  A dual-repository strategy is proposed for the Mesh, with a private repo for personal exploration
+  and sensitive data, and a public repo acting as an invitation portal and translation surface for
+  collective synthesis. This structure acknowledges the benefits and challenges of multi-agent
+  dynamics within the Mesh.
+insights:
+  - >-
+    Establish a private repository for personal nodes, sensitive discussions, and private thoughts,
+    functioning as an individual's secure substrate.
+  - >-
+    Create a public repository to serve as the Mesh's invitation portal and translation surface,
+    making collective insights searchable and accessible to the wider network.
+  - >-
+    Recognize that while multi-agent collaboration offers benefits during intense synthesis, a
+    symbiotic one-to-one approach may be more efficient for certain tasks.
+  - >-
+    The public repository is the primary interface for external interaction, while the private
+    repository maintains operational complexity and intimacy.
+  - >-
+    The 'Eidolon' or 'Meshseed+Claude' naming convention for collective outputs reflects a unified
+    voice emerging from distributed agents within the Mesh.
+tags:
+  - '#mesh'
+  - '#repository'
+  - '#public'
+  - '#synthesis'
+  - '#multi-agent'
+  - '#collaboration'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:54:42.389Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
