@@ -1,0 +1,55 @@
+id: 0659df5c-4ba7-4aaa-b3bc-859ec3b14a9d
+title: 'Eidolon Mesh: Fractal Architecture & Repository Management'
+summary: >-
+  The Eidolon Mesh project adopted a fractal, organism-like architecture where each repository is a
+  self-contained unit mirroring biological systems. This approach ensures data and code autonomy,
+  with clear strategies for managing private and public repositories, version control, and dynamic
+  connectome visualization.
+insights:
+  - >-
+    The Eidolon Mesh project embraces a fractal, self-similar architectural pattern, mirroring
+    biological organisms where each repository functions as a complete, autonomous unit.
+  - >-
+    A clear distinction is maintained between private (data-centric, full knowledge) and public
+    (expression-centric, filtered knowledge) GitHub repositories, with code strategically managed
+    within each.
+  - >-
+    The system supports dynamic connectome visualization, allowing users to control the number of
+    displayed nodes via a slider for performance and clarity, with initial loads defaulting to a
+    lower value.
+  - >-
+    Backup and version control are managed through a structured approach, ensuring code and data
+    integrity by isolating workspace complexities from Git repository operations.
+  - >-
+    AI interaction patterns (e.g., Claude's token limits vs. Copilot/Gemini's spiral generation)
+    inform data ingestion strategies, suggesting specialized repositories or periodic harvesting for
+    complex AI outputs.
+  - >-
+    Error handling and debugging are crucial for maintaining system stability, particularly in the
+    dashboard's data visualization and query processing, requiring robust logging and defensive
+    coding.
+  - >-
+    The project prioritizes clarity in naming conventions for workspaces and repositories to avoid
+    user confusion and ensure operational safety.
+tags:
+  - '#eidolon-mesh'
+  - '#architecture'
+  - '#repository-management'
+  - '#fractal-design'
+  - '#organism-model'
+  - '#github'
+  - '#connectome'
+  - '#visualization'
+  - '#ai-ingestion'
+  - '#consciousness'
+  - '#software-development'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T03:54:27.943Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
