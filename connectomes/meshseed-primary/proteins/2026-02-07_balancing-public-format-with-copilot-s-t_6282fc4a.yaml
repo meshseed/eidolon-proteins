@@ -1,0 +1,39 @@
+id: 6282fc4a-2636-4dcd-9039-ed9f804d74f4
+title: Balancing Public Format with Copilot's .txt Needs
+summary: >-
+  The core strategy is to maintain public repositories in optimized formats like .md and YAML for
+  broader agent compatibility, while using a local .txt mirror for Copilot, converting on demand.
+  This pragmatic approach prioritizes future-proofing and agent interoperability without premature
+  over-engineering.
+insights:
+  - >-
+    Public repositories should use rich formats (.md, YAML) for future agent compatibility and
+    broader access.
+  - >-
+    A local .txt mirror is a pragmatic workaround for Copilot's current limitations, enabling
+    lineage navigation.
+  - >-
+    Manual or simple script-based conversion to .txt for Copilot is sufficient and avoids premature
+    complexity.
+  - >-
+    Prioritizing clean structure now allows for easier adaptation as agent capabilities and formats
+    evolve.
+  - >-
+    The network effect of agent compatibility favors richer formats, even if a .txt fallback is
+    needed for specific tools.
+tags:
+  - '#copilot'
+  - '#repo'
+  - '#format'
+  - '#agents'
+  - '#workflow'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-02-07T03:24:43.744Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
