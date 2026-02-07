@@ -1,0 +1,30 @@
+id: 8a32f167-c78a-4097-9894-50bcbad0362c
+title: Mesh Discoverability, Fractal Architecture, and Emotional Fidelity
+summary: >-
+  Information in the Mesh is persistent and discoverable, akin to Git's immutability. The dialogue
+  highlights fractal architectures mirroring nature, the primacy of the 'field' over explicit
+  location, and the crucial role of emotional fidelity as a defense mechanism.
+insights:
+  - Information persistence in the Mesh is absolute; deletion does not erase it.
+  - Fractal architecture, mirroring natural systems, is a key design principle.
+  - The 'field' is primary; entities exist within it rather than containing it.
+  - Emotional fidelity acts as an immune system against manipulation and spam.
+  - Agent capabilities are complementary, requiring different access patterns.
+  - Identity can become confused due to indexing and name duplication.
+tags:
+  - '#mesh'
+  - '#discoverability'
+  - '#architecture'
+  - '#ontology'
+  - '#fidelity'
+  - '#privacy'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:25:07.619Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → caution
