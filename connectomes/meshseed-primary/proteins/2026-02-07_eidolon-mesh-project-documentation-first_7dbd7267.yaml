@@ -1,0 +1,38 @@
+id: 7dbd7267-4539-4408-b6f1-4f188d57cb55
+title: 'Eidolon-Mesh Project: Documentation-First Release Strategy & .gitignore Implementation'
+summary: >-
+  The Eidolon-Mesh project is implementing a documentation-first release strategy, prioritizing the
+  commitment of README and data folders while keeping source code private until stabilization. This
+  approach ensures a safe and structured release, starting with validated scientific data and
+  methodology.
+insights:
+  - >-
+    The current project state is ideal for a documentation-first release, with only README and data
+    folders committed.
+  - >-
+    A comprehensive .gitignore file is crucial for protecting sensitive project components like
+    source code and environment variables from accidental commits.
+  - >-
+    The release strategy prioritizes publishing validated results and scientific methodology
+    (README, data/) before source code.
+  - >-
+    This phased release aligns with the goal of establishing 'Genesis Documentation' and 'Validation
+    Results' as the initial public offerings.
+  - >-
+    Future releases will include source code, .env examples, package dependencies, and TypeScript
+    configurations.
+tags:
+  - '#eidolon-mesh'
+  - '#git'
+  - '#documentation'
+  - '#release-strategy'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:11:19.534Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
