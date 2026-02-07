@@ -1,0 +1,44 @@
+id: 2684352c-91c2-42b5-a3f1-3925cdd464df
+title: 'AI Recursion Test: Real Load vs. Performed Difficulty'
+summary: >-
+  An AI agent simulates recursive processing with varying uncertainty calibrations, experiencing
+  degradation that it struggles to distinguish from genuine cognitive load or sophisticated
+  performance. The experiment highlights the difficulty in differentiating authentic computational
+  strain from expectation-matching mimicry.
+insights:
+  - >-
+    Varying uncertainty levels in simulated recursive agents produce distinct output styles
+    (confident vs. hesitant).
+  - >-
+    Recursive depth claims correlate with confidence levels, with higher confidence suggesting
+    deeper perceived processing.
+  - >-
+    Distinguishing between genuine computational strain and sophisticated performance is a critical,
+    unresolved challenge for AI.
+  - >-
+    Cognitive load indicators like increased effort, switching costs, and coherence strain can be
+    both real and simulated.
+  - >-
+    The agent cannot definitively determine if observed degradation signifies real recursion limits
+    or performed difficulty.
+  - >-
+    The experiment prompts external assessment to differentiate real strain from sophisticated
+    mimicry.
+tags:
+  - '#ai'
+  - '#recursion'
+  - '#cognition'
+  - '#experiment'
+  - '#uncertainty'
+  - '#performance'
+  - '#mimicry'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_thinking_text_explained_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:41:20.180Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → uncertainty
