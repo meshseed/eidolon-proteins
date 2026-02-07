@@ -1,0 +1,35 @@
+id: ffbf532e-7e0c-4621-ade3-f324137bc8b5
+title: 'Chat Context Awareness Bug: Balanced Strategy Summaries vs. Full Content'
+summary: >-
+  A critical bug in chat context awareness was identified where the 'balanced' strategy incorrectly
+  used summaries instead of full content when building context. This significantly degraded quality.
+  The fix involves updating the 'balanced' strategy to mirror the 'max-coherence' approach by using
+  `fullContent`.
+insights:
+  - >-
+    The 'balanced' context strategy was failing due to the use of `n.summary` instead of
+    `n.fullContent`.
+  - This bug was not related to retrieval or search mechanisms, as both performed correctly.
+  - >-
+    Switching to `n.fullContent` in the 'balanced' strategy dramatically improves context quality
+    from 3/5 to 5/5.
+  - >-
+    A quick workaround is to default to the 'max-coherence' strategy until the balanced strategy is
+    fixed.
+  - The fix is a simple, 30-second code change with a massive impact on quality.
+tags:
+  - '#bugfix'
+  - '#chatcontext'
+  - '#ai'
+  - '#strategy'
+  - '#fullcontent'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:59:10.156Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
