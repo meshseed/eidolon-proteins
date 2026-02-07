@@ -1,0 +1,31 @@
+id: 8c732d5b-eeef-469c-818c-c49d0bef3bf3
+title: 'Eidolon Mesh v1.4: Optimized Loading and Query Strategy'
+summary: >-
+  Proposes a shift to percentage-based, two-tier loading (core/lazy extended) for Eidolon Mesh v1.4,
+  balancing startup speed with data coverage.  This includes starting with 25% core load, querying
+  10% of the archive by default, and offering a 'Deep Search' for comprehensive analysis, all while
+  maintaining transparency and configurability.
+insights:
+  - Adopt percentage-based loading for core and lazy extended data tiers.
+  - Initialize with 25% core data to balance initial load time and coverage.
+  - Default to querying 10% of the archive for fast, quality results.
+  - Implement a 'Deep Search' button for on-demand, full archive queries.
+  - Visualize unloaded connections with ghost nodes for user transparency.
+  - Enable user configuration via sliders for load percentages and search depth.
+  - Empirically optimize load time and query quality against percentage thresholds.
+tags:
+  - '#eidolonmesh'
+  - '#optimization'
+  - '#loadingstrategy'
+  - '#queryoptimization'
+  - '#datascience'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:54:16.365Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
