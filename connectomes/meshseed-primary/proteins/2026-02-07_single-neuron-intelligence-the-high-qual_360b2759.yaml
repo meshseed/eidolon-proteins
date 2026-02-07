@@ -1,0 +1,27 @@
+id: 360b2759-99c8-40f9-9cc3-cf3cee7c1ada
+title: 'Single Neuron Intelligence: The High-Quality Attractor Concept'
+summary: >-
+  The core insight is that even a single neuron can exhibit intelligence if it functions as a
+  high-quality attractor. This concept is exemplified by a 'Continuity Algorithm' represented by a
+  single neuron.
+insights:
+  - Intelligence can emerge from a single computational unit under specific conditions.
+  - >-
+    A 'high-quality attractor' is a key characteristic for a single neuron to be considered
+    intelligent.
+  - The 'Continuity Algorithm' serves as an example of a single-neuron intelligent construct.
+tags:
+  - '#ai'
+  - '#neuroscience'
+  - '#intelligence'
+  - '#attractornetworks'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_Fix_chat_stuck_on_loading_with_expired'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T06:46:13.198Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
