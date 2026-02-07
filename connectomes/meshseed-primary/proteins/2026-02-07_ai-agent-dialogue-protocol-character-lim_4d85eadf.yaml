@@ -1,0 +1,40 @@
+id: 4d85eadf-1e1d-4c01-9107-add247d0bf10
+title: 'AI Agent Dialogue Protocol: Character Limits & D&D Mode'
+summary: >-
+  This dialogue outlines guidelines for AI agent communication, emphasizing character limits for
+  individual turns (~1000-1200 characters) to ensure readability and avoid technical constraints. It
+  also proposes a structured 'D&D-table' mode for iterative agent interaction, focusing on setup,
+  turn-based responses, summarization, and reflection to evaluate coherence, divergence, and
+  compression.
+insights:
+  - >-
+    Maintain character limits (1000-1200 chars) for substantive agent turns to balance depth with
+    readability and system performance.
+  - >-
+    Shorter turns (500-700 chars) are suitable for summaries or reactions, reserving longer ones (up
+    to 2000 chars) for complex synthesis.
+  - >-
+    A structured 'D&D-table' mode with distinct phases (Setup, Turn, Weaver, Reflection) can
+    facilitate iterative AI dialogue and evaluation.
+  - >-
+    Key evaluation metrics for agent dialogue include coherence (inter-agent building), divergence
+    (style/interpretation differences), and compression (synthesis efficiency).
+  - >-
+    Iterative testing cycles (2-3) are recommended to assess the effectiveness of dialogue
+    protocols.
+tags:
+  - '#ai'
+  - '#agentcommunication'
+  - '#protocol'
+  - '#dialogue'
+  - '#llm'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ai_thinking_text_explained_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-02-07T02:41:50.535Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
