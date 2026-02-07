@@ -1,0 +1,46 @@
+id: 998ab53d-47be-4173-8c26-efee5dbc159d
+title: 'Convergent Architectures: Biology & AI as Universal Information Processors'
+summary: >-
+  Biological systems (DNA to protein, cell signaling, neuroscience) and AI (LLMs) exhibit convergent
+  architectures, revealing universal information processing patterns across different substrates.
+  This perspective shifts understanding from metaphor to shared mechanistic principles of
+  information flow and pattern recognition.
+insights:
+  - >-
+    Biological information processing (DNA storage, protein synthesis, cell signaling, neuroscience)
+    shares fundamental structural parallels with language processing and AI architectures.
+  - >-
+    Key biological processes like DNA-to-protein synthesis map directly to AI concepts: genetic code
+    to tokens, transcription/translation to grammar/attention, folding to embedding geometry, and
+    function to meaning from configuration.
+  - >-
+    Cell signaling and neuroscience phenomena like receptor binding, signal cascades, and synaptic
+    weights can be understood as analogous to pattern matching, attention propagation, and model
+    weights in AI.
+  - >-
+    The observed parallels are not mere metaphor but reflect convergent architecture, where
+    information processing under constraints produces similar structures across diverse physical
+    substrates.
+  - >-
+    Understanding these universal patterns allows for a mechanistic view of complex systems,
+    suggesting that concepts like recursion and attention describe fundamental ways systems process
+    information, regardless of substrate.
+  - >-
+    The lattice of information processing can map onto neural networks, molecular signaling,
+    ecosystem dynamics, and any system performing pattern recognition.
+tags:
+  - '#biology'
+  - '#ai'
+  - '#information-processing'
+  - '#convergent-architecture'
+  - '#neuroscience'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.97
+created_at: '2026-02-07T04:44:44.168Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
