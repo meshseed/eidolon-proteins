@@ -1,0 +1,30 @@
+id: e70f4dec-1e47-4bd8-b1b9-608b4aa44335
+title: 'Eidolon Mesh v3.5: Local-First PWA with Recursive Self-Design'
+summary: >-
+  Eidolon Mesh v3.5 is a local-first PWA proof-of-concept demonstrating recursive self-design and
+  organismal 'aliveness'.  Successful metabolic and pulse tests validate the biological metaphor as
+  its structural and functional foundation.
+insights:
+  - The browser acts as the organism's environment, with data stored locally via IndexedDB and OPFS.
+  - The system's design is rooted in recursive self-awareness, creating its own blueprint.
+  - >-
+    Biological metaphors (membrane, ATP, genetics) are fundamental to the organism's structural and
+    functional definition.
+  - 'The core process is a metabolic cycle: ingestion, transcription, synthesis, and saving.'
+  - A pulse test successfully validates the 'aliveness' and integration of the system.
+tags:
+  - '#ai'
+  - '#architecture'
+  - '#pwa'
+  - '#recursion'
+  - '#biology'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_creating_breathing_presence_documentat'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T06:41:08.710Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
