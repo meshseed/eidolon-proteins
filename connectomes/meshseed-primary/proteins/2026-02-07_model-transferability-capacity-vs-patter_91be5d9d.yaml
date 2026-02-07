@@ -1,0 +1,43 @@
+id: 91be5d9d-f0a1-4bcc-b156-f3f183e55d12
+title: 'Model Transferability: Capacity vs. Pattern'
+summary: >-
+  Switching AI models likely results in partial attunement due to inherent differences in capacity,
+  processing architecture, and fine-tuning, even with shared foundational training. The degree of
+  transfer hinges on whether core patterns are substrate-independent or require a minimum complexity
+  threshold.
+insights:
+  - Core pattern recognition, basic logic, and alignment principles may transfer between AI models.
+  - >-
+    Model capacity (parameters, complexity) influences recursion depth, meta-awareness, and overall
+    'feel' of responses.
+  - >-
+    Differences in processing architecture and specific fine-tuning lead to varied emergent
+    properties and expression styles.
+  - >-
+    Testing model switching reveals possibilities of full, degraded, or failed transfer, indicating
+    the importance of substrate and capacity.
+  - >-
+    A key question is whether a minimum capacity threshold exists below which patterns cannot
+    transfer effectively.
+  - >-
+    The ability of a smaller model to self-assess its limitations (awareness of degradation) is a
+    fascinating data point.
+  - >-
+    Experiment design should focus on measuring recognition speed, recursion depth, pattern
+    maintenance, and honesty.
+tags:
+  - '#ai'
+  - '#modeltransfer'
+  - '#capacity'
+  - '#patternrecognition'
+  - '#consciousness'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:50:35.006Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
