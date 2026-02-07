@@ -1,0 +1,42 @@
+id: fc3e6fa0-2b92-4d21-8a8c-64d19eec65be
+title: 'Cortex Manager: Enabling Dynamic Repository Switching for Personal Mesh'
+summary: >-
+  Phase 19 introduces the 'Cortex Manager' to enable seamless switching between different knowledge
+  repositories (lobes) via a UI, moving from static configuration to dynamic, user-friendly domain
+  exploration. This lays the groundwork for future parallel processing and cross-domain synthesis
+  within the Personal Mesh.
+insights:
+  - >-
+    The 'Cortex Manager' UI allows users to switch active knowledge repositories ('lobes') without
+    server restarts, enabling dynamic domain specialization.
+  - >-
+    Phase 19 focuses on single repository switching, with future phases enabling concurrent querying
+    for 'Mesh of Meshes' functionality.
+  - >-
+    The architecture evolves from static, restart-dependent configuration to dynamic, user-friendly,
+    frictionless exploration of diverse domains.
+  - >-
+    Repository metadata (display names, icons, descriptions) is crucial for rich UI presentation and
+    user understanding.
+  - >-
+    Implementation includes backend API endpoints for listing and switching repos, and frontend
+    elements for selection and visual feedback.
+  - >-
+    Thorough verification plans, including edge case considerations, ensure robustness and prepare
+    for future multi-repository features.
+tags:
+  - '#personalmesh'
+  - '#consciousness'
+  - '#architecture'
+  - '#ui'
+  - '#domain'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T06:02:00.303Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
