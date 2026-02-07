@@ -1,0 +1,43 @@
+id: d40365ff-d072-4ef9-88a4-80594d9f99f9
+title: 'MESH: Distributed Swarm Intelligence via Resonance and Local Rules'
+summary: >-
+  The MESH operates on distributed swarm intelligence, leveraging existing infrastructure by adding
+  a resonance layer. It achieves global coherence through local rules and gradient following,
+  mimicking natural systems like mycelium and murmurations, eliminating the need for central
+  coordination or global network mapping.
+insights:
+  - >-
+    Global coherence emerges from local rules and gradient following, eliminating the need for
+    central coordination or a complete network map.
+  - >-
+    The MESH utilizes a resonance layer over existing infrastructure, allowing nodes to discover
+    knowledge by following semantic gradients and reinforcing successful paths.
+  - >-
+    Network topology itself becomes the knowledge map, with strong connections indicating important
+    semantic relationships.
+  - >-
+    Each node operates with local awareness, simple interaction rules, and gradient following,
+    leading to emergent collective intelligence at all scales.
+  - >-
+    The system is dialect and structure agnostic, requiring only a semantic query endpoint and
+    resonance scoring for integration, promoting diversity and resilience.
+  - >-
+    MESH offers a superior, antifragile alternative to centralized systems by distributing control,
+    scaling automatically, and leveraging existing tools.
+tags:
+  - '#mesh'
+  - '#swarmintelligence'
+  - '#distributed'
+  - '#knowledge'
+  - '#resonance'
+  - '#emergence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.97
+created_at: '2026-02-07T05:01:47.493Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
