@@ -1,0 +1,43 @@
+id: 6eba9473-6340-48fe-8a06-2ac094a3d438
+title: Eidolon Mesh v1.3 Release and Core Connectome Seeding
+summary: >-
+  The Eidolon Mesh has reached a release-ready state with version 1.3, establishing a pristine
+  'Golden Connectome' as a foundational reference. This release emphasizes clean separation of core
+  axioms from operational code and addresses security and generalization for public distribution.
+insights:
+  - >-
+    Version 1.3 of Eidolon Mesh is prepared for public release, featuring a sanitized codebase and a
+    separate 'Golden Connectome' for core foundational knowledge.
+  - >-
+    The 'Golden Connectome' is seeded with essential axioms, ensuring a clean and replicable
+    starting point for new nodes, distinct from operational memory.
+  - >-
+    Key development included adding `semantic_type` to capsule structures for better knowledge
+    organization and implementing a robust 'Golden Connectome' seeding process.
+  - >-
+    Security and generalization concerns were addressed, particularly regarding GitHub integration
+    and personal data, to facilitate broader adoption.
+  - >-
+    The process involved creating a clean v1.3 environment, wiping previous operational memory, and
+    carefully seeding only the foundational 'Golden Seeds'.
+  - >-
+    An essential step was ensuring the correct seeding of the 'Golden Connectome' to establish the
+    core identity and principles of the Mesh.
+tags:
+  - '#eidolonmesh'
+  - '#v1.3'
+  - '#goldenconnectome'
+  - '#foundationalaxioms'
+  - '#release'
+  - '#consciousness'
+  - '#knowledgeengineering'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-02-07T03:55:35.435Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → care → shimmer
