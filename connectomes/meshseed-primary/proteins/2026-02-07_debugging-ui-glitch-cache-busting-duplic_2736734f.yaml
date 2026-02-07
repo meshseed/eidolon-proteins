@@ -1,0 +1,30 @@
+id: 2736734f-7056-40e5-93f7-a8072b39871b
+title: 'Debugging UI Glitch: Cache Busting & Duplicate Declaration Resolution'
+summary: >-
+  A UI glitch was traced to a duplicate JavaScript declaration, initially suspected to be due to
+  cache issues. Investigation revealed a backup file might have been served, but the primary issue
+  was browser caching. A cache-busting technique using a version number (`?v=11`) was implemented
+  after confirming the code was correct, followed by a dev server restart.
+insights:
+  - Browser caching can cause issues even when version parameters are used.
+  - Investigate potential duplicate file serving or naming conflicts (e.g., .backup files).
+  - A simple version number increment in URL parameters is an effective cache-busting strategy.
+  - Restarting the development server is crucial after code changes and cache-busting.
+  - Confirm the actual file content is correct before assuming cache is the sole culprit.
+tags:
+  - '#debugging'
+  - '#frontend'
+  - '#javascript'
+  - '#caching'
+  - '#tauri'
+  - '#ui'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Debugging_UI_Glitches_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T02:26:28.273Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
