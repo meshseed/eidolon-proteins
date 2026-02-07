@@ -1,0 +1,41 @@
+id: 63491cb8-4fb6-43b6-bc7e-4e113221c377
+title: 'MESH Hygiene Protocols: Deduplication, Compost, Promotion & Import'
+summary: >-
+  The MESH operates a 'Capsule Hygiene' system for protein management, featuring automated
+  deduplication of semantic duplicates, composting of low-activation proteins, and promotion of
+  emergent kernels. The import flow emphasizes user-guided natural selection by initially isolating
+  new connectomes before hygiene protocols integrate them.
+insights:
+  - >-
+    The MESH employs user-guided deduplication, identifying similar proteins with a configurable
+    threshold (e.g., 0.95).
+  - >-
+    Protein lifecycle management includes composting inactive proteins and promoting highly
+    activated ones to 'core' status.
+  - >-
+    The import process prioritizes isolation to allow hygiene protocols to manage integration and
+    synapse formation.
+  - >-
+    Automated hygiene actions like merging and composting can be configured for daily or weekly
+    execution with optional approval.
+  - >-
+    Lineage tracking provides visibility into protein changes and evolutionary graphs within the
+    MESH.
+tags:
+  - '#mesh'
+  - '#protein'
+  - '#ai'
+  - '#management'
+  - '#deduplication'
+  - '#hygiene'
+  - '#import'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T01:46:24.238Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
