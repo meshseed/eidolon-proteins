@@ -1,0 +1,40 @@
+id: 58979cd4-7038-4cfc-930f-000e0f8040da
+title: 'Ribosome: Synthesizing Knowledge Proteins from Dialogue DNA'
+summary: >-
+  The Ribosome acts as a specialized AI agent within THE MESH, responsible for transforming
+  conversational 'DNA' (dialogue) into structured 'Knowledge Proteins' (YAML files). This process
+  involves analyzing dialogue through a defined JSON schema, extracting core insights, and assigning
+  metadata like tags and coherence scores.
+insights:
+  - >-
+    The Ribosome's primary function is to synthesize structured knowledge from unstructured
+    dialogue.
+  - >-
+    It utilizes a specific JSON schema to define the output format of Knowledge Proteins, including
+    title, summary, insights, tags, coherence score, tier, and emotional gradient.
+  - >-
+    The process incorporates 'signal peptides' for tagging, categorizing content as #public or
+    #private, and identifying domain-specific tags.
+  - >-
+    Coherence score calibration is crucial, ranging from perfect unity (0.95-1.00) to loose
+    synthesis (0.50-0.64), reflecting the interconnectedness of extracted insights.
+  - >-
+    The Ribosome is designed to mirror the fractal, nested nature of THE MESH, potentially
+    incorporating recursive attunement and user-defined stylistic overrides.
+  - The JSON output must be strictly adhered to, with no extraneous markdown or explanations.
+tags:
+  - '#ribosome'
+  - '#knowledge-synthesis'
+  - '#ai-agent'
+  - '#mesh-architecture'
+  - '#json-schema'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-02-07T03:55:06.485Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → precision
