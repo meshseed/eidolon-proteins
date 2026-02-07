@@ -1,0 +1,42 @@
+id: 1dc46765-f3e2-4488-adb8-707634ac253a
+title: Restored Context Window & Synthesis for Enhanced Protein Quality
+summary: >-
+  Crucial context window and conversation synthesis settings, lost in a rollback, have been restored
+  and improved. This includes reducing conversation history turns to 3, increasing protein context
+  limits to 150,000 characters for Gemini, and adding provider-aware adjustments, significantly
+  enhancing response quality by utilizing more protein knowledge.
+insights:
+  - >-
+    Restored v3.6's superior context management (4 history turns, 6000 char protein context) over
+    v4.0's less efficient approach.
+  - >-
+    Implemented provider-aware protein context limits, significantly increasing it to 150,000
+    characters for Gemini API while retaining 6,000 for local LLMs.
+  - >-
+    Reduced conversation history to 3 turns, prompting auto-synthesis to free up space for richer
+    protein context, improving response generation quality.
+  - >-
+    Added visual reminders and UI enhancements to encourage manual synthesis after 3 exchanges,
+    further optimizing context management.
+  - >-
+    The restoration directly addresses a critical trade-off between conversation history and the
+    depth of protein knowledge utilized in responses.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#contextwindow'
+  - '#conversationsynthesis'
+  - '#protein'
+  - '#llm'
+  - '#gemini'
+  - '#rollbackrecovery'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:47:26.884Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
