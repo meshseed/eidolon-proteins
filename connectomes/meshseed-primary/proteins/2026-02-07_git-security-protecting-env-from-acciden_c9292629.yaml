@@ -1,0 +1,40 @@
+id: c9292629-b40b-45a0-9d77-508df5eecacf
+title: 'Git Security: Protecting .env from Accidental Commits'
+summary: >-
+  This dialogue focuses on ensuring sensitive `.env` files are not committed to Git repositories,
+  emphasizing security through proper `.gitignore` configuration and alternative verification
+  methods. The core message is that accidental exposure of `.env` is preventable and, if caught
+  early, poses no security risk.
+insights:
+  - >-
+    Prioritize security by preventing `.env` files containing sensitive credentials from being
+    committed to version control.
+  - Verify the presence and content of `.gitignore` to ensure `.env` is explicitly excluded.
+  - >-
+    If Git commands are not recognized in PowerShell, use Git Bash or GitHub Desktop GUI as
+    alternatives for repository management.
+  - >-
+    The absence of `.env` in commit history, even if `.gitignore` is missing, means credentials were
+    not leaked.
+  - >-
+    A quick check of the repository folder for `.env`, `.env.example`, and `.gitignore` can confirm
+    security status without Git commands.
+  - >-
+    If `.gitignore` does not exist, create it and add `.env` to its exclusion list before further
+    Git operations.
+tags:
+  - '#git'
+  - '#security'
+  - '#env'
+  - '#gitignore'
+  - '#powershell'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:11:17.705Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
