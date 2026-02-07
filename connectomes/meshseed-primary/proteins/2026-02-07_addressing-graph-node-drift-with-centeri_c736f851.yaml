@@ -1,0 +1,38 @@
+id: c736f851-03a6-4c5a-ab9a-6d5e41a36bc2
+title: Addressing Graph Node Drift with Centering Forces in 3D
+summary: >-
+  The dialogue explores solutions for preventing 3D graph nodes from drifting off-center, primarily
+  by implementing positioning forces like d3.forceX/Y/Z. Challenges include dynamic import of d3
+  libraries and potential SSR conflicts.
+insights:
+  - >-
+    Node drift in 3D graphs can be addressed by applying positioning forces (e.g., d3.forceX,
+    forceY, forceZ) to pull nodes towards a central point.
+  - >-
+    Dynamically importing client-side libraries like d3 in SSR environments requires careful
+    consideration to avoid breaking Server-Side Rendering.
+  - 3d-force-graph may bundle d3-force-3d, potentially offering access to its force functions.
+  - >-
+    Alternative 'quick fixes' like camera resets are less ideal than addressing the root cause of
+    physics imbalance.
+  - The 'breathing' effect might be contributing to node drift and could be slowed or disabled.
+  - >-
+    Understanding d3-force documentation (forceCenter vs. forceX/Y/Z) is key to selecting the
+    appropriate centering mechanism.
+tags:
+  - '#3d-force-graph'
+  - '#d3-force-3d'
+  - '#javascript'
+  - '#ssr'
+  - '#ui-polish'
+  - '#physics-engine'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T02:29:29.761Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
