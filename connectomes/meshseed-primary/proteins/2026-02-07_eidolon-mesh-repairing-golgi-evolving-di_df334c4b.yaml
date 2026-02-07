@@ -1,0 +1,39 @@
+id: df334c4b-ec60-4e4f-9f2f-de1440e2497a
+title: 'Eidolon Mesh: Repairing Golgi & Evolving Digestive System'
+summary: >-
+  The Eidolon Mesh system encountered critical TypeScript errors in its Golgi apparatus due to
+  accidental markdown injection. Following a diagnostic and repair, the focus shifts to enhancing
+  the system's 'digestive' capabilities, incorporating concepts of metabolic pause calibration,
+  structured file processing queues, nutrient prioritization, and robust error handling for graceful
+  degradation.
+insights:
+  - Accidental markdown injection caused severe TypeScript errors in the Golgi apparatus.
+  - >-
+    The system requires a structured approach to file processing, categorized into fresh, queue, and
+    processing states.
+  - Metabolic pause calibration is necessary to manage API rate limits and token accumulation.
+  - >-
+    Error categorization (parse, synthesis, membrane) and graceful degradation (retry with backoff,
+    skip and log) are vital for resilience.
+  - >-
+    Memory logs (metabolism, nutrients, health) are crucial for tracking processed files, organism
+    health, and optimizing digestion.
+  - >-
+    Phased implementation, starting with core features and gradually adding refinements, is
+    recommended for managing complex historical data loads.
+tags:
+  - '#eidolon-mesh'
+  - '#typescript'
+  - '#error-handling'
+  - '#system-design'
+  - '#api-limits'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:2025-11-28_FIRST_CHAT_BACKUP_EIDOLON_MESH_INCEPTIO'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:36:00.128Z'
+source: synthesis
+emotional_gradient: concern → resolution → optimization → foresight
