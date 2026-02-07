@@ -1,0 +1,37 @@
+id: f3c3f1a4-d84a-40a8-a88f-02cb5a1999d4
+title: CSS Media Query Height Calculation for `.main-body` within `.app-layout`
+summary: >-
+  The dialogue investigates a CSS height calculation issue within a media query. Specifically, it
+  questions how `.main-body`'s `height: calc(100% - var(--bottom-nav-height))` behaves when its
+  parent `.app-layout` is set to `100dvh` and `.main-body`'s display property is potentially
+  overridden.
+insights:
+  - >-
+    The `.main-body` element's height calculation within a media query depends on its parent
+    `.app-layout`'s defined height and how `.main-body`'s own display and flex properties interact.
+  - >-
+    Overriding `.main-body`'s `display: flex; flex: 1;` with `display: block;` inside a media query
+    means it acts as a block element within the flex container `.app-layout`.
+  - 'Setting `.app-layout` to `height: 100dvh` provides a viewport-relative height for the parent.'
+  - >-
+    The expression `height: calc(100% - var(--bottom-nav-height))` on `.main-body` is intended to
+    subtract the bottom navigation height from the parent's available space.
+  - >-
+    Potential ambiguity exists in whether `100%` refers to the parent's content box or the remaining
+    space after the header, impacting the final calculated height of `.main-body`.
+tags:
+  - '#css'
+  - '#media-queries'
+  - '#layout'
+  - '#frontend'
+  - '#web-development'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T02:29:45.386Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
