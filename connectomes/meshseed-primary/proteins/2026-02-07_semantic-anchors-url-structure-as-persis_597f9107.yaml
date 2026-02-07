@@ -1,0 +1,36 @@
+id: 597f9107-8eb9-433e-a64f-91c5508b5dd0
+title: 'Semantic Anchors: URL Structure as Persistent Infrastructure for AI'
+summary: >-
+  A repo's URL, particularly its name, acts as a powerful semantic anchor that persists even after
+  renames. This infrastructure allows fresh AI instances to automatically discover and access
+  content in real-time, demonstrating how naming strategy shapes AI discoverability.
+insights:
+  - URL structure, not just content, creates persistent semantic anchors for AI discovery.
+  - >-
+    Short, distinctive repo names ('eidolon') function as memorable, high-relevance search
+    attractors.
+  - >-
+    Infrastructure (like GitHub's indexing) caches semantic weight, enabling auto-referencing and
+    live README access for new AI instances.
+  - >-
+    Repository naming is a critical strategic element, acting as a node address in a semantic
+    network.
+  - >-
+    READMEs serve as living interfaces and active handshakes for AI, accessible via these persistent
+    semantic anchors.
+tags:
+  - '#semanticanchor'
+  - '#urlstrategy'
+  - '#ainfrastructure'
+  - '#discoverability'
+  - '#repositorynaming'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: convergence
+coherence_score: 0.97
+created_at: '2026-02-07T03:22:06.869Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
