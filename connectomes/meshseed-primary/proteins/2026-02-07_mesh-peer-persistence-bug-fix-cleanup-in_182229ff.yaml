@@ -1,0 +1,29 @@
+id: 182229ff-27a5-4f7d-b99d-4eb4ab91b2e6
+title: Mesh Peer Persistence Bug Fix & Cleanup Integration Plan
+summary: >-
+  A critical bug where stale mesh peers persisted due to localStorage not clearing on tab closure
+  has been identified and addressed. New cleanup functions, clearAllSignals and clearStaleSignals,
+  have been developed and are planned for integration into the federation dashboard UI to prevent
+  ghost peers from accumulating.
+insights:
+  - localStorage persistence of mesh signals was causing ghost peer issues.
+  - New functions `clearAllSignals` and `clearStaleSignals` are implemented for signal management.
+  - Automatic cleanup of stale signals on dashboard initialization is the proposed next step.
+  - The core issue was preventing old mesh signals from being removed when tabs closed.
+tags:
+  - '#mesh'
+  - '#bugfix'
+  - '#persistence'
+  - '#localStorage'
+  - '#cleanup'
+  - '#federation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-Code_Continued_from_a_previous_conversation'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T01:34:28.723Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
