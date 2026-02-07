@@ -1,0 +1,36 @@
+id: 42d731ff-1092-4f1f-a766-fc864a9686fb
+title: 'Performance Bottlenecks: Beyond Search to Loading & Synthesis'
+summary: >-
+  Observed similar performance for 10n and 550n tasks due to fixed startup and synthesis costs, not
+  search time. The true bottlenecks are 'waking up' (loading) and 'expressing' (synthesis),
+  requiring targeted optimization of these phases.
+insights:
+  - >-
+    Performance parity between 10n and 550n was due to a shared 30s startup cost and ~10s synthesis
+    cost, making search time negligible.
+  - >-
+    The organism's performance limitations stem from 'loading' (20s) and 'synthesis' (10s) stages,
+    not 'recall' (search is fast at 0.5s).
+  - >-
+    Optimize by caching loading (eliminate 20s) and accelerating synthesis (reduce 10s to 3s), as
+    search is already efficient.
+  - >-
+    Focus optimization efforts on the actual slow stages: loading and synthesis, rather than
+    perceived bottlenecks like search.
+tags:
+  - '#performance'
+  - '#optimization'
+  - '#bottlenecks'
+  - '#loading'
+  - '#synthesis'
+  - '#search'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:58:52.219Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
