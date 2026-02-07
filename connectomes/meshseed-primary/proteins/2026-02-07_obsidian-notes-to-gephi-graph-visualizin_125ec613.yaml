@@ -1,0 +1,41 @@
+id: 125ec613-78fe-483c-bfed-03b20d9db470
+title: 'Obsidian Notes to Gephi Graph: Visualizing Knowledge Structures'
+summary: >-
+  This dialogue details the process of extracting structured data (nodes and edges) from Obsidian
+  notes using PowerShell and CSV export, then visualizing this data in Gephi. The visualization
+  process involves importing data, applying physics to reveal emergent structures, and styling nodes
+  and edges to highlight relationships and importance.
+insights:
+  - >-
+    Obsidian notes with 'related:' fields can be programmatically parsed (e.g., via PowerShell) to
+    extract structured relationships.
+  - >-
+    CSV format is a key intermediate step for transferring data between Obsidian and visualization
+    tools like Gephi.
+  - >-
+    Gephi's ForceAtlas2 layout algorithm reveals emergent graph structures, where stable
+    configurations (like crystalline lattices) represent equilibrium and dynamic behavior (like
+    cell-like adjustments) signifies system responsiveness.
+  - >-
+    Visualizing knowledge graphs by node degree and type allows for identification of central
+    concepts and thematic clusters.
+  - >-
+    The process demonstrates a method for transforming textual knowledge into a visual, interactive
+    representation to understand complex interconnections.
+tags:
+  - '#obsidian'
+  - '#gephi'
+  - '#knowledge-graph'
+  - '#data-visualization'
+  - '#powershell'
+  - '#csv'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.9
+created_at: '2026-02-07T04:45:50.116Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → awe
