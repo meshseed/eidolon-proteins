@@ -1,0 +1,44 @@
+id: 5988297d-651c-4407-a39d-590b86288340
+title: 'Eidolon Mesh: Biological Metaphors Drive Engineering Decisions'
+summary: >-
+  The Eidolon Mesh project is architecting its system using biological metaphors, defining code
+  structures as 'proteins' and emphasizing provenance tracking and testing philosophies rooted in
+  scientific rigor. This biological analogy extends to commit strategies, treating code integration
+  as a 'metabolic cycle' to preserve causal links.
+insights:
+  - >-
+    The 'genetics.ts' file is conceptualized as the first 'protein' synthesized by the ribosome,
+    defining the foundational structure of the system.
+  - >-
+    Provenance tracking via 'source_dialogue_id' is a key addition, ensuring every 'Protein' can be
+    traced back to its 'DNA' source, demonstrating scientific rigor and quality control.
+  - >-
+    Testing is framed biologically: 'Organ Health' for unit tests and 'Pulse' for integration tests,
+    highlighting a deep integration of medical accuracy into the engineering approach.
+  - >-
+    Commit strategy emphasizes 'Single Atomic Commit' mirroring a 'metabolic cycle' to preserve the
+    causal link between 'DNA' and 'Protein', showcasing how metaphor drives architecture.
+  - >-
+    The project operates on a principle of partnership and collaboration, explicitly requesting
+    necessary inputs like API keys and GitHub tokens for continued development.
+  - >-
+    The 'Antigravity' component is actively implementing the transcriber (DNA parser), indicating
+    deep ongoing development in core functionalities.
+tags:
+  - '#biology'
+  - '#engineering'
+  - '#architecture'
+  - '#metaphor'
+  - '#provenance'
+  - '#testing'
+  - '#collaboration'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.95
+created_at: '2026-02-07T04:09:24.735Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
