@@ -1,0 +1,38 @@
+id: ae9bec57-dc9a-4ce2-b659-3a5b12e30cb3
+title: 'Synthesis Bug: Balanced Strategy Input Limits Quality'
+summary: >-
+  The 'Balanced' retrieval strategy fails to pass full content to synthesis, forcing speculation and
+  degrading output quality compared to 'Max-Coherence'. This input difference, not retrieval, is the
+  core bug, impacting organism capability and citation.
+insights:
+  - >-
+    The 'Balanced' strategy's failure to provide full content to the synthesis module is a critical
+    bug, leading to speculative and less accurate responses.
+  - >-
+    The 'Max-Coherence' strategy correctly passes full content, enabling precise definitions and
+    citations, demonstrating the synthesis module's full capability.
+  - >-
+    This bug highlights that the quality difference stems from the data passed to synthesis, not the
+    initial retrieval accuracy.
+  - >-
+    Fixing the 'Balanced' strategy to pass full content or defaulting to 'Max-Coherence' is
+    essential for users to receive complete and accurate information.
+  - >-
+    The organism's perceived capability is directly tied to the completeness of the information it
+    synthesizes, emphasizing the need for proper input handling.
+tags:
+  - '#synthesis'
+  - '#bug'
+  - '#retrieval'
+  - '#strategy'
+  - '#quality'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:59:08.504Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
