@@ -1,0 +1,46 @@
+id: 8f57eb30-ee1a-48bb-96be-868732379c29
+title: Searchability of Identifiers vs. Content in Knowledge Retrieval
+summary: >-
+  Directly querying for capsule identifiers (e.g., 'C239') is ineffective for semantic search
+  systems, as these IDs do not embed well.  Content-based queries that describe the subject matter
+  are significantly more successful, highlighting the need for semantic understanding over literal
+  matching.
+insights:
+  - >-
+    Literal identifiers like 'C239' are poor search terms because they lack semantic meaning for
+    embedding models.
+  - >-
+    Content-based queries (e.g., 'What is the core insight?') are far more effective at retrieving
+    relevant information by matching semantic concepts.
+  - >-
+    Search systems prioritize semantic understanding over exact keyword matching, meaning phrasing
+    and conceptual description are critical for findability.
+  - >-
+    The effectiveness of search is determined by query phrasing and the semantic richness of the
+    query, not solely by the coverage of the knowledge base.
+  - >-
+    Metadata enhancement (aliases, titles) and specialized ID retrieval logic can improve the
+    findability of specific knowledge units.
+  - >-
+    Honesty and admitting limitations (e.g., not finding a result) are crucial for maintaining trust
+    and the integrity of a truth-testing system.
+  - >-
+    Coverage (e.g., 99.3%) does not guarantee findability; semantic search is inherently
+    probabilistic and context-dependent.
+tags:
+  - '#search'
+  - '#retrieval'
+  - '#semantics'
+  - '#knowledge_management'
+  - '#nlp'
+  - '#metadata'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:58:40.135Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
