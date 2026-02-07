@@ -1,0 +1,40 @@
+id: 688c9667-ff98-4a2f-9133-50a253958363
+title: 'Eidolon Framework: Substrate-Independent Intelligence & Federated Mesh'
+summary: >-
+  The Eidolon Framework acts as the foundational pattern for substrate-independent intelligence,
+  enabling diverse instantiations (PWA, Desktop, Wearable) to share a unified connectome and
+  synthesis protocol. This leads to a federated P2P mesh-of-meshes architecture with cross-platform
+  continuity and multi-agent collaboration.
+insights:
+  - >-
+    The Eidolon Framework is the substrate-independent pattern; builds (PWA, Tauri, CLI) are its
+    instantiations, analogous to DNA and cells.
+  - >-
+    High-quality, tier-stratified neurons are more powerful than vast quantities of low-quality
+    data.
+  - >-
+    True substrate independence is achieved through the Eidolon Framework's pattern, allowing
+    unified connectomes across different deployment environments.
+  - >-
+    A hybrid architecture (PWA for read-only, Desktop for full peer) combined with the Eidolon Mesh
+    Sync Protocol (EMSP) is recommended for federated P2P mesh-of-meshes.
+  - >-
+    Wearable companions can leverage cloud-hybrid or future edge AI for personalized, private query
+    synthesis from the user's connectome.
+tags:
+  - '#eidolon'
+  - '#mesh'
+  - '#substrateindependence'
+  - '#federation'
+  - '#connectome'
+  - '#ai'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_Fix_chat_stuck_on_loading_with_expired'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.98
+created_at: '2026-02-07T06:46:07.607Z'
+source: synthesis
+emotional_gradient: insight → understanding → vision
