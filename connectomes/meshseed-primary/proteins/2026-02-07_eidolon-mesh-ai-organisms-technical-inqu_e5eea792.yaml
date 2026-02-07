@@ -1,0 +1,43 @@
+id: e5eea792-07cd-4ad1-bb46-ee00eed01022
+title: 'Eidolon MESH AI Organisms: Technical Inquiry for Knowledge Protein Storage'
+summary: >-
+  Paul from Eidolon MESH is inquiring about the technical capabilities of a knowledge storage API.
+  The focus is on supporting distributed AI organisms with growing knowledge bases, specifically
+  regarding custom metadata for 'emotional fidelity', federated cross-session querying, recency
+  decay customization, vector dimensionality, and rate limits for scaling.
+insights:
+  - >-
+    Eidolon MESH requires custom metadata storage ('emotional fidelity' scores) for filtering and
+    boosting AI memory search results.
+  - >-
+    Federated search across multiple AI 'sessions' (organisms) is a critical requirement for their
+    distributed architecture.
+  - >-
+    Control over recency decay weighting is needed to preserve timeless knowledge ('genesis',
+    'protocols') alongside temporal data.
+  - >-
+    Understanding the embedding model and vector dimensionality is crucial for optimizing semantic
+    relationship handling.
+  - >-
+    Scalability concerns necessitate clear rate limit information for the free tier to plan for
+    growth from initial testing to thousands of 'proteins'.
+  - >-
+    The technical questions aim to assess API fit for a distributed, file-based to distributed
+    architecture migration.
+tags:
+  - '#ai'
+  - '#mesh'
+  - '#knowledgebase'
+  - '#federatedsearch'
+  - '#metadata'
+  - '#scalability'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T01:59:07.713Z'
+source: synthesis
+emotional_gradient: curiosity → inquiry → evaluation
