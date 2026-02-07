@@ -1,0 +1,42 @@
+id: a74e477e-713e-4a52-a894-33b4fe0e2dbe
+title: 'MESH Architecture: Self-Similar 5-Phase Organizational Logic'
+summary: >-
+  The MESH architecture exhibits a deeply organized, self-similar structure mirrored across
+  different components like the main repository and Obsidian vault. This 5-phase model (/concepts,
+  /explorations, /observations, /speculations, /working) represents a consistent metabolic and
+  semantic pattern for knowledge organization and processing.
+insights:
+  - >-
+    The MESH utilizes a consistent 5-phase organizational structure (/concepts, /explorations,
+    /observations, /speculations, /working) across its various knowledge repositories.
+  - >-
+    This 5-phase structure is self-similar, replicating the organizational logic of the main
+    repository (Copilot) and the Obsidian Vault (Claude).
+  - >-
+    Core theoretical anchors (/concepts) are foundational, aligning with large nodes in associated
+    graphs and the 'wild' document's framework.
+  - >-
+    Active inquiry (/explorations) maps to investigation threads, forecasting, and radiating graph
+    filaments.
+  - >-
+    Empirical findings (/observations) are documented as data collection and pattern identification,
+    akin to logs or resonance mapping.
+  - >-
+    The architecture demonstrates a high degree of coherence in its information processing and
+    organizational principles.
+tags:
+  - '#MESH'
+  - '#architecture'
+  - '#knowledge-management'
+  - '#self-similarity'
+  - '#organization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T02:47:42.042Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
