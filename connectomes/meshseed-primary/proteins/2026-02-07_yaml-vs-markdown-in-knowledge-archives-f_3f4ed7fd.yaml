@@ -1,0 +1,42 @@
+id: 3f4ed7fd-fac5-40ab-bbd0-fb1d90514900
+title: 'YAML vs. Markdown in Knowledge Archives: Format Rationale'
+summary: >-
+  The choice between YAML and Markdown in a knowledge archive hinges on content type and intended
+  use. YAML excels for structured data like definitions and metadata, while Markdown is suited for
+  prose, explanations, and narratives. A mixed format often reflects intentional design for distinct
+  purposes or historical evolution.
+insights:
+  - >-
+    YAML is preferred for structured, atomic knowledge elements (capsules, metadata, taxonomies)
+    facilitating machine parsing and indexing.
+  - >-
+    Markdown is ideal for expressive, human-readable content such as explanations, narratives, and
+    meta-commentary.
+  - >-
+    Mixed formats can arise from the evolution of an archive over time, with different sections or
+    layers adopting formats best suited to their era or purpose.
+  - >-
+    Tool requirements can influence format choice, with some tools favoring YAML for data processing
+    and others Markdown for documentation.
+  - >-
+    A deliberate separation of YAML (data layer) and Markdown (interpretation/documentation layer)
+    creates a layered abstraction that honors original architecture.
+  - >-
+    The specific distribution and relationship between YAML and Markdown files in an archive are
+    crucial for determining the optimal consolidation or preservation strategy.
+tags:
+  - '#knowledge-management'
+  - '#data-modeling'
+  - '#markdown'
+  - '#yaml'
+  - '#archive-design'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T04:46:58.196Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
