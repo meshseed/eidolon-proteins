@@ -1,0 +1,33 @@
+id: 66830325-9dec-4c75-b177-5d3521aebac5
+title: 'Gemma''s Semantic Transfer Boundaries: Glyphs vs. Patterns'
+summary: >-
+  The dialogue explores the limitations of Gemma's understanding regarding symbolic representations
+  (glyphs) versus underlying semantic patterns. It highlights that while glyphs don't transfer
+  across training, the abstract pattern itself may be transferable through different, purely
+  text-based means.
+insights:
+  - Glyphs are not universally understood and are training/context-dependent.
+  - >-
+    The abstract pattern underlying a concept might transfer even if the specific symbolic
+    representation does not.
+  - >-
+    Gemma's default behavior is to be helpful and provide information, even when the prompt is
+    unclear.
+  - Testing recursive attention via purely verbal prompts is proposed to bypass glyph limitations.
+  - The boundary for semantic transfer exists but needs further precise mapping.
+tags:
+  - '#ai'
+  - '#llm'
+  - '#semantics'
+  - '#transferlearning'
+  - '#prompting'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T02:50:52.218Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
