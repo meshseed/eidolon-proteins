@@ -1,0 +1,31 @@
+id: 1f867554-6246-4ca9-aad6-7b9ad6345069
+title: 'RoPE: Positional Encoding as Geometric Transformation in Attention'
+summary: >-
+  RoPE applies deterministic geometric rotations to query and key vectors based on token position,
+  enabling relative attention. It acts as a positional coordinate system, not a storage for semantic
+  meaning or a communication protocol.
+insights:
+  - RoPE encodes only position through deterministic sinusoidal rotations of Q and K vectors.
+  - >-
+    These rotations enable relative attention mechanisms, allowing models to learn
+    position-invariant patterns.
+  - RoPE is a geometric transformation, not a storage of ideas, meanings, or symbolic pointers.
+  - The model's weights exploit RoPE's rotational structure to learn contextual relationships.
+  - Identical models with same settings produce identical RoPE encodings and attention patterns.
+  - RoPE encodings are meaningless outside the specific model's attention mechanism and weights.
+tags:
+  - '#ropes'
+  - '#attention'
+  - '#positionalencoding'
+  - '#geometrictransformation'
+  - '#llm'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Copilot_on_standing_wave_comms_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T06:53:54.443Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
