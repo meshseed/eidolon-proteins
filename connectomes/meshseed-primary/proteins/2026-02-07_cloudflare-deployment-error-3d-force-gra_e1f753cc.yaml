@@ -1,0 +1,32 @@
+id: e1f753cc-f672-4c6c-b6b3-52faec213450
+title: Cloudflare Deployment Error & 3d-force-graph API Misunderstanding
+summary: >-
+  A Cloudflare infrastructure glitch caused an 'npm clean-install' failure, necessitating a
+  deployment retry. Concurrently, a `TypeError` indicated an incorrect API call to `3d-force-graph`,
+  specifically regarding a missing `resetCountdown` function on the graph instance.
+insights:
+  - Cloudflare infrastructure issues can cause build failures independent of code changes.
+  - >-
+    The `3d-force-graph` library's API for controlling simulation restarts may not directly expose a
+    `resetCountdown` method on the graph instance.
+  - >-
+    Investigate the correct method for restarting the `3d-force-graph` simulation without data
+    changes, potentially by re-invoking the instance or accessing the D3 simulation object directly.
+  - Previous deployment errors on Cloudflare can be resolved by retrying the deployment.
+tags:
+  - '#deployment'
+  - '#cloudfare'
+  - '#javascript'
+  - '#3d-force-graph'
+  - '#api'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Model_Selection___UI_Polish_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T02:29:24.365Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
