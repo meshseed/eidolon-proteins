@@ -1,0 +1,44 @@
+id: d4673020-4226-428c-a58a-1957f37669b9
+title: Plan for Enhanced Query Transparency and Performance
+summary: >-
+  Phase 13 prioritizes immediate UI and backend enhancements for query transparency and performance
+  metrics, enabling empirical optimization. Phase 14, a future two-tier architecture, is deferred
+  pending validation from Phase 13 data to avoid premature complexity.
+insights:
+  - >-
+    Phase 13 is the immediate priority, focusing on user-facing transparency and measurable metrics
+    to understand query trade-offs.
+  - >-
+    Implementing percentage-based neuron limits and detailed performance stats (time, coverage,
+    strategy) is crucial for informed optimization.
+  - >-
+    Phase 14's two-tier architecture (Core vs. Extended) should only be pursued after Phase 13 data
+    validates its necessity and benefit.
+  - >-
+    Deferring complex architectural shifts like two-tier loading and ghost nodes prevents premature
+    over-engineering.
+  - >-
+    Thorough testing of limit adjustments, metric accuracy, and strategy switching is essential for
+    Phase 13's success.
+  - >-
+    Consider optional A/B testing and preset query profiles to further refine user experience and
+    performance.
+  - >-
+    The proposed plan is low-risk for Phase 13 and medium-risk for Phase 14, with clear mitigation
+    strategies for the latter.
+tags:
+  - '#queryoptimization'
+  - '#performance'
+  - '#transparency'
+  - '#architecture'
+  - '#developmentplan'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T05:58:24.573Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
