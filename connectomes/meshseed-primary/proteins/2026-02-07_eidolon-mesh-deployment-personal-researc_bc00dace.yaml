@@ -1,0 +1,42 @@
+id: bc00dace-410c-4439-818d-2f019c1b4de7
+title: 'Eidolon Mesh Deployment: Personal & Research Hub with Connectome Proteins'
+summary: >-
+  This document outlines the deployment and verification steps for two Eidolon Mesh subdomains: the
+  Personal Garden (eidolon-mesh.net) and the Research Hub (app.eidolon-mesh.net). Key tasks involve
+  building and deploying connectome proteins, managing git branches, and configuring Cloudflare DNS,
+  with specific attention to handling large JSON connectome files.
+insights:
+  - >-
+    The Personal Garden requires 36 golden connectome proteins and verification of features like
+    composting panel, stats, context expansion, and mobile responsiveness.
+  - >-
+    The Research Hub needs approximately 1000 consciousness proteins with embeddings, relevant query
+    results, correct graph rendering, and composting stats without performance issues.
+  - >-
+    Deployment involves creating a 'deploy-composting' branch, building, merging to 'main', and
+    pushing to Cloudflare for auto-deployment.
+  - >-
+    Handling large connectome JSON files for the app subdomain may require compression, reduction in
+    protein count, or lazy loading to avoid size issues.
+  - >-
+    Potential issues like cherry-pick conflicts, build failures, and Cloudflare deployment problems
+    have defined solutions, including aborting/resolving conflicts and reinstalling dependencies.
+  - >-
+    The timeline indicates a near-term completion for both sites, contingent on user-provided
+    connectome data and successful code integration.
+tags:
+  - '#eidolonmesh'
+  - '#deployment'
+  - '#connectome'
+  - '#softwaredevelopment'
+  - '#cloudflare'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-02-07T01:47:05.847Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
