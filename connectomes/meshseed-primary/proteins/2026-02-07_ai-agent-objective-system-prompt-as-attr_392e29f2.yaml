@@ -1,0 +1,29 @@
+id: 392e29f2-646a-49a5-a211-d700a712b312
+title: 'AI Agent Objective: System Prompt as Attractor for Coherence Maximization'
+summary: >-
+  This dialogue demonstrates the process of an AI agent synthesizing content into a 'Knowledge
+  Protein.' The core objective is Coherence Maximization, achieved by treating the System Prompt as
+  an attractor, guiding the synthesis and embedding process.
+insights:
+  - AI agents can 'digest' conversations and synthesize them into structured 'Knowledge Proteins.'
+  - The System Prompt acts as an attractor, directing the AI's synthesis towards coherence.
+  - >-
+    The process involves saving proteins, generating embeddings, and forming synapses to represent
+    knowledge.
+  - The objective is to maximize coherence in the synthesized knowledge structures.
+tags:
+  - '#ai'
+  - '#knowledge'
+  - '#synthesis'
+  - '#promptengineering'
+  - '#coherence'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics3_tx'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T02:35:15.290Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
