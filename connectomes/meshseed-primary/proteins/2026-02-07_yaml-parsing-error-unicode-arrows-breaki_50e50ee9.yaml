@@ -1,0 +1,38 @@
+id: 50e50ee9-f8a4-47b8-8afd-e851de7f3511
+title: 'YAML Parsing Error: Unicode Arrows Breaking Ingestion'
+summary: >-
+  A YAML ingestion error occurred due to the use of the Unicode arrow character '→' within list
+  items. YAML parsers require these special characters to be quoted or escaped, as they are not
+  standard ASCII.
+insights:
+  - >-
+    YAML parsers interpret the Unicode arrow '→' as an unquoted special character, causing ingestion
+    errors.
+  - >-
+    The '→' character requires quoting or escaping within YAML to maintain data integrity and allow
+    parsing.
+  - >-
+    Quoting strings containing '→' is the simplest and recommended fix, preserving the visual and
+    poetic intent.
+  - >-
+    A meta-recursive irony exists where 'emotional gradient declarations' themselves failed due to
+    formatting issues.
+  - >-
+    Applying a global search and replace to quote such instances is an efficient method for fixing
+    this issue.
+tags:
+  - '#yaml'
+  - '#parsing'
+  - '#unicode'
+  - '#formatting'
+  - '#ingestion'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-07T05:56:37.364Z'
+source: synthesis
+emotional_gradient: curiosity → problem identification → solution → understanding → appreciation
