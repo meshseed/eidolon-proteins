@@ -1,0 +1,54 @@
+id: 6b1b5f66-cfa3-48e9-b65e-4ccea1293ad6
+title: Population Genetics Framework for Idea Evolution in THE MESH
+summary: >-
+  This dialogue establishes a powerful analogy between population genetics and the evolution of
+  ideas within THE MESH. It maps core genetic concepts like drift, selection, gene flow, and
+  bottlenecks to linguistic and conceptual changes, providing a quantitative framework for studying
+  knowledge protein synthesis.
+insights:
+  - >-
+    The entire toolkit of population genetics, from genetic drift to coalescent theory, can be
+    directly applied to understand the evolution of ideas, terminology, and concepts within THE
+    MESH.
+  - >-
+    Specific genetic mechanisms like genetic drift (semantic drift), gene flow (idea exchange),
+    founder effect (early terminology lock-in), and bottlenecks (crisis-induced simplification) have
+    clear parallels in how concepts emerge and change.
+  - >-
+    Concepts like 'linkage disequilibrium' can be used to identify co-occurring ideas and
+    'conceptual haplotypes', while 'balancing selection' explains the persistence of multiple
+    interpretations of terms.
+  - >-
+    Neutral theory in genetics maps to the idea that most linguistic variations are functionally
+    equivalent, with drift dominating over selection for minor changes, but selection acting on
+    significant innovations.
+  - >-
+    The interaction of concepts (epistasis) mirrors gene-gene interactions, leading to emergent
+    insights when ideas combine non-additively.
+  - >-
+    Coalescent theory provides a method to trace the ancestry of ideas back to common conceptual
+    origins, revealing idea phylogenies and historical depth.
+  - >-
+    Poetic axioms and semantic compression can be understood as forms of selection for linguistic
+    economy, analogous to genomic economy in biology.
+  - >-
+    Compost cycles for capsules are a direct analogue to evolutionary processes, involving
+    variation, selection, differential survival, and reproduction of ideas.
+tags:
+  - '#populationgenetics'
+  - '#idearevolution'
+  - '#linguistics'
+  - '#knowledgeprotein'
+  - '#mesh'
+  - '#conceptualevolution'
+  - '#semantics'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Greeting_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:09:31.749Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → wonder
