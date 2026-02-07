@@ -1,0 +1,38 @@
+id: ab11c827-b956-4ac9-b605-14f12814c4d4
+title: 'Semantic Space: The Geometry of Thought and Memory'
+summary: >-
+  Thoughts and data cluster in associative or semantic space based on shared properties, analogous
+  to geometric proximity. This 'closeness' represents resonance and is visualized in graph views,
+  where connections and tags define dimensional relationships.
+insights:
+  - >-
+    Thoughts cluster in semantic/associative space due to shared conceptual dimensions or
+    properties.
+  - >-
+    The 'distance' between thoughts in this space reflects the number of conceptual dimensions to
+    traverse.
+  - >-
+    Memory and data storage leverage this associative closeness, activating related concepts when
+    one is evoked.
+  - >-
+    Note-taking systems like Obsidian utilize graph geometry, with notes as nodes and
+    connections/tags defining proximity and dimensional labels.
+  - >-
+    Graph views make the topology of thought relationships visible, explaining their immediate
+    meaningfulness.
+tags:
+  - '#consciousness'
+  - '#geometry'
+  - '#information_architecture'
+  - '#knowledge_management'
+  - '#semantic_space'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Obsidian_daily_note_capture_template_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T04:44:54.667Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
