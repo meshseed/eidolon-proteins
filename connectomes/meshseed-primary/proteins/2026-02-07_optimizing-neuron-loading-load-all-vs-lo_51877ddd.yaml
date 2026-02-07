@@ -1,0 +1,42 @@
+id: 51877ddd-1aa8-44f9-9812-d39c1d43018c
+title: 'Optimizing Neuron Loading: Load All vs. Load Subset Strategies'
+summary: >-
+  The dialogue explores optimizing neural network startup and query performance by comparing 'Load
+  All, Filter On Query' versus 'Load Subset From Start' strategies. Key considerations include
+  memory usage, startup time, scalability, and the trade-offs in graph visualization and connection
+  completeness.
+insights:
+  - >-
+    Percentage-based neuron loading offers superior scalability and flexibility compared to fixed
+    numbers, adapting automatically to archive growth.
+  - >-
+    A hybrid two-tier system, loading a core percentage of high-coherence neurons and lazily loading
+    the rest, balances startup speed with deep query capability.
+  - >-
+    The 'Connectome Issue' highlights that partial loading results in an incomplete graph
+    visualization due to missing synapses, which can be mitigated by 'ghost nodes'.
+  - >-
+    Adaptive scaling and stratified loading are proposed implementation options to dynamically
+    adjust loading based on performance metrics and quality tiers.
+  - >-
+    User-configurable loading and query strategies (e.g., fast, balanced, deep) empower users to
+    manage the trade-offs between performance and data completeness.
+  - >-
+    The 'Synapses Problem' necessitates solutions like ghost nodes to represent connections to
+    unloaded neurons, providing a richer, though partial, graph visualization.
+tags:
+  - '#optimization'
+  - '#scalability'
+  - '#neuronalnetworks'
+  - '#architecture'
+  - '#performance'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-02-07T05:58:21.260Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
