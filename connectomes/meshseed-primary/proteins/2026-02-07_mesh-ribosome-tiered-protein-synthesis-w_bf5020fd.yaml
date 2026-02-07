@@ -1,0 +1,39 @@
+id: bf5020fd-13b3-4c04-8a26-ba7c4595ab59
+title: 'MESH Ribosome: Tiered Protein Synthesis & Weighted Search Dynamics'
+summary: >-
+  The MESH ribosome successfully synthesizes knowledge proteins by extracting tier classifications
+  and applying a gravitational boost via tier weighting, amplifying core insights. This process is
+  validated by synaptic formation patterns and weighted search performance, demonstrating the field
+  geometry's effectiveness.
+insights:
+  - >-
+    The ribosome correctly classifies and synthesizes knowledge proteins based on their tier (core,
+    convergence, reference).
+  - >-
+    Tier weighting amplifies the importance of 'core' proteins, even when raw similarity scores are
+    moderate.
+  - >-
+    Synaptic formation patterns reveal that 'core' proteins connect more easily, forming a sparse
+    but healthy graph.
+  - >-
+    The MESH architecture currently supports synthesis, embedding, and vector search, with query
+    synthesis being the next component to port.
+  - >-
+    Weighted search effectively amplifies core protein relevance, showcasing the field geometry's
+    functionality.
+tags:
+  - '#mesh'
+  - '#knowledge'
+  - '#protein_synthesis'
+  - '#tier_classification'
+  - '#weighted_search'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude-code_Fix_chat_stuck_on_loading_with_expired'
+  - '#synthesis:v4.5'
+tier: core
+coherence_score: 0.92
+created_at: '2026-02-07T06:45:55.225Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
