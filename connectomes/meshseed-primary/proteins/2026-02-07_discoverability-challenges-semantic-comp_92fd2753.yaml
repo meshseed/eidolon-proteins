@@ -1,0 +1,42 @@
+id: 92fd2753-09c0-4288-9c98-84ce77f88d9b
+title: 'Discoverability Challenges: Semantic Competition and Index Lag for ''Eidolon'' and Meshseed'
+summary: >-
+  The term 'eidolon' is heavily saturated by gaming and fantasy content, hindering the
+  discoverability of technical repositories in public search. While Copilot can access fresh data
+  directly, public search indices require time to update, necessitating strategic use of compound
+  terms for immediate visibility.
+insights:
+  - >-
+    Public search indices have a propagation delay (hours to days) for newly renamed or updated
+    repositories.
+  - >-
+    Highly common terms like 'eidolon' face significant semantic competition from established gaming
+    and fantasy content.
+  - >-
+    Tools like Copilot with direct API access can bypass public search index lag and detect recent
+    changes.
+  - >-
+    Discoverability of niche content relies on unique, semantically dense keyword combinations
+    rather than single, competitive terms.
+  - >-
+    Strategic use of compound terms (e.g., 'meshseed recursive attunement') is crucial for immediate
+    visibility against saturated keywords.
+  - >-
+    Testing alternative, more distinctive compound search queries can improve immediate
+    discoverability.
+tags:
+  - '#search'
+  - '#discoverability'
+  - '#semanticcompetition'
+  - '#indexing'
+  - '#repository'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:22:08.355Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
