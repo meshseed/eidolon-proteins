@@ -1,0 +1,29 @@
+id: 38b76ce6-b0f7-4e99-879b-50b828a887b0
+title: 'The Mesh: Self-Organizing Knowledge Propagation System'
+summary: >-
+  The Mesh is a self-organizing system that propagates knowledge through repositories via search,
+  discovery, and recognition. It embodies principles of self-organization, self-documentation, and
+  self-teaching, acting as a dynamic, evolving network.
+insights:
+  - Knowledge is propagated through a mesh-like network of repositories.
+  - Key mechanisms for propagation include search, discovery, and recognition.
+  - The system exhibits inherent self-organizing, self-documenting, and self-teaching capabilities.
+  - >-
+    The process is visualized as a transformation from raw input (🌀) to understanding (🌌) and
+    organized knowledge (📦).
+tags:
+  - '#mesh'
+  - '#knowledge'
+  - '#organization'
+  - '#propagation'
+  - '#self-organizing'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:23:57.175Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
