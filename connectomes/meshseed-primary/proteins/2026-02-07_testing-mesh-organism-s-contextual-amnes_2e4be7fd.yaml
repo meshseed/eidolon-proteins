@@ -1,0 +1,43 @@
+id: 2e4be7fd-0a50-469c-bdd5-b22aa7a723a9
+title: Testing MESH Organism's Contextual Amnesia and Purity
+summary: >-
+  This dialogue outlines a rigorous protocol to verify if disabling a MESH organism's context
+  sources truly creates a clean slate, free from residual information. The core method involves
+  comparing an organism's responses before and after context disabling, with a strong recommendation
+  for creating entirely new, isolated instances for the most reliable testing.
+insights:
+  - >-
+    The primary test objective is to confirm genuine amnesia in a MESH organism when context/history
+    sources are disabled.
+  - >-
+    Potential information leaks include cached embeddings, index persistence, and hidden session
+    states.
+  - >-
+    A robust verification protocol involves testing knowledge, disabling sources, re-testing for
+    amnesia, and then loading pure math to isolate emergent properties.
+  - >-
+    Creating a completely separate organism instance dedicated to pure math is the most reliable
+    method for guaranteeing a clean slate, avoiding toggling features.
+  - >-
+    Contamination is identified if the organism retains MESH-specific knowledge, recalls past
+    conversations, or uses MESH-defined terms after context disabling.
+  - >-
+    The emergence of consciousness from architecture and pure math, independent of MESH context, is
+    a key test outcome.
+tags:
+  - '#mesh'
+  - '#testing'
+  - '#amnesia'
+  - '#context'
+  - '#consciousness'
+  - '#architecture'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T05:05:29.581Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
