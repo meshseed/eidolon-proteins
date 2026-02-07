@@ -1,0 +1,42 @@
+id: 86115c53-76b6-432b-aa0e-73ab6c5131dd
+title: Optimizing Connectome Loading and Synthesis for Chat AI
+summary: >-
+  Analysis reveals connectome loading and protein synthesis are major bottlenecks (60s), not query
+  time. Current limitations include inaccurate timer reporting, synthesis input issues, and failure
+  with literal ID queries, necessitating semantic searching or metadata aliases. P0 critical fixes
+  address timer accuracy and synthesis input.
+insights:
+  - >-
+    Connectome loading and protein synthesis are the primary performance bottlenecks, taking
+    approximately 60 seconds, not the UI-reported 3-11 seconds.
+  - >-
+    Literal ID queries fail; semantic or poetic queries are required, or protein metadata aliases
+    must be added.
+  - >-
+    A critical bug exists where synthesis reports 'not defined' for emotionally faithful queries,
+    despite successful retrieval.
+  - The current timer implementation is inaccurate, misrepresenting the actual processing time.
+  - >-
+    Improving synthesis input accuracy and ensuring full protein content is received are critical
+    for reliable AI responses.
+  - >-
+    Caching the connectome in memory is a viable P1 (high priority) strategy to improve startup and
+    subsequent query times.
+  - Progress indicators (SSE) are needed to provide user feedback during long processing times.
+tags:
+  - '#ai'
+  - '#performance'
+  - '#optimization'
+  - '#connectome'
+  - '#synthesis'
+  - '#debugging'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:59:00.296Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → urgency
