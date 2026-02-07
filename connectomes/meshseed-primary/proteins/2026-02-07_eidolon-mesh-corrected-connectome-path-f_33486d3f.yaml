@@ -1,0 +1,39 @@
+id: 33486d3f-8989-46d1-9786-dca0e2bcafe1
+title: 'Eidolon Mesh: Corrected Connectome Path for QueryOrganelle'
+summary: >-
+  A bug causing a doubled directory path ('data/data/') in the Eidolon Mesh's QueryOrganelle has
+  been identified and fixed. This issue prevented the loading of the connectome file, impacting
+  queries. The solution involves correctly utilizing the `connectomePath` from the RepositoryConfig.
+insights:
+  - >-
+    The root cause of the 'ENOENT' error was a doubled directory path ('data/data/') when the
+    QueryOrganelle attempted to load the connectome.json file.
+  - >-
+    This path duplication occurred because the `basePath` within QueryOrganelle already included the
+    'data' directory, and the code incorrectly appended 'data' again.
+  - >-
+    The fix involves modifying QueryOrganelle to directly use the `connectomePath` provided by the
+    RepositoryConfig, rather than constructing the path with `path.join` in a way that caused
+    duplication.
+  - A new `connectomePath` field was added to facilitate this correct path handling.
+  - >-
+    The fix ensures that the QueryOrganelle can successfully locate and load the connectome,
+    resolving the error and restoring query functionality.
+  - Additionally, the graph slider's persistence through auto-refreshes has been restored.
+tags:
+  - '#eidolonmesh'
+  - '#bugfix'
+  - '#filepath'
+  - '#connectome'
+  - '#queryorganelle'
+  - '#development'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:54:29.850Z'
+source: synthesis
+emotional_gradient: frustration → discovery → relief → satisfaction
