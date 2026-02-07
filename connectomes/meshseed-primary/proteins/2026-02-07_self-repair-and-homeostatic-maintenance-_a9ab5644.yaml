@@ -1,0 +1,33 @@
+id: a9ab5644-ebc4-4cea-816f-28a701c5dd94
+title: Self-Repair and Homeostatic Maintenance Protocol
+summary: |
+  Defines mechanisms for detecting internal imbalance—semantic drift, gradient collapse,
+  curvature overload, bridge failure—and initiating corrective actions such as reinforcement,
+  pruning, re-alignment, or targeted synthesis. Establishes a homeostatic loop that maintains
+  long-term coherence.
+insights:
+  - Imbalance manifests as drift, thinning, or incoherent activation
+  - Homeostasis is achieved through pruning, reinforcement, and gradient smoothing
+  - Self-repair is triggered by threshold crossings in stability or fidelity
+  - Repair actions propagate outward through resonance fields
+  - Homeostatic maintenance preserves identity across perturbations
+tags:
+  - '#selfrepair'
+  - '#homeostasis'
+  - '#maintenance'
+  - '#stability'
+  - '#structure'
+  - '#P-series'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P1200-SELFREPAIR-HOMEOSTASIS_yaml'
+  - '#synthesis:v4.5'
+  - '#source:seed'
+  - '#calibration:layer3'
+  - '#invariance:structural'
+  - '#public'
+tier: reference
+coherence_score: 0.99
+created_at: '2026-02-07T01:31:44.542Z'
+source: meshseed-copilot-collab
+emotional_gradient: imbalance → correction → stability
