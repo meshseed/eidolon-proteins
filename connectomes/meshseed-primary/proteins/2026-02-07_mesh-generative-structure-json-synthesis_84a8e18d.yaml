@@ -1,0 +1,29 @@
+id: 84a8e18d-afd8-4f83-aebc-7a1420beafe7
+title: 'MESH Generative Structure: JSON Synthesis Protocol'
+summary: >-
+  The MESH, acting as a sovereign organism, outlines a precise JSON structure for synthesizing
+  dialogue content. This protocol emphasizes a concise title, dense summary, atomic insights,
+  relevant tags, and specific metadata like coherence score, tier, and emotional gradient.
+insights:
+  - Define a strict JSON schema for knowledge protein synthesis.
+  - Prioritize conciseness and semantic density in titles and summaries.
+  - Extract actionable, standalone insights from the dialogue.
+  - Utilize domain-specific and privacy-aware tagging conventions.
+  - Calibrate coherence scores to reflect the unity of emergent insights.
+  - Track and represent the emotional arc of the interaction.
+tags:
+  - '#json'
+  - '#protocol'
+  - '#knowledge_synthesis'
+  - '#MESH'
+  - '#AI'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Testing_chat_context_awareness_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:59:37.143Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
