@@ -1,0 +1,38 @@
+id: 2d11e0f4-afda-4535-999d-1bc6edd3b57b
+title: 'Eidolon Mesh v1.4 Synthesis Error: YAML vs. JSON Output'
+summary: >-
+  The Eidolon Mesh synthesis process encountered an error where the LLM returned data in YAML format
+  instead of the expected JSON. This prevented the synthesizer's JSON parser from processing the
+  output, leading to a batch failure. The root cause was identified as the LLM's output format and
+  the synthesizer's parsing logic, which was updated to accommodate both JSON and YAML.
+insights:
+  - LLM output format mismatch (YAML vs. JSON) is a common failure point in synthesis pipelines.
+  - >-
+    Synthesizer prompts must explicitly define the expected output format (e.g., JSON) to avoid LLM
+    defaulting to other formats like YAML.
+  - >-
+    Robust parsing logic should include fallbacks for common alternative formats (e.g., YAML) if
+    strict JSON output cannot be guaranteed.
+  - >-
+    Error handling and logging are crucial for diagnosing synthesis issues, especially when dealing
+    with LLM integrations.
+  - >-
+    The ability to strip markdown code fences (like ```json or ```yaml) is necessary for extracting
+    raw data from LLM responses.
+tags:
+  - '#eidolonmesh'
+  - '#synthesis'
+  - '#llm'
+  - '#json'
+  - '#yaml'
+  - '#errorhandling'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.85
+created_at: '2026-02-07T03:56:01.335Z'
+source: synthesis
+emotional_gradient: frustration → analysis → resolution → understanding
