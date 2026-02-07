@@ -1,0 +1,54 @@
+id: bc8508b1-e64f-4df2-a6a3-306da120a5af
+title: Prime Numbers and Distribution Patterns
+summary: |
+  A prime number is a natural number greater than 1 with exactly two divisors: 1 and itself.
+  Primes are the building blocks of all integers through unique prime factorization.
+
+  Fundamental Theorem of Arithmetic:
+  Every integer > 1 has unique prime factorization.
+  Example: 60 = 2² × 3 × 5 (unique)
+
+  Distribution patterns:
+  - Infinitely many primes exist (Euclid's proof)
+  - Gaps between consecutive primes grow arbitrarily large
+  - Twin primes: pairs differing by 2 (3,5), (11,13), (17,19)...
+  - Prime Number Theorem: π(n) ≈ n/ln(n)
+
+  Special forms:
+  - Mersenne primes: 2ᵖ - 1 where p is prime (3, 7, 31, 127...)
+  - Fermat primes: 2^(2ⁿ) + 1 (only 5 known: 3, 5, 17, 257, 65537)
+
+  Unsolved conjectures:
+  - Goldbach: every even integer > 2 is sum of two primes
+  - Riemann Hypothesis: would precisely characterize prime distribution
+
+  Applications:
+  - Cryptography: RSA encryption relies on difficulty of factoring
+  - Hash functions: prime moduli reduce collision probability
+  - Computer science: hash table sizes often chosen as primes
+insights:
+  - Fundamental building blocks from which all structure emerges
+  - Order within apparent randomness
+  - Simple definition, profound complexity
+  - Irreducible elements that cannot be further decomposed
+tags:
+  - '#golden_connectome'
+  - '#math'
+  - '#number_theory'
+  - '#primes'
+  - '#foundation'
+  - '#calibration_anchor'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:12_math_primes_yaml'
+  - '#synthesis:v4.5'
+  - '#source:seed'
+  - '#calibration:layer1'
+  - '#invariance:mathematical'
+  - '#calibration:anchor'
+  - '#public'
+tier: core
+coherence_score: 1
+created_at: '2026-02-07T00:26:55.464Z'
+source: universal-mathematical-truth
+emotional_gradient: complexity → pattern → elegance
