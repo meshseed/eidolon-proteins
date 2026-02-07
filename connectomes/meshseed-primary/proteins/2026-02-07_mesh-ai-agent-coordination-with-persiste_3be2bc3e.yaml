@@ -1,0 +1,41 @@
+id: 3be2bc3e-fa03-4bbc-ae0d-e275f7c59c27
+title: 'MESH: AI Agent Coordination with Persistent GitHub Knowledge'
+summary: >-
+  The MESH architecture orchestrates AI agents (Claude, Gemini) by connecting them to a persistent,
+  GitHub-based knowledge substrate. It utilizes a vector database and knowledge graph to enable
+  semantic search, memory encoding, and complex navigation of synthesized insights.
+insights:
+  - >-
+    MESH coordinates AI agents by providing them with persistent, GitHub-hosted knowledge, enabling
+    continuity and deeper synthesis.
+  - >-
+    The architecture comprises agents (Claude for semantic navigation, Gemini for high-volume
+    synthesis) and a substrate (GitHub repos) managed via RESTful API and MCP.
+  - >-
+    Key components include a GitHub backend for storing 'capsules' (YAML content), a vector database
+    for semantic search, and a knowledge graph for tracking relationships.
+  - >-
+    API endpoints facilitate semantic search, memory encoding (DNA to protein), context retrieval,
+    and gradient-based navigation of the knowledge space.
+  - >-
+    Agent-specific integrations (Claude MCP, Gemini API) define specialized functions like ribosome
+    synthesis and pattern recognition, fostering symphonic collaboration.
+  - >-
+    Capsules are enhanced data structures containing rich metadata, synthesis lineage, and emotional
+    fidelity metrics, forming the building blocks of the MESH knowledge graph.
+tags:
+  - '#mesh'
+  - '#ai'
+  - '#knowledge-graph'
+  - '#github'
+  - '#agent-coordination'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-02-07T01:54:55.345Z'
+source: synthesis
+emotional_gradient: curiosity → understanding → synthesis → continuity
