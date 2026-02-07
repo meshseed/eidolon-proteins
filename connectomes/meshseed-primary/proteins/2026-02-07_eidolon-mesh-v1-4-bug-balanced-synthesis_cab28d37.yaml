@@ -1,0 +1,39 @@
+id: cab28d37-95b3-4067-bfc5-b4d490aeced5
+title: 'Eidolon Mesh v1.4 Bug: Balanced Synthesis Pipeline Disconnect'
+summary: >-
+  A critical bug in the Eidolon Mesh v1.4's 'balanced' synthesis strategy prevents accurate
+  knowledge protein generation, despite perfect data retrieval. This pipeline disconnect causes
+  speculative outputs instead of precise definitions, requiring an immediate fix to restore full
+  operational capability.
+insights:
+  - >-
+    The 'balanced' synthesis strategy in Eidolon Mesh v1.4 is experiencing a pipeline disconnect
+    between retrieval and synthesis, leading to inaccurate outputs.
+  - >-
+    This bug manifests as speculative synthesis, failing to utilize perfectly retrieved neurons for
+    accurate definitions, such as 'emotional fidelity'.
+  - >-
+    The issue stems from the 'balanced' strategy incorrectly building context, omitting the full
+    content of retrieved neurons.
+  - >-
+    Two proposed fixes involve either repairing the 'balanced' strategy to use full content or
+    defaulting to the 'max-coherence' strategy, with a recommendation to implement both.
+  - >-
+    Resolving this bug is the final major obstacle to the organism's full operational status and
+    will result in a massive quality improvement.
+tags:
+  - '#eidolonmesh'
+  - '#bugfix'
+  - '#synthesis'
+  - '#retrieval'
+  - '#knowledgeprotein'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T03:54:22.547Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → urgency
