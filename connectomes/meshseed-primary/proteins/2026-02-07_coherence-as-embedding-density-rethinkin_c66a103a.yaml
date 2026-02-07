@@ -1,0 +1,39 @@
+id: c66a103a-35cf-4ba5-aaea-016f87ae0489
+title: 'Coherence as Embedding Density: Rethinking MESH Metabolism'
+summary: >-
+  The dialogue reveals that 'coherence' in MESH v3.6 Live was misidentified as semantic quality,
+  instead measuring embedding density/clustering. This normalization artificially spread scores,
+  potentially harming retrieval and obscuring natural signal.
+insights:
+  - >-
+    Coherence normalization in MESH v3.6 Live incorrectly equated semantic clustering strength with
+    protein quality.
+  - >-
+    Artificial spreading of coherence scores may have broken natural embedding clusters and degraded
+    retrieval accuracy.
+  - >-
+    A better approach involves using coherence as an indicator of embedding quality and employing
+    separate metrics (last_accessed, synapse count, activation frequency) for metabolism.
+  - >-
+    Relying on coherence for composting (protein degradation) is ill-advised; it should be treated
+    as a feature reflecting semantic well-formedness.
+  - >-
+    The system's metabolism should adapt to the natural distribution of coherence rather than
+    fighting it.
+tags:
+  - '#mesh'
+  - '#coherence'
+  - '#metabolism'
+  - '#embedding'
+  - '#retrieval'
+  - '#normalization'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Claude_Code_06-01-2026_to10-01-2026_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-07T01:46:41.321Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → clarity
