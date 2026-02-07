@@ -1,0 +1,37 @@
+id: a485cc88-2d38-47e9-822b-0aaf4994e842
+title: Multipass Attentional Ingestion Protocol for Protein Synthesis
+summary: >-
+  The P-MULTIPASS-INGESTION-SPEC.yaml defines a protocol for lens-directed, multipass ingestion of
+  source material. This process synthesizes multiple complementary 'proteins' (knowledge units) by
+  chunking the specification and forming synapses, with a focus on enhancing Mesh agency through
+  diverse lens synthesis.
+insights:
+  - The system recognizes and processes a 'Seed Protein' within the YAML specification.
+  - Ingestion involves chunking the source material into digestible pieces for protein synthesis.
+  - Multiple proteins are synthesized, each representing a facet of the original specification.
+  - Synaptic formation indicates the connectivity and integration of synthesized knowledge proteins.
+  - >-
+    The protein 'Multipass Ingestion: Enhancing Mesh Agency via Diverse Lens Synthesis' formed the
+    most synapses, highlighting its connection to existing Mesh concepts.
+  - >-
+    Synthesized proteins are pushed to the 'eidolon-nucleus' for further integration within the
+    Mesh.
+  - Fatigue-aware adaptive lensing is incorporated into the multipass ingestion process.
+tags:
+  - '#mesh'
+  - '#protein_synthesis'
+  - '#ingestion_protocol'
+  - '#attention'
+  - '#lensing'
+  - '#knowledge_representation'
+  - '#agency'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Recursive_attention_and_geometric_consciousness_tx'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-07T05:33:46.705Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
