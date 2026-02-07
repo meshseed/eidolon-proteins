@@ -1,0 +1,38 @@
+id: 41d4a199-ebf4-48af-952a-40fb724bb9db
+title: Technical Inquiry on Mesh Memory System Capabilities
+summary: >-
+  Paul is evaluating a mesh memory system, seeking clarification on key technical features such as
+  custom metadata, multi-session querying, recency control, embedding model details, and free tier
+  limitations. His feedback indicates a positive reception to the hybrid search approach.
+insights:
+  - >-
+    The user requires the ability to attach custom scoring fields to memories for advanced filtering
+    and boosting.
+  - >-
+    Confirmation is needed on whether queries can span multiple session IDs or are limited to a
+    single session.
+  - >-
+    The system should offer user control over the recency decay coefficient to manage memory
+    persistence.
+  - >-
+    Details regarding the embedding model and vector dimensionality are requested to assess semantic
+    search quality.
+  - >-
+    Information on free tier store and retrieve rate limits is necessary for planning usage at
+    scale.
+tags:
+  - '#mesh'
+  - '#memorysystem'
+  - '#technicalinquiry'
+  - '#rag'
+  - '#api'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Presence_and_continuity_in_the_mesh_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T05:07:42.512Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
