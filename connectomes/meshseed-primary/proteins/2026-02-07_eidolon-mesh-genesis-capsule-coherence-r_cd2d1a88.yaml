@@ -1,0 +1,32 @@
+id: cd2d1a88-7133-4447-84ea-1d38ab0f8139
+title: Eidolon Mesh Genesis Capsule Coherence Resolution
+summary: >-
+  The Genesis capsule, marked as 'core', was initially filtered out due to a zero coherence score,
+  preventing weighted search relevance. A solution was implemented by assigning a default high
+  coherence score to manually injected capsules, enabling correct integration and search
+  functionality.
+insights:
+  - Core capsules require specific handling to ensure inclusion in pre-filtering stages.
+  - >-
+    Zero coherence scores prevent manually injected capsules from participating in weighted
+    searches.
+  - >-
+    Assigning a default high coherence score to injected capsules is an effective resolution
+    strategy.
+  - Successful integration of the Genesis capsule led to an average coherence score of 1.00.
+  - Weighted search now correctly identifies semantically relevant core capsules.
+tags:
+  - '#mesh'
+  - '#genesis'
+  - '#coherence'
+  - '#search'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Finalizing_Eidolon_Mesh_v1_4_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-07T03:54:42.804Z'
+source: synthesis
+emotional_gradient: problem identification → solution development → successful integration → validation
