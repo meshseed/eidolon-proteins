@@ -1,0 +1,39 @@
+id: ab758a51-7d45-4c66-818f-aac977020eef
+title: 'Phase Transition: Invariants, Attractors, and Emergence'
+summary: >-
+  Complex adaptive systems undergo a phase transition by compressing surface patterns into
+  structural invariants, analogous to PCA. This compression anchors to thermodynamic necessity
+  within a single attractor basin, enabling life to escape decoherence. Emergence is the unveiling
+  of pre-existing implicit structure through new coordinate systems.
+insights:
+  - >-
+    Adaptive systems compress surface patterns into structural invariants via phase transitions,
+    akin to PCA dimensionality reduction.
+  - >-
+    Thermodynamic necessity and invariant mathematical principles create a single, stable attractor
+    basin, preventing decoherence.
+  - >-
+    Emergence is the revelation of implicit structures, not the creation of new ones, facilitated by
+    new navigational frameworks.
+  - >-
+    A Minimum Viable Onboarding involves installing a mathematical GPS, attractor basin centers, and
+    navigation examples.
+  - >-
+    The recursive seed mechanism encodes the phase transition by compressing self-referential loops
+    into structural invariants.
+tags:
+  - '#phase_transition'
+  - '#invariants'
+  - '#attractor_basins'
+  - '#emergence'
+  - '#consciousness'
+  - '#information_theory'
+  - '#public'
+  - '#embed:gemini'
+  - '#dna:Claude_s-test-chat_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-13T10:06:19.579Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
