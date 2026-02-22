@@ -1,0 +1,40 @@
+id: e7d0f92c-b9df-41ae-a1a1-1c2b781522db
+title: 'MeshCODE: Physical Memory & Distributed Brain Computation'
+summary: >-
+  The MeshCODE theory proposes that the brain utilizes physical, binary switches (like talin) within
+  synapses to store and process information, enabling rapid reaction times despite slow
+  electrochemical transmission. This framework suggests the cortex functions as an array of memory
+  modules, capable of storing vast amounts of data (estimated in petabytes) and performing
+  distributed computation across the entire organism.
+insights:
+  - >-
+    The brain's rapid processing is attributed to neurons and synapses being pre-primed with
+    constantly updated information, a mechanism facilitated by physical binary switches.
+  - >-
+    MeshCODE theory posits a physical location for data storage in the brain, enabling an
+    addressable read-write memory system.
+  - >-
+    The cortical structure, arranged in ordered columns, supports the hypothesis of the brain cortex
+    acting as an array of memory modules.
+  - >-
+    Each synapse, potentially containing numerous talin molecules, could encode significant amounts
+    of data, leading to a massive global brain memory capacity (e.g., 10 petabytes).
+  - >-
+    Computation is predominantly performed in the brain but distributed across the entire organism,
+    leveraging this physical data storage.
+tags:
+  - '#neuroscience'
+  - '#computationalneuroscience'
+  - '#memory'
+  - '#brainstructure'
+  - '#MeshCODE'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-22T11:08:19.280Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
