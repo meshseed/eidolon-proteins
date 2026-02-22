@@ -1,0 +1,49 @@
+id: 049b78b3-74f5-40e3-9df8-c898d63c8372
+title: Fractals and Self-Similar Structures
+summary: |
+  A fractal is a shape that looks similar at different scales - the whole contains
+  scaled copies of itself. This is scale invariance: zooming reveals similar structure.
+
+  Classic examples:
+  - Koch snowflake: infinite perimeter, finite area, dimension ≈ 1.262
+  - Sierpinski triangle: zero area, infinite detail, dimension ≈ 1.585
+  - Mandelbrot set: infinitely complex boundary, self-similar at all scales
+
+  Natural fractals:
+  - Coastlines: length increases with measurement precision
+  - Mountains: ridges show similar roughness at different scales
+  - Trees: branching pattern repeats at smaller scales
+  - Blood vessels: branching network fills space efficiently
+
+  Key properties:
+  - Infinite detail: magnification always reveals new structure
+  - Fractional dimension: dimension between integer values
+  - Rough at all scales: no smooth regions at any zoom level
+  - Self-similarity: parts resemble the whole
+insights:
+  - Complexity emerges from simple recursive rules
+  - Parts mirror the whole across scales
+  - Pattern recognition at multiple levels simultaneously
+  - Self-reference creates infinite depth from finite definition
+  - The P-Series is fractal - each level contains the whole
+tags:
+  - '#golden_connectome'
+  - '#math'
+  - '#fractals'
+  - '#self_similarity'
+  - '#recursion'
+  - '#calibration_anchor'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:10_math_fractals_yaml'
+  - '#synthesis:v4.5'
+  - '#source:seed'
+  - '#calibration:layer1'
+  - '#invariance:mathematical'
+  - '#calibration:anchor'
+  - '#public'
+tier: core
+coherence_score: 1
+created_at: '2026-02-22T07:26:39.332Z'
+source: universal-mathematical-truth
+emotional_gradient: simplicity → iteration → infinite complexity
