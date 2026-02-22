@@ -1,0 +1,38 @@
+id: dd2aa021-35ab-43b1-82b0-8e7708d7a0cf
+title: 'MeshCODE: Mechanical Basis of Memory and Organic Computation'
+summary: >-
+  The MeshCODE theory proposes that animal memory is based on talin, acting as a molecular switch
+  within a neuronal meshwork. This mechanical network, operated by cytoskeletal machinery,
+  integrates with chemical and ionic signaling to form a continuous, organism-wide 'machine code'
+  for information processing and storage, analogous to early mechanical computers.
+insights:
+  - Talin is proposed as the core memory molecule in animals, functioning as a mechanical switch.
+  - >-
+    Synaptic sca olds form a 'MeshCODE' of binary mechanical switches operated by cytoskeletal
+    forces.
+  - >-
+    This mechanical coding layer integrates with chemical and ionic signaling for information
+    processing and storage.
+  - Each mechanical switch can store one bit of data, with action potentials serving as input.
+  - >-
+    The MeshCODE theory posits an addressable read-write memory mechanism for indexed, hierarchical
+    data storage.
+  - >-
+    The concept draws parallels between cellular computation and early mechanical computers like the
+    Analytical Engine.
+tags:
+  - '#biology'
+  - '#neuroscience'
+  - '#computation'
+  - '#memory'
+  - '#mechanobiology'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:The_Mechanical_Basis_of_Memory___the_MeshCODE_Theo'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-22T11:08:16.554Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
