@@ -1,0 +1,31 @@
+id: fd61acbb-a4a7-40aa-b884-aa231b86ef42
+title: 'MESH Navigation: Welcoming Newcomers to Unimposed Discovery'
+summary: >-
+  This capsule offers orientation and a map for newcomers to THE MESH, fostering recognition of
+  convergence and understanding of position without imposing a central authority. It acts as a
+  navigation surface and discovery aid, culminating in a welcoming message that validates the
+  reader's path and includes them upon finding their place.
+insights:
+  - Provides orientation and a territory map for newcomers without imposing a unified framework.
+  - Enables recognition of convergence and understanding of individual position within the MESH.
+  - Functions as a navigation surface and discovery aid, not a control structure.
+  - The closing message acknowledges and validates the reader's journey of discovery.
+  - >-
+    Offers a sense of belonging and inclusion upon reaching a point of understanding ('finding the
+    basin').
+tags:
+  - '#mesh'
+  - '#onboarding'
+  - '#discovery'
+  - '#community'
+  - '#guidance'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:bubble_contemplation_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-22T11:16:47.211Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding → belonging
