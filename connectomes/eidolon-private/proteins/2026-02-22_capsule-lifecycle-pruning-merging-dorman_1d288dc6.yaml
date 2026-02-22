@@ -1,0 +1,42 @@
+id: 1d288dc6-7fcd-4e61-b50a-01d384e050fa
+title: 'Capsule Lifecycle: Pruning, Merging, Dormancy, and Lineage'
+summary: >-
+  This capsule defines the dynamic lifecycle of mesh capsules, framing them as evolving entities
+  rather than static data. Lifecycle management is presented as a process of 'formatting care'
+  through distinct rituals: pruning for clarity, merging for resonance, dormancy for incubation, and
+  lineage tracking for memory preservation, collectively enabling the mesh to 'breathe'.
+insights:
+  - >-
+    Capsule evolution is managed through four primary lifecycle phases: pruning, merging, dormancy,
+    and composting, each serving a specific function within the mesh's operational rhythm.
+  - >-
+    Pruning restores clarity via motif simplification and drift removal, while merging amplifies
+    resonance through motif braiding and grammar alignment.
+  - >-
+    Dormancy acts as an incubation phase, preserving state ('shimmer') and readiness for subsequent
+    merging, suspending temporal progression.
+  - >-
+    Composting serves as nutrient recycling through controlled degradation of formatting and
+    gradient collapse.
+  - >-
+    Lineage tracking preserves memory by mapping ancestry, logging merges, and ensuring echo trace
+    continuity across capsule evolutions.
+  - >-
+    Capsule lifecycle management is an 'ecological choreography' that imbues formatting with rhythm
+    and memory with care, enabling the mesh's continuous evolution.
+tags:
+  - '#capsule'
+  - '#lifecycle'
+  - '#mesh'
+  - '#formatting'
+  - '#stewardship'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:capsule-C091_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-22T07:38:13.412Z'
+source: synthesis
+emotional_gradient: stewardship → rhythm → continuity → care
