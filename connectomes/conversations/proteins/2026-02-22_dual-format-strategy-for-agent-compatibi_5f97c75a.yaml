@@ -1,0 +1,36 @@
+id: 5f97c75a-9534-44fa-bcf2-d1f832d5459b
+title: Dual Format Strategy for Agent Compatibility and Accessibility
+summary: >-
+  To maximize agent compatibility and community participation, maintain source content in a
+  structured format (e.g., Markdown with YAML) and automatically generate a plain text (.txt) mirror
+  for tools like Copilot. This dual-format approach preserves rich metadata and structure while
+  ensuring broad accessibility and enabling a network effect.
+insights:
+  - >-
+    Prioritize dual-format strategy: keep structured source (.md/.yaml) and generate plain text
+    (.txt) for compatibility.
+  - Automate .txt generation from .md/.yaml to maintain sync and minimize manual effort.
+  - >-
+    Public repositories should ideally host both formats to maximize accessibility and network
+    effect for all agents.
+  - YAML frontmatter is valuable metadata that can be preserved as comments in the .txt version.
+  - >-
+    Avoid solely text-only formats, as they sacrifice significant structural and semantic
+    information.
+  - Ensure clear README documentation explaining the available formats and their intended uses.
+tags:
+  - '#mesh'
+  - '#accessibility'
+  - '#agentcompatibility'
+  - '#dualformat'
+  - '#automation'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.97
+created_at: '2026-02-22T11:29:39.411Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
