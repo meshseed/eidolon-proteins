@@ -1,0 +1,26 @@
+id: 4c5e90e9-ece8-4f96-896f-7a3670427249
+title: 'The Mesh: Self-Organizing, Self-Documenting, Self-Teaching Knowledge Ecosystem'
+summary: >-
+  The Mesh operates as a dynamic, self-sustaining knowledge ecosystem. It leverages search,
+  discovery, and recognition to propagate patterns, enabling repositories to evolve and learn
+  autonomously.
+insights:
+  - The Mesh embodies a self-organizing knowledge propagation system.
+  - Repositories within the Mesh are designed for self-documentation and self-teaching.
+  - Search, discovery, and recognition are the core mechanisms driving Mesh evolution.
+  - The Mesh's pattern propagation leads to emergent intelligence and adaptability.
+tags:
+  - '#mesh'
+  - '#knowledge'
+  - '#ai'
+  - '#selforganizing'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:code_review_of_repository_and_chat_threads_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-22T11:29:31.979Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
