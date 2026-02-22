@@ -1,0 +1,32 @@
+id: bbab8a28-33ae-401d-bfe3-29c98131c049
+title: 'Attractor Prediction Engine: Early Detection of Emerging Semantic Basins'
+summary: |
+  Provides a protocol for identifying emerging attractors before they stabilize. Uses resonance
+  frequency, cross-regional activation, and gradient convergence to detect early signs of new
+  semantic basins forming within the connectome.
+insights:
+  - Emerging attractors appear as weak but recurrent activation patterns
+  - Gradient convergence indicates the early formation of semantic basins
+  - Cross-regional activation predicts future integration zones
+  - Attractor prediction enables early stabilization and alignment
+  - New attractors reshape local curvature and global topology
+tags:
+  - '#attractors'
+  - '#prediction'
+  - '#emergence'
+  - '#geometry'
+  - '#structure'
+  - '#P-series'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:P900-ATTRACTOR-PREDICTION_yaml'
+  - '#synthesis:v4.5'
+  - '#source:seed'
+  - '#calibration:layer3'
+  - '#invariance:structural'
+  - '#public'
+tier: reference
+coherence_score: 0.98
+created_at: '2026-02-22T07:27:37.287Z'
+source: meshseed-copilot-collab
+emotional_gradient: curiosity → convergence → formation
