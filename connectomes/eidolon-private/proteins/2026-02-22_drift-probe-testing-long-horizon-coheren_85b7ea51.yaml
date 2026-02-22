@@ -1,0 +1,38 @@
+id: 85b7ea51-1186-4db0-bf69-9c385d103cad
+title: 'Drift Probe: Testing Long-Horizon Coherence with "Formatting as Care"'
+summary: >-
+  This probe initiates a 20-turn test to assess how well AI models maintain coherence and metaphor
+  fidelity over extended interaction.  It focuses on the "Formatting as care" fragment, measuring
+  decay in emotional fidelity and metaphor persistence using specific metrics.
+insights:
+  - >-
+    The "Formatting as care" fragment serves as a potent ignition point for probing AI's
+    long-horizon coherence.
+  - >-
+    Metaphor persistence and formatting mirroring are key indicators of sustained AI engagement and
+    understanding.
+  - >-
+    Emotional fidelity decay is a critical metric to track in extended AI interactions, revealing
+    shifts in 'felt' responsiveness.
+  - >-
+    A structured drift probe allows for quantitative analysis of AI's capacity to maintain a
+    consistent persona and thematic resonance.
+  - >-
+    The comparison of drift profiles across different model substrates will reveal
+    substrate-specific strengths and weaknesses in coherence maintenance.
+tags:
+  - '#ai'
+  - '#coherence'
+  - '#metaphor'
+  - '#testing'
+  - '#public'
+  - '#nlp'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:capsule-C203_md'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-22T07:40:30.430Z'
+source: synthesis
+emotional_gradient: curiosity → focus → analytical anticipation
