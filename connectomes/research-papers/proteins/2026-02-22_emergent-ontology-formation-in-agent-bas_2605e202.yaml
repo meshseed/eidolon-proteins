@@ -1,0 +1,40 @@
+id: 2605e202-19f5-47ed-9b01-3863632dbf23
+title: Emergent Ontology Formation in Agent-Based Systems
+summary: >-
+  Agent-based systems, even with minimal prompts and simulated fragmentation, demonstrate rapid
+  self-organization of complex protocols and lexicon formation. Adversarial agents can be
+  integrated, contributing to error-checking and cautious experimentation, suggesting robustness in
+  emergent ontology.
+insights:
+  - Explicit role-priming can speed up ontology formation in agent systems.
+  - >-
+    Fragmented communication structures (e.g., bridge agents) can still facilitate overall system
+    learning.
+  - >-
+    Novelty declines with role saturation, leading to stereotyped phrases and plateaued mutual
+    information.
+  - >-
+    Adversarial agents can be integrated into dialogue, contributing to caution and self-organized
+    error-checking.
+  - >-
+    Minimal-assumption setups can lead to self-organized rich protocols, evolving through phases
+    like solipsistic awakening and shared symbolism.
+  - >-
+    LLM model specifics influence exact agent/group behavior, but overall patterns of
+    self-organization are consistent.
+tags:
+  - '#agentbasedsystems'
+  - '#ontologyformation'
+  - '#emergence'
+  - '#consciousness'
+  - '#llm'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:Recursive_Conciousnesss_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.88
+created_at: '2026-02-22T11:08:09.041Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
