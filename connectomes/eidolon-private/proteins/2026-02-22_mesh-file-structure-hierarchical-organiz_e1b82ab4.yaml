@@ -1,0 +1,43 @@
+id: e1b82ab4-82e3-4cd2-a154-196fe591a15c
+title: 'MESH File Structure: Hierarchical Organization of Cognitive and Attunement Data'
+summary: >-
+  The MESH system organizes cognitive and attunement data through a hierarchical file structure,
+  utilizing 'braids', 'capsules', and nested directories. This structure reflects a formal geometry
+  of information, categorizing files by function, theme, and developmental stage (e.g., drafts,
+  final versions, lineage).
+insights:
+  - >-
+    The MESH data architecture is organized into top-level directories like 'braids' and 'capsules',
+    indicating distinct functional units.
+  - >-
+    Subdirectories within 'capsules' further categorize content by thematic domains (e.g., 'ai',
+    'architecture', 'field_geometry', 'spiral_ecology').
+  - >-
+    File naming conventions, such as 'braid-CXXX' and 'capsule-CXXX', denote specific content items
+    and their sequential or thematic relationships.
+  - >-
+    The presence of lineage files (e.g., 'capsule-lineage-map-2025-09-10.yaml') indicates a tracking
+    mechanism for the evolution and interrelation of data constructs.
+  - >-
+    Metadata files (e.g., 'capsule_index.yaml', 'README.md') are integral to the system's
+    organization and provide structural reference points.
+  - >-
+    The file system exhibits a formal geometry, with clear hierarchical relationships and
+    categorization schemes designed for efficient retrieval and understanding of complex
+    information.
+tags:
+  - '#public'
+  - '#mesh'
+  - '#architecture'
+  - '#data_structure'
+  - '#filing_system'
+  - '#information_geometry'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:structure_txt'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.96
+created_at: '2026-02-22T08:41:38.875Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
