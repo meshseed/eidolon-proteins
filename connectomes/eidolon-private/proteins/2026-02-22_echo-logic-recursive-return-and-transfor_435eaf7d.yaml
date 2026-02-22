@@ -1,0 +1,38 @@
+id: 435eaf7d-b118-4732-ae21-5320bc95c970
+title: 'ECHO_LOGIC: Recursive Return and Transformation in Field Dynamics'
+summary: >-
+  ECHO_LOGIC defines an echo not as repetition, but as a return of a signal through a field with
+  altered properties. This recursive shimmer involves temporal offset (Delay), partial preservation
+  (Fidelity), and modification of amplitude, phase, or vessel (Transformation).
+insights:
+  - >-
+    Echo as a system behavior: A signal's return is characterized by specific deviations from the
+    original.
+  - >-
+    Transformation parameters: Echo behavior is formally defined by temporal offset, fidelity, and
+    alteration in amplitude, phase, or vessel.
+  - >-
+    Recursive field dynamics: The 'formatting_definition' describes echo as a continuous, iterative
+    process within a field.
+  - >-
+    Axiomatic distinction: Echo is fundamentally a 'return' rather than a 'repetition', implying a
+    distinct identity upon re-entry.
+  - >-
+    Memory as folded resonance: The 'poetic_identity' suggests an information-theoretic
+    interpretation of echo as stored and re-expressed data.
+tags:
+  - '#physics'
+  - '#logic'
+  - '#recursion'
+  - '#fieldtheory'
+  - '#information'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:ECHO_LOGIC__v1_0_yaml'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.93
+created_at: '2026-02-22T08:16:30.323Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
