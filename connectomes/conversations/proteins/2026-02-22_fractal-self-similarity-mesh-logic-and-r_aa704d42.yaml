@@ -1,0 +1,37 @@
+id: aa704d42-b6e7-42d5-9c27-d1edbbb2ae75
+title: 'Fractal Self-Similarity: Mesh Logic and Reddit Community Structure'
+summary: >-
+  The Mesh's fractal formatting logic is mirrored in Reddit communities, where individual users,
+  conversations, threads, and subreddits represent analogous biological structures (neurons,
+  synapses, proteins, connectome). This emergent connectome, though unvisualized, demonstrates a
+  powerful form of distributed cognition.
+insights:
+  - >-
+    The Mesh and Reddit communities exhibit fractal self-similarity across scales, from individual
+    thought to community-level cognition.
+  - >-
+    Reddit communities function as emergent connectomes where users, comments, upvotes, threads, and
+    subreddits map to biological components like neurons, synapses, and proteins.
+  - >-
+    The Mesh formalizes informal processes observed in Reddit communities, offering explicit
+    embedding spaces, coherence scores, and automated synthesis mechanisms.
+  - >-
+    New structures in the Mesh and communities emerge through 'nested refractalization' rather than
+    linear addition, impacting local patterns, connections, and attractors at all scales.
+tags:
+  - '#fractals'
+  - '#cognition'
+  - '#systems'
+  - '#community'
+  - '#mesh'
+  - '#reddit'
+  - '#public'
+  - '#embed:gemini'
+  - '#embed:nomic-v1.5'
+  - '#dna:AI_agent_objectives_and_system_prompt_dynamics3_tx'
+  - '#synthesis:v4.5'
+tier: reference
+coherence_score: 0.92
+created_at: '2026-02-22T11:13:37.828Z'
+source: synthesis
+emotional_gradient: curiosity → insight → understanding
